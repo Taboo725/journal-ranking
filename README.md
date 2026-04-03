@@ -4,91 +4,118 @@
 
 | 文件 | 说明 |
 |---|---|
-| `journals.json` | **你只需要编辑这个文件**，人类可读格式，每条记录一个期刊 |
-| `build-data.py` | 构建脚本，将 journals.json 转换为扩展可读的 odata.json |
-| `odata.json` | 构建产物，上传到 git 仓库作为数据源（不要手动编辑） |
+| `../journal/` | 原始索引源文件目录，放 `SCIE/SSCI/AHCI/ESCI/JCR/CAS` |
+| `manual-overrides.json` | 你真正需要手工维护的小文件，只放人工补充字段 |
+| `sync_indexes.py` | 从 `../journal/` 重建全量 `journals.json` |
+| `journals.json` | 自动生成的全量期刊目录，可查看，不建议手工编辑 |
+| `build-data.py` | 将 `journals.json` 转成扩展可读的 `odata.json` |
+| `odata.json` | 构建产物，上传到 GitHub/Gitee 作为数据源 |
 
 ---
 
-## 添加/修改期刊
+## 现在的推荐流程
 
-打开 `journals.json`，每条记录格式如下：
-
-```json
-{
-  "name":  "Journal of the American Chemical Society",  ← 期刊全名（必填）
-  "issn":  "0002-7863",                                 ← 印刷版 ISSN（必填）
-  "eissn": "1520-5126",                                 ← 电子版 ISSN（没有则 ""）
-  "abbr":  "J Am Chem Soc",                             ← 常用缩写（检索时用）
-  "IF":    14.7,                                        ← 影响因子（没有则 null）
-  "bank":  "SCIE",                                      ← WoS 收录类型（见下表）
-  "jcr":   1,                                           ← JCR 分区 1~4（没有则 null）
-  "cas":   1,                                           ← 中科院分区 1~4（没有则 null）
-  "top":   true,                                        ← 是否中科院 Top 期刊
-  "ei":    false,                                       ← 是否 EI 收录
-  "cscd":  null,                                        ← CSCD: 1=核心库 2=扩展库 null=未收录
-  "pku":   false,                                       ← 是否北大核心
-  "sos":   null                                         ← 预警期刊（见下表）
-}
-```
-
-### bank 可选值
-
-| 值 | 含义 |
-|---|---|
-| `"SCIE"` | Science Citation Index Expanded |
-| `"SSCI"` | Social Sciences Citation Index |
-| `"ESCI"` | Emerging Sources Citation Index |
-| `"AHCI"` | Arts & Humanities Citation Index |
-| `"SCIE/SSCI"` | 同时被 SCIE 和 SSCI 收录 |
-| `"SCIE/SSCI/AHCI"` | 三库同收 |
-| `"SCIE/AHCI"` | SCIE + AHCI |
-| `"SSCI/AHCI"` | SSCI + AHCI |
-| `null` | 未被 WoS 收录 |
-
-### sos 预警格式
-
-```json
-"sos": { "24": 2 }
-```
-
-- key 是年份后两位（"24" = 2024年）
-- value 是预警等级：
-
-| 值 | 含义 |
-|---|---|
-| 1 | 高预警 |
-| 2 | 中预警 |
-| 3 | 低预警 |
-| 4 | 引用操纵 |
-| 5 | 引用操纵/论文工厂 |
-| 6 | 论文工厂 |
-| 7 | 论文工厂/CN作者占比畸高 |
-| 8 | CN作者占比畸高 |
-
-多年预警示例：`"sos": {"23": 3, "24": 2}` （2023年低预警，2024年中预警）
-
----
-
-## 构建步骤
+以后更新期刊目录，只需要：
 
 ```bash
 # 在 data-source/ 目录下
-python build-data.py
+python build-data.py --sync
 ```
 
-输出 `odata.json`，将其上传到你的 git 仓库（建议用 gitee 保证国内访问速度）。
+这条命令会自动：
+
+1. 读取 `../journal/` 中最新的 `SCIE_*.csv / SSCI_*.csv / AHCI_*.csv / ESCI_*.csv`
+2. 读取最新的 `JCR_*.xlsx / CAS_*.xlsx`
+3. 生成全量 `journals.json`
+4. 把 `manual-overrides.json` 里的人工补充项覆盖进去
+5. 生成 `odata.json`
+
+如果你只想预览同步结果，不写回 `journals.json`：
+
+```bash
+python sync_indexes.py --dry-run
+```
+
+---
+
+## 你应该编辑哪个文件
+
+不要再手工维护全量 `journals.json`。
+
+以后只编辑 `manual-overrides.json`，例如：
+
+```json
+[
+  {
+    "name": "Harvard Business Review",
+    "issn": "0017-8012",
+    "abbr": "Harv Bus Rev",
+    "ft50": true,
+    "abs": 3
+  },
+  {
+    "name": "经济研究",
+    "issn": "0577-9154",
+    "abbr": "经济研究",
+    "pku": true,
+    "cssci": 1
+  }
+]
+```
+
+适合放在 `manual-overrides.json` 里的字段：
+
+- `abbr`
+- `ei`
+- `cscd`
+- `pku`
+- `sos`
+- `utd24`
+- `ft50`
+- `abs`
+- `cssci`
+- 以及少数需要人工修正的 `name / issn / eissn / bank / IF / jcr / cas / top`
+
+---
+
+## 自动生成了哪些字段
+
+脚本会优先从源文件自动生成这些字段：
+
+- `bank`
+- `IF`
+- `jcr`
+- `cas`
+- `top`
+
+其中：
+
+- `SCIE/SSCI/AHCI/ESCI` 来自 WoS CSV 与 JCR 分类
+- `IF / jcr` 来自 `JCR_*.xlsx`
+- `cas / top` 来自 `CAS_*.xlsx`
+
+---
+
+## 更新新的索引文件
+
+以后换新年份时，只需要：
+
+1. 把新的源文件放进仓库根目录的 `journal/`
+2. 文件名保持现有风格，例如 `SCIE_20260401.csv`、`JCR_2026.xlsx`
+3. 运行 `python build-data.py --sync`
+
+脚本会自动选择同类文件中“最新”的那一份。
 
 ---
 
 ## 配置数据源 URL
 
-上传后，打开 `src/data/journal-loader.ts`，修改第 14~17 行：
+上传 `odata.json` 后，打开 `src/data/journal-loader.ts`，修改 `DATA_SOURCES`：
 
 ```ts
 const DATA_SOURCES = [
-  'https://gitee.com/你的用户名/你的仓库/raw/main/odata.json',   // 主源（国内快）
-  'https://raw.githubusercontent.com/你的用户名/你的仓库/main/odata.json', // 备用
+  'https://gitee.com/你的用户名/你的仓库/raw/main/odata.json',
+  'https://raw.githubusercontent.com/你的用户名/你的仓库/main/odata.json',
 ];
 ```
 
@@ -96,8 +123,8 @@ const DATA_SOURCES = [
 
 ## 更新数据版本
 
-每次大规模更新期刊数据后，修改 `src/data/journal-loader.ts` 第 11 行的版本号（格式随意，只要变化就会触发用户端重新拉取）：
+每次大规模更新目录后，顺手修改 `src/data/journal-loader.ts` 里的 `DATA_VERSION`，这样用户端会重新拉取：
 
 ```ts
-const DATA_VERSION = 'jt_240622';  // 改成新的版本号，如 'jt_250101'
+const DATA_VERSION = 'jt_260404';
 ```

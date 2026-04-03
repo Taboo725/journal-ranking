@@ -2,11 +2,14 @@
 ScholarX 期刊数据构建脚本
 用法：
   python build-data.py
+  python build-data.py --sync
 
-输入：journals.json（人类可读，可直接编辑）
+输入：
+  manual-overrides.json（手工覆盖项，可直接编辑）
+  journals.json（由 --sync 自动生成的全量期刊目录）
 输出：odata.json（上传到 gitee/github 作为数据源）
 
-字段说明（journals.json 每条记录）：
+字段说明（journals.json / manual-overrides.json 每条记录）：
   name   : 期刊全名（支持中文）
   issn   : 印刷版 ISSN，格式 XXXX-XXXX
   eissn  : 电子版 ISSN，格式 XXXX-XXXX（可为空）
@@ -32,7 +35,11 @@ ScholarX 期刊数据构建脚本
   cssci  : CSSCI 收录，1=核心期刊 2=扩展版（无则 null）
 """
 
-import json, re, base64, os
+import argparse
+import base64
+import json
+import os
+import re
 
 BANK_MAP = {
     "SCIE": 1, "SSCI": 2, "ESCI": 3, "AHCI": 4,
@@ -115,6 +122,19 @@ def build_info(j: dict) -> dict:
 
 
 def main():
+    parser = argparse.ArgumentParser(description="构建 ScholarX 期刊数据")
+    parser.add_argument(
+        "--sync",
+        action="store_true",
+        help="先从 ../journal/ 下的原始索引表回填 journals.json，再生成 odata.json",
+    )
+    args = parser.parse_args()
+
+    if args.sync:
+        from sync_indexes import sync_journals
+
+        sync_journals()
+
     script_dir = os.path.dirname(os.path.abspath(__file__))
     input_file  = os.path.join(script_dir, "journals.json")
     output_file = os.path.join(script_dir, "odata.json")
@@ -129,10 +149,12 @@ def main():
     jssn:  dict = {}   # ISSN key → JournalInfo
     jabb:  dict = {}   # 缩写/ISSN → ISSN key（或直接 info）
 
+    skipped = 0
+
     for j in journals:
         info = build_info(j)
         if not info:
-            print(f"[SKIP] {j['name']} — info 为空")
+            skipped += 1
             continue
 
         name  = j.get("name", "")
@@ -160,8 +182,6 @@ def main():
         if abbr_k and abbr_k != name_k:
             jabb[abbr_k] = target
 
-        print(f"[OK] {name!r:40s} → key={name_k!r}, issn={issn_k}")
-
     output = {
         "jdata": encode(jdata),
         "jssn":  encode(jssn),
@@ -172,6 +192,8 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print(f"\n✓ 已生成 {output_file}")
+    print(f"  输入期刊: {len(journals)}")
+    print(f"  跳过空记录: {skipped}")
     print(f"  jdata 条目: {len(jdata)}")
     print(f"  jssn  条目: {len(jssn)}")
     print(f"  jabb  条目: {len(jabb)}")

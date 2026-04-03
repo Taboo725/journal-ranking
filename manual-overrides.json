@@ -1,0 +1,411 @@
+[
+  {
+    "name": "Nature",
+    "issn": "0028-0836",
+    "eissn": "1476-4687",
+    "abbr": "Nature"
+  },
+  {
+    "name": "Science",
+    "issn": "0036-8075",
+    "eissn": "1095-9203",
+    "abbr": "Science"
+  },
+  {
+    "name": "New England Journal of Medicine",
+    "issn": "0028-4793",
+    "eissn": "1533-4406",
+    "abbr": "N Engl J Med"
+  },
+  {
+    "name": "The Lancet",
+    "issn": "0140-6736",
+    "eissn": "1474-547X",
+    "abbr": "Lancet"
+  },
+  {
+    "name": "Cell",
+    "issn": "0092-8674",
+    "eissn": "1097-4172",
+    "abbr": "Cell"
+  },
+  {
+    "name": "Nature Medicine",
+    "issn": "1078-8956",
+    "eissn": "1546-170X",
+    "abbr": "Nat Med"
+  },
+  {
+    "name": "Nature Communications",
+    "issn": "2041-1723",
+    "eissn": "2041-1723",
+    "abbr": "Nat Commun"
+  },
+  {
+    "name": "Proceedings of the National Academy of Sciences",
+    "issn": "0027-8424",
+    "eissn": "1091-6490",
+    "abbr": "PNAS"
+  },
+  {
+    "name": "Journal of the American Chemical Society",
+    "issn": "0002-7863",
+    "eissn": "1520-5126",
+    "abbr": "J Am Chem Soc"
+  },
+  {
+    "name": "Angewandte Chemie International Edition",
+    "issn": "1433-7851",
+    "eissn": "1521-3773",
+    "abbr": "Angew Chem Int Edit"
+  },
+  {
+    "name": "Advanced Materials",
+    "issn": "0935-9648",
+    "eissn": "1521-4095",
+    "abbr": "Adv Mater"
+  },
+  {
+    "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "issn": "0162-8828",
+    "eissn": "1939-3539",
+    "abbr": "IEEE T Pattern Anal",
+    "ei": true
+  },
+  {
+    "name": "Gut",
+    "issn": "0017-5749",
+    "eissn": "1468-3288",
+    "abbr": "Gut"
+  },
+  {
+    "name": "Bioinformatics",
+    "issn": "1367-4803",
+    "eissn": "1367-4811",
+    "abbr": "Bioinformatics"
+  },
+  {
+    "name": "PLOS ONE",
+    "issn": "1932-6203",
+    "eissn": "1932-6203",
+    "abbr": "PLoS ONE"
+  },
+  {
+    "name": "中国科学：化学",
+    "issn": "1674-7291",
+    "abbr": "中国科学化学",
+    "cscd": 1,
+    "pku": true
+  },
+  {
+    "name": "计算机学报",
+    "issn": "0254-4164",
+    "abbr": "计算机学报",
+    "ei": true,
+    "cscd": 1,
+    "pku": true
+  },
+  {
+    "name": "软件学报",
+    "issn": "1000-9825",
+    "abbr": "软件学报",
+    "ei": true,
+    "cscd": 1,
+    "pku": true
+  },
+  {
+    "name": "某预警期刊示例",
+    "issn": "9999-0001",
+    "abbr": "Warning J",
+    "sos": {
+      "24": 2
+    }
+  },
+  {
+    "name": "Management Science",
+    "issn": "0025-1909",
+    "eissn": "1526-5501",
+    "abbr": "Manage Sci",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of Finance",
+    "issn": "0022-1082",
+    "eissn": "1540-6261",
+    "abbr": "J Finance",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of Financial Economics",
+    "issn": "0304-405X",
+    "eissn": "1879-2774",
+    "abbr": "J Financ Econ",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Review of Financial Studies",
+    "issn": "0893-9454",
+    "eissn": "1465-7368",
+    "abbr": "Rev Financ Stud",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "American Economic Review",
+    "issn": "0002-8282",
+    "eissn": "1944-7981",
+    "abbr": "Am Econ Rev",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Econometrica",
+    "issn": "0012-9682",
+    "eissn": "1468-0262",
+    "abbr": "Econometrica",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of Political Economy",
+    "issn": "0022-3808",
+    "eissn": "1537-534X",
+    "abbr": "J Polit Econ",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Quarterly Journal of Economics",
+    "issn": "0033-5533",
+    "eissn": "1531-4650",
+    "abbr": "Q J Econ",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Academy of Management Journal",
+    "issn": "0001-4273",
+    "eissn": "1948-0989",
+    "abbr": "Acad Manage J",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Academy of Management Review",
+    "issn": "0363-7425",
+    "eissn": "1930-3807",
+    "abbr": "Acad Manage Rev",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Strategic Management Journal",
+    "issn": "0143-2095",
+    "eissn": "1097-0266",
+    "abbr": "Strateg Manage J",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Administrative Science Quarterly",
+    "issn": "0001-8392",
+    "eissn": "1930-3815",
+    "abbr": "Adm Sci Q",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of Marketing",
+    "issn": "0022-2429",
+    "eissn": "1547-7185",
+    "abbr": "J Marketing",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of Marketing Research",
+    "issn": "0022-2437",
+    "eissn": "1547-7193",
+    "abbr": "J Marketing Res",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of Consumer Research",
+    "issn": "0093-5301",
+    "eissn": "1537-5277",
+    "abbr": "J Consum Res",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Marketing Science",
+    "issn": "0732-2399",
+    "eissn": "1526-548X",
+    "abbr": "Marketing Sci",
+    "utd24": true,
+    "abs": "4*"
+  },
+  {
+    "name": "MIS Quarterly",
+    "issn": "0276-7783",
+    "eissn": "2162-9730",
+    "abbr": "MIS Q",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Information Systems Research",
+    "issn": "1047-7047",
+    "eissn": "1526-5536",
+    "abbr": "Inf Syst Res",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Operations Research",
+    "issn": "0030-364X",
+    "eissn": "1526-5463",
+    "abbr": "Oper Res",
+    "ei": true,
+    "utd24": true,
+    "abs": "4*"
+  },
+  {
+    "name": "The Accounting Review",
+    "issn": "0001-4826",
+    "eissn": "1558-7967",
+    "abbr": "Account Rev",
+    "utd24": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of Accounting Research",
+    "issn": "0021-8456",
+    "eissn": "1475-679X",
+    "abbr": "J Account Res",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of Accounting and Economics",
+    "issn": "0165-4101",
+    "eissn": "1879-1980",
+    "abbr": "J Account Econ",
+    "utd24": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Organization Science",
+    "issn": "1047-7039",
+    "eissn": "1526-5455",
+    "abbr": "Organ Sci",
+    "utd24": true,
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Review of Economic Studies",
+    "issn": "0034-6527",
+    "eissn": "1467-937X",
+    "abbr": "Rev Econ Stud",
+    "utd24": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of International Business Studies",
+    "issn": "0047-2506",
+    "eissn": "1478-6990",
+    "abbr": "J Int Bus Stud",
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of Management",
+    "issn": "0149-2063",
+    "eissn": "1557-1211",
+    "abbr": "J Manage",
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Journal of Management Studies",
+    "issn": "0022-2380",
+    "eissn": "1467-6486",
+    "abbr": "J Manage Stud",
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Research Policy",
+    "issn": "0048-7333",
+    "eissn": "1873-7625",
+    "abbr": "Res Policy",
+    "ft50": true,
+    "abs": "4*"
+  },
+  {
+    "name": "Harvard Business Review",
+    "issn": "0017-8012",
+    "eissn": "0017-8012",
+    "abbr": "Harv Bus Rev",
+    "ft50": true,
+    "abs": 3
+  },
+  {
+    "name": "经济研究",
+    "issn": "0577-9154",
+    "abbr": "经济研究",
+    "pku": true,
+    "cssci": 1
+  },
+  {
+    "name": "管理世界",
+    "issn": "1002-5502",
+    "abbr": "管理世界",
+    "pku": true,
+    "cssci": 1
+  },
+  {
+    "name": "中国工业经济",
+    "issn": "1006-480X",
+    "abbr": "中国工业经济",
+    "pku": true,
+    "cssci": 1
+  },
+  {
+    "name": "会计研究",
+    "issn": "1003-2886",
+    "abbr": "会计研究",
+    "pku": true,
+    "cssci": 1
+  },
+  {
+    "name": "金融研究",
+    "issn": "1002-7246",
+    "abbr": "金融研究",
+    "pku": true,
+    "cssci": 1
+  }
+]
