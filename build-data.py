@@ -33,8 +33,8 @@ ScholarX 期刊数据构建脚本
   ft50   : 是否 FT50 期刊，true/false
   abs    : ABS/AJG 等级，1 / 2 / 3 / 4 / "4*"（无则 null）
   cssci  : CSSCI 收录，1=核心期刊 2=扩展版（无则 null）
-  cnki_if: CNKI 复合影响因子（数字，无则 null）
-  cnki_ifs: CNKI 综合影响因子（数字，无则 null）
+  cnki_if: CNKI 综合影响因子（仅期刊引用，数字，无则 null）
+  cnki_ifs: CNKI 复合影响因子（含学位论文等，来源更广，数字，无则 null）
 """
 
 import argparse

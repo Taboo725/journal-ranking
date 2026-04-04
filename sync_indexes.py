@@ -539,8 +539,8 @@ def apply_cnki_sources(catalog: dict, source_dir: Path) -> int:
             name = str(row[3] or "").strip()
             if not name:
                 continue
-            cnki_if = parse_float(row[6])
-            cnki_ifs = parse_float(row[12])
+            cnki_if = parse_float(row[12])   # 综合影响因子（仅期刊引用）
+            cnki_ifs = parse_float(row[6])   # 复合影响因子（含学位论文等，来源更广）
             if cnki_if is None and cnki_ifs is None:
                 continue
 
