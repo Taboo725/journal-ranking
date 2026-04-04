@@ -33,6 +33,8 @@ ScholarX 期刊数据构建脚本
   ft50   : 是否 FT50 期刊，true/false
   abs    : ABS/AJG 等级，1 / 2 / 3 / 4 / "4*"（无则 null）
   cssci  : CSSCI 收录，1=核心期刊 2=扩展版（无则 null）
+  cnki_if: CNKI 复合影响因子（数字，无则 null）
+  cnki_ifs: CNKI 综合影响因子（数字，无则 null）
 """
 
 import argparse
@@ -118,6 +120,10 @@ def build_info(j: dict) -> dict:
         info["K"] = 5 if str(abs_val) == "4*" else int(abs_val)
     if j.get("cssci") is not None:
         info["L"] = int(j["cssci"])
+    if j.get("cnki_if") is not None:
+        info["M"] = round(float(j["cnki_if"]), 3)
+    if j.get("cnki_ifs") is not None:
+        info["N"] = round(float(j["cnki_ifs"]), 3)
     return info
 
 
@@ -191,7 +197,15 @@ def main():
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
+    # 同时输出解码版本，供扩展打包时内置（src/data/journal-db.json）
+    bundle_file = os.path.join(script_dir, "..", "src", "data", "journal-db.json")
+    bundle_file = os.path.normpath(bundle_file)
+    with open(bundle_file, "w", encoding="utf-8") as f:
+        json.dump({"jdata": jdata, "jssn": jssn, "jabb": jabb}, f,
+                  ensure_ascii=False, separators=(",", ":"))
+
     print(f"\n✓ 已生成 {output_file}")
+    print(f"✓ 已生成 {bundle_file}")
     print(f"  输入期刊: {len(journals)}")
     print(f"  跳过空记录: {skipped}")
     print(f"  jdata 条目: {len(jdata)}")

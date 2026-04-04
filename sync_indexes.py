@@ -22,7 +22,7 @@ import csv
 import json
 import re
 from pathlib import Path
-from typing import Iterable
+from typing import Callable, Iterable
 from xml.etree import ElementTree as ET
 from zipfile import ZipFile
 
@@ -46,6 +46,65 @@ SUPPORTED_BANKS = {
 }
 AUTO_FIELDS = {"bank", "IF", "jcr", "cas", "top"}
 DISPLAY_FIELDS = ("name", "issn", "eissn", "abbr")
+
+# ---------------------------------------------------------------------------
+# 简单索引数据源配置表
+# 新增索引只需：① 把文件放入 journal/ 目录；② 在此表中追加一行。
+#
+# 字段说明：
+#   label       : 日志显示名称
+#   pattern     : glob 模式（在 journal/ 中匹配；有日期则用通配符，否则精确名）
+#   name_col    : 期刊名所在列的 0-based 索引
+#   field       : 写入 journals.json 的字段名
+#   static_value: 静态写入值（value_col 为 None 时使用）
+#   value_col   : 动态取值的列索引（None=使用 static_value）
+#   stat_key    : 统计输出的键名（None=自动从 label 生成）
+# ---------------------------------------------------------------------------
+def _pku_normalize_name(name: str) -> str:
+    """将北核格式 '主刊名.副标题' 规范化为 '主刊名（副标题）'。
+    仅在点后紧跟中文字符时处理，避免影响英文期刊名中的合法点号。
+    例：'北京大学学报.哲学社会科学版' → '北京大学学报（哲学社会科学版）'
+    """
+    m = re.match(r"^(.+?)\.(?=[\u4e00-\u9fff・])(.+)$", name)
+    return f"{m.group(1)}（{m.group(2)}）" if m else name
+
+
+class _IndexSpec:
+    __slots__ = ("label", "pattern", "name_col", "field", "static_value", "value_col", "stat_key", "name_transform")
+
+    def __init__(
+        self,
+        label: str,
+        pattern: str,
+        name_col: int,
+        field: str,
+        static_value: object = True,
+        value_col: int | None = None,
+        stat_key: str | None = None,
+        name_transform: "Callable[[str], str] | None" = None,  # noqa: F821
+    ) -> None:
+        self.label = label
+        self.pattern = pattern
+        self.name_col = name_col
+        self.field = field
+        self.static_value = static_value
+        self.value_col = value_col
+        self.stat_key = stat_key or (label.lower().replace(" ", "_") + "_rows")
+        self.name_transform = name_transform
+
+
+SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
+    # 经管专业期刊列表（纯名单，无 ISSN，按刊名匹配）
+    _IndexSpec("UTD24",   "UTD24.xlsx",       0, "utd24", True),
+    _IndexSpec("FT50",    "FT50.xlsx",        0, "ft50",  True),
+    # AJG/ABS 等级：第 0 列=期刊名，第 1 列=等级（1/2/3/4/4*）
+    _IndexSpec("AJG",     "AJG*.xlsx",        0, "abs",   value_col=1),
+    # 中文数据库（按中文刊名匹配）
+    # 北核用 "." 代替括号分隔副标题，name_transform 统一为 "（）" 后再匹配/存储
+    _IndexSpec("北核",    "北核*.xlsx",       5, "pku",   True,  name_transform=_pku_normalize_name),
+    _IndexSpec("CSSCI",   "CSSCI.xlsx",       1, "cssci", 1),
+    _IndexSpec("CSSCI扩", "CSSCI扩展版.xlsx", 1, "cssci", 2),
+]
 OPTIONAL_FIELDS = (
     "IF",
     "bank",
@@ -60,6 +119,8 @@ OPTIONAL_FIELDS = (
     "ft50",
     "abs",
     "cssci",
+    "cnki_if",
+    "cnki_ifs",
 )
 
 
@@ -173,18 +234,25 @@ def iter_xlsx_rows(path: Path) -> Iterable[list[object | None]]:
             yield values
 
 
-def name_quality(name: str) -> tuple[int, int]:
+def name_quality(name: str) -> tuple[int, int, int]:
+    """返回名称质量元组（越大越好），用于在多来源名称间择优。
+    维度 1：有中文 > 纯字母且首字母大写 > 全大写缩写 > 纯数字/空
+    维度 2：对中文名，有全角括号「（）」优于用点「.」分隔副标题
+    维度 3：对中文名，名称越短越好（避免全称冗长）；英文名越长越好
+    """
     if not name:
-        return (-1, 0)
+        return (-1, 0, 0)
     if re.search(r"[\u4e00-\u9fff]", name):
-        return (3, -len(name))
+        # 全角括号版优于点分隔版（显示更规范）
+        bracket_bonus = 1 if "（" in name or "）" in name else 0
+        return (3, bracket_bonus, -len(name))
 
     letters = re.sub(r"[^A-Za-z]+", "", name)
     if not letters:
-        return (1, -len(name))
+        return (1, 0, -len(name))
     if letters.isupper():
-        return (1, -len(name))
-    return (2, -len(name))
+        return (1, 0, -len(name))
+    return (2, 0, -len(name))
 
 
 def prefer_name(current: str, candidate: str) -> str:
@@ -391,6 +459,101 @@ def apply_jcr_source(catalog: dict, source_dir: Path) -> None:
         catalog["stats"]["jcr_rows"] += 1
 
 
+def _parse_abs_value(raw: object) -> "int | str | None":
+    """将 AJG/ABS 原始等级转为标准值：1/2/3/4/4* 或 None。"""
+    if raw is None:
+        return None
+    s = str(raw).strip()
+    if s == "4*":
+        return "4*"
+    v = parse_int(s)
+    return v if v in (1, 2, 3, 4) else None
+
+
+def apply_simple_index(catalog: dict, source_dir: Path, spec: _IndexSpec) -> int:
+    """通用简单索引加载器：读取 xlsx，按刊名匹配，写入指定字段。"""
+    try:
+        path = choose_latest_file(source_dir, spec.pattern)
+    except FileNotFoundError:
+        print(f"  [跳过] 未找到 {spec.label} 数据文件（{spec.pattern}）")
+        return 0
+
+    rows = iter_xlsx_rows(path)
+    next(rows, None)  # 跳过表头
+
+    count = 0
+    for row in rows:
+        if not row or len(row) <= spec.name_col:
+            continue
+        name = str(row[spec.name_col] or "").strip()
+        if not name:
+            continue
+        if spec.name_transform:
+            name = spec.name_transform(name)
+
+        if spec.value_col is not None:
+            raw_val = row[spec.value_col] if len(row) > spec.value_col else None
+            if spec.field == "abs":
+                value: object = _parse_abs_value(raw_val)
+            else:
+                value = raw_val
+            if value is None:
+                continue
+        else:
+            value = spec.static_value
+
+        _, record = resolve_record(catalog, name=name)
+        existing = record.get(spec.field)
+        # cssci：取较优值（1=核心 > 2=扩展），不降级
+        if spec.field == "cssci" and existing is not None and isinstance(value, int) and isinstance(existing, int):
+            record[spec.field] = min(existing, value)
+        else:
+            record[spec.field] = value
+        count += 1
+
+    return count
+
+
+def apply_cnki_sources(catalog: dict, source_dir: Path) -> int:
+    """从 CNKI_自科_*.xlsx 和 CNKI_社科_*.xlsx 中读取复合影响因子与综合影响因子。
+    刊名在第 3 列（0-based），仅处理 行类型=='期刊' 的数据行。
+    复合影响因子：第 6 列；期刊综合影响因子：第 12 列。
+    """
+    count = 0
+    for pattern in ("CNKI_自科_*.xlsx", "CNKI_社科_*.xlsx"):
+        try:
+            path = choose_latest_file(source_dir, pattern)
+        except FileNotFoundError:
+            print(f"  [跳过] 未找到 {pattern}")
+            continue
+
+        rows = iter_xlsx_rows(path)
+        next(rows, None)  # 跳过表头
+
+        for row in rows:
+            if not row or len(row) < 13:
+                continue
+            row_type = str(row[1] or "").strip()
+            if row_type != "期刊":
+                continue
+            name = str(row[3] or "").strip()
+            if not name:
+                continue
+            cnki_if = parse_float(row[6])
+            cnki_ifs = parse_float(row[12])
+            if cnki_if is None and cnki_ifs is None:
+                continue
+
+            _, record = resolve_record(catalog, name=name)
+            if cnki_if is not None:
+                record["cnki_if"] = cnki_if
+            if cnki_ifs is not None:
+                record["cnki_ifs"] = cnki_ifs
+            count += 1
+
+    return count
+
+
 def apply_cas_source(catalog: dict, source_dir: Path) -> None:
     xlsx_path = choose_latest_file(source_dir, "CAS_*.xlsx")
     rows = iter_xlsx_rows(xlsx_path)
@@ -469,6 +632,9 @@ def build_catalog(source_dir: Path, overrides: list[dict]) -> tuple[list[dict], 
     apply_wos_sources(catalog, source_dir)
     apply_jcr_source(catalog, source_dir)
     apply_cas_source(catalog, source_dir)
+    catalog["stats"]["cnki_rows"] = apply_cnki_sources(catalog, source_dir)
+    for spec in SIMPLE_INDEX_SOURCES:
+        catalog["stats"][spec.stat_key] = apply_simple_index(catalog, source_dir, spec)
     apply_overrides(catalog, overrides)
 
     journals = [finalize_record(record) for record in catalog["records"].values()]
@@ -505,6 +671,12 @@ def sync_journals(data_dir: Path | None = None, source_dir: Path | None = None, 
     print(f"  WoS 行数: {stats['wos_rows']}")
     print(f"  JCR 行数: {stats['jcr_rows']}")
     print(f"  CAS 行数: {stats['cas_rows']}")
+    if stats.get("cnki_rows"):
+        print(f"  CNKI    : {stats['cnki_rows']} 条")
+    for spec in SIMPLE_INDEX_SOURCES:
+        count = stats.get(spec.stat_key, 0)
+        if count:
+            print(f"  {spec.label:8s}: {count} 条")
     print(f"  手工覆盖: {stats['overrides']}")
     if stats["unsupported_banks"]:
         print(f"  未支持的 WoS 组合: {stats['unsupported_banks']} 条（已忽略 bank 字段）")
