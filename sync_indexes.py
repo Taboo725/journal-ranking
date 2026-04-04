@@ -656,7 +656,7 @@ def build_catalog(source_dir: Path, overrides: list[dict]) -> tuple[list[dict], 
 def sync_journals(data_dir: Path | None = None, source_dir: Path | None = None, dry_run: bool = False) -> dict:
     script_dir = Path(__file__).resolve().parent
     data_dir = data_dir or script_dir
-    source_dir = source_dir or script_dir.parent / "journal"
+    source_dir = source_dir or script_dir / "journal"
 
     journals_path = data_dir / "journals.json"
     overrides_path = data_dir / "manual-overrides.json"

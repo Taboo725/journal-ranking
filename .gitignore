@@ -1,0 +1,10 @@
+# 原始数据文件（体积大，不入仓库；本地放 journal/ 目录）
+journal/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 运行日志与临时缓存
+*.log
+.enrich-*-cache.json

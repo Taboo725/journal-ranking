@@ -407,5 +407,7567 @@
     "abbr": "金融研究",
     "pku": true,
     "cssci": 1
+  },
+  {
+    "name": "4OR",
+    "issn": "1619-4500",
+    "eissn": "1614-2411"
+  },
+  {
+    "name": "Abacus",
+    "issn": "0001-3072",
+    "eissn": "1467-6281"
+  },
+  {
+    "name": "Accounting and the Public Interest",
+    "issn": "1530-9320",
+    "eissn": "1530-9320"
+  },
+  {
+    "name": "Accounting, Finance & Governance Review",
+    "issn": "0791-9638"
+  },
+  {
+    "name": "Acta Commercii",
+    "issn": "2413-1903",
+    "eissn": "1684-1999"
+  },
+  {
+    "name": "Action Learning: Research and Practice",
+    "issn": "1476-7333",
+    "eissn": "1476-7341",
+    "abbr": "Action Learn"
+  },
+  {
+    "name": "Additive Manufacturing Frontiers",
+    "issn": "2950-4317"
+  },
+  {
+    "name": "Administrative Theory and Praxis",
+    "issn": "1084-1806",
+    "eissn": "1949-0461"
+  },
+  {
+    "name": "Advances in Decision Sciences",
+    "issn": "2090-3359",
+    "eissn": "2090-3367"
+  },
+  {
+    "name": "Advances in Polar Science",
+    "issn": "1674-9928",
+    "abbr": "Adv Polar Sci"
+  },
+  {
+    "name": "African Evaluation Journal",
+    "issn": "2310-4988",
+    "eissn": "2306-5133"
+  },
+  {
+    "name": "Agricultural Science & Technology",
+    "issn": "2692-1952",
+    "eissn": "2692-1952",
+    "abbr": "ACS Agric Sci Technol"
+  },
+  {
+    "name": "AI in Civil Engineering",
+    "issn": "2097-0943",
+    "eissn": "2730-5392",
+    "abbr": "AI Civil Eng"
+  },
+  {
+    "name": "Amazonia Investiga",
+    "issn": "2322-6307",
+    "eissn": "2322-6307"
+  },
+  {
+    "name": "Annals of Applied Mathematics",
+    "issn": "2096-0174",
+    "eissn": "3105-2266"
+  },
+  {
+    "name": "Annals of Economics and Statistics",
+    "issn": "2115-4430",
+    "eissn": "1968-3863",
+    "abbr": "Ann Econ Stat"
+  },
+  {
+    "name": "Annals of Science and Technology Policy",
+    "issn": "2475-1820",
+    "eissn": "2475-1812"
+  },
+  {
+    "name": "Annual Review of Information Science and Technology",
+    "issn": "0066-4200",
+    "eissn": "1550-8382"
+  },
+  {
+    "name": "Applied Mathematical Finance",
+    "issn": "1350-486X",
+    "eissn": "1466-4313"
+  },
+  {
+    "name": "Applied Psychology",
+    "issn": "0269-994X",
+    "eissn": "1464-0597"
+  },
+  {
+    "name": "Aquaculture and Fisheries",
+    "issn": "2468-550X"
+  },
+  {
+    "name": "Archives of Budo",
+    "issn": "1643-8698",
+    "eissn": "1643-8698"
+  },
+  {
+    "name": "Asian Journal of Accounting Research",
+    "issn": "2459-9700",
+    "eissn": "2443-4175"
+  },
+  {
+    "name": "ASTIN Bulletin",
+    "issn": "0515-0361",
+    "eissn": "0515-0361"
+  },
+  {
+    "name": "Australian Journal of Labour Economics",
+    "issn": "1328-1143"
+  },
+  {
+    "name": "Benchmarking",
+    "issn": "2615-1499",
+    "eissn": "2716-3776"
+  },
+  {
+    "name": "Bioengineered",
+    "issn": "2165-5979",
+    "eissn": "2165-5987"
+  },
+  {
+    "name": "Biomaterials Translational",
+    "issn": "2096-112X"
+  },
+  {
+    "name": "Biophysics Reports",
+    "issn": "2364-3439",
+    "eissn": "2364-3420"
+  },
+  {
+    "name": "Brain Science Advances",
+    "issn": "2096-5958",
+    "eissn": "2096-5958"
+  },
+  {
+    "name": "British Actuarial Journal",
+    "issn": "1357-3217",
+    "eissn": "2044-0456"
+  },
+  {
+    "name": "British Journal of Surgery",
+    "issn": "0007-117X"
+  },
+  {
+    "name": "British Tax Review",
+    "issn": "0007-1870"
+  },
+  {
+    "name": "Built Heritage",
+    "issn": "2096-3041",
+    "eissn": "2662-6802"
+  },
+  {
+    "name": "Bulletin of the Karaganda University-Mathematics",
+    "issn": "2518-7929",
+    "eissn": "2518-7929"
+  },
+  {
+    "name": "Business Economics",
+    "issn": "0007-666X",
+    "eissn": "0007-666X"
+  },
+  {
+    "name": "Business Perspectives and Research",
+    "issn": "2278-5337",
+    "eissn": "2394-9937"
+  },
+  {
+    "name": "CANADIAN JOURNAL ON AGING-REVUE CANADIENNE DU VIEILLISSEMENT",
+    "issn": "0714-9808",
+    "eissn": "1710-1107"
+  },
+  {
+    "name": "Canadian Public Administration",
+    "issn": "0008-4840",
+    "eissn": "1754-7121"
+  },
+  {
+    "name": "CASE Journal",
+    "issn": "1757-1626",
+    "eissn": "1757-1626"
+  },
+  {
+    "name": "ChemistryMethods",
+    "issn": "2628-9725",
+    "eissn": "2628-9725"
+  },
+  {
+    "name": "China Finance and Economic Review",
+    "issn": "2095-4638",
+    "eissn": "2196-5633"
+  },
+  {
+    "name": "China Journal of Accounting Studies",
+    "issn": "2169-7221",
+    "eissn": "2169-7213"
+  },
+  {
+    "name": "China Oil & Gas",
+    "issn": "1006-2696"
+  },
+  {
+    "name": "China's Refractories",
+    "issn": "1004-4493"
+  },
+  {
+    "name": "China Welding",
+    "issn": "3117-4159"
+  },
+  {
+    "name": "Chinese Annals of History of Science and Technology",
+    "issn": "2096-4226"
+  },
+  {
+    "name": "Chinese Journal of Acoustics",
+    "issn": "0217-9776"
+  },
+  {
+    "name": "Chinese Journal of Plastic and Reconstructive Surgery",
+    "issn": "2096-6911"
+  },
+  {
+    "name": "Chinese Medical Sciences Journal",
+    "issn": "1001-9294"
+  },
+  {
+    "name": "Chinese Medicine and Natural Products",
+    "issn": "2096-918X",
+    "eissn": "2749-568X"
+  },
+  {
+    "name": "Communications in Mathematical Research",
+    "issn": "1674-5647",
+    "eissn": "2707-8523"
+  },
+  {
+    "name": "Complex System Modeling and Simulation",
+    "issn": "2096-9929",
+    "eissn": "2096-9929"
+  },
+  {
+    "name": "Computer Supported Cooperative Work",
+    "issn": "0925-9724",
+    "eissn": "1573-7551"
+  },
+  {
+    "name": "Conhecimento & Diversidade",
+    "issn": "1983-3695",
+    "eissn": "2237-8049"
+  },
+  {
+    "name": "Contemporary Education Dialogue",
+    "issn": "0973-1849",
+    "eissn": "2249-5320"
+  },
+  {
+    "name": "Contributions to Political Economy",
+    "issn": "0277-5921",
+    "eissn": "1464-3588"
+  },
+  {
+    "name": "Cultures of Science",
+    "issn": "2096-6083",
+    "eissn": "2633-3287"
+  },
+  {
+    "name": "Data Science and Management",
+    "issn": "2666-7649"
+  },
+  {
+    "name": "De Economist",
+    "issn": "0013-063X",
+    "eissn": "1572-9982"
+  },
+  {
+    "name": "Digital Chinese Medicine",
+    "issn": "2589-3777"
+  },
+  {
+    "name": "Earthquake Research Advances",
+    "issn": "2772-4670"
+  },
+  {
+    "name": "Ecological Economy",
+    "issn": "1673-0178"
+  },
+  {
+    "name": "EconomiA",
+    "issn": "1517-7580",
+    "eissn": "2358-2820"
+  },
+  {
+    "name": "Economic and Business Review",
+    "issn": "1580-0466",
+    "eissn": "2335-4216"
+  },
+  {
+    "name": "Economic and Political Studies",
+    "issn": "2095-4816",
+    "eissn": "2470-4024"
+  },
+  {
+    "name": "Economic Research-Ekonomska Istraživanja",
+    "issn": "1331-677X",
+    "eissn": "1848-9664"
+  },
+  {
+    "name": "EDPACS",
+    "issn": "0736-6981",
+    "eissn": "1936-1009"
+  },
+  {
+    "name": "Emerald Emerging Markets Case Studies",
+    "issn": "2045-0621",
+    "eissn": "2045-0621"
+  },
+  {
+    "name": "Engineered Science",
+    "issn": "2576-988X",
+    "eissn": "2576-9898"
+  },
+  {
+    "name": "Engineering Microbiology",
+    "issn": "2667-3703"
+  },
+  {
+    "name": "Entomotaxonomia",
+    "issn": "2095-8609"
+  },
+  {
+    "name": "Entreprises et Histoire",
+    "issn": "1161-2770",
+    "eissn": "2100-9864"
+  },
+  {
+    "name": "Equality, Diversity and Inclusion: an International Journal",
+    "issn": "2040-7149",
+    "eissn": "2040-7157"
+  },
+  {
+    "name": "e-Service Journal",
+    "issn": "1528-8226",
+    "eissn": "1528-8234"
+  },
+  {
+    "name": "ES Food and Agroforestry",
+    "issn": "2687-7295",
+    "eissn": "2687-7309"
+  },
+  {
+    "name": "Essays in Economic and Business History",
+    "issn": "0896-226X"
+  },
+  {
+    "name": "Exploratory Animal and Medical Research",
+    "issn": "2277-470X",
+    "eissn": "2319-247X"
+  },
+  {
+    "name": "Financial Markets, Institutions and Instruments",
+    "issn": "0963-8008",
+    "eissn": "1468-0416"
+  },
+  {
+    "name": "Financial Services Review",
+    "issn": "1057-0810",
+    "eissn": "1057-0810"
+  },
+  {
+    "name": "Forum for Health Economics and Policy",
+    "issn": "1558-9544",
+    "eissn": "2194-6191"
+  },
+  {
+    "name": "Foundations and Trends in Accounting",
+    "issn": "1554-0642",
+    "eissn": "1554-0650"
+  },
+  {
+    "name": "Foundations and Trends in Econometrics",
+    "issn": "1551-3076",
+    "eissn": "1551-3084"
+  },
+  {
+    "name": "Foundations and Trends in Finance",
+    "issn": "1567-2395",
+    "eissn": "1567-2409"
+  },
+  {
+    "name": "Foundations and Trends® in Information Systems",
+    "issn": "2331-1231",
+    "eissn": "2331-124X"
+  },
+  {
+    "name": "Foundations and Trends in Technology, Information and Operations Management",
+    "issn": "1571-9545",
+    "eissn": "1571-9553"
+  },
+  {
+    "name": "Frigid Zone Medicine",
+    "issn": "2719-8073",
+    "eissn": "2719-8073"
+  },
+  {
+    "name": "Frontiers of Economics in China",
+    "issn": "1673-3444",
+    "eissn": "1673-3568"
+  },
+  {
+    "name": "Frontiers of Nursing",
+    "issn": "2544-8994",
+    "eissn": "2544-8994"
+  },
+  {
+    "name": "Future of Food-Journal on Food Agriculture and Society",
+    "issn": "2197-411X"
+  },
+  {
+    "name": "Gender in Management: An International Journal",
+    "issn": "1754-2413",
+    "eissn": "1754-2413"
+  },
+  {
+    "name": "Geopolitics under Globalization",
+    "issn": "2543-5493",
+    "eissn": "2543-9820"
+  },
+  {
+    "name": "Global Business and Economics Review",
+    "issn": "1097-4954",
+    "eissn": "1745-1329"
+  },
+  {
+    "name": "Global Energy Interconnection",
+    "issn": "2096-5117"
+  },
+  {
+    "name": "Global Environmental Change",
+    "issn": "0959-3780"
+  },
+  {
+    "name": "Global Health Journal",
+    "issn": "2414-6447"
+  },
+  {
+    "name": "Global Journal of Emerging Market Economies",
+    "issn": "0974-9101",
+    "eissn": "0975-2730"
+  },
+  {
+    "name": "Global Journal of Flexible Systems Management",
+    "issn": "0972-2696",
+    "eissn": "0974-0198"
+  },
+  {
+    "name": "Global Networks",
+    "issn": "1470-2266",
+    "eissn": "1471-0374"
+  },
+  {
+    "name": "Governance",
+    "issn": "0952-1895",
+    "eissn": "1468-0491"
+  },
+  {
+    "name": "Gynecology and Obstetrics Clinical Medicine",
+    "issn": "2097-0587",
+    "eissn": "2667-1646"
+  },
+  {
+    "name": "Health Data Science",
+    "issn": "2765-8783",
+    "eissn": "2765-8783"
+  },
+  {
+    "name": "High Technology Letters",
+    "issn": "1006-6748"
+  },
+  {
+    "name": "Historical Studies in Industrial Relations",
+    "issn": "1362-1572",
+    "eissn": "2049-4459"
+  },
+  {
+    "name": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+    "issn": "2168-2216",
+    "eissn": "2168-2232"
+  },
+  {
+    "name": "iLiver",
+    "issn": "2772-9478"
+  },
+  {
+    "name": "Independent Journal of Management & Production",
+    "issn": "2236-269X"
+  },
+  {
+    "name": "INFANT MENTAL HEALTH JOURNAL",
+    "issn": "0163-9641",
+    "eissn": "1097-0355"
+  },
+  {
+    "name": "INFOR: Information Systems and Operational Research",
+    "issn": "0315-5986",
+    "eissn": "1916-0615"
+  },
+  {
+    "name": "INFORMS Transactions on Education",
+    "issn": "1532-0545",
+    "eissn": "1532-0545"
+  },
+  {
+    "name": "Insurance Markets and Companies",
+    "issn": "2616-3551",
+    "eissn": "2522-9591"
+  },
+  {
+    "name": "Intereconomics",
+    "issn": "0020-5346",
+    "eissn": "1613-964X"
+  },
+  {
+    "name": "International Coaching Psychology Review",
+    "issn": "1750-2764",
+    "eissn": "2396-8753"
+  },
+  {
+    "name": "International Economics",
+    "issn": "2110-7017"
+  },
+  {
+    "name": "International Hospitality Review",
+    "issn": "2516-8142",
+    "eissn": "2516-8142"
+  },
+  {
+    "name": "International Journal of Accounting, Auditing and Performance Evaluation",
+    "issn": "1740-8008",
+    "eissn": "1740-8016"
+  },
+  {
+    "name": "International Journal of Agile Systems and Management",
+    "issn": "1741-9174",
+    "eissn": "1741-9182"
+  },
+  {
+    "name": "International Journal of Applied Decision Sciences",
+    "issn": "1755-8077",
+    "eissn": "1755-8085"
+  },
+  {
+    "name": "International Journal of Banking, Accounting and Finance",
+    "issn": "1755-3830",
+    "eissn": "1755-3849"
+  },
+  {
+    "name": "International Journal of Business and Emerging Markets",
+    "issn": "1753-6219",
+    "eissn": "1753-6227"
+  },
+  {
+    "name": "International Journal of Business and Systems Research",
+    "issn": "1751-200X",
+    "eissn": "1751-2018"
+  },
+  {
+    "name": "International Journal of Business Competition and Growth",
+    "issn": "2042-3845",
+    "eissn": "2042-3853"
+  },
+  {
+    "name": "International Journal of Business Excellence",
+    "issn": "1756-0047",
+    "eissn": "1756-0055"
+  },
+  {
+    "name": "International Journal of Business Governance and Ethics",
+    "issn": "1477-9048",
+    "eissn": "1741-802X"
+  },
+  {
+    "name": "International Journal of Business Information Systems",
+    "issn": "1746-0972",
+    "eissn": "1746-0980"
+  },
+  {
+    "name": "International Journal of Business Innovation and Research",
+    "issn": "1751-0252",
+    "eissn": "1751-0260"
+  },
+  {
+    "name": "International Journal of Business Performance and Supply Chain Modelling",
+    "issn": "1758-9401",
+    "eissn": "1758-941X"
+  },
+  {
+    "name": "International Journal of Business Process Integration and Management",
+    "issn": "1741-8763",
+    "eissn": "1741-8771"
+  },
+  {
+    "name": "The International Journal of Community and Social Development",
+    "issn": "2516-6026",
+    "eissn": "2516-6034"
+  },
+  {
+    "name": "International Journal of Contemporary Management",
+    "issn": "2449-8920",
+    "eissn": "2449-8939"
+  },
+  {
+    "name": "International Journal of Critical Accounting",
+    "issn": "1757-9848",
+    "eissn": "1757-9856"
+  },
+  {
+    "name": "International Journal of Data Analysis Techniques and Strategies",
+    "issn": "1755-8050",
+    "eissn": "1755-8069"
+  },
+  {
+    "name": "International Journal of Dermatology And Venereology",
+    "issn": "2096-5540",
+    "eissn": "2641-8746"
+  },
+  {
+    "name": "International Journal of Development Issues",
+    "issn": "1446-8956",
+    "eissn": "1446-8956"
+  },
+  {
+    "name": "International Journal of Digital Strategy, Governance, and Business Transformation",
+    "issn": "2643-8054",
+    "eissn": "2643-8062"
+  },
+  {
+    "name": "International Journal of Electronic Business",
+    "issn": "1470-6067",
+    "eissn": "1741-5063"
+  },
+  {
+    "name": "International Journal of Employment Studies",
+    "issn": "1039-6993",
+    "eissn": "1839-5945"
+  },
+  {
+    "name": "International Journal of Enterprise Network Management",
+    "issn": "1748-1252",
+    "eissn": "1748-1260"
+  },
+  {
+    "name": "International Journal of Entrepreneurial Behaviour and Research",
+    "issn": "1355-2554",
+    "eissn": "1758-6534"
+  },
+  {
+    "name": "International Journal of Entrepreneurship and Innovation Management",
+    "issn": "1368-275X",
+    "eissn": "1741-5098"
+  },
+  {
+    "name": "International Journal of Export Marketing",
+    "issn": "2059-089X",
+    "eissn": "2059-0903"
+  },
+  {
+    "name": "International Journal of Foresight and Innovation Policy",
+    "issn": "1740-2816",
+    "eissn": "1740-2824"
+  },
+  {
+    "name": "International Journal of Globalisation and Small Business",
+    "issn": "1479-3059",
+    "eissn": "1479-3067"
+  },
+  {
+    "name": "International Journal of Industrial and Systems Engineering",
+    "issn": "1748-5037",
+    "eissn": "1748-5045"
+  },
+  {
+    "name": "International Journal of Information Systems and Change Management",
+    "issn": "1479-3121",
+    "eissn": "1479-313X"
+  },
+  {
+    "name": "International Journal of Information Technology and Management",
+    "issn": "1461-4111",
+    "eissn": "1741-5179"
+  },
+  {
+    "name": "International Journal of Integrated Supply Management",
+    "issn": "1477-5360",
+    "eissn": "1741-8097"
+  },
+  {
+    "name": "International Journal of Internet Manufacturing and Services",
+    "issn": "1751-6048",
+    "eissn": "1751-6056"
+  },
+  {
+    "name": "International Journal of Learning and Change",
+    "issn": "1740-2875",
+    "eissn": "1740-2883"
+  },
+  {
+    "name": "International Journal of Logistics Systems and Management",
+    "issn": "1742-7967",
+    "eissn": "1742-7975"
+  },
+  {
+    "name": "International Journal of Management and Decision Making",
+    "issn": "1462-4621",
+    "eissn": "1741-5187"
+  },
+  {
+    "name": "International Journal of Management and Enterprise Development",
+    "issn": "1468-4330",
+    "eissn": "1741-8127"
+  },
+  {
+    "name": "International Journal of Management Concepts and Philosophy",
+    "issn": "1478-1484",
+    "eissn": "1741-8135"
+  },
+  {
+    "name": "International Journal of Management Development",
+    "issn": "1752-8240",
+    "eissn": "1752-850X"
+  },
+  {
+    "name": "International Journal of Management, Economics and Social Sciences",
+    "issn": "2304-1366",
+    "eissn": "2304-1366"
+  },
+  {
+    "name": "International Journal of Manufacturing Technology and Management",
+    "issn": "1368-2148",
+    "eissn": "1741-5195"
+  },
+  {
+    "name": "International Journal of Mathematics in Operational Research",
+    "issn": "1757-5850",
+    "eissn": "1757-5869"
+  },
+  {
+    "name": "International Journal of Operational Research",
+    "issn": "1745-7645",
+    "eissn": "1745-7653"
+  },
+  {
+    "name": "International Journal of Operations and Quantitative Management",
+    "issn": "1082-1910"
+  },
+  {
+    "name": "International Journal of Organization Theory and Behavior",
+    "issn": "1093-4537",
+    "eissn": "1532-4273"
+  },
+  {
+    "name": "International Journal of Process Management and Benchmarking",
+    "issn": "1460-6739",
+    "eissn": "1741-816X"
+  },
+  {
+    "name": "International Journal of Procurement Management",
+    "issn": "1753-8432",
+    "eissn": "1753-8440"
+  },
+  {
+    "name": "International Journal of Product Development",
+    "issn": "1477-9056",
+    "eissn": "1741-8178"
+  },
+  {
+    "name": "International Journal of Productivity and Quality Management",
+    "issn": "1746-6474",
+    "eissn": "1746-6482"
+  },
+  {
+    "name": "International Journal of Project Organisation and Management",
+    "issn": "1740-2891",
+    "eissn": "1740-2905"
+  },
+  {
+    "name": "International Journal of Services and Operations Management",
+    "issn": "1744-2370",
+    "eissn": "1744-2389"
+  },
+  {
+    "name": "International Journal of Services Economics and Management",
+    "issn": "1753-0822",
+    "eissn": "1753-0830"
+  },
+  {
+    "name": "International Journal of Services Operations and Informatics",
+    "issn": "1741-539X",
+    "eissn": "1741-5403"
+  },
+  {
+    "name": "International Journal of Six Sigma and Competitive Advantage",
+    "issn": "1479-2494",
+    "eissn": "1479-2753"
+  },
+  {
+    "name": "International Journal of Small and Medium Enterprises",
+    "issn": "2576-7712",
+    "eissn": "2576-7720"
+  },
+  {
+    "name": "International Journal of Sport and Society",
+    "issn": "2152-7857",
+    "eissn": "2152-7865"
+  },
+  {
+    "name": "International Journal of Sport Management and Marketing",
+    "issn": "1475-8962",
+    "eissn": "1740-2808"
+  },
+  {
+    "name": "International Journal of Strategic Decision Sciences",
+    "issn": "1947-8569",
+    "eissn": "1947-8577"
+  },
+  {
+    "name": "International Journal of Teaching and Case Studies",
+    "issn": "1749-9151",
+    "eissn": "1749-916X"
+  },
+  {
+    "name": "International Journal of Technological Learning, Innovation and Development",
+    "issn": "1753-1942",
+    "eissn": "1753-1950"
+  },
+  {
+    "name": "International Journal of Technology and Globalisation",
+    "issn": "1476-5667",
+    "eissn": "1741-8194"
+  },
+  {
+    "name": "International Journal of Technology Intelligence and Planning",
+    "issn": "1740-2832",
+    "eissn": "1740-2840"
+  },
+  {
+    "name": "International Journal of Technology Management and Sustainable Development",
+    "issn": "1474-2748",
+    "eissn": "2040-0551"
+  },
+  {
+    "name": "International Journal of Technology Marketing",
+    "issn": "1741-878X",
+    "eissn": "1741-8798"
+  },
+  {
+    "name": "International Journal of Technology, Policy and Management",
+    "issn": "1468-4322",
+    "eissn": "1741-5292"
+  },
+  {
+    "name": "International Journal of Technology Transfer and Commercialisation",
+    "issn": "1470-6075",
+    "eissn": "1741-5284"
+  },
+  {
+    "name": "International Journal of the Digital Human",
+    "issn": "2046-3375",
+    "eissn": "2046-3383"
+  },
+  {
+    "name": "International Journal of Tourism Policy",
+    "issn": "1750-4090",
+    "eissn": "1750-4104"
+  },
+  {
+    "name": "International Negotiation",
+    "issn": "1382-340X",
+    "eissn": "1571-8069"
+  },
+  {
+    "name": "International Review of Public Administration",
+    "issn": "1229-4659",
+    "eissn": "2331-7795"
+  },
+  {
+    "name": "Investment Management and Financial Innovations",
+    "issn": "1810-4967",
+    "eissn": "1812-9358"
+  },
+  {
+    "name": "ISRAEL JOURNAL OF PSYCHIATRY AND RELATED SCIENCES",
+    "issn": "0333-7308"
+  },
+  {
+    "name": "Journal for Advancement of Marketing Education",
+    "issn": "2326-3296",
+    "eissn": "1537-5137"
+  },
+  {
+    "name": "Journal of Accounting and Management Information Systems",
+    "issn": "1583-4387",
+    "eissn": "2559-6004"
+  },
+  {
+    "name": "Journal of Accounting and Taxation",
+    "issn": "2141-6664",
+    "eissn": "2141-6664"
+  },
+  {
+    "name": "Journal of Accounting Education",
+    "issn": "0748-5751"
+  },
+  {
+    "name": "Journal of Advertising Education",
+    "issn": "1098-0482",
+    "eissn": "2516-1873"
+  },
+  {
+    "name": "Journal of Agricultural and Food Industrial Organization",
+    "issn": "1542-0485",
+    "eissn": "2194-5896"
+  },
+  {
+    "name": "Journal of Asia-Pacific Business",
+    "issn": "1059-9231",
+    "eissn": "1528-6940"
+  },
+  {
+    "name": "Journal of Beijing Institute of Technology",
+    "issn": "1004-0579"
+  },
+  {
+    "name": "The Journal of Beta Investment Strategies",
+    "issn": "2771-6511",
+    "eissn": "2771-6511"
+  },
+  {
+    "name": "Journal of Bioeconomics",
+    "issn": "1387-6996",
+    "eissn": "1573-6989"
+  },
+  {
+    "name": "Journal of Biosafety and Biosecurity",
+    "issn": "2588-9338"
+  },
+  {
+    "name": "Journal of Business Economics",
+    "issn": "0044-2372",
+    "eissn": "1861-8928"
+  },
+  {
+    "name": "Journal of Business Ethics Education",
+    "issn": "1649-5195"
+  },
+  {
+    "name": "Journal of Business Law",
+    "issn": "0021-9460"
+  },
+  {
+    "name": "Journal of Business Models",
+    "issn": "2246-2465",
+    "eissn": "2246-2465"
+  },
+  {
+    "name": "Journal of Business Strategy",
+    "issn": "0275-6668",
+    "eissn": "0275-6668"
+  },
+  {
+    "name": "Journal of Business Venturing Insights",
+    "issn": "2352-6734"
+  },
+  {
+    "name": "Journal of Capital Markets Studies",
+    "issn": "2514-4774",
+    "eissn": "2514-4774"
+  },
+  {
+    "name": "The Journal of China Universities of Posts and Telecommunications",
+    "issn": "1005-8885"
+  },
+  {
+    "name": "Journal of Chinese Pharmaceutical Sciences",
+    "issn": "1003-1057",
+    "eissn": "1003-1057"
+  },
+  {
+    "name": "Journal of Common Market Studies",
+    "issn": "0021-9886",
+    "eissn": "1468-5965"
+  },
+  {
+    "name": "Journal of Contemporary Administration",
+    "issn": "2777-0745",
+    "eissn": "2777-0737"
+  },
+  {
+    "name": "Journal of Developing Areas",
+    "issn": "1548-2278",
+    "eissn": "1548-2278"
+  },
+  {
+    "name": "Journal of Econometric Methods",
+    "issn": "2194-6345",
+    "eissn": "2156-6674"
+  },
+  {
+    "name": "Journal of Economic and Financial Sciences",
+    "issn": "1995-7076",
+    "eissn": "2312-2803"
+  },
+  {
+    "name": "Journal of Economic Asymmetries",
+    "issn": "1703-4949"
+  },
+  {
+    "name": "Journal of Economic Cooperation and Development",
+    "issn": "1308-7800"
+  },
+  {
+    "name": "Journal of Electronic Science and Technology",
+    "issn": "1674-862X"
+  },
+  {
+    "name": "Journal of Entrepreneurship and Innovation in Emerging Economies",
+    "issn": "2393-9575",
+    "eissn": "2394-9945"
+  },
+  {
+    "name": "The Journal of Financial Data Science",
+    "issn": "2640-3943",
+    "eissn": "2640-3951"
+  },
+  {
+    "name": "Journal of Financial Management, Markets and Institutions",
+    "issn": "2591-7684",
+    "eissn": "2282-717X"
+  },
+  {
+    "name": "Journal of Fixed Income",
+    "issn": "1059-8596",
+    "eissn": "2168-8648"
+  },
+  {
+    "name": "Journal of Foodservice Business Research",
+    "issn": "1537-8020",
+    "eissn": "1537-8039"
+  },
+  {
+    "name": "Journal of Forensic Accounting Research",
+    "issn": "2380-2138"
+  },
+  {
+    "name": "Journal of Gambling Business and Economics",
+    "issn": "1751-7990",
+    "eissn": "1751-8008"
+  },
+  {
+    "name": "JOURNAL OF GLBT FAMILY STUDIES",
+    "issn": "1550-428X",
+    "eissn": "1550-4298"
+  },
+  {
+    "name": "Journal of Globalization and Development",
+    "issn": "2194-6353",
+    "eissn": "1948-1837"
+  },
+  {
+    "name": "Journal of Global Mobility",
+    "issn": "2049-8799",
+    "eissn": "2049-8802"
+  },
+  {
+    "name": "Journal of High Technology Management Research",
+    "issn": "1047-8310"
+  },
+  {
+    "name": "Journal of Humanities and Applied Social Sciences",
+    "issn": "2632-279X",
+    "eissn": "2632-279X"
+  },
+  {
+    "name": "Journal of Income Distribution",
+    "issn": "0926-6437"
+  },
+  {
+    "name": "Journal of Information Systems Education",
+    "issn": "2574-3872",
+    "eissn": "2574-3872"
+  },
+  {
+    "name": "Journal of Information Technology Case and Application Research",
+    "issn": "1522-8053",
+    "eissn": "2333-6897"
+  },
+  {
+    "name": "Journal of Information Technology Management",
+    "issn": "1097-198X",
+    "eissn": "2333-6846"
+  },
+  {
+    "name": "Journal of Information Technology Teaching Cases",
+    "issn": "2043-8869",
+    "eissn": "2043-8869"
+  },
+  {
+    "name": "Journal of Innovation Management (JIM)",
+    "issn": "2183-0606"
+  },
+  {
+    "name": "Journal of Institutional and Theoretical Economics",
+    "issn": "0932-4569"
+  },
+  {
+    "name": "Journal of Integrative Medicine",
+    "issn": "2095-4964"
+  },
+  {
+    "name": "Journal of Interactive Advertising",
+    "issn": "1525-2019",
+    "eissn": "1525-2019"
+  },
+  {
+    "name": "Journal of International Business Education",
+    "issn": "1649-4946",
+    "eissn": "2044-4575"
+  },
+  {
+    "name": "Journal of International Studies",
+    "issn": "2071-8330",
+    "eissn": "2306-3483"
+  },
+  {
+    "name": "Journal of Islamic Business & Management",
+    "issn": "2075-6291",
+    "eissn": "2521-2249"
+  },
+  {
+    "name": "Journal of Management in Engineering - ASCE",
+    "issn": "0742-597X",
+    "eissn": "1943-5479"
+  },
+  {
+    "name": "Journal of Management Sciences",
+    "issn": "2413-8657",
+    "eissn": "2313-0113"
+  },
+  {
+    "name": "Journal of Measurement Science and Instrumentation",
+    "issn": "1674-8042"
+  },
+  {
+    "name": "Journal of Mechanism and Institution Design",
+    "issn": "2399-844X",
+    "eissn": "2399-8458"
+  },
+  {
+    "name": "Journal of Micro-Bio Robotics",
+    "issn": "2194-6418",
+    "eissn": "2194-6426"
+  },
+  {
+    "name": "Journal of Northeast Agricultural University(English Edition)",
+    "issn": "1006-8104"
+  },
+  {
+    "name": "Journal of Nutritional Oncology",
+    "issn": "2096-2746",
+    "eissn": "2834-5371"
+  },
+  {
+    "name": "Journal of Outdoor Recreation and Tourism",
+    "issn": "2213-0780"
+  },
+  {
+    "name": "Journal of Palaeogeography",
+    "issn": "2095-3836"
+  },
+  {
+    "name": "Journal of Participation and Employee Ownership",
+    "issn": "2514-7641",
+    "eissn": "2514-765X"
+  },
+  {
+    "name": "JOURNAL OF PETROLEUM SCIENCE AND ENGINEERING",
+    "issn": "0920-4105"
+  },
+  {
+    "name": "Journal of Prediction Markets",
+    "issn": "1750-6751",
+    "eissn": "1750-676X"
+  },
+  {
+    "name": "Journal of Rehabilitation",
+    "issn": "2538-6247",
+    "eissn": "1607-2960"
+  },
+  {
+    "name": "Journal of Relationship Marketing",
+    "issn": "1533-2667",
+    "eissn": "1533-2675"
+  },
+  {
+    "name": "Journal of Resources and Ecology",
+    "issn": "1674-764X"
+  },
+  {
+    "name": "The Journal of Retirement",
+    "issn": "2326-6899",
+    "eissn": "2326-6902"
+  },
+  {
+    "name": "Journal of Shanghai Jiaotong University(Science)",
+    "issn": "1007-1172",
+    "eissn": "1995-8188"
+  },
+  {
+    "name": "Journal of Sport and Tourism",
+    "issn": "1029-5399",
+    "eissn": "1477-5085"
+  },
+  {
+    "name": "Journal of Strategic Contracting and Negotiation",
+    "issn": "2055-5636",
+    "eissn": "2055-5644"
+  },
+  {
+    "name": "Journal of Systems and Information Technology",
+    "issn": "1328-7265",
+    "eissn": "1328-7265"
+  },
+  {
+    "name": "Journal of Systems Science and Information",
+    "issn": "2512-6660",
+    "eissn": "2512-6660"
+  },
+  {
+    "name": "Journal of the Economic Science Association",
+    "issn": "2199-6776",
+    "eissn": "2199-6784"
+  },
+  {
+    "name": "Journal of the Knowledge Economy",
+    "issn": "1868-7865",
+    "eissn": "1868-7873"
+  },
+  {
+    "name": "Journal of Traditional Chinese Medical Sciences",
+    "issn": "2095-7548"
+  },
+  {
+    "name": "Journal of Transnational Management",
+    "issn": "1547-5778",
+    "eissn": "1547-5786"
+  },
+  {
+    "name": "The Journal of Wealth Management",
+    "issn": "1520-4154",
+    "eissn": "2374-1368"
+  },
+  {
+    "name": "Kardiologia Polska",
+    "issn": "0022-9032",
+    "eissn": "1897-4279"
+  },
+  {
+    "name": "Labor Studies Journal",
+    "issn": "0160-449X",
+    "eissn": "1538-9758"
+  },
+  {
+    "name": "Labour",
+    "issn": "1121-7081",
+    "eissn": "1467-9914"
+  },
+  {
+    "name": "Labour and Industry: a journal of social and economic relations of work",
+    "issn": "1030-1763",
+    "eissn": "2325-5676"
+  },
+  {
+    "name": "Language and Semiotic Studies",
+    "issn": "2096-031X",
+    "eissn": "2751-7160"
+  },
+  {
+    "name": "MACHINE TRANSLATION",
+    "issn": "0922-6567",
+    "eissn": "1573-0573"
+  },
+  {
+    "name": "Management Accounting Frontiers",
+    "issn": "2209-038X",
+    "eissn": "2209-0398"
+  },
+  {
+    "name": "Management and Labour Studies",
+    "issn": "0258-042X",
+    "eissn": "2321-0710"
+  },
+  {
+    "name": "Management Teaching Review",
+    "issn": "2379-2981",
+    "eissn": "2379-2981"
+  },
+  {
+    "name": "Man and the Economy",
+    "issn": "2196-9639",
+    "eissn": "2196-9647"
+  },
+  {
+    "name": "Manufacturing and Service Operations Management",
+    "issn": "2616-3349"
+  },
+  {
+    "name": "Marine Science Bulletin",
+    "issn": "1000-9620"
+  },
+  {
+    "name": "Marketing Education Review",
+    "issn": "1052-8008",
+    "eissn": "2153-9987"
+  },
+  {
+    "name": "MENOPAUSE-THE JOURNAL OF THE NORTH AMERICAN MENOPAUSE SOCIETY",
+    "issn": "1072-3714",
+    "eissn": "1530-0374"
+  },
+  {
+    "name": "MINERVA MEDICA",
+    "issn": "0026-4806",
+    "eissn": "1827-1669"
+  },
+  {
+    "name": "Molecular Therapy Oncolytics",
+    "issn": "2372-7705",
+    "eissn": "2372-7705"
+  },
+  {
+    "name": "MSKMuskuloskelettale Physiotherapie",
+    "issn": "2701-6986",
+    "eissn": "2701-7818"
+  },
+  {
+    "name": "Multinational Finance Journal",
+    "issn": "1096-1879"
+  },
+  {
+    "name": "National Science Open",
+    "issn": "2097-1168"
+  },
+  {
+    "name": "NETHERLANDS JOURNAL OF GEOSCIENCES-GEOLOGIE EN MIJNBOUW",
+    "issn": "0016-7746",
+    "eissn": "1573-9708"
+  },
+  {
+    "name": "NETNOMICS: Economic Research and Electronic Networking",
+    "issn": "1385-9587",
+    "eissn": "1573-7071"
+  },
+  {
+    "name": "Négociations",
+    "issn": "1780-9231",
+    "eissn": "1782-1452"
+  },
+  {
+    "name": "Occupational Medicine",
+    "issn": "0962-7480",
+    "eissn": "1471-8405"
+  },
+  {
+    "name": "Oil Crop Science",
+    "issn": "2096-2428"
+  },
+  {
+    "name": "Omega",
+    "issn": "0305-0483"
+  },
+  {
+    "name": "Oncology and Translational Medicine",
+    "issn": "2095-9621",
+    "eissn": "2095-9621"
+  },
+  {
+    "name": "Online Journal of Applied Knowledge Management",
+    "issn": "2325-4688",
+    "eissn": "2325-4688"
+  },
+  {
+    "name": "Open House International",
+    "issn": "0168-2601",
+    "eissn": "2633-9838"
+  },
+  {
+    "name": "Organization Management Journal",
+    "issn": "1541-6518",
+    "eissn": "1541-6518"
+  },
+  {
+    "name": "Oxford Economic Papers",
+    "issn": "0030-7653",
+    "eissn": "1464-3812"
+  },
+  {
+    "name": "PANMINERVA MEDICA",
+    "issn": "0031-0808",
+    "eissn": "1827-1898"
+  },
+  {
+    "name": "Pesquisa Operacional",
+    "issn": "0101-7438",
+    "eissn": "0101-7438"
+  },
+  {
+    "name": "Policy and Practice in Health and Safety",
+    "issn": "1477-3996",
+    "eissn": "1477-4003"
+  },
+  {
+    "name": "Population Studies",
+    "issn": "0032-4728",
+    "eissn": "1477-4747"
+  },
+  {
+    "name": "Problems and Perspectives in Management",
+    "issn": "1727-7051",
+    "eissn": "1810-5467"
+  },
+  {
+    "name": "Production & Manufacturing Research",
+    "issn": "2169-3277"
+  },
+  {
+    "name": "Prometheus",
+    "issn": "0810-9028",
+    "eissn": "1470-1030"
+  },
+  {
+    "name": "Psychological Research",
+    "issn": "0340-0727",
+    "eissn": "1430-2772"
+  },
+  {
+    "name": "Psychologist-Manager Journal",
+    "issn": "1088-7156",
+    "eissn": "1550-3461"
+  },
+  {
+    "name": "Public Administration Quarterly",
+    "issn": "0734-9149",
+    "eissn": "2327-4433"
+  },
+  {
+    "name": "Public and Municipal Finance",
+    "issn": "2222-1867",
+    "eissn": "2222-1875"
+  },
+  {
+    "name": "Quality Innovation Prosperity",
+    "issn": "1335-1745",
+    "eissn": "1338-984X"
+  },
+  {
+    "name": "Quality Progress",
+    "issn": "0033-524X"
+  },
+  {
+    "name": "Quantitative Marketing and Economics",
+    "issn": "1570-7156",
+    "eissn": "1573-711X"
+  },
+  {
+    "name": "Quarterly Journal of Austrian Economics",
+    "issn": "1098-3708",
+    "eissn": "1936-4806"
+  },
+  {
+    "name": "Quarterly Journal of Finance and Accounting",
+    "issn": "1939-8123"
+  },
+  {
+    "name": "Radiation Medicine and Protection",
+    "issn": "2666-5557"
+  },
+  {
+    "name": "Resources Policy",
+    "issn": "0301-4207",
+    "eissn": "1873-7641"
+  },
+  {
+    "name": "Review of European Studies",
+    "issn": "1918-7173",
+    "eissn": "1918-7181"
+  },
+  {
+    "name": "Review of Marketing Science",
+    "issn": "2194-5985",
+    "eissn": "1546-5616"
+  },
+  {
+    "name": "Revista Contabilidade & Finanças",
+    "issn": "1519-7077",
+    "eissn": "1808-057X"
+  },
+  {
+    "name": "Revista de Gestão",
+    "issn": "1809-2276",
+    "eissn": "2177-8736"
+  },
+  {
+    "name": "Revista Produção e Desenvolvimento",
+    "issn": "2446-9580",
+    "eissn": "2446-9580"
+  },
+  {
+    "name": "RMS-Research in Mathematics & Statistics",
+    "issn": "2765-8449"
+  },
+  {
+    "name": "Russian Journal of Economics",
+    "issn": "2405-4739",
+    "eissn": "2405-4739"
+  },
+  {
+    "name": "Safety and Reliability",
+    "issn": "0961-7353",
+    "eissn": "2469-4126"
+  },
+  {
+    "name": "Scalable Computing-Practice and Experience",
+    "issn": "1895-1767",
+    "eissn": "1895-1767"
+  },
+  {
+    "name": "Scandinavian Journal of Information Systems",
+    "issn": "0905-0167",
+    "eissn": "1901-0990"
+  },
+  {
+    "name": "Schmalenbach Journal of Business Research",
+    "issn": "0341-2687",
+    "eissn": "2366-6153"
+  },
+  {
+    "name": "Security and Safety",
+    "issn": "2097-2121",
+    "eissn": "2826-1275"
+  },
+  {
+    "name": "SERIEs",
+    "issn": "1869-4187",
+    "eissn": "1869-4195"
+  },
+  {
+    "name": "Sloan Management Review",
+    "issn": "1532-9194",
+    "eissn": "1532-8937"
+  },
+  {
+    "name": "Small Business International Review",
+    "issn": "2531-0046",
+    "eissn": "2531-0046"
+  },
+  {
+    "name": "Social and Environmental Accountability Journal",
+    "issn": "0969-160X",
+    "eissn": "2156-2245"
+  },
+  {
+    "name": "Sociology",
+    "issn": "0038-0385",
+    "eissn": "1469-8684"
+  },
+  {
+    "name": "South Asia Economic Journal",
+    "issn": "1391-5614",
+    "eissn": "0973-077X"
+  },
+  {
+    "name": "South Asian Journal of Business and Management Cases",
+    "issn": "2277-9779",
+    "eissn": "2321-0303"
+  },
+  {
+    "name": "South Asian Journal of Human Resources Management",
+    "issn": "2322-0937",
+    "eissn": "2349-5790"
+  },
+  {
+    "name": "State and Local Government Review",
+    "issn": "0160-323X",
+    "eissn": "1943-3409"
+  },
+  {
+    "name": "Strategic Change",
+    "issn": "1086-1718",
+    "eissn": "1099-1697"
+  },
+  {
+    "name": "Strategy and Leadership",
+    "issn": "1087-8572"
+  },
+  {
+    "name": "Studies in Microeconomics",
+    "issn": "2321-0222",
+    "eissn": "2321-8398"
+  },
+  {
+    "name": "Swiss Journal of Economics and Statistics",
+    "issn": "2235-6282",
+    "eissn": "2235-6282"
+  },
+  {
+    "name": "Symphonya. Emerging Issues in Management",
+    "issn": "1593-0300",
+    "eissn": "1593-0319"
+  },
+  {
+    "name": "SYNAPSE",
+    "issn": "0887-4476",
+    "eissn": "1098-2396"
+  },
+  {
+    "name": "Tamara: Journal for Critical Organization Inquiry",
+    "issn": "1532-5555",
+    "eissn": "1532-5555"
+  },
+  {
+    "name": "Transfer",
+    "issn": "2045-4813",
+    "eissn": "2045-4821"
+  },
+  {
+    "name": "Valuation Studies",
+    "issn": "2001-5992",
+    "eissn": "2001-5992"
+  },
+  {
+    "name": "Work",
+    "issn": "1051-9815",
+    "eissn": "1875-9270"
+  },
+  {
+    "name": "Work in the Global Economy",
+    "issn": "2732-4176",
+    "eissn": "2732-4176"
+  },
+  {
+    "name": "Work Organisation, Labour and Globalisation",
+    "issn": "1745-641X",
+    "eissn": "1745-6428"
+  },
+  {
+    "name": "World Journal of Integrated Traditional and Western Medicine",
+    "issn": "2096-0964"
+  },
+  {
+    "name": "World Review of Entrepreneurship, Management and Sustainable Development",
+    "issn": "1746-0573",
+    "eissn": "1746-0581"
+  },
+  {
+    "name": "World Review of Intermodal Transportation Research",
+    "issn": "1749-4729",
+    "eissn": "1749-4737"
+  },
+  {
+    "name": "Wuhan University Journal of Natural Sciences",
+    "issn": "1007-1202",
+    "eissn": "1993-4998"
+  },
+  {
+    "name": "Zeitschrift für Unternehmensgeschichte",
+    "issn": "0342-2852",
+    "eissn": "2367-2293"
+  },
+  {
+    "name": "2D Materials",
+    "issn": "2053-1583",
+    "eissn": "2053-1583",
+    "abbr": "2d Mater"
+  },
+  {
+    "name": "3D Printing and Additive Manufacturing",
+    "issn": "2329-7662",
+    "eissn": "2329-7670",
+    "abbr": "3D Print Addit Manuf"
+  },
+  {
+    "name": "3D Printing in Medicine",
+    "eissn": "2365-6271",
+    "abbr": "3D Print Med"
+  },
+  {
+    "name": "AACE Clinical Case Reports",
+    "issn": "2376-0605",
+    "eissn": "2376-0605",
+    "abbr": "AACE Clin Case Rep"
+  },
+  {
+    "name": "AACN Advanced Critical Care",
+    "issn": "1559-7768",
+    "eissn": "1559-7776",
+    "abbr": "AACN Adv Crit Care"
+  },
+  {
+    "name": "A & A Practice",
+    "issn": "2575-3126",
+    "eissn": "2575-3126",
+    "abbr": "A A Pract"
+  },
+  {
+    "name": "AAPG BULLETIN",
+    "issn": "0149-1423",
+    "eissn": "1558-9153",
+    "abbr": "Am Assoc Pet Geol Bull"
+  },
+  {
+    "name": "AAPS Journal",
+    "issn": "1550-7416",
+    "eissn": "1550-7416",
+    "abbr": "AAPS J"
+  },
+  {
+    "name": "AATCC REVIEW",
+    "issn": "1532-8813",
+    "eissn": "1532-8813",
+    "abbr": "AATCC Rev"
+  },
+  {
+    "name": "ABCD-Arquivos Brasileiros de Cirurgia Digestiva-Brazilian Archives of Digestive Surgery",
+    "issn": "0102-6720",
+    "eissn": "2317-6326",
+    "abbr": "Arq Bras Cir Dig"
+  },
+  {
+    "name": "Abdominal Radiology",
+    "issn": "2366-004X",
+    "eissn": "2366-0058",
+    "abbr": "Abdom Radiol (NY)"
+  },
+  {
+    "name": "Aboriginal History",
+    "issn": "0314-8769",
+    "eissn": "1837-9389",
+    "abbr": "Aborig Hist"
+  },
+  {
+    "name": "ACADEMIC EMERGENCY MEDICINE",
+    "issn": "1069-6563",
+    "eissn": "1553-2712",
+    "abbr": "Acad Emerg Med"
+  },
+  {
+    "name": "ACADEMIC MEDICINE",
+    "issn": "1040-2446",
+    "eissn": "1938-808X",
+    "abbr": "Acad Med"
+  },
+  {
+    "name": "Academic Pathology",
+    "issn": "2374-2895",
+    "eissn": "2374-2895",
+    "abbr": "Acad Pathol"
+  },
+  {
+    "name": "Academic Pediatrics",
+    "issn": "1876-2859",
+    "eissn": "1876-2867",
+    "abbr": "Acad Pediatr"
+  },
+  {
+    "name": "ACADEMIC PSYCHIATRY",
+    "issn": "1042-9670",
+    "eissn": "1545-7230",
+    "abbr": "Am J Addict"
+  },
+  {
+    "name": "ACADEMIC RADIOLOGY",
+    "issn": "1076-6332",
+    "eissn": "1878-4046",
+    "abbr": "Acad Radiol"
+  },
+  {
+    "name": "Academy of Management Annals",
+    "issn": "1941-6520",
+    "eissn": "1941-6067",
+    "abbr": "Acad Manag Ann"
+  },
+  {
+    "name": "Academy of Management Perspectives",
+    "issn": "1558-9080",
+    "eissn": "1943-4529",
+    "abbr": "Acad Manag Perspect"
+  },
+  {
+    "name": "Accident Analysis and Prevention",
+    "issn": "0001-4575",
+    "eissn": "1879-2057",
+    "abbr": "Accid Anal Prev"
+  },
+  {
+    "name": "Accountability in Research-Ethics Integrity and Policy",
+    "issn": "0898-9621",
+    "eissn": "1545-5815",
+    "abbr": "Account Res"
+  },
+  {
+    "name": "Accounting Economics and Law-A Convivium",
+    "issn": "2194-6051",
+    "eissn": "2152-2820",
+    "abbr": "Account Econ Law"
+  },
+  {
+    "name": "Accounting Historians Journal",
+    "issn": "0148-4184",
+    "eissn": "2327-4468",
+    "abbr": "Account Hist J"
+  },
+  {
+    "name": "Accounting History",
+    "issn": "1032-3732",
+    "eissn": "1749-3374",
+    "abbr": "Account Hist"
+  },
+  {
+    "name": "ACCOUNTS OF CHEMICAL RESEARCH",
+    "issn": "0001-4842",
+    "eissn": "1520-4898",
+    "abbr": "Acc Chem Res"
+  },
+  {
+    "name": "Accounts of Materials Research",
+    "eissn": "2643-6728",
+    "abbr": "Acc Mater Res"
+  },
+  {
+    "name": "ACCREDITATION AND QUALITY ASSURANCE",
+    "issn": "0949-1775",
+    "eissn": "1432-0517",
+    "abbr": "Accredit Qual Assur"
+  },
+  {
+    "name": "ACG Case Reports Journal",
+    "eissn": "2326-3253",
+    "abbr": "ACG Case Rep J"
+  },
+  {
+    "name": "ACI MATERIALS JOURNAL",
+    "issn": "0889-325X",
+    "eissn": "1944-737X",
+    "abbr": "ACI Mater J"
+  },
+  {
+    "name": "ACI STRUCTURAL JOURNAL",
+    "issn": "0889-3241",
+    "eissn": "1944-7361",
+    "abbr": "ACI Struct J"
+  },
+  {
+    "name": "ACM COMPUTING SURVEYS",
+    "issn": "0360-0300",
+    "eissn": "1557-7341",
+    "abbr": "ACM Comput Surv"
+  },
+  {
+    "name": "ACM Journal of Data and Information Quality",
+    "issn": "1936-1955",
+    "eissn": "1936-1955",
+    "abbr": "ACM J Data Inf Qual"
+  },
+  {
+    "name": "ACM Journal on Emerging Technologies in Computing Systems",
+    "issn": "1550-4832",
+    "eissn": "1550-4840",
+    "abbr": "ACM J Emerg Technol Comput Syst"
+  },
+  {
+    "name": "ACM Transactions on Accessible Computing",
+    "issn": "1936-7228",
+    "eissn": "1936-7236",
+    "abbr": "ACM Trans Access Comput"
+  },
+  {
+    "name": "ACM Transactions on Applied Perception",
+    "issn": "1544-3558",
+    "eissn": "1544-3965",
+    "abbr": "ACM Trans Appl Percept"
+  },
+  {
+    "name": "ACM Transactions on Computer-Human Interaction",
+    "issn": "1073-0516",
+    "eissn": "1557-7325",
+    "abbr": "ACM Trans Comput Hum Interact"
+  },
+  {
+    "name": "ACM Transactions on Computing for Healthcare",
+    "issn": "2691-1957",
+    "eissn": "2637-8051",
+    "abbr": "ACM Trans Comput Healthc"
+  },
+  {
+    "name": "ACM TRANSACTIONS ON DESIGN AUTOMATION OF ELECTRONIC SYSTEMS",
+    "issn": "1084-4309",
+    "eissn": "1557-7309",
+    "abbr": "ACM Transact Des Autom Electron Syst"
+  },
+  {
+    "name": "ACM Transactions on Embedded Computing Systems",
+    "issn": "1539-9087",
+    "eissn": "1558-3465",
+    "abbr": "ACM Trans Embed Comput Syst"
+  },
+  {
+    "name": "ACM TRANSACTIONS ON GRAPHICS",
+    "issn": "0730-0301",
+    "eissn": "1557-7368",
+    "abbr": "ACM Trans Graph"
+  },
+  {
+    "name": "ACM Transactions on Human-Robot Interaction",
+    "eissn": "2573-9522",
+    "abbr": "ACM Trans Hum Robot Interact"
+  },
+  {
+    "name": "ACM TRANSACTIONS ON INFORMATION SYSTEMS",
+    "issn": "1046-8188",
+    "eissn": "1558-2868",
+    "abbr": "ACM Trans Inf Syst"
+  },
+  {
+    "name": "ACM Transactions on Intelligent Systems and Technology",
+    "issn": "2157-6904",
+    "eissn": "2157-6912",
+    "abbr": "ACM Trans Intell Syst Technol"
+  },
+  {
+    "name": "ACM Transactions on Interactive Intelligent Systems",
+    "issn": "2160-6455",
+    "eissn": "2160-6463",
+    "abbr": "ACM Trans Interact Intell Syst"
+  },
+  {
+    "name": "ACM Transactions on Internet Technology",
+    "issn": "1533-5399",
+    "eissn": "1557-6051",
+    "abbr": "ACM Trans Internet Technol"
+  },
+  {
+    "name": "ACM Transactions on Knowledge Discovery from Data",
+    "issn": "1556-4681",
+    "eissn": "1556-472X",
+    "abbr": "ACM Trans Knowl Discov Data"
+  },
+  {
+    "name": "ACM Transactions on Management Information Systems",
+    "issn": "2158-656X",
+    "eissn": "2158-6578",
+    "abbr": "ACM Trans Manag Inf Syst"
+  },
+  {
+    "name": "ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE",
+    "issn": "0098-3500",
+    "eissn": "1557-7295",
+    "abbr": "ACM Trans Math Softw"
+  },
+  {
+    "name": "ACM Transactions on Modeling and Computer Simulation",
+    "issn": "1049-3301",
+    "eissn": "1558-1195",
+    "abbr": "ACM Trans Internet Technol"
+  },
+  {
+    "name": "ACM Transactions on Parallel Computing",
+    "issn": "2329-4949",
+    "eissn": "2329-4957",
+    "abbr": "ACM Trans Parallel Comput"
+  },
+  {
+    "name": "ACM Transactions on Reconfigurable Technology and Systems",
+    "issn": "1936-7406",
+    "eissn": "1936-7414",
+    "abbr": "ACM Trans Reconfigurable Technol Syst"
+  },
+  {
+    "name": "ACM Transactions on Sensor Networks",
+    "issn": "1550-4859",
+    "eissn": "1550-4867",
+    "abbr": "ACM Trans Sens Netw"
+  },
+  {
+    "name": "ACM Transactions on Spatial Algorithms and Systems",
+    "issn": "2374-0353",
+    "eissn": "2374-0361",
+    "abbr": "ACM Trans Spat Algorithms Syst"
+  },
+  {
+    "name": "ACOUSTICAL PHYSICS",
+    "issn": "1063-7710",
+    "eissn": "1562-6865",
+    "abbr": "Acoust Phys"
+  },
+  {
+    "name": "Acoustical Science and Technology",
+    "issn": "1346-3969",
+    "eissn": "1347-5177",
+    "abbr": "Acoust Sci Technol"
+  },
+  {
+    "name": "Acoustics",
+    "eissn": "2624-599X",
+    "abbr": "Acoustics (Basel)"
+  },
+  {
+    "name": "Acoustics Australia",
+    "issn": "0814-6039",
+    "eissn": "1839-2571",
+    "abbr": "Acoust Aust"
+  },
+  {
+    "name": "ACR Open Rheumatology",
+    "eissn": "2578-5745",
+    "abbr": "ACR Open Rheumatol"
+  },
+  {
+    "name": "ACS Applied Bio Materials",
+    "issn": "2576-6422",
+    "eissn": "2576-6422",
+    "abbr": "ACS Appl Bio Mater"
+  },
+  {
+    "name": "ACS Applied Energy Materials",
+    "issn": "2574-0962",
+    "eissn": "2574-0962",
+    "abbr": "ACS Appl Energy Mater"
+  },
+  {
+    "name": "ACS Applied Engineering Materials",
+    "issn": "2771-9545",
+    "eissn": "2771-9545",
+    "abbr": "ACS Appl Eng Mater"
+  },
+  {
+    "name": "ACS Applied Materials & Interfaces",
+    "issn": "1944-8244",
+    "eissn": "1944-8252",
+    "abbr": "ACS Appl Mater Interfaces"
+  },
+  {
+    "name": "ACS Applied Nano Materials",
+    "eissn": "2574-0970",
+    "abbr": "ACS Appl Nano Mater"
+  },
+  {
+    "name": "ACS Applied Optical Materials",
+    "issn": "2771-9855",
+    "eissn": "2771-9855",
+    "abbr": "ACS Appl Opt Mater"
+  },
+  {
+    "name": "ACS Applied Polymer Materials",
+    "issn": "2637-6105",
+    "eissn": "2637-6105",
+    "abbr": "ACS Appl Polym Mater"
+  },
+  {
+    "name": "ACS Bio & Med Chem Au",
+    "eissn": "2694-2437",
+    "abbr": "ACS Bio Med Chem Au"
+  },
+  {
+    "name": "ACS Biomaterials Science & Engineering",
+    "issn": "2373-9878",
+    "eissn": "2373-9878",
+    "abbr": "ACS Biomater Sci Eng"
+  },
+  {
+    "name": "ACS Catalysis",
+    "issn": "2155-5435",
+    "eissn": "2155-5435",
+    "abbr": "ACS Catal"
+  },
+  {
+    "name": "ACS Central Science",
+    "issn": "2374-7943",
+    "eissn": "2374-7951",
+    "abbr": "ACS Cent Sci"
+  },
+  {
+    "name": "ACS Chemical Biology",
+    "issn": "1554-8929",
+    "eissn": "1554-8937",
+    "abbr": "ACS Chem Biol"
+  },
+  {
+    "name": "ACS Chemical Health & Safety",
+    "eissn": "1878-0504",
+    "abbr": "J Chem Health Saf"
+  },
+  {
+    "name": "ACS Chemical Neuroscience",
+    "issn": "1948-7193",
+    "eissn": "1948-7193",
+    "abbr": "ACS Chem Neurosci"
+  },
+  {
+    "name": "ACS Earth and Space Chemistry",
+    "issn": "2472-3452",
+    "eissn": "2472-3452",
+    "abbr": "ACS Earth Space Chem"
+  },
+  {
+    "name": "ACS Energy Letters",
+    "issn": "2380-8195",
+    "eissn": "2380-8195",
+    "abbr": "ACS Energy Lett"
+  },
+  {
+    "name": "ACS Engineering Au",
+    "eissn": "2694-2488",
+    "abbr": "ACS Eng Au"
+  },
+  {
+    "name": "ACS Environmental Au",
+    "eissn": "2694-2518",
+    "abbr": "ACS Environ Au"
+  },
+  {
+    "name": "ACS ES&T Engineering",
+    "eissn": "2690-0645",
+    "abbr": "ACS ES T Eng"
+  },
+  {
+    "name": "ACS ES&T Water",
+    "eissn": "2690-0637",
+    "abbr": "ACS ES T Water"
+  },
+  {
+    "name": "ACS Food Science & Technology",
+    "eissn": "2692-1944",
+    "abbr": "ACS Food Sci Technol"
+  },
+  {
+    "name": "ACS Infectious Diseases",
+    "issn": "2373-8227",
+    "eissn": "2373-8227",
+    "abbr": "ACS Infect Dis"
+  },
+  {
+    "name": "ACS Macro Letters",
+    "eissn": "2161-1653",
+    "abbr": "ACS Macro Lett"
+  },
+  {
+    "name": "ACS Materials Au",
+    "issn": "2694-2461",
+    "eissn": "2694-2461",
+    "abbr": "ACS Mater Au"
+  },
+  {
+    "name": "ACS Materials Letters",
+    "eissn": "2639-4979",
+    "abbr": "ACS Mater Lett"
+  },
+  {
+    "name": "ACS Measurement Science Au",
+    "eissn": "2694-250X",
+    "abbr": "ACS Meas Sci Au"
+  },
+  {
+    "name": "ACS Medicinal Chemistry Letters",
+    "issn": "1948-5875",
+    "eissn": "1948-5875",
+    "abbr": "ACS Med Chem Lett"
+  },
+  {
+    "name": "ACSMS HEALTH & FITNESS JOURNAL",
+    "issn": "1091-5397",
+    "eissn": "1536-593X",
+    "abbr": "ACSMs Health Fit J"
+  },
+  {
+    "name": "ACS Nanoscience Au",
+    "eissn": "2694-2496",
+    "abbr": "ACS Nanosci Au"
+  },
+  {
+    "name": "ACS Organic & Inorganic Au",
+    "issn": "2694-247X",
+    "eissn": "2694-247X",
+    "abbr": "ACS Org Inorg Au"
+  },
+  {
+    "name": "ACS Pharmacology & Translational Science",
+    "eissn": "2575-9108",
+    "abbr": "ACS Pharmacol Transl Sci"
+  },
+  {
+    "name": "ACS Physical Chemistry Au",
+    "eissn": "2694-2445",
+    "abbr": "ACS Phys Chem Au"
+  },
+  {
+    "name": "ACS Polymers Au",
+    "eissn": "2694-2453",
+    "abbr": "ACS Polym Au"
+  },
+  {
+    "name": "ACS Sensors",
+    "issn": "2379-3694",
+    "eissn": "2379-3694",
+    "abbr": "ACS Sens"
+  },
+  {
+    "name": "ACS Sustainable Chemistry & Engineering",
+    "issn": "2168-0485",
+    "eissn": "2168-0485",
+    "abbr": "ACS Sustain Chem Eng"
+  },
+  {
+    "name": "ACS Synthetic Biology",
+    "issn": "2161-5063",
+    "eissn": "2161-5063",
+    "abbr": "ACS Synth Biol"
+  },
+  {
+    "name": "ACTA ACUSTICA",
+    "eissn": "2681-4617",
+    "abbr": "Acta Acust (2020)"
+  },
+  {
+    "name": "ACTA ADRIATICA",
+    "issn": "0001-5113",
+    "eissn": "1846-0453",
+    "abbr": "Acta Adriat"
+  },
+  {
+    "name": "ACTA AGRICULTURAE SCANDINAVICA SECTION A-ANIMAL SCIENCE",
+    "issn": "0906-4702",
+    "eissn": "1651-1972",
+    "abbr": "Acta Agric Scand A Anim Sci"
+  },
+  {
+    "name": "ACTA AGRICULTURAE SCANDINAVICA SECTION B-SOIL AND PLANT SCIENCE",
+    "issn": "0906-4710",
+    "eissn": "1651-1913",
+    "abbr": "Acta Agric Scand B Soil Plant Sci"
+  },
+  {
+    "name": "ACTA AGROBOTANICA",
+    "issn": "0065-0951",
+    "eissn": "2300-357X",
+    "abbr": "Acta Agrobot"
+  },
+  {
+    "name": "ACTA ALIMENTARIA",
+    "issn": "0139-3006",
+    "eissn": "1588-2535",
+    "abbr": "Acta Aliment"
+  },
+  {
+    "name": "ACTA AMAZONICA",
+    "issn": "0044-5967",
+    "eissn": "1809-4392",
+    "abbr": "Acta Amazon"
+  },
+  {
+    "name": "ACTA ANAESTHESIOLOGICA BELGICA",
+    "issn": "0001-5164",
+    "eissn": "2736-5239",
+    "abbr": "Acta Anaesthesiol Belg"
+  },
+  {
+    "name": "ACTA ANAESTHESIOLOGICA SCANDINAVICA",
+    "issn": "0001-5172",
+    "eissn": "1399-6576",
+    "abbr": "Acta Anaesthesiol Scand"
+  },
+  {
+    "name": "Acta Analytica-International Periodical for Philosophy in the Analytical Tradition",
+    "issn": "0353-5150",
+    "eissn": "1874-6349",
+    "abbr": "Acta Anal"
+  },
+  {
+    "name": "ACTA APPLICANDAE MATHEMATICAE",
+    "issn": "0167-8019",
+    "eissn": "1572-9036",
+    "abbr": "Acta Appl Math"
+  },
+  {
+    "name": "ACTA ASTRONAUTICA",
+    "issn": "0094-5765",
+    "eissn": "1879-2030",
+    "abbr": "Acta Astronaut"
+  },
+  {
+    "name": "Acta Biochimica et Biophysica Sinica",
+    "issn": "1672-9145",
+    "eissn": "1745-7270",
+    "abbr": "Acta Biochim Biophys Sin (Shanghai)"
+  },
+  {
+    "name": "Acta Bioethica",
+    "issn": "0717-5906",
+    "eissn": "1726-569X",
+    "abbr": "Acta Bioeth"
+  },
+  {
+    "name": "ACTA BIOLOGICA COLOMBIANA",
+    "issn": "0120-548X",
+    "eissn": "1900-1649",
+    "abbr": "Acta Biolo Colomb"
+  },
+  {
+    "name": "ACTA BIOLOGICA CRACOVIENSIA SERIES BOTANICA",
+    "issn": "0001-5296",
+    "eissn": "1898-0295",
+    "abbr": "Acta Biol Crac Ser Bot"
+  },
+  {
+    "name": "Acta Biomaterialia",
+    "issn": "1742-7061",
+    "eissn": "1878-7568",
+    "abbr": "Acta Biomater"
+  },
+  {
+    "name": "ACTA BIOTHEORETICA",
+    "issn": "0001-5342",
+    "eissn": "1572-8358",
+    "abbr": "Acta Biotheor"
+  },
+  {
+    "name": "Acta Botanica Brasilica",
+    "issn": "0102-3306",
+    "eissn": "1677-941X",
+    "abbr": "Acta Bot Brasilica"
+  },
+  {
+    "name": "ACTA BOTANICA CROATICA",
+    "issn": "0365-0588",
+    "eissn": "1847-8476",
+    "abbr": "Acta Bot Croat"
+  },
+  {
+    "name": "ACTA CARDIOLOGICA",
+    "issn": "0001-5385",
+    "eissn": "1784-973X",
+    "abbr": "Acta Cardiol"
+  },
+  {
+    "name": "Acta Cardiologica Sinica",
+    "issn": "1011-6842",
+    "eissn": "1011-6842",
+    "abbr": "Acta Cardiol Sin"
+  },
+  {
+    "name": "ACTA CHIMICA SINICA",
+    "issn": "0567-7351",
+    "abbr": "Huaxue Xuebao"
+  },
+  {
+    "name": "ACTA CHIMICA SLOVENICA",
+    "issn": "1318-0207",
+    "eissn": "1580-3155",
+    "abbr": "Acta Chim Slov"
+  },
+  {
+    "name": "ACTA CHIROPTEROLOGICA",
+    "issn": "1508-1109",
+    "eissn": "1733-5329",
+    "abbr": "Acta Chiropt"
+  },
+  {
+    "name": "Acta Chirurgiae Orthopaedicae et Traumatologiae Cechoslovaca",
+    "issn": "0001-5415",
+    "eissn": "0001-5415",
+    "abbr": "Acta Chir Orthop Traumatol Cech"
+  },
+  {
+    "name": "ACTA CHIRURGICA BELGICA",
+    "issn": "0001-5458",
+    "eissn": "2577-0160",
+    "abbr": "Acta Chir Belg"
+  },
+  {
+    "name": "ACTA CHROMATOGRAPHICA",
+    "issn": "1233-2356",
+    "eissn": "2083-5736",
+    "abbr": "Acta Chromatogr"
+  },
+  {
+    "name": "Acta Cirurgica Brasileira",
+    "issn": "0102-8650",
+    "eissn": "1678-2674",
+    "abbr": "Acta Cir Bras"
+  },
+  {
+    "name": "Acta Classica",
+    "issn": "0065-1141",
+    "eissn": "2227-538X",
+    "abbr": "Acta Cl"
+  },
+  {
+    "name": "ACTA CLINICA BELGICA",
+    "issn": "1784-3286",
+    "eissn": "2295-3337",
+    "abbr": "Acta Clin Belg"
+  },
+  {
+    "name": "Acta Clinica Croatica",
+    "issn": "0353-9466",
+    "eissn": "1333-9451",
+    "abbr": "Acta Clin Croat"
+  },
+  {
+    "name": "Acta Colombiana de Psicologia",
+    "issn": "0123-9155",
+    "eissn": "1909-9711",
+    "abbr": "Acta Colomb Psicol"
+  },
+  {
+    "name": "Acta Crystallographica A-Foundation and Advances",
+    "issn": "2053-2733",
+    "eissn": "2053-2733",
+    "abbr": "Acta Crystallogr A Found Adv"
+  },
+  {
+    "name": "Acta Crystallographica Section B-Structural Science Crystal Engineering and Materials",
+    "eissn": "2052-5206",
+    "abbr": "Acta Crystallogr B Struct Sci Cryst Eng Mater"
+  },
+  {
+    "name": "ACTA CRYSTALLOGRAPHICA SECTION C-STRUCTURAL CHEMISTRY",
+    "issn": "2053-2296",
+    "eissn": "2053-2296",
+    "abbr": "Acta Crystallogr C Struct Chem"
+  },
+  {
+    "name": "Acta Crystallographica Section D-Structural Biology",
+    "issn": "2059-7983",
+    "eissn": "2059-7983",
+    "abbr": "Acta Crystallogr D Struct Biol"
+  },
+  {
+    "name": "Acta Crystallographica Section E-Crystallographic Communications",
+    "issn": "2056-9890",
+    "eissn": "2056-9890",
+    "abbr": "Acta Crystallogr E Crystallogr Commun"
+  },
+  {
+    "name": "Acta Crystallographica Section F-Structural Biology Communications",
+    "eissn": "2053-230X",
+    "abbr": "Acta Crystallogr F Struct Biol Commun"
+  },
+  {
+    "name": "ACTA CYTOLOGICA",
+    "issn": "0001-5547",
+    "eissn": "1938-2650",
+    "abbr": "Acta Cytol"
+  },
+  {
+    "name": "ACTA DERMATO-VENEREOLOGICA",
+    "issn": "0001-5555",
+    "eissn": "1651-2057",
+    "abbr": "Acta Derm Venereol"
+  },
+  {
+    "name": "Acta Dermatovenerologica Alpina Pannonica et Adriatica",
+    "issn": "1318-4458",
+    "eissn": "1581-2979",
+    "abbr": "Acta Dermatovenerol Alp Pannonica Adriat"
+  },
+  {
+    "name": "Acta Dermatovenerologica Croatica",
+    "issn": "1330-027X",
+    "eissn": "1847-6538",
+    "abbr": "Acta Dermatovenerol Croat"
+  },
+  {
+    "name": "ACTA DIABETOLOGICA",
+    "issn": "0940-5429",
+    "eissn": "1432-5233",
+    "abbr": "Acta Diabetol"
+  },
+  {
+    "name": "Acta Endocrinologica-Bucharest",
+    "issn": "1841-0987",
+    "eissn": "1843-066X",
+    "abbr": "Acta Endocrinol (Buchar)"
+  },
+  {
+    "name": "ACTA ENTOMOLOGICA MUSEI NATIONALIS PRAGAE",
+    "issn": "0374-1036",
+    "eissn": "1804-6487",
+    "abbr": "Acta Entomol Mus Natl Pragae"
+  },
+  {
+    "name": "Acta Epileptologica",
+    "issn": "2096-9384",
+    "eissn": "2524-4434",
+    "abbr": "Acta Epileptol"
+  },
+  {
+    "name": "ACTA ETHOLOGICA",
+    "issn": "0873-9749",
+    "eissn": "1437-9546",
+    "abbr": "Acta Ethol"
+  },
+  {
+    "name": "ACTA GASTRO-ENTEROLOGICA BELGICA",
+    "issn": "1784-3227",
+    "eissn": "1784-3227",
+    "abbr": "Acta Gastroenterol Belg"
+  },
+  {
+    "name": "Acta Geotechnica",
+    "issn": "1861-1125",
+    "eissn": "1861-1133",
+    "abbr": "Acta Geotech"
+  },
+  {
+    "name": "ACTA HAEMATOLOGICA",
+    "issn": "0001-5792",
+    "eissn": "1421-9662",
+    "abbr": "Acta Haematol"
+  },
+  {
+    "name": "Acta Herpetologica",
+    "issn": "1827-9635",
+    "eissn": "1827-9643",
+    "abbr": "Acta Herpetol"
+  },
+  {
+    "name": "ACTA HISTOCHEMICA",
+    "issn": "0065-1281",
+    "eissn": "1618-0372",
+    "abbr": "Acta Histochem"
+  },
+  {
+    "name": "ACTA HISTOCHEMICA ET CYTOCHEMICA",
+    "issn": "0044-5991",
+    "eissn": "1347-5800",
+    "abbr": "Acta Histochem Cytochem"
+  },
+  {
+    "name": "ACTA ICHTHYOLOGICA ET PISCATORIA",
+    "issn": "0137-1592",
+    "eissn": "1734-1515",
+    "abbr": "Acta Ichthyol Piscat"
+  },
+  {
+    "name": "Acta IMEKO",
+    "issn": "0237-028X",
+    "eissn": "2221-870X",
+    "abbr": "Acta IMEKO (2012)"
+  },
+  {
+    "name": "ACTA INFORMATICA",
+    "issn": "0001-5903",
+    "eissn": "1432-0525",
+    "abbr": "Acta Inform"
+  },
+  {
+    "name": "ACTA MATERIALIA",
+    "issn": "1359-6454",
+    "eissn": "1873-2453",
+    "abbr": "Acta Mater"
+  },
+  {
+    "name": "Acta Mathematicae Applicatae Sinica-English Series",
+    "issn": "0168-9673",
+    "eissn": "1618-3932",
+    "abbr": "Acta Math Appl Sin"
+  },
+  {
+    "name": "Acta Mathematica Scientia",
+    "issn": "0252-9602",
+    "eissn": "1572-9087",
+    "abbr": "Acta Math Sci"
+  },
+  {
+    "name": "Acta Mathematica Sinica,English Series",
+    "issn": "1439-8516",
+    "eissn": "1439-7617",
+    "abbr": "Acta Math Sin Engl Ser"
+  },
+  {
+    "name": "ACTA MECHANICA",
+    "issn": "0001-5970",
+    "eissn": "1619-6937",
+    "abbr": "Acta Mech"
+  },
+  {
+    "name": "Acta Mechanica Sinica",
+    "issn": "0567-7718",
+    "eissn": "1614-3116",
+    "abbr": "Acta Mech Sin"
+  },
+  {
+    "name": "Acta Mechanica Solida Sinica",
+    "issn": "0894-9166",
+    "eissn": "1860-2134",
+    "abbr": "Acta Mech Solida Sin"
+  },
+  {
+    "name": "Acta Medica Indonesiana",
+    "issn": "0125-9326",
+    "eissn": "2338-2732",
+    "abbr": "Acta Med Indones"
+  },
+  {
+    "name": "Acta Medica Lituanica",
+    "issn": "1392-0138",
+    "eissn": "2029-4174",
+    "abbr": "Acta Med Litu"
+  },
+  {
+    "name": "ACTA MEDICA OKAYAMA",
+    "issn": "0386-300X",
+    "eissn": "0386-300X",
+    "abbr": "Acta Med Okayama"
+  },
+  {
+    "name": "Acta Medica Portuguesa",
+    "issn": "0870-399X",
+    "eissn": "1646-0758",
+    "abbr": "Acta Med Port"
+  },
+  {
+    "name": "Acta Medico-Historica Adriatica",
+    "issn": "1334-4366",
+    "eissn": "1334-6253",
+    "abbr": "Acta Med Hist Adriat"
+  },
+  {
+    "name": "ACTA MICROBIOLOGICA ET IMMUNOLOGICA HUNGARICA",
+    "issn": "1217-8950",
+    "eissn": "1588-2640",
+    "abbr": "Acta Microbiol Immunol Hung"
+  },
+  {
+    "name": "ACTA NEUROBIOLOGIAE EXPERIMENTALIS",
+    "issn": "0065-1400",
+    "eissn": "1689-0035",
+    "abbr": "Acta Neurobiol Exp (Wars)"
+  },
+  {
+    "name": "ACTA NEUROCHIRURGICA",
+    "issn": "0001-6268",
+    "eissn": "0942-0940",
+    "abbr": "Acta Neurochir (Wien)"
+  },
+  {
+    "name": "ACTA NEUROLOGICA BELGICA",
+    "issn": "0300-9009",
+    "eissn": "2240-2993",
+    "abbr": "Acta Neurol Belg"
+  },
+  {
+    "name": "ACTA NEUROLOGICA SCANDINAVICA",
+    "issn": "0001-6314",
+    "eissn": "1600-0404",
+    "abbr": "Acta Neurol Scand"
+  },
+  {
+    "name": "ACTA NEUROPATHOLOGICA",
+    "issn": "0001-6322",
+    "eissn": "1432-0533",
+    "abbr": "Acta Neuropathol"
+  },
+  {
+    "name": "Acta Neuropathologica Communications",
+    "issn": "2051-5960",
+    "eissn": "2051-5960",
+    "abbr": "Acta Neuropathol Commun"
+  },
+  {
+    "name": "ACTA NEUROPSYCHIATRICA",
+    "issn": "0924-2708",
+    "eissn": "1601-5215",
+    "abbr": "Acta Neuropsychiatr"
+  },
+  {
+    "name": "Acta Neuropsychologica",
+    "issn": "1730-7503",
+    "eissn": "2084-4298",
+    "abbr": "Acta Neuropsychol"
+  },
+  {
+    "name": "ACTA OBSTETRICIA ET GYNECOLOGICA SCANDINAVICA",
+    "issn": "0001-6349",
+    "eissn": "1600-0412",
+    "abbr": "Acta Obstet Gynecol Scand"
+  },
+  {
+    "name": "Acta Oceanologica Sinica",
+    "issn": "0253-505X",
+    "eissn": "1869-1099",
+    "abbr": "Hai Yang Xue Bao"
+  },
+  {
+    "name": "ACTA ODONTOLOGICA SCANDINAVICA",
+    "issn": "0001-6357",
+    "eissn": "1502-3850",
+    "abbr": "Acta Odontol Scand"
+  },
+  {
+    "name": "ACTA OECOLOGICA-INTERNATIONAL JOURNAL OF ECOLOGY",
+    "issn": "1146-609X",
+    "eissn": "1873-6238",
+    "abbr": "Acta Oecol (Montrouge)"
+  },
+  {
+    "name": "ACTA OECONOMICA",
+    "issn": "0001-6373",
+    "eissn": "1588-2659",
+    "abbr": "Acta Oecon"
+  },
+  {
+    "name": "Acta of Bioengineering and Biomechanics",
+    "issn": "1509-409X",
+    "eissn": "2450-6303",
+    "abbr": "Acta Bioeng Biomech"
+  },
+  {
+    "name": "ACTA ONCOLOGICA",
+    "issn": "0284-186X",
+    "eissn": "1651-226X",
+    "abbr": "Acta Oncol"
+  },
+  {
+    "name": "ACTA OPHTHALMOLOGICA",
+    "issn": "1755-375X",
+    "eissn": "1755-3768",
+    "abbr": "Acta Ophthalmol Suppl (Oxf )"
+  },
+  {
+    "name": "ACTA ORNITHOLOGICA",
+    "issn": "0001-6454",
+    "eissn": "1734-8471",
+    "abbr": "Annal Zool"
+  },
+  {
+    "name": "Acta Orthopaedica",
+    "issn": "1745-3674",
+    "eissn": "1745-3682",
+    "abbr": "Acta Orthop"
+  },
+  {
+    "name": "Acta Orthopaedica Belgica",
+    "issn": "0001-6462",
+    "eissn": "0001-6462",
+    "abbr": "Acta Orthop Belg"
+  },
+  {
+    "name": "Acta Orthopaedica et Traumatologica Turcica",
+    "issn": "1017-995X",
+    "eissn": "2589-1294",
+    "abbr": "Acta Orthop Traumatol Turc"
+  },
+  {
+    "name": "Acta Ortopedica Brasileira",
+    "issn": "1413-7852",
+    "eissn": "1809-4406",
+    "abbr": "Acta Ortop Bras"
+  },
+  {
+    "name": "ACTA OTO-LARYNGOLOGICA",
+    "issn": "0001-6489",
+    "eissn": "1651-2251",
+    "abbr": "Acta Otolaryngol"
+  },
+  {
+    "name": "Acta Oto-Laryngologica Case Reports",
+    "issn": "2377-2484",
+    "eissn": "2377-2484",
+    "abbr": "Acta Otolaryngol Case Rep"
+  },
+  {
+    "name": "Acta Otorhinolaryngologica Italica",
+    "issn": "0392-100X",
+    "eissn": "1827-675X",
+    "abbr": "Acta Otorhinolaryngol Ital"
+  },
+  {
+    "name": "Acta Otorrinolaringologica Espanola",
+    "issn": "0001-6519",
+    "eissn": "1988-3013",
+    "abbr": "Acta Otorrinolaringol Esp"
+  },
+  {
+    "name": "ACTA PAEDIATRICA",
+    "issn": "0803-5253",
+    "eissn": "1651-2227",
+    "abbr": "Acta Paediatr Suppl"
+  },
+  {
+    "name": "ACTA PALAEONTOLOGICA POLONICA",
+    "issn": "0567-7920",
+    "eissn": "1732-2421",
+    "abbr": "Acta Palaeontol Pol"
+  },
+  {
+    "name": "ACTA PARASITOLOGICA",
+    "issn": "1230-2821",
+    "eissn": "1896-1851",
+    "abbr": "Acta Parasitol"
+  },
+  {
+    "name": "ACTA PHARMACEUTICA",
+    "issn": "1330-0075",
+    "eissn": "1846-9558",
+    "abbr": "Acta Pharm"
+  },
+  {
+    "name": "Acta Pharmaceutica Sinica B",
+    "issn": "2211-3835",
+    "eissn": "2211-3843",
+    "abbr": "Acta Pharm Sin B"
+  },
+  {
+    "name": "Acta Pharmacologica Sinica",
+    "issn": "1671-4083",
+    "eissn": "1745-7254",
+    "abbr": "Acta Pharmacol Sin"
+  },
+  {
+    "name": "ACTA PHYSICA POLONICA A",
+    "issn": "0587-4246",
+    "eissn": "1898-794X",
+    "abbr": "Acta Phys Pol A"
+  },
+  {
+    "name": "ACTA PHYSICO-CHIMICA SINICA",
+    "issn": "1000-6818",
+    "eissn": "1000-6818",
+    "abbr": "Wu Li Hua Xue Xue Bao"
+  },
+  {
+    "name": "ACTA PHYSIOLOGIAE PLANTARUM",
+    "issn": "0137-5881",
+    "eissn": "1861-1664",
+    "abbr": "Acta Physiol Plant"
+  },
+  {
+    "name": "Acta Physiologica",
+    "issn": "1748-1708",
+    "eissn": "1748-1716",
+    "abbr": "Acta Physiol (Oxf)"
+  },
+  {
+    "name": "Acta Phytotaxonomica et Geobotanica",
+    "issn": "1346-7565",
+    "eissn": "2189-7042",
+    "abbr": "APG"
+  },
+  {
+    "name": "Acta Politica",
+    "issn": "0001-6810",
+    "eissn": "1741-1416",
+    "abbr": "Acta Polit"
+  },
+  {
+    "name": "ACTA POLONIAE HISTORICA",
+    "issn": "0001-6829",
+    "eissn": "0001-6829",
+    "abbr": "Acta Pol Hist"
+  },
+  {
+    "name": "ACTA POLONIAE PHARMACEUTICA",
+    "issn": "0001-6837",
+    "eissn": "2353-5288",
+    "abbr": "Acta Pol Pharm"
+  },
+  {
+    "name": "ACTA PROTOZOOLOGICA",
+    "issn": "0065-1583",
+    "eissn": "1689-0027",
+    "abbr": "Acta Protozool"
+  },
+  {
+    "name": "ACTA PSYCHIATRICA SCANDINAVICA",
+    "issn": "0001-690X",
+    "eissn": "1600-0447",
+    "abbr": "Acta Psychiatr Scand"
+  },
+  {
+    "name": "ACTA PSYCHOLOGICA",
+    "issn": "0001-6918",
+    "eissn": "1873-6297",
+    "abbr": "Acta Psychol (Amst)"
+  },
+  {
+    "name": "Acta Psychologica Sinica",
+    "issn": "0439-755X",
+    "abbr": "Xin Li Xue Bao"
+  },
+  {
+    "name": "ACTA RADIOLOGICA",
+    "issn": "0284-1851",
+    "eissn": "1600-0455",
+    "abbr": "Acta Radiol"
+  },
+  {
+    "name": "Acta Radiologica Open",
+    "eissn": "2058-4601",
+    "abbr": "Acta Radiol Open"
+  },
+  {
+    "name": "Acta Scientiae Veterinariae",
+    "issn": "1678-0345",
+    "eissn": "1679-9216",
+    "abbr": "Acta Sci Vet"
+  },
+  {
+    "name": "ACTA SCIENTIARUM-AGRONOMY",
+    "issn": "1679-9275",
+    "eissn": "1807-8621",
+    "abbr": "Acta Sci Agron"
+  },
+  {
+    "name": "ACTA SCIENTIARUM MATHEMATICARUM",
+    "issn": "0001-6969",
+    "eissn": "2064-8316",
+    "abbr": "Acta Sci Math"
+  },
+  {
+    "name": "Acta Scientiarum Polonorum-Technologia Alimentaria",
+    "issn": "1644-0730",
+    "eissn": "1898-9594",
+    "abbr": "Acta Sci Pol Technol Aliment"
+  },
+  {
+    "name": "Actas Dermo-Sifiliograficas",
+    "issn": "0001-7310",
+    "eissn": "1578-2190",
+    "abbr": "Actas Dermosifiliogr (Engl Ed)"
+  },
+  {
+    "name": "ACTAS ESPANOLAS DE PSIQUIATRIA",
+    "issn": "1139-9287",
+    "eissn": "1578-2735",
+    "abbr": "Actas Esp Psiquiatr"
+  },
+  {
+    "name": "ACTA SOCIETATIS BOTANICORUM POLONIAE",
+    "issn": "0001-6977",
+    "eissn": "2083-9480",
+    "abbr": "Acta Soc Bot Pol Pol Tow Bot"
+  },
+  {
+    "name": "ACTA SOCIOLOGICA",
+    "issn": "0001-6993",
+    "eissn": "1502-3869",
+    "abbr": "Acta Sociol"
+  },
+  {
+    "name": "Acta Stomatologica Croatica",
+    "issn": "0001-7019",
+    "eissn": "1846-0410",
+    "abbr": "Acta Stomatol Croat"
+  },
+  {
+    "name": "Actas Urologicas Espanolas",
+    "issn": "0210-4806",
+    "eissn": "1699-7980",
+    "abbr": "Actas Urol Esp"
+  },
+  {
+    "name": "ACTA TROPICA",
+    "issn": "0001-706X",
+    "eissn": "1873-6254",
+    "abbr": "Acta Trop"
+  },
+  {
+    "name": "Acta Universitatis Sapientiae-Mathematica",
+    "issn": "1844-6094",
+    "eissn": "2066-7752",
+    "abbr": "Acta Univ Sapientiae Matem"
+  },
+  {
+    "name": "ACTA VETERINARIA-BEOGRAD",
+    "issn": "0567-8315",
+    "eissn": "1820-7448",
+    "abbr": "Acta Vet (Beogr)"
+  },
+  {
+    "name": "ACTA VETERINARIA BRNO",
+    "issn": "0001-7213",
+    "eissn": "1801-7576",
+    "abbr": "Acta Vet Brno"
+  },
+  {
+    "name": "ACTA VETERINARIA HUNGARICA",
+    "issn": "0236-6290",
+    "eissn": "1588-2705",
+    "abbr": "Acta Vet Hung"
+  },
+  {
+    "name": "ACTA VETERINARIA SCANDINAVICA",
+    "issn": "0044-605X",
+    "eissn": "1751-0147",
+    "abbr": "Acta Vet Scand"
+  },
+  {
+    "name": "ACTA VIROLOGICA",
+    "issn": "0001-723X",
+    "eissn": "1336-2305",
+    "abbr": "Acta Virol"
+  },
+  {
+    "name": "ACTA ZOOLOGICA",
+    "issn": "0001-7272",
+    "eissn": "1463-6395",
+    "abbr": "Acta Zool"
+  },
+  {
+    "name": "ACTA ZOOLOGICA ACADEMIAE SCIENTIARUM HUNGARICAE",
+    "issn": "1217-8837",
+    "abbr": "Acta Zool Academ Sci Hung"
+  },
+  {
+    "name": "ACTA ZOOLOGICA BULGARICA",
+    "issn": "0324-0770",
+    "abbr": "Acta Zool Bulg"
+  },
+  {
+    "name": "ACTES DE LA RECHERCHE EN SCIENCES SOCIALES",
+    "issn": "0335-5322",
+    "eissn": "1955-2564",
+    "abbr": "Actes Rech Sci Soc"
+  },
+  {
+    "name": "Action Research",
+    "issn": "1476-7503",
+    "eissn": "1741-2617",
+    "abbr": "Action Res (Lond)"
+  },
+  {
+    "name": "Activities Adaptation & Aging",
+    "issn": "0192-4788",
+    "eissn": "1544-4368",
+    "abbr": "Act Adapt Aging"
+  },
+  {
+    "name": "Actualidades en Psicologia",
+    "issn": "0258-6444",
+    "eissn": "2215-3535",
+    "abbr": "Actual Psicol"
+  },
+  {
+    "name": "Actualites Pharmaceutiques",
+    "issn": "0515-3700",
+    "eissn": "0515-3700",
+    "abbr": "Actual Pharm"
+  },
+  {
+    "name": "Actualizaciones en Osteologia",
+    "issn": "1669-8975",
+    "eissn": "1669-8983",
+    "abbr": "Actual osteol"
+  },
+  {
+    "name": "ACUPUNCTURE & ELECTRO-THERAPEUTICS RESEARCH",
+    "issn": "0360-1293",
+    "eissn": "2167-9010",
+    "abbr": "Acupunct Electrother Res"
+  },
+  {
+    "name": "Acupuncture and Herbal Medicine",
+    "issn": "2097-0226",
+    "eissn": "2765-8619",
+    "abbr": "Acupunct Herb Med"
+  },
+  {
+    "name": "Acupuncture in Medicine",
+    "issn": "0964-5284",
+    "eissn": "1759-9873",
+    "abbr": "Acupunct Med"
+  },
+  {
+    "name": "Acute and Critical Care",
+    "issn": "2586-6052",
+    "eissn": "2586-6060",
+    "abbr": "Acute Crit Care"
+  },
+  {
+    "name": "Acute Medicine & Surgery",
+    "issn": "2052-8817",
+    "eissn": "2052-8817",
+    "abbr": "Acute Med Surg"
+  },
+  {
+    "name": "ADAPTED PHYSICAL ACTIVITY QUARTERLY",
+    "issn": "0736-5829",
+    "eissn": "1543-2777",
+    "abbr": "Int J Sports Physiol Perform"
+  },
+  {
+    "name": "ADAPTIVE BEHAVIOR",
+    "issn": "1059-7123",
+    "eissn": "1741-2633",
+    "abbr": "Adapt Behav"
+  },
+  {
+    "name": "Adaptive Human Behavior and Physiology",
+    "issn": "2198-7335",
+    "eissn": "2198-7335",
+    "abbr": "Adapt Human Behav Physiol"
+  },
+  {
+    "name": "ADDICTION BIOLOGY",
+    "issn": "1355-6215",
+    "eissn": "1369-1600",
+    "abbr": "Addict Biol"
+  },
+  {
+    "name": "Addiction Neuroscience",
+    "eissn": "2772-3925",
+    "abbr": "Addict Neurosci"
+  },
+  {
+    "name": "ADDICTION RESEARCH & THEORY",
+    "issn": "1606-6359",
+    "eissn": "1476-7392",
+    "abbr": "Addict Res Theory"
+  },
+  {
+    "name": "Addiction Science & Clinical Practice",
+    "issn": "1940-0640",
+    "eissn": "1940-0640",
+    "abbr": "Addict Sci Clin Pract"
+  },
+  {
+    "name": "ADDICTIVE BEHAVIORS",
+    "issn": "0306-4603",
+    "eissn": "1873-6327",
+    "abbr": "Addict Behav"
+  },
+  {
+    "name": "Addictive Behaviors Reports",
+    "eissn": "2352-8532",
+    "abbr": "Addict Behav Rep"
+  },
+  {
+    "name": "ADDICTIVE DISORDERS & THEIR TREATMENT",
+    "issn": "1531-5754",
+    "eissn": "1535-1122",
+    "abbr": "Addict Disord Their Treat"
+  },
+  {
+    "name": "Additive Manufacturing",
+    "issn": "2214-8604",
+    "eissn": "2214-7810",
+    "abbr": "Addit Manuf"
+  },
+  {
+    "name": "Additive Manufacturing Letters",
+    "issn": "2772-3690",
+    "eissn": "2772-3690",
+    "abbr": "Addit Manuf Lett"
+  },
+  {
+    "name": "Ad Hoc Networks",
+    "issn": "1570-8705",
+    "eissn": "1570-8713",
+    "abbr": "Ad Hoc Netw"
+  },
+  {
+    "name": "ADMET and DMPK",
+    "issn": "1848-7718",
+    "eissn": "1848-7718",
+    "abbr": "ADMET DMPK"
+  },
+  {
+    "name": "Administration and Policy in Mental Health and Mental Health Services Research",
+    "issn": "0894-587X",
+    "eissn": "1573-3289",
+    "abbr": "Adm Policy Ment Health"
+  },
+  {
+    "name": "Administration and Society",
+    "issn": "0095-3997",
+    "eissn": "1552-3039",
+    "abbr": "Adm Soc"
+  },
+  {
+    "name": "Administrative Sciences",
+    "eissn": "2076-3387",
+    "abbr": "Adm Sci"
+  },
+  {
+    "name": "Adolescent Health Medicine and Therapeutics",
+    "issn": "1179-318X",
+    "eissn": "1179-318X",
+    "abbr": "Adolesc Health Med Ther"
+  },
+  {
+    "name": "Adolescent Psychiatry",
+    "issn": "2210-6766",
+    "eissn": "2210-6774",
+    "abbr": "Adolesc Psychiatry (Hilversum)"
+  },
+  {
+    "name": "Adolescent Research Review",
+    "issn": "2363-8346",
+    "eissn": "2363-8354",
+    "abbr": "Adolesc Res Rev"
+  },
+  {
+    "name": "Adoption and Fostering",
+    "issn": "0308-5759",
+    "eissn": "1740-469X",
+    "abbr": "Adopt Foster"
+  },
+  {
+    "name": "Adoption Quarterly",
+    "issn": "1092-6755",
+    "eissn": "1544-452X",
+    "abbr": "Adopt Q"
+  },
+  {
+    "name": "ADSORPTION-JOURNAL OF THE INTERNATIONAL ADSORPTION SOCIETY",
+    "issn": "0929-5607",
+    "eissn": "1572-8757",
+    "abbr": "Adsorption (Boston)"
+  },
+  {
+    "name": "ADSORPTION SCIENCE & TECHNOLOGY",
+    "issn": "0263-6174",
+    "eissn": "2048-4038",
+    "abbr": "Adsorp Sci Technol"
+  },
+  {
+    "name": "ADULT EDUCATION QUARTERLY",
+    "issn": "0741-7136",
+    "eissn": "1552-3047",
+    "abbr": "Adult Educ Q (Am Assoc Adult Contin Educ)"
+  },
+  {
+    "name": "Adult Learning",
+    "issn": "1045-1595",
+    "eissn": "2162-4070",
+    "abbr": "Adult Learn (Wash)"
+  },
+  {
+    "name": "Advanced Biology",
+    "issn": "2701-0198",
+    "eissn": "2701-0198",
+    "abbr": "Adv Biol (Weinh)"
+  },
+  {
+    "name": "Advanced Biomedical Research",
+    "issn": "2277-9175",
+    "eissn": "2277-9175",
+    "abbr": "Adv Biomed Res"
+  },
+  {
+    "name": "Advanced Composites and Hybrid Materials",
+    "issn": "2522-0128",
+    "eissn": "2522-0136",
+    "abbr": "Adv Compos Hybrid Mater"
+  },
+  {
+    "name": "ADVANCED DEVICES & INSTRUMENTATION",
+    "eissn": "2767-9713",
+    "abbr": "Adv Devices Instrum"
+  },
+  {
+    "name": "ADVANCED DRUG DELIVERY REVIEWS",
+    "issn": "0169-409X",
+    "eissn": "1872-8294",
+    "abbr": "Adv Drug Deliv Rev"
+  },
+  {
+    "name": "Advanced Electronic Materials",
+    "issn": "2199-160X",
+    "eissn": "2199-160X",
+    "abbr": "Adv Electron Mater"
+  },
+  {
+    "name": "Advanced Emergency Nursing Journal",
+    "issn": "1931-4485",
+    "eissn": "1931-4493",
+    "abbr": "Adv Emerg Nurs J"
+  },
+  {
+    "name": "Advanced Energy Materials",
+    "issn": "1614-6832",
+    "eissn": "1614-6840",
+    "abbr": "Adv Energy Mater"
+  },
+  {
+    "name": "ADVANCED ENGINEERING INFORMATICS",
+    "issn": "1474-0346",
+    "eissn": "1873-5320",
+    "abbr": "Adv Eng Inform"
+  },
+  {
+    "name": "ADVANCED ENGINEERING MATERIALS",
+    "issn": "1438-1656",
+    "eissn": "1527-2648",
+    "abbr": "Adv Eng Mater"
+  },
+  {
+    "name": "Advanced Fiber Materials",
+    "issn": "2524-7921",
+    "eissn": "2524-793X",
+    "abbr": "Adv Fiber Mater"
+  },
+  {
+    "name": "ADVANCED FUNCTIONAL MATERIALS",
+    "issn": "1616-301X",
+    "eissn": "1616-3028",
+    "abbr": "Adv Funct Mater"
+  },
+  {
+    "name": "Advanced Healthcare Materials",
+    "issn": "2192-2640",
+    "eissn": "2192-2659",
+    "abbr": "Adv Healthc Mater"
+  },
+  {
+    "name": "Advanced Intelligent Systems",
+    "eissn": "2640-4567",
+    "abbr": "Adv Intell Syst"
+  },
+  {
+    "name": "Advanced Materials Interfaces",
+    "issn": "2196-7350",
+    "eissn": "2196-7350",
+    "abbr": "Adv Mater Interfaces"
+  },
+  {
+    "name": "Advanced Materials Technologies",
+    "issn": "2365-709X",
+    "eissn": "2365-709X",
+    "abbr": "Adv Mater Technol"
+  },
+  {
+    "name": "Advanced Modeling and Simulation in Engineering Sciences",
+    "eissn": "2213-7467",
+    "abbr": "Adv Model Simul Eng Sci"
+  },
+  {
+    "name": "Advanced NanoBiomed Research",
+    "issn": "2699-9307",
+    "eissn": "2699-9307",
+    "abbr": "Adv Nanobiomed Res"
+  },
+  {
+    "name": "ADVANCED NONLINEAR STUDIES",
+    "issn": "1536-1365",
+    "eissn": "2169-0375",
+    "abbr": "Adv Nonlinear Stud"
+  },
+  {
+    "name": "Advanced Optical Materials",
+    "issn": "2195-1071",
+    "eissn": "2195-1071",
+    "abbr": "Adv Opt Mater"
+  },
+  {
+    "name": "Advanced Optical Technologies",
+    "issn": "2192-8576",
+    "eissn": "2192-8584",
+    "abbr": "Adv Opt Technol"
+  },
+  {
+    "name": "Advanced Pharmaceutical Bulletin",
+    "issn": "2228-5881",
+    "eissn": "2251-7308",
+    "abbr": "Adv Pharm Bull"
+  },
+  {
+    "name": "Advanced Photonics",
+    "eissn": "2577-5421",
+    "abbr": "Adv Photonics"
+  },
+  {
+    "name": "Advanced Photonics Nexus",
+    "issn": "2791-1519",
+    "eissn": "2791-1519",
+    "abbr": "Adv Photonics Nexus"
+  },
+  {
+    "name": "Advanced Photonics Research",
+    "issn": "2699-9293",
+    "eissn": "2699-9293",
+    "abbr": "Adv Photonics Res"
+  },
+  {
+    "name": "ADVANCED POWDER TECHNOLOGY",
+    "issn": "0921-8831",
+    "eissn": "1568-5527",
+    "abbr": "Adv Powder Technol"
+  },
+  {
+    "name": "Advanced Quantum Technologies",
+    "eissn": "2511-9044",
+    "abbr": "Adv Quantum Technol"
+  },
+  {
+    "name": "ADVANCED ROBOTICS",
+    "issn": "0169-1864",
+    "eissn": "1568-5535",
+    "abbr": "Adv Robot"
+  },
+  {
+    "name": "Advanced Science",
+    "eissn": "2198-3844",
+    "abbr": "Adv Sci (Weinh)"
+  },
+  {
+    "name": "Advanced Sensor and Energy Materials",
+    "eissn": "2773-045X",
+    "abbr": "Adv Sens Energy Mater"
+  },
+  {
+    "name": "Advanced Sensor Research",
+    "issn": "2751-1219",
+    "eissn": "2751-1219",
+    "abbr": "Adv Sens Res"
+  },
+  {
+    "name": "Advanced Sustainable Systems",
+    "issn": "2366-7486",
+    "eissn": "2366-7486",
+    "abbr": "Adv Sustain Syst"
+  },
+  {
+    "name": "ADVANCED SYNTHESIS & CATALYSIS",
+    "issn": "1615-4150",
+    "eissn": "1615-4169",
+    "abbr": "Adv Synth Catal"
+  },
+  {
+    "name": "Advanced Theory and Simulations",
+    "eissn": "2513-0390",
+    "abbr": "Adv Theory Simul"
+  },
+  {
+    "name": "Advanced Therapeutics",
+    "eissn": "2366-3987",
+    "abbr": "Adv Ther (Weinh)"
+  },
+  {
+    "name": "Advancements in Life Sciences",
+    "issn": "2310-5380",
+    "eissn": "2310-5380",
+    "abbr": "Adv Life Sci"
+  },
+  {
+    "name": "Advances and Applications in Statistics",
+    "issn": "0972-3617",
+    "eissn": "0972-3617",
+    "abbr": "Adv Appl Stat"
+  },
+  {
+    "name": "Advances in Aerodynamics",
+    "issn": "2097-3462",
+    "eissn": "2524-6992",
+    "abbr": "Adv Aerodyn"
+  },
+  {
+    "name": "Advances in Aircraft and Spacecraft Science",
+    "issn": "2287-528X",
+    "eissn": "2287-5271",
+    "abbr": "Adv Aircr Spacecr Sci"
+  },
+  {
+    "name": "ADVANCES IN ANATOMIC PATHOLOGY",
+    "issn": "1072-4109",
+    "eissn": "1533-4031",
+    "abbr": "Adv Anat Pathol"
+  },
+  {
+    "name": "Advances in Applied Ceramics",
+    "issn": "1743-6753",
+    "eissn": "1743-6761",
+    "abbr": "Adv Appl Ceram"
+  },
+  {
+    "name": "Advances in Applied Clifford Algebras",
+    "issn": "0188-7009",
+    "eissn": "1661-4909",
+    "abbr": "Adv Appl Clifford Algebr"
+  },
+  {
+    "name": "ADVANCES IN APPLIED MATHEMATICS",
+    "issn": "0196-8858",
+    "eissn": "1090-2074",
+    "abbr": "Adv Appl Math"
+  },
+  {
+    "name": "Advances in Applied Mathematics and Mechanics",
+    "issn": "2070-0733",
+    "eissn": "2075-1354",
+    "abbr": "Adv Appl Math Mech"
+  },
+  {
+    "name": "ADVANCES IN APPLIED PROBABILITY",
+    "issn": "0001-8678",
+    "eissn": "1475-6064",
+    "abbr": "Adv Appl Probab"
+  },
+  {
+    "name": "Advances in Atmospheric Sciences",
+    "issn": "0256-1530",
+    "eissn": "1861-9533",
+    "abbr": "Adv Atmos Sci"
+  },
+  {
+    "name": "Advances in Biological Regulation",
+    "issn": "2212-4926",
+    "eissn": "2212-4934",
+    "abbr": "Adv Biol Regul"
+  },
+  {
+    "name": "Advances in Bridge Engineering",
+    "eissn": "2662-5407",
+    "abbr": "Adv Bridge Eng"
+  },
+  {
+    "name": "Advances in Cancer Biology-Metastasis",
+    "eissn": "2667-3940",
+    "abbr": "Adv Cancer Biol Metastasis"
+  },
+  {
+    "name": "ADVANCES IN CHRONIC KIDNEY DISEASE",
+    "issn": "1548-5595",
+    "eissn": "1548-5609",
+    "abbr": "Adv Chronic Kidney Dis"
+  },
+  {
+    "name": "Advances in Civil Engineering Materials",
+    "issn": "2379-1357",
+    "eissn": "2165-3984",
+    "abbr": "Adv Civ Eng Mater"
+  },
+  {
+    "name": "Advances in Clinical and Experimental Medicine",
+    "issn": "1899-5276",
+    "eissn": "2451-2680",
+    "abbr": "Adv Clin Exp Med"
+  },
+  {
+    "name": "Advances in Cognitive Psychology",
+    "issn": "1895-1171",
+    "eissn": "1895-1171",
+    "abbr": "Adv Cogn Psychol"
+  },
+  {
+    "name": "ADVANCES IN COLLOID AND INTERFACE SCIENCE",
+    "issn": "0001-8686",
+    "eissn": "1873-3727",
+    "abbr": "Adv Colloid Interface Sci"
+  },
+  {
+    "name": "ADVANCES IN COMPLEX SYSTEMS",
+    "issn": "0219-5259",
+    "eissn": "1793-6802",
+    "abbr": "Adv Complex Syst"
+  },
+  {
+    "name": "ADVANCES IN COMPUTATIONAL MATHEMATICS",
+    "issn": "1019-7168",
+    "eissn": "1572-9044",
+    "abbr": "Adv Comput Math"
+  },
+  {
+    "name": "Advances in Continuous and Discrete Models",
+    "eissn": "2731-4235",
+    "abbr": "Adv Contin Discret Model"
+  },
+  {
+    "name": "Advances in Data Analysis and Classification",
+    "issn": "1862-5347",
+    "eissn": "1862-5355",
+    "abbr": "Adv Data Anal Classif"
+  },
+  {
+    "name": "Advances in Developing Human Resources",
+    "issn": "1523-4223",
+    "eissn": "1552-3055",
+    "abbr": "Adv Dev Hum Resour"
+  },
+  {
+    "name": "Advances in Dual Diagnosis",
+    "issn": "1757-0972",
+    "eissn": "2042-8324",
+    "abbr": "Adv Dual Diagn"
+  },
+  {
+    "name": "ADVANCES IN ENGINEERING SOFTWARE",
+    "issn": "0965-9978",
+    "eissn": "1873-5339",
+    "abbr": "Adv Eng Softw"
+  },
+  {
+    "name": "ADVANCES IN HEALTH SCIENCES EDUCATION",
+    "issn": "1382-4996",
+    "eissn": "1573-1677",
+    "abbr": "Adv Health Sci Educ Theory Pract"
+  },
+  {
+    "name": "Advances in Integrative Medicine",
+    "issn": "2212-9588",
+    "eissn": "2212-9596",
+    "abbr": "Adv Integr Med"
+  },
+  {
+    "name": "Advances in Kidney Disease and Health",
+    "issn": "2949-8147",
+    "eissn": "2949-8139",
+    "abbr": "Adv Kidney Dis Health"
+  },
+  {
+    "name": "Advances in Laboratory Medicine-Avances en Medicina de Laboratorio",
+    "eissn": "2628-491X",
+    "abbr": "Adv Lab Med"
+  },
+  {
+    "name": "Advances in Life Course Research",
+    "issn": "1569-4909",
+    "eissn": "1879-6974",
+    "abbr": "Adv Life Course Res"
+  },
+  {
+    "name": "Advances in Manufacturing",
+    "issn": "2095-3127",
+    "eissn": "2195-3597",
+    "abbr": "Adv Manuf"
+  },
+  {
+    "name": "ADVANCES IN MATHEMATICS",
+    "issn": "0001-8708",
+    "eissn": "1090-2082",
+    "abbr": "Adv Math (N Y)"
+  },
+  {
+    "name": "Advances in Medical Education and Practice",
+    "issn": "1179-7258",
+    "eissn": "1179-7258",
+    "abbr": "Adv Med Educ Pract"
+  },
+  {
+    "name": "Advances in Medical Sciences",
+    "issn": "1896-1126",
+    "eissn": "1898-4002",
+    "abbr": "Adv Med Sci"
+  },
+  {
+    "name": "Advances in Mental Health",
+    "issn": "1838-7357",
+    "eissn": "1837-4905",
+    "abbr": "Adv Ment Health"
+  },
+  {
+    "name": "Advances in Mental Health and Intellectual Disabilities",
+    "issn": "2044-1282",
+    "eissn": "2044-1290",
+    "abbr": "Adv Ment Health Intellect Disabil"
+  },
+  {
+    "name": "Advances in Methods and Practices in Psychological Science",
+    "issn": "2515-2459",
+    "eissn": "2515-2467",
+    "abbr": "Adv Methods Pract Psychol Sci"
+  },
+  {
+    "name": "Advances in Nano Research",
+    "issn": "2287-237X",
+    "eissn": "2287-2388",
+    "abbr": "Adv Nano Res"
+  },
+  {
+    "name": "Advances in Natural Sciences-Nanoscience and Nanotechnology",
+    "issn": "2043-6254",
+    "eissn": "2043-6262",
+    "abbr": "Adv Nat Sci Nanosci Nanotechnol"
+  },
+  {
+    "name": "Advances in Neonatal Care",
+    "issn": "1536-0903",
+    "eissn": "1536-0911",
+    "abbr": "Adv Neonatal Care"
+  },
+  {
+    "name": "Advances in Neurodevelopmental Disorders",
+    "issn": "2366-7532",
+    "eissn": "2366-7540",
+    "abbr": "Adv Neurodev Disord"
+  },
+  {
+    "name": "ADVANCES IN NURSING SCIENCE",
+    "issn": "0161-9268",
+    "eissn": "1550-5014",
+    "abbr": "ANS Adv Nurs Sci"
+  },
+  {
+    "name": "Advances in Nutrition",
+    "issn": "2161-8313",
+    "eissn": "2156-5376",
+    "abbr": "Adv Nutr"
+  },
+  {
+    "name": "Advances in Operator Theory",
+    "issn": "2662-2009",
+    "eissn": "2538-225X",
+    "abbr": "Adv Oper Theory"
+  },
+  {
+    "name": "Advances in Ophthalmology Practice and Research",
+    "eissn": "2667-3762",
+    "abbr": "Adv Ophthalmol Pract Res"
+  },
+  {
+    "name": "Advances in Optics and Photonics",
+    "issn": "1943-8206",
+    "eissn": "1943-8206",
+    "abbr": "Adv Opt Photonics"
+  },
+  {
+    "name": "Advances in Orthopedics",
+    "issn": "2090-3464",
+    "eissn": "2090-3472",
+    "abbr": "Adv Orthop"
+  },
+  {
+    "name": "Advances in Pharmacological and Pharmaceutical Sciences",
+    "issn": "2633-4682",
+    "eissn": "2633-4690",
+    "abbr": "Adv Pharmacol Pharm Sci"
+  },
+  {
+    "name": "ADVANCES IN PHYSICS",
+    "issn": "0001-8732",
+    "eissn": "1460-6976",
+    "abbr": "Adv Phys"
+  },
+  {
+    "name": "Advances in Physics-X",
+    "issn": "2374-6149",
+    "eissn": "2374-6149",
+    "abbr": "Adv Phys X"
+  },
+  {
+    "name": "ADVANCES IN PHYSIOLOGY EDUCATION",
+    "issn": "1043-4046",
+    "eissn": "1522-1229",
+    "abbr": "Adv Physiol Educ"
+  },
+  {
+    "name": "Advances in Public Health",
+    "issn": "2356-6868",
+    "eissn": "2314-7784",
+    "abbr": "Adv Public Health"
+  },
+  {
+    "name": "Advances in Radiation Oncology",
+    "eissn": "2452-1094",
+    "abbr": "Adv Radiat Oncol"
+  },
+  {
+    "name": "Advances in Redox Research",
+    "eissn": "2667-1379",
+    "abbr": "Adv Redox Res"
+  },
+  {
+    "name": "Advances in Rehabilitation Science and Practice",
+    "issn": "2753-6351",
+    "eissn": "2753-6351",
+    "abbr": "Adv Rehabil Sci Pract"
+  },
+  {
+    "name": "Advances in Respiratory Medicine",
+    "issn": "2451-4934",
+    "eissn": "2543-6031",
+    "abbr": "Adv Respir Med"
+  },
+  {
+    "name": "Advances in Rheumatology",
+    "issn": "2523-3106",
+    "eissn": "2523-3106",
+    "abbr": "Adv Rheumatol"
+  },
+  {
+    "name": "Advances in Skin & Wound Care",
+    "issn": "1527-7941",
+    "eissn": "1538-8654",
+    "abbr": "Adv Skin Wound Care"
+  },
+  {
+    "name": "ADVANCES IN SPACE RESEARCH",
+    "issn": "0273-1177",
+    "eissn": "1879-1948",
+    "abbr": "Adv Space Res"
+  },
+  {
+    "name": "ADVANCES IN THERAPY",
+    "issn": "0741-238X",
+    "eissn": "1865-8652",
+    "abbr": "Adv Ther"
+  },
+  {
+    "name": "Advances in Urology",
+    "issn": "1687-6369",
+    "eissn": "1687-6377",
+    "abbr": "Adv Urol"
+  },
+  {
+    "name": "Advances in Virology",
+    "issn": "1687-8639",
+    "eissn": "1687-8647",
+    "abbr": "Adv Virol"
+  },
+  {
+    "name": "ADVANCES IN WATER RESOURCES",
+    "issn": "0309-1708",
+    "eissn": "1872-9657",
+    "abbr": "Adv Water Resour"
+  },
+  {
+    "name": "Advances in Weed Science",
+    "issn": "2675-9462",
+    "eissn": "2675-9462",
+    "abbr": "Adv Weed Sci"
+  },
+  {
+    "name": "Advances in Wound Care",
+    "issn": "2162-1918",
+    "eissn": "2162-1934",
+    "abbr": "Adv Wound Care (New Rochelle)"
+  },
+  {
+    "name": "Adversity and Resilience Science",
+    "issn": "2662-2424",
+    "eissn": "2662-2416",
+    "abbr": "Advers Resil Sci"
+  },
+  {
+    "name": "AEM Education and Training",
+    "eissn": "2472-5390",
+    "abbr": "AEM Educ Train"
+  },
+  {
+    "name": "Aeolian Research",
+    "issn": "1875-9637",
+    "eissn": "2212-1684",
+    "abbr": "Aeolian Res"
+  },
+  {
+    "name": "Aequationes Mathematicae",
+    "issn": "0001-9054",
+    "eissn": "1420-8903",
+    "abbr": "Aequ Math"
+  },
+  {
+    "name": "AEROBIOLOGIA",
+    "issn": "0393-5965",
+    "eissn": "1573-3025",
+    "abbr": "Aerobiologia (Bologna)"
+  },
+  {
+    "name": "Aerosol and Air Quality Research",
+    "issn": "1680-8584",
+    "eissn": "2071-1409",
+    "abbr": "Aerosol Air Qual Res"
+  },
+  {
+    "name": "AEROSOL SCIENCE AND TECHNOLOGY",
+    "issn": "0278-6826",
+    "eissn": "1521-7388",
+    "abbr": "Aerosol Sci Technol"
+  },
+  {
+    "name": "Aerospace",
+    "eissn": "2226-4310",
+    "abbr": "Aerospace (Basel)"
+  },
+  {
+    "name": "AEROSPACE AMERICA",
+    "issn": "0740-722X",
+    "eissn": "0740-722X",
+    "abbr": "Aerosp Am"
+  },
+  {
+    "name": "Aerospace Medicine and Human Performance",
+    "issn": "2375-6314",
+    "eissn": "2375-6322",
+    "abbr": "Aerosp Med Hum Perform"
+  },
+  {
+    "name": "Aerospace Science and Technology",
+    "issn": "1270-9638",
+    "eissn": "1626-3219",
+    "abbr": "Aerosp Sci Technol"
+  },
+  {
+    "name": "AESTHETIC PLASTIC SURGERY",
+    "issn": "0364-216X",
+    "eissn": "1432-5241",
+    "abbr": "Aesthetic Plast Surg"
+  },
+  {
+    "name": "Aesthetic Surgery Journal",
+    "issn": "1090-820X",
+    "eissn": "1527-330X",
+    "abbr": "Aesthet Surg J"
+  },
+  {
+    "name": "Aesthetic Surgery Journal Open Forum",
+    "eissn": "2631-4797",
+    "abbr": "Aesthet Surg J Open Forum"
+  },
+  {
+    "name": "AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS",
+    "issn": "1434-8411",
+    "eissn": "1618-0399",
+    "abbr": "Int J Electron Commun"
+  },
+  {
+    "name": "AEVUM-RASSEGNA DI SCIENZE STORICHE LINGUISTICHE E FILOLOGICHE",
+    "issn": "0001-9593",
+    "eissn": "1827-787X",
+    "abbr": "Aevum"
+  },
+  {
+    "name": "Affective Science",
+    "issn": "2662-2041",
+    "eissn": "2662-205X",
+    "abbr": "Affect Sci"
+  },
+  {
+    "name": "Affilia-Feminist Inquiry in Social Work",
+    "issn": "0886-1099",
+    "eissn": "1552-3020",
+    "abbr": "Affilia"
+  },
+  {
+    "name": "AFRICA",
+    "issn": "0001-9720",
+    "eissn": "1750-0184",
+    "abbr": "Africa (Lond)"
+  },
+  {
+    "name": "African Affairs",
+    "issn": "0001-9909",
+    "eissn": "1468-2621",
+    "abbr": "Afr Aff (Lond)"
+  },
+  {
+    "name": "African Archaeological Review",
+    "issn": "0263-0338",
+    "eissn": "1572-9842",
+    "abbr": "Afr Archaeol Rev"
+  },
+  {
+    "name": "AFRICAN DEVELOPMENT REVIEW-REVUE AFRICAINE DE DEVELOPPEMENT",
+    "issn": "1017-6772",
+    "eissn": "1467-8268",
+    "abbr": "Afr Dev Rev"
+  },
+  {
+    "name": "AFRICAN ECONOMIC HISTORY",
+    "issn": "0145-2258",
+    "eissn": "2163-9108",
+    "abbr": "Afr Econ Hist"
+  },
+  {
+    "name": "AFRICAN ENTOMOLOGY",
+    "issn": "1021-3589",
+    "eissn": "2254-8854",
+    "abbr": "Afr Zool"
+  },
+  {
+    "name": "African Geographical Review",
+    "issn": "1937-6812",
+    "eissn": "2163-2642",
+    "abbr": "Afr Geogr Rev"
+  },
+  {
+    "name": "African Health Sciences",
+    "issn": "1680-6905",
+    "eissn": "1729-0503",
+    "abbr": "Afr Health Sci"
+  },
+  {
+    "name": "AFRICAN INVERTEBRATES",
+    "issn": "1681-5556",
+    "eissn": "2305-2562",
+    "abbr": "Afr Invertebr"
+  },
+  {
+    "name": "AFRICAN JOURNAL OF AQUATIC SCIENCE",
+    "issn": "1608-5914",
+    "eissn": "1727-9364",
+    "abbr": "Afr J Aquat Sci"
+  },
+  {
+    "name": "African Journal of Disability",
+    "issn": "2223-9170",
+    "eissn": "2226-7220",
+    "abbr": "Afr J Disabil"
+  },
+  {
+    "name": "AFRICAN JOURNAL OF ECOLOGY",
+    "issn": "0141-6707",
+    "eissn": "1365-2028",
+    "abbr": "Afr J Ecol"
+  },
+  {
+    "name": "African Journal of Emergency Medicine",
+    "issn": "2211-419X",
+    "eissn": "2211-4203",
+    "abbr": "Afr J Emerg Med"
+  },
+  {
+    "name": "African Journal of Health Professions Education",
+    "issn": "2078-5127",
+    "eissn": "2078-5127",
+    "abbr": "Afr J Health Prof Educ"
+  },
+  {
+    "name": "AFRICAN JOURNAL OF HERPETOLOGY",
+    "issn": "2156-4574",
+    "eissn": "2153-3660",
+    "abbr": "Afr J Herpetol"
+  },
+  {
+    "name": "African Journal of Laboratory Medicine",
+    "issn": "2225-2002",
+    "eissn": "2225-2010",
+    "abbr": "Afr J Lab Med"
+  },
+  {
+    "name": "AFRICAN JOURNAL OF MARINE SCIENCE",
+    "issn": "1814-232X",
+    "eissn": "1814-2338",
+    "abbr": "Afr J Mar Sci"
+  },
+  {
+    "name": "African Journal of Nursing and Midwifery",
+    "issn": "1682-5055",
+    "eissn": "1682-5055",
+    "abbr": "Afr J Nurs Midwifery"
+  },
+  {
+    "name": "African Journal of Primary Health Care & Family Medicine",
+    "issn": "2071-2928",
+    "eissn": "2071-2936",
+    "abbr": "Afr J Prim Health Care Fam Med"
+  },
+  {
+    "name": "AFRICAN JOURNAL OF RANGE & FORAGE SCIENCE",
+    "issn": "1022-0119",
+    "eissn": "1727-9380",
+    "abbr": "Afr J Range Forage Sci"
+  },
+  {
+    "name": "African Journal of Reproductive Health",
+    "issn": "1118-4841",
+    "eissn": "2141-3606",
+    "abbr": "Afr J Reprod Health"
+  },
+  {
+    "name": "African Journal of Science Technology Innovation & Development",
+    "issn": "2042-1338",
+    "eissn": "2042-1346",
+    "abbr": "Afr J Sci Technol Innov Dev"
+  },
+  {
+    "name": "African Journal of Urology",
+    "issn": "1110-5704",
+    "eissn": "1961-9987",
+    "abbr": "Afr J Urol"
+  },
+  {
+    "name": "African Journal of Wildlife Research",
+    "issn": "2410-7220",
+    "eissn": "2410-8200",
+    "abbr": "Afr J Wildl Res"
+  },
+  {
+    "name": "AFRICAN STUDIES",
+    "issn": "0002-0184",
+    "eissn": "1469-2872",
+    "abbr": "Afr Stud"
+  },
+  {
+    "name": "African Studies Review",
+    "issn": "0002-0206",
+    "eissn": "1555-2462",
+    "abbr": "Afr Stud Rev"
+  },
+  {
+    "name": "AFRICAN ZOOLOGY",
+    "issn": "1562-7020",
+    "eissn": "2224-073X",
+    "abbr": "Afr Zool"
+  },
+  {
+    "name": "AGE AND AGEING",
+    "issn": "0002-0729",
+    "eissn": "1468-2834",
+    "abbr": "Age Ageing"
+  },
+  {
+    "name": "AGEING & SOCIETY",
+    "issn": "0144-686X",
+    "eissn": "1469-1779",
+    "abbr": "Ageing Soc"
+  },
+  {
+    "name": "Ageing International",
+    "issn": "0163-5158",
+    "eissn": "1936-606X",
+    "abbr": "Ageing Int"
+  },
+  {
+    "name": "AGEING RESEARCH REVIEWS",
+    "issn": "1568-1637",
+    "eissn": "1872-9649",
+    "abbr": "Ageing Res Rev"
+  },
+  {
+    "name": "Agenda-Empowering Women for Gender Equity",
+    "issn": "1013-0950",
+    "eissn": "2158-978X",
+    "abbr": "Agenda"
+  },
+  {
+    "name": "Aggregate",
+    "eissn": "2692-4560",
+    "abbr": "Aggregate (Hoboken)"
+  },
+  {
+    "name": "AGGRESSION AND VIOLENT BEHAVIOR",
+    "issn": "1359-1789",
+    "eissn": "1873-6335",
+    "abbr": "Aggress Violent Behav"
+  },
+  {
+    "name": "AGGRESSIVE BEHAVIOR",
+    "issn": "0096-140X",
+    "eissn": "1098-2337",
+    "abbr": "Aggress Behav"
+  },
+  {
+    "name": "Aging and Disease",
+    "issn": "2152-5250",
+    "eissn": "2152-5250",
+    "abbr": "Aging Dis"
+  },
+  {
+    "name": "Aging and Health Research",
+    "eissn": "2667-0321",
+    "abbr": "Aging Health Res"
+  },
+  {
+    "name": "AGING & MENTAL HEALTH",
+    "issn": "1360-7863",
+    "eissn": "1364-6915",
+    "abbr": "Aging Ment Health"
+  },
+  {
+    "name": "AGING CLINICAL AND EXPERIMENTAL RESEARCH",
+    "issn": "1594-0667",
+    "eissn": "1720-8319",
+    "abbr": "Aging Clin Exp Res"
+  },
+  {
+    "name": "Aging Medicine",
+    "eissn": "2475-0360",
+    "abbr": "Aging Med (Milton)"
+  },
+  {
+    "name": "AGING NEUROPSYCHOLOGY AND COGNITION",
+    "issn": "1382-5585",
+    "eissn": "1744-4128",
+    "abbr": "Neuropsychol Dev Cogn B Aging Neuropsychol Cogn"
+  },
+  {
+    "name": "Agrarforschung Schweiz",
+    "issn": "1663-7852",
+    "eissn": "1663-7909",
+    "abbr": "Agrarforsch Schweiz"
+  },
+  {
+    "name": "Agribusiness",
+    "issn": "0742-4477",
+    "eissn": "1520-6297",
+    "abbr": "Agribusiness (N Y N Y)"
+  },
+  {
+    "name": "Agricultural and Food Economics",
+    "eissn": "2193-7532",
+    "abbr": "Agric Food Econ"
+  },
+  {
+    "name": "AGRICULTURAL AND FOREST ENTOMOLOGY",
+    "issn": "1461-9555",
+    "eissn": "1461-9563",
+    "abbr": "Agric For Entomol"
+  },
+  {
+    "name": "AGRICULTURAL AND FOREST METEOROLOGY",
+    "issn": "0168-1923",
+    "eissn": "1873-2240",
+    "abbr": "Agric For Meteorol"
+  },
+  {
+    "name": "Agricultural and Resource Economics Review",
+    "issn": "1068-2805",
+    "eissn": "2372-2614",
+    "abbr": "Agric Resour Econ Rev"
+  },
+  {
+    "name": "AGRICULTURAL ECONOMICS",
+    "issn": "0169-5150",
+    "eissn": "1574-0862",
+    "abbr": "Agric Econ"
+  },
+  {
+    "name": "AGRICULTURAL HISTORY",
+    "issn": "0002-1482",
+    "eissn": "1533-8290",
+    "abbr": "Agric Hist"
+  },
+  {
+    "name": "AGRICULTURAL HISTORY REVIEW",
+    "issn": "0002-1490",
+    "eissn": "0002-1490",
+    "abbr": "Agric Hist Rev"
+  },
+  {
+    "name": "AGRICULTURAL RESEARCH",
+    "issn": "2249-720X",
+    "eissn": "2249-7218",
+    "abbr": "Agric Res"
+  },
+  {
+    "name": "Agricultural Science and Practice",
+    "issn": "2312-3370",
+    "eissn": "2312-3389",
+    "abbr": "Agric Sci Pract"
+  },
+  {
+    "name": "AGRICULTURAL SYSTEMS",
+    "issn": "0308-521X",
+    "eissn": "1873-2267",
+    "abbr": "Agric Syst"
+  },
+  {
+    "name": "Agricultural Water Management",
+    "issn": "0378-3774",
+    "eissn": "1873-2283",
+    "abbr": "Agric Water Manag"
+  },
+  {
+    "name": "Agriculture & Food Security",
+    "eissn": "2048-7010",
+    "abbr": "Agric Food Secur"
+  },
+  {
+    "name": "AGRICULTURE AND HUMAN VALUES",
+    "issn": "0889-048X",
+    "eissn": "1572-8366",
+    "abbr": "Agric Human Values"
+  },
+  {
+    "name": "AGRICULTURE ECOSYSTEMS & ENVIRONMENT",
+    "issn": "0167-8809",
+    "eissn": "1873-2305",
+    "abbr": "Agric Ecosyst Environ"
+  },
+  {
+    "name": "Agri-The Journal of the Turkish Society of Algology",
+    "issn": "1300-0012",
+    "eissn": "1300-0012",
+    "abbr": "Agri"
+  },
+  {
+    "name": "AGROFORESTRY SYSTEMS",
+    "issn": "0167-4366",
+    "eissn": "1572-9680",
+    "abbr": "Agrofor Syst"
+  },
+  {
+    "name": "AgroLife Scientific Journal",
+    "issn": "2285-5718",
+    "eissn": "2286-0126",
+    "abbr": "AgroLife Sci J"
+  },
+  {
+    "name": "AGRONOMIA MESOAMERICANA",
+    "eissn": "2215-3608",
+    "abbr": "Agron Mesoam"
+  },
+  {
+    "name": "Agronomy for Sustainable Development",
+    "issn": "1774-0746",
+    "eissn": "1773-0155",
+    "abbr": "Agron Sustain Dev"
+  },
+  {
+    "name": "AGRONOMY JOURNAL",
+    "issn": "0002-1962",
+    "eissn": "1435-0645",
+    "abbr": "Agron J"
+  },
+  {
+    "name": "Agrosystems Geosciences & Environment",
+    "eissn": "2639-6696",
+    "abbr": "Agrosyst Geosci Environ"
+  },
+  {
+    "name": "AGU Advances",
+    "eissn": "2576-604X",
+    "abbr": "AGU Adv"
+  },
+  {
+    "name": "AI",
+    "eissn": "2673-2688",
+    "abbr": "AI (Basel)"
+  },
+  {
+    "name": "AIAA JOURNAL",
+    "issn": "0001-1452",
+    "eissn": "1533-385X",
+    "abbr": "AIAA J"
+  },
+  {
+    "name": "AI & Society",
+    "issn": "0951-5666",
+    "eissn": "1435-5655",
+    "abbr": "AI Soc"
+  },
+  {
+    "name": "AICHE JOURNAL",
+    "issn": "0001-1541",
+    "eissn": "1547-5905",
+    "abbr": "AIChE J"
+  },
+  {
+    "name": "AIDS AND BEHAVIOR",
+    "issn": "1090-7165",
+    "eissn": "1573-3254",
+    "abbr": "AIDS Behav"
+  },
+  {
+    "name": "AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV",
+    "issn": "0954-0121",
+    "eissn": "1360-0451",
+    "abbr": "AIDS Care"
+  },
+  {
+    "name": "AIDS EDUCATION AND PREVENTION",
+    "issn": "0899-9546",
+    "eissn": "1943-2755",
+    "abbr": "AIDS Educ Prev"
+  },
+  {
+    "name": "AIDS PATIENT CARE AND STDS",
+    "issn": "1087-2914",
+    "eissn": "1557-7449",
+    "abbr": "AIDS Patient Care STDS"
+  },
+  {
+    "name": "AIDS RESEARCH AND HUMAN RETROVIRUSES",
+    "issn": "0889-2229",
+    "eissn": "1931-8405",
+    "abbr": "AIDS Res Hum Retroviruses"
+  },
+  {
+    "name": "AIDS Research and Therapy",
+    "issn": "1742-6405",
+    "eissn": "1742-6405",
+    "abbr": "AIDS Res Ther"
+  },
+  {
+    "name": "AIDS Research and Treatment",
+    "issn": "2090-1240",
+    "eissn": "2090-1259",
+    "abbr": "AIDS Res Treat"
+  },
+  {
+    "name": "AIDS REVIEWS",
+    "issn": "1139-6121",
+    "eissn": "1698-6997",
+    "abbr": "AIDS Rev"
+  },
+  {
+    "name": "AI EDAM-ARTIFICIAL INTELLIGENCE FOR ENGINEERING DESIGN ANALYSIS AND MANUFACTURING",
+    "issn": "0890-0604",
+    "eissn": "1469-1760",
+    "abbr": "Artif Intell Eng Des Anal Manuf"
+  },
+  {
+    "name": "AI MAGAZINE",
+    "issn": "0738-4602",
+    "eissn": "2371-9621",
+    "abbr": "AI Mag"
+  },
+  {
+    "name": "AIMS Allergy and Immunology",
+    "issn": "2575-615X",
+    "eissn": "2575-615X",
+    "abbr": "AIMS Allergy Immunol"
+  },
+  {
+    "name": "AIMS Bioengineering",
+    "issn": "2375-1495",
+    "eissn": "2375-1495",
+    "abbr": "AIMS Bioeng"
+  },
+  {
+    "name": "AIMS Biophysics",
+    "issn": "2377-9098",
+    "eissn": "2377-9098",
+    "abbr": "AIMS Biophys"
+  },
+  {
+    "name": "AIMS Environmental Science",
+    "issn": "2372-0344",
+    "eissn": "2372-0352",
+    "abbr": "AIMS Environ Sci"
+  },
+  {
+    "name": "AIMS Geosciences",
+    "issn": "2471-2132",
+    "eissn": "2471-2132",
+    "abbr": "AIMS Geosci"
+  },
+  {
+    "name": "AIMS Materials Science",
+    "issn": "2372-0468",
+    "eissn": "2372-0484",
+    "abbr": "AIMS Mater Sci"
+  },
+  {
+    "name": "AIMS Mathematics",
+    "eissn": "2473-6988",
+    "abbr": "AIMS Math"
+  },
+  {
+    "name": "AIMS Medical Science",
+    "issn": "2375-1576",
+    "eissn": "2375-1576",
+    "abbr": "AIMS Med Sci"
+  },
+  {
+    "name": "AIMS Microbiology",
+    "issn": "2471-1888",
+    "eissn": "2471-1888",
+    "abbr": "AIMS Microbiol"
+  },
+  {
+    "name": "AIMS Molecular Science",
+    "issn": "2372-0301",
+    "eissn": "2372-0301",
+    "abbr": "AIMS Mol Sci"
+  },
+  {
+    "name": "AIMS Neuroscience",
+    "issn": "2373-8006",
+    "eissn": "2373-7972",
+    "abbr": "AIMS Neurosci"
+  },
+  {
+    "name": "AIP Advances",
+    "eissn": "2158-3226",
+    "abbr": "AIP Adv"
+  },
+  {
+    "name": "Air Quality Atmosphere and Health",
+    "issn": "1873-9318",
+    "eissn": "1873-9326",
+    "abbr": "Air Qual Atmos Health"
+  },
+  {
+    "name": "AJAR-African Journal of AIDS Research",
+    "issn": "1608-5906",
+    "eissn": "1727-9445",
+    "abbr": "Afr J AIDS Res"
+  },
+  {
+    "name": "AJIDD-American Journal on Intellectual and Developmental Disabilities",
+    "issn": "1944-7515",
+    "eissn": "1944-7558",
+    "abbr": "Am J Intellect Dev Disabil"
+  },
+  {
+    "name": "AJOG GLOBAL REPORTS",
+    "eissn": "2666-5778",
+    "abbr": "AJOG Glob Rep"
+  },
+  {
+    "name": "AJP Reports",
+    "issn": "2157-6998",
+    "eissn": "2157-7005",
+    "abbr": "AJP Rep"
+  },
+  {
+    "name": "AJSP-Reviews and Reports",
+    "issn": "2381-5949",
+    "eissn": "2381-652X",
+    "abbr": "AJSP Rev Rep"
+  },
+  {
+    "name": "AJS Review-The Journal of the Association for Jewish Studies",
+    "issn": "0364-0094",
+    "eissn": "1475-4541",
+    "abbr": "AJS Rev"
+  },
+  {
+    "name": "AKTUELLE DERMATOLOGIE",
+    "issn": "0340-2541",
+    "eissn": "1438-938X",
+    "abbr": "Aktuelle Derm"
+  },
+  {
+    "name": "AKTUELLE ERNAHRUNGSMEDIZIN",
+    "issn": "0341-0501",
+    "eissn": "1438-9916",
+    "abbr": "Aktuel Ernahrungsmed"
+  },
+  {
+    "name": "AKTUELLE UROLOGIE",
+    "issn": "0001-7868",
+    "eissn": "1438-8820",
+    "abbr": "Aktuelle Urol"
+  },
+  {
+    "name": "ALBERTA LAW REVIEW",
+    "issn": "0002-4821",
+    "eissn": "1925-8356",
+    "abbr": "Alta Law Rev"
+  },
+  {
+    "name": "ALCOHOL AND ALCOHOLISM",
+    "issn": "0735-0414",
+    "eissn": "1464-3502",
+    "abbr": "Alcohol Alcohol"
+  },
+  {
+    "name": "ALCOHOL-CLINICAL AND EXPERIMENTAL RESEARCH",
+    "eissn": "2993-7175",
+    "abbr": "Alcohol Clin Exp Res (Hoboken)"
+  },
+  {
+    "name": "Alcoholism Treatment Quarterly",
+    "issn": "0734-7324",
+    "eissn": "1544-4538",
+    "abbr": "Alcohol Treat Q"
+  },
+  {
+    "name": "Alcohol Research-Current Reviews",
+    "issn": "1535-7414",
+    "eissn": "1930-0573",
+    "abbr": "Alcohol Res Health"
+  },
+  {
+    "name": "Aleph-Historical Studies in Science & Judaism",
+    "issn": "1565-1525",
+    "eissn": "1565-5423",
+    "abbr": "Aleph (Jerus)"
+  },
+  {
+    "name": "Alexandria Engineering Journal",
+    "issn": "1110-0168",
+    "eissn": "2090-2670",
+    "abbr": "Alex Eng J"
+  },
+  {
+    "name": "Algal Research-Biomass Biofuels and Bioproducts",
+    "issn": "2211-9264",
+    "eissn": "2211-9264",
+    "abbr": "Algal Res"
+  },
+  {
+    "name": "ALGEBRAS AND REPRESENTATION THEORY",
+    "issn": "1386-923X",
+    "eissn": "1572-9079",
+    "abbr": "Algebras Represent Theory"
+  },
+  {
+    "name": "Algorithms for Molecular Biology",
+    "eissn": "1748-7188",
+    "abbr": "Algorithms Mol Biol"
+  },
+  {
+    "name": "ALIMENTARY PHARMACOLOGY & THERAPEUTICS",
+    "issn": "0269-2813",
+    "eissn": "1365-2036",
+    "abbr": "Aliment Pharmacol Ther"
+  },
+  {
+    "name": "Alkoholizm i Narkomania-Alcoholism and Drug Addiction",
+    "issn": "0867-4361",
+    "eissn": "1689-3530",
+    "abbr": "Alkohol Narkom"
+  },
+  {
+    "name": "Allergo Journal",
+    "issn": "0941-8849",
+    "eissn": "2195-6405",
+    "abbr": "Allergo J"
+  },
+  {
+    "name": "ALLERGOLOGIA ET IMMUNOPATHOLOGIA",
+    "issn": "0301-0546",
+    "eissn": "1578-1267",
+    "abbr": "Allergol Immunopathol (Madr)"
+  },
+  {
+    "name": "Allergologie select",
+    "eissn": "2512-8957",
+    "abbr": "Allergol Select"
+  },
+  {
+    "name": "ALLERGOLOGY INTERNATIONAL",
+    "issn": "1323-8930",
+    "eissn": "1440-1592",
+    "abbr": "Allergol Int"
+  },
+  {
+    "name": "ALLERGY AND ASTHMA PROCEEDINGS",
+    "issn": "1088-5412",
+    "eissn": "1539-6304",
+    "abbr": "Allergy Asthma Proc"
+  },
+  {
+    "name": "Allergy & Rhinology",
+    "issn": "2152-6567",
+    "eissn": "2152-6567",
+    "abbr": "Allergy Rhinol (Providence)"
+  },
+  {
+    "name": "Allergy Asthma and Clinical Immunology",
+    "issn": "1710-1492",
+    "eissn": "1710-1492",
+    "abbr": "Allergy Asthma Clin Immunol"
+  },
+  {
+    "name": "Allergy Asthma & Immunology Research",
+    "issn": "2092-7355",
+    "eissn": "2092-7363",
+    "abbr": "Allergy Asthma Immunol Res"
+  },
+  {
+    "name": "Al-Masaq-Journal of the Medieval Mediterranean",
+    "issn": "0950-3110",
+    "eissn": "1473-348X",
+    "abbr": "Masaq"
+  },
+  {
+    "name": "Alpine Botany",
+    "issn": "1664-2201",
+    "eissn": "1664-221X",
+    "abbr": "Alp Bot"
+  },
+  {
+    "name": "Alter-European Journal of Disability Research",
+    "issn": "1875-0672",
+    "eissn": "1875-0680",
+    "abbr": "Alter"
+  },
+  {
+    "name": "Alternative-An International Journal of Indigenous Peoples",
+    "issn": "1177-1801",
+    "eissn": "1174-1740",
+    "abbr": "AlterNative (Nga Pae Maramatanga (Organ))"
+  },
+  {
+    "name": "ALTERNATIVES",
+    "issn": "0304-3754",
+    "eissn": "2163-3150",
+    "abbr": "Alternatives (Boulder)"
+  },
+  {
+    "name": "ALTEX-Alternatives to Animal Experimentation",
+    "issn": "1868-596X",
+    "eissn": "1868-8551",
+    "abbr": "ALTEX"
+  },
+  {
+    "name": "ALZHEIMER DISEASE & ASSOCIATED DISORDERS",
+    "issn": "0893-0341",
+    "eissn": "0893-0341",
+    "abbr": "Alzheimer Dis Assoc Disord"
+  },
+  {
+    "name": "Alzheimers & Dementia",
+    "issn": "1552-5260",
+    "eissn": "1552-5279",
+    "abbr": "Alzheimers Dement"
+  },
+  {
+    "name": "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring",
+    "eissn": "2352-8729",
+    "abbr": "Alzheimers Dement (Amst)"
+  },
+  {
+    "name": "Alzheimers & Dementia-Translational Research & Clinical Interventions",
+    "eissn": "2352-8737",
+    "abbr": "Alzheimers Dement (N Y)"
+  },
+  {
+    "name": "Alzheimers Research & Therapy",
+    "eissn": "1758-9193",
+    "abbr": "Alzheimers Res Ther"
+  },
+  {
+    "name": "AMA-Agricultural Mechanization in Asia Africa and Latin America",
+    "issn": "0084-5841",
+    "abbr": "Agric Mech Asia Afr Lat Am"
+  },
+  {
+    "name": "AME Case Reports",
+    "issn": "2523-1995",
+    "eissn": "2523-1995",
+    "abbr": "AME Case Rep"
+  },
+  {
+    "name": "AME Medical Journal",
+    "eissn": "2520-0518",
+    "abbr": "AME Med J"
+  },
+  {
+    "name": "AMERASIA JOURNAL",
+    "issn": "0044-7471",
+    "eissn": "0044-7471",
+    "abbr": "Amerasia J"
+  },
+  {
+    "name": "AMERICAN ANNALS OF THE DEAF",
+    "issn": "0002-726X",
+    "eissn": "1543-0375",
+    "abbr": "Am Ann Deaf"
+  },
+  {
+    "name": "AMERICAN ANTHROPOLOGIST",
+    "issn": "0002-7294",
+    "eissn": "1548-1433",
+    "abbr": "Am Anthropol"
+  },
+  {
+    "name": "AMERICAN ANTIQUITY",
+    "issn": "0002-7316",
+    "eissn": "2325-5064",
+    "abbr": "Am Antiq"
+  },
+  {
+    "name": "American Behavioral Scientist",
+    "issn": "0002-7642",
+    "eissn": "1552-3381",
+    "abbr": "Am Behav Sci"
+  },
+  {
+    "name": "AMERICAN BIOLOGY TEACHER",
+    "issn": "0002-7685",
+    "eissn": "1938-4211",
+    "abbr": "Am Biol Teach"
+  },
+  {
+    "name": "AMERICAN CRIMINAL LAW REVIEW",
+    "issn": "0164-0364",
+    "eissn": "0164-0364",
+    "abbr": "Am Crim Law Rev"
+  },
+  {
+    "name": "American Economic Journal-Applied Economics",
+    "issn": "1945-7782",
+    "eissn": "1945-7790",
+    "abbr": "Am Econ J Appl Econ"
+  },
+  {
+    "name": "American Economic Journal-Economic Policy",
+    "issn": "1945-7731",
+    "eissn": "1945-774X",
+    "abbr": "Am Econ J Econ Policy"
+  },
+  {
+    "name": "American Economic Journal-Macroeconomics",
+    "issn": "1945-7707",
+    "eissn": "1945-7715",
+    "abbr": "Am Econ J Macroecon"
+  },
+  {
+    "name": "American Economic Journal-Microeconomics",
+    "issn": "1945-7669",
+    "eissn": "1945-7685",
+    "abbr": "Am Econ J Microecon"
+  },
+  {
+    "name": "American Economic Review-Insights",
+    "issn": "2640-205X",
+    "eissn": "2640-2068",
+    "abbr": "Am Econ Rev Insights"
+  },
+  {
+    "name": "AMERICAN EDUCATIONAL RESEARCH JOURNAL",
+    "issn": "0002-8312",
+    "eissn": "1935-1011",
+    "abbr": "Am Educ Res J"
+  },
+  {
+    "name": "AMERICAN ETHNOLOGIST",
+    "issn": "0094-0496",
+    "eissn": "1548-1425",
+    "abbr": "Am Ethnol"
+  },
+  {
+    "name": "AMERICAN FAMILY PHYSICIAN",
+    "issn": "0002-838X",
+    "eissn": "1532-0650",
+    "abbr": "Am Fam Physician"
+  },
+  {
+    "name": "AMERICAN FERN JOURNAL",
+    "issn": "0002-8444",
+    "eissn": "1938-422X",
+    "abbr": "Am Fern J"
+  },
+  {
+    "name": "American Health and Drug Benefits",
+    "issn": "1942-2962",
+    "eissn": "1942-2970",
+    "abbr": "Am Health Drug Benefits"
+  },
+  {
+    "name": "AMERICAN HEART JOURNAL",
+    "issn": "0002-8703",
+    "eissn": "1097-6744",
+    "abbr": "Am Heart J"
+  },
+  {
+    "name": "American Heart Journal Plus: Cardiology Research and Practice",
+    "eissn": "2666-6022",
+    "abbr": "Am Heart J Plus"
+  },
+  {
+    "name": "AMERICAN HISTORICAL REVIEW",
+    "issn": "0002-8762",
+    "eissn": "1937-5239",
+    "abbr": "Am Hist Rev"
+  },
+  {
+    "name": "AMERICAN IMAGO",
+    "issn": "0065-860X",
+    "eissn": "1085-7931",
+    "abbr": "Am Imago"
+  },
+  {
+    "name": "AMERICAN INDIAN AND ALASKA NATIVE MENTAL HEALTH RESEARCH",
+    "issn": "1533-7731",
+    "eissn": "1533-7731",
+    "abbr": "Am Indian Alsk Native Ment Health Res"
+  },
+  {
+    "name": "AMERICAN INDIAN CULTURE AND RESEARCH JOURNAL",
+    "issn": "0161-6463",
+    "eissn": "0161-6463",
+    "abbr": "Am Indian Cult Res J"
+  },
+  {
+    "name": "AMERICAN JEWISH HISTORY",
+    "issn": "0164-0178",
+    "eissn": "1086-3141",
+    "abbr": "Am Jew Hist"
+  },
+  {
+    "name": "American Journal of Agricultural Economics",
+    "issn": "0002-9092",
+    "eissn": "1467-8276",
+    "abbr": "Am J Agric Econ"
+  },
+  {
+    "name": "American Journal of Alzheimers Disease and Other Dementias",
+    "issn": "1533-3175",
+    "eissn": "1938-2731",
+    "abbr": "Am J Alzheimers Dis Other Demen"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF ARCHAEOLOGY",
+    "issn": "0002-9114",
+    "eissn": "1939-828X",
+    "abbr": "Am J Cardiol"
+  },
+  {
+    "name": "American Journal of Audiology",
+    "issn": "1059-0889",
+    "eissn": "1558-9137",
+    "abbr": "Am J Audiol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF BIOETHICS",
+    "issn": "1526-5161",
+    "eissn": "1536-0075",
+    "abbr": "Am J Bioeth"
+  },
+  {
+    "name": "American Journal of Biological Anthropology",
+    "issn": "2692-7691",
+    "eissn": "2692-7691",
+    "abbr": "Am J Biol Anthropol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF BOTANY",
+    "issn": "0002-9122",
+    "eissn": "1537-2197",
+    "abbr": "Am J Bot"
+  },
+  {
+    "name": "American Journal of Cancer Research",
+    "issn": "2156-6976",
+    "eissn": "2156-6976",
+    "abbr": "Am J Cancer Res"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF CARDIOLOGY",
+    "issn": "0002-9149",
+    "eissn": "1879-1913",
+    "abbr": "Am J Cardiol"
+  },
+  {
+    "name": "American Journal of Cardiovascular Disease",
+    "issn": "2160-200X",
+    "eissn": "2160-200X",
+    "abbr": "Am J Cardiovasc Dis"
+  },
+  {
+    "name": "American Journal of Cardiovascular Drugs",
+    "issn": "1175-3277",
+    "eissn": "1179-187X",
+    "abbr": "Am J Cardiovasc Drugs"
+  },
+  {
+    "name": "American Journal of Case Reports",
+    "eissn": "1941-5923",
+    "abbr": "Am J Case Rep"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF CHINESE MEDICINE",
+    "issn": "0192-415X",
+    "eissn": "1793-6853",
+    "abbr": "Am J Chin Med"
+  },
+  {
+    "name": "American Journal of Clinical and Experimental Immunology",
+    "eissn": "2164-7712",
+    "abbr": "Am J Clin Exp Immunol"
+  },
+  {
+    "name": "American Journal of Clinical and Experimental Urology",
+    "issn": "2330-1910",
+    "eissn": "2330-1910",
+    "abbr": "Am J Clin Exp Urol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF CLINICAL DERMATOLOGY",
+    "issn": "1175-0561",
+    "eissn": "1179-1888",
+    "abbr": "Am J Clin Dermatol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF CLINICAL HYPNOSIS",
+    "issn": "0002-9157",
+    "eissn": "2160-0562",
+    "abbr": "Am J Clin Hypn"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF CLINICAL NUTRITION",
+    "issn": "0002-9165",
+    "eissn": "1938-3207",
+    "abbr": "Am J Clin Nutr"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF CLINICAL ONCOLOGY-CANCER CLINICAL TRIALS",
+    "issn": "0277-3732",
+    "eissn": "1537-453X",
+    "abbr": "Am J Clin Oncol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF CLINICAL PATHOLOGY",
+    "issn": "0002-9173",
+    "eissn": "1943-7722",
+    "abbr": "Am J Clin Pathol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF COMMUNITY PSYCHOLOGY",
+    "issn": "0091-0562",
+    "eissn": "1573-2770",
+    "abbr": "Am J Community Psychol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF COMPARATIVE LAW",
+    "issn": "0002-919X",
+    "eissn": "2326-9197",
+    "abbr": "Am J Comp Law"
+  },
+  {
+    "name": "American Journal of Criminal Justice",
+    "issn": "1066-2316",
+    "eissn": "1936-1351",
+    "abbr": "Am J Crim Justice"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF CRITICAL CARE",
+    "issn": "1062-3264",
+    "eissn": "1937-710X",
+    "abbr": "Am J Crit Care"
+  },
+  {
+    "name": "American Journal of Cultural Sociology",
+    "issn": "2049-7113",
+    "eissn": "2049-7121",
+    "abbr": "Am J Cult Sociol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF DANCE THERAPY",
+    "issn": "0146-3721",
+    "eissn": "1573-3262",
+    "abbr": "Am J Dance Ther"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF DENTISTRY",
+    "issn": "0894-8275",
+    "abbr": "Am J Dent"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF DERMATOPATHOLOGY",
+    "issn": "0193-1091",
+    "eissn": "1533-0311",
+    "abbr": "Am J Dermatopathol"
+  },
+  {
+    "name": "American Journal of Distance Education",
+    "issn": "0892-3647",
+    "eissn": "1538-9286",
+    "abbr": "Am J Distance Educ"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE",
+    "issn": "0095-2990",
+    "eissn": "1097-9891",
+    "abbr": "Am J Drug Alcohol Abuse"
+  },
+  {
+    "name": "American Journal of Economics and Sociology",
+    "issn": "0002-9246",
+    "eissn": "1536-7150",
+    "abbr": "Am J Econ Sociol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF EDUCATION",
+    "issn": "0195-6744",
+    "eissn": "1549-6511",
+    "abbr": "Am J Educ (Chic Ill)"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF EMERGENCY MEDICINE",
+    "issn": "0735-6757",
+    "eissn": "1532-8171",
+    "abbr": "Am J Emerg Med"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF ENOLOGY AND VITICULTURE",
+    "issn": "0002-9254",
+    "eissn": "1943-7749",
+    "abbr": "Am J Enol Vitic"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF EPIDEMIOLOGY",
+    "issn": "0002-9262",
+    "eissn": "1476-6256",
+    "abbr": "Am J Epidemiol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF EVALUATION",
+    "issn": "1098-2140",
+    "eissn": "1557-0878",
+    "abbr": "Am J Eval"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF FAMILY THERAPY",
+    "issn": "0192-6187",
+    "eissn": "1521-0383",
+    "abbr": "Am J Fam Ther"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY",
+    "issn": "0195-7910",
+    "eissn": "1533-404X",
+    "abbr": "Am J Forensic Med Pathol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF GASTROENTEROLOGY",
+    "issn": "0002-9270",
+    "eissn": "1572-0241",
+    "abbr": "Am J Gastroenterol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF GERIATRIC PSYCHIATRY",
+    "issn": "1064-7481",
+    "eissn": "1545-7214",
+    "abbr": "Am J Geriatr Psychiatry"
+  },
+  {
+    "name": "American Journal of Health Economics",
+    "issn": "2332-3493",
+    "eissn": "2332-3507",
+    "abbr": "Am J Health Econ"
+  },
+  {
+    "name": "American Journal of Health Education",
+    "issn": "1932-5037",
+    "eissn": "2168-3751",
+    "abbr": "Am J Health Educ"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF HEALTH PROMOTION",
+    "issn": "0890-1171",
+    "eissn": "2168-6602",
+    "abbr": "Am J Health Promot"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF HEALTH-SYSTEM PHARMACY",
+    "issn": "1079-2082",
+    "eissn": "1535-2900",
+    "abbr": "Am J Health Syst Pharm"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF HEMATOLOGY",
+    "issn": "0361-8609",
+    "eissn": "1096-8652",
+    "abbr": "Am J Hematol"
+  },
+  {
+    "name": "American Journal of Hospice & Palliative Medicine",
+    "issn": "1049-9091",
+    "eissn": "1938-2715",
+    "abbr": "Am J Hosp Palliat Care"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF HUMAN BIOLOGY",
+    "issn": "1042-0533",
+    "eissn": "1520-6300",
+    "abbr": "Am J Hum Biol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF HUMAN GENETICS",
+    "issn": "0002-9297",
+    "eissn": "1537-6605",
+    "abbr": "Am J Hum Genet"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF HYPERTENSION",
+    "issn": "0895-7061",
+    "eissn": "1941-7225",
+    "abbr": "Am J Hypertens"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF INDUSTRIAL MEDICINE",
+    "issn": "0271-3586",
+    "eissn": "1097-0274",
+    "abbr": "Am J Ind Med"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF INFECTION CONTROL",
+    "issn": "0196-6553",
+    "eissn": "1527-3296",
+    "abbr": "Am J Infect Control"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF INTERNATIONAL LAW",
+    "issn": "0002-9300",
+    "eissn": "2161-7953",
+    "abbr": "Am J Int Law"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF KIDNEY DISEASES",
+    "issn": "0272-6386",
+    "eissn": "1523-6838",
+    "abbr": "Am J Kidney Dis"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF LAW & MEDICINE",
+    "issn": "0098-8588",
+    "eissn": "2375-835X",
+    "abbr": "Am J Law Med"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF LEGAL HISTORY",
+    "issn": "0002-9319",
+    "eissn": "2161-797X",
+    "abbr": "Am J Leg Hist"
+  },
+  {
+    "name": "American Journal of Lifestyle Medicine",
+    "issn": "1559-8276",
+    "eissn": "1559-8284",
+    "abbr": "Am J Lifestyle Med"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF MANAGED CARE",
+    "issn": "1088-0224",
+    "eissn": "1936-2692",
+    "abbr": "Am J Manag Care"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF MEDICAL GENETICS PART A",
+    "issn": "1552-4825",
+    "eissn": "1552-4833",
+    "abbr": "Am J Med Genet A"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF MEDICAL GENETICS PART B-NEUROPSYCHIATRIC GENETICS",
+    "issn": "1552-4841",
+    "eissn": "1552-485X",
+    "abbr": "Am J Med Genet B Neuropsychiatr Genet"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF MEDICAL GENETICS PART C-SEMINARS IN MEDICAL GENETICS",
+    "issn": "1552-4868",
+    "eissn": "1552-4876",
+    "abbr": "Am J Med Genet C Semin Med Genet"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF MEDICAL QUALITY",
+    "issn": "1062-8606",
+    "eissn": "1555-824X",
+    "abbr": "Am J Med Qual"
+  },
+  {
+    "name": "American Journal of Medicine",
+    "issn": "0002-9343",
+    "eissn": "1555-7162",
+    "abbr": "Am J Med"
+  },
+  {
+    "name": "American Journal of Mens Health",
+    "issn": "1557-9883",
+    "eissn": "1557-9891",
+    "abbr": "Am J Mens Health"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF NEPHROLOGY",
+    "issn": "0250-8095",
+    "eissn": "1421-9670",
+    "abbr": "Am J Nephrol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF NEURORADIOLOGY",
+    "issn": "0195-6108",
+    "eissn": "1936-959X",
+    "abbr": "AJNR Am J Neuroradiol"
+  },
+  {
+    "name": "American Journal of Nuclear Medicine and Molecular Imaging",
+    "issn": "2160-8407",
+    "eissn": "2160-8407",
+    "abbr": "Am J Nucl Med Mol Imaging"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF NURSING",
+    "issn": "0002-936X",
+    "eissn": "1538-7488",
+    "abbr": "Am J Nurs"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF OBSTETRICS AND GYNECOLOGY",
+    "issn": "0002-9378",
+    "eissn": "1097-6868",
+    "abbr": "Am J Obstet Gynecol"
+  },
+  {
+    "name": "American Journal of Obstetrics & Gynecology MFM",
+    "issn": "2589-9333",
+    "eissn": "2589-9333",
+    "abbr": "Am J Obstet Gynecol MFM"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF OCCUPATIONAL THERAPY",
+    "issn": "0272-9490",
+    "eissn": "1943-7676",
+    "abbr": "Am J Occup Ther"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF OPHTHALMOLOGY",
+    "issn": "0002-9394",
+    "eissn": "1879-1891",
+    "abbr": "Am J Ophthalmol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF ORTHODONTICS AND DENTOFACIAL ORTHOPEDICS",
+    "issn": "0889-5406",
+    "eissn": "1097-6752",
+    "abbr": "Am J Orthod Dentofacial Orthop"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF ORTHOPSYCHIATRY",
+    "issn": "0002-9432",
+    "eissn": "1939-0025",
+    "abbr": "Am J Orthopsychiatry"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF OTOLARYNGOLOGY",
+    "issn": "0196-0709",
+    "eissn": "1532-818X",
+    "abbr": "Am J Otolaryngol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PATHOLOGY",
+    "issn": "0002-9440",
+    "eissn": "1525-2191",
+    "abbr": "Am J Pathol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PERINATOLOGY",
+    "issn": "0735-1631",
+    "eissn": "1098-8785",
+    "abbr": "Am J Perinatol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PHARMACEUTICAL EDUCATION",
+    "issn": "0002-9459",
+    "eissn": "1553-6467",
+    "abbr": "Am J Pharm Educ"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PHILOLOGY",
+    "issn": "0002-9475",
+    "eissn": "1086-3168",
+    "abbr": "Am J Philol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PHYSICAL MEDICINE & REHABILITATION",
+    "issn": "0894-9115",
+    "eissn": "1537-7385",
+    "abbr": "Am J Phys Med Rehabil"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PHYSICS",
+    "issn": "0002-9505",
+    "eissn": "1943-2909",
+    "abbr": "Am J Phys"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PHYSIOLOGY-CELL PHYSIOLOGY",
+    "issn": "0363-6143",
+    "eissn": "1522-1563",
+    "abbr": "Am J Physiol Cell Physiol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PHYSIOLOGY-ENDOCRINOLOGY AND METABOLISM",
+    "issn": "0193-1849",
+    "eissn": "1522-1555",
+    "abbr": "Am J Physiol Endocrinol Metab"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PHYSIOLOGY-GASTROINTESTINAL AND LIVER PHYSIOLOGY",
+    "issn": "0193-1857",
+    "eissn": "1522-1547",
+    "abbr": "Am J Physiol Gastrointest Liver Physiol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PHYSIOLOGY-HEART AND CIRCULATORY PHYSIOLOGY",
+    "issn": "0363-6135",
+    "eissn": "1522-1539",
+    "abbr": "Am J Physiol Heart Circ Physiol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PHYSIOLOGY-LUNG CELLULAR AND MOLECULAR PHYSIOLOGY",
+    "issn": "1040-0605",
+    "eissn": "1522-1504",
+    "abbr": "Am J Physiol Lung Cell Mol Physiol"
+  },
+  {
+    "name": "American Journal of Physiology-Regulatory, Integrative and Comparative Physiology",
+    "issn": "0363-6119",
+    "eissn": "1522-1490",
+    "abbr": "Am J Physiol Regul Integr Comp Physiol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PHYSIOLOGY-RENAL PHYSIOLOGY",
+    "issn": "1931-857X",
+    "eissn": "1522-1466",
+    "abbr": "Am J Physiol Renal Physiol"
+  },
+  {
+    "name": "American Journal of Play",
+    "issn": "1938-0399",
+    "eissn": "1938-0402",
+    "abbr": "Am J Play"
+  },
+  {
+    "name": "American Journal of Political Science",
+    "issn": "0092-5853",
+    "eissn": "1540-5907",
+    "abbr": "Am J Pol Sci"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF POTATO RESEARCH",
+    "issn": "1099-209X",
+    "eissn": "1874-9380",
+    "abbr": "Am J Potato Res"
+  },
+  {
+    "name": "American Journal of Preventive Cardiology",
+    "issn": "2666-6677",
+    "eissn": "2666-6677",
+    "abbr": "Am J Prev Cardiol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PREVENTIVE MEDICINE",
+    "issn": "0749-3797",
+    "eissn": "1873-2607",
+    "abbr": "Am J Prev Med"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PRIMATOLOGY",
+    "issn": "0275-2565",
+    "eissn": "1098-2345",
+    "abbr": "Am J Primatol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PSYCHIATRY",
+    "issn": "0002-953X",
+    "eissn": "1535-7228",
+    "abbr": "Am J Psychiatry"
+  },
+  {
+    "name": "American Journal of Psychology",
+    "issn": "0002-9556",
+    "eissn": "1939-8298",
+    "abbr": "Am J Psychol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PSYCHOTHERAPY",
+    "issn": "0002-9564",
+    "eissn": "2575-6559",
+    "abbr": "Am J Psychother"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF PUBLIC HEALTH",
+    "issn": "0090-0036",
+    "eissn": "1541-0048",
+    "abbr": "Am J Public Health"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF REPRODUCTIVE IMMUNOLOGY",
+    "issn": "1046-7408",
+    "eissn": "1600-0897",
+    "abbr": "Am J Reprod Immunol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE",
+    "issn": "1073-449X",
+    "eissn": "1535-4970",
+    "abbr": "Am J Respir Crit Care Med"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF RESPIRATORY CELL AND MOLECULAR BIOLOGY",
+    "issn": "1044-1549",
+    "eissn": "1535-4989",
+    "abbr": "Am J Respir Cell Mol Biol"
+  },
+  {
+    "name": "American Journal of Rhinology & Allergy",
+    "issn": "1945-8924",
+    "eissn": "1945-8932",
+    "abbr": "Am J Rhinol Allergy"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF ROENTGENOLOGY",
+    "issn": "0361-803X",
+    "eissn": "1546-3141",
+    "abbr": "AJR Am J Roentgenol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF SCIENCE",
+    "issn": "0002-9599",
+    "eissn": "1945-452X",
+    "abbr": "Am J Sci"
+  },
+  {
+    "name": "American Journal of Sexuality Education",
+    "issn": "1554-6128",
+    "eissn": "1554-6136",
+    "abbr": "Am J Sex Educ"
+  },
+  {
+    "name": "American Journal of Sociology",
+    "issn": "0002-9602",
+    "eissn": "1537-5390",
+    "abbr": "AJS"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF SPEECH-LANGUAGE PATHOLOGY",
+    "issn": "1058-0360",
+    "eissn": "1558-9110",
+    "abbr": "Am J Speech Lang Pathol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF SPORTS MEDICINE",
+    "issn": "0363-5465",
+    "eissn": "1552-3365",
+    "abbr": "Am J Sports Med"
+  },
+  {
+    "name": "American Journal of Stem Cells",
+    "issn": "2160-4150",
+    "eissn": "2160-4150",
+    "abbr": "Am J Stem Cells"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF SURGERY",
+    "issn": "0002-9610",
+    "eissn": "1879-1883",
+    "abbr": "Am J Surg"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF SURGICAL PATHOLOGY",
+    "issn": "0147-5185",
+    "eissn": "1532-0979",
+    "abbr": "Am J Surg Pathol"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF THE MEDICAL SCIENCES",
+    "issn": "0002-9629",
+    "eissn": "1538-2990",
+    "abbr": "Am J Med Sci"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF THERAPEUTICS",
+    "issn": "1075-2765",
+    "eissn": "1536-3686",
+    "abbr": "Am J Ther"
+  },
+  {
+    "name": "American Journal of Translational Research",
+    "issn": "1943-8141",
+    "eissn": "1943-8141",
+    "abbr": "Am J Transl Res"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF TRANSPLANTATION",
+    "issn": "1600-6135",
+    "eissn": "1600-6143",
+    "abbr": "Am J Transplant"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE",
+    "issn": "0002-9637",
+    "eissn": "1476-1645",
+    "abbr": "Am J Trop Med Hyg"
+  },
+  {
+    "name": "AMERICAN JOURNAL OF VETERINARY RESEARCH",
+    "issn": "0002-9645",
+    "eissn": "1943-5681",
+    "abbr": "Am J Vet Res"
+  },
+  {
+    "name": "AMERICAN JOURNAL ON ADDICTIONS",
+    "issn": "1055-0496",
+    "eissn": "1521-0391",
+    "abbr": "Am J Addict"
+  },
+  {
+    "name": "AMERICAN LITERARY HISTORY",
+    "issn": "0896-7148",
+    "eissn": "1468-4365",
+    "abbr": "Am lit Hist"
+  },
+  {
+    "name": "American Literary Scholarship",
+    "issn": "0065-9142",
+    "eissn": "1527-2125",
+    "abbr": "J Pers"
+  },
+  {
+    "name": "AMERICAN LITERATURE",
+    "issn": "0002-9831",
+    "eissn": "1527-2117",
+    "abbr": "Am Lit"
+  },
+  {
+    "name": "AMERICAN MALACOLOGICAL BULLETIN",
+    "issn": "0740-2783",
+    "eissn": "2162-2698",
+    "abbr": "Am Malacol Bull"
+  },
+  {
+    "name": "AMERICAN MATHEMATICAL MONTHLY",
+    "issn": "0002-9890",
+    "eissn": "1930-0972",
+    "abbr": "Am Math Mon"
+  },
+  {
+    "name": "AMERICAN MINERALOGIST",
+    "issn": "0003-004X",
+    "eissn": "1945-3027",
+    "abbr": "Am Mineral"
+  },
+  {
+    "name": "AMERICAN MUSEUM NOVITATES",
+    "issn": "0003-0082",
+    "eissn": "1937-352X",
+    "abbr": "Am Mus Novit"
+  },
+  {
+    "name": "AMERICAN NATURALIST",
+    "issn": "0003-0147",
+    "eissn": "1537-5323",
+    "abbr": "Am Nat"
+  },
+  {
+    "name": "AMERICAN PHILOSOPHICAL QUARTERLY",
+    "issn": "0003-0481",
+    "eissn": "2152-1123",
+    "abbr": "Am Philos Q"
+  },
+  {
+    "name": "American Political Science Review",
+    "issn": "0003-0554",
+    "eissn": "1537-5943",
+    "abbr": "Am Polit Sci Rev"
+  },
+  {
+    "name": "AMERICAN POLITICS RESEARCH",
+    "issn": "1532-673X",
+    "eissn": "1552-3373",
+    "abbr": "Am Polit Res"
+  },
+  {
+    "name": "AMERICAN PSYCHOLOGIST",
+    "issn": "0003-066X",
+    "eissn": "1935-990X",
+    "abbr": "Am Psychol"
+  },
+  {
+    "name": "AMERICAN QUARTERLY",
+    "issn": "0003-0678",
+    "eissn": "1080-6490",
+    "abbr": "Am Q"
+  },
+  {
+    "name": "American Review of Canadian Studies",
+    "issn": "0272-2011",
+    "eissn": "1943-9954",
+    "abbr": "Am Rev Can Stud"
+  },
+  {
+    "name": "American Review of Public Administration",
+    "issn": "0275-0740",
+    "eissn": "1552-3357",
+    "abbr": "Am Rev Public Adm"
+  },
+  {
+    "name": "AMERICAN SCHOLAR",
+    "issn": "0003-0937",
+    "eissn": "2162-2892",
+    "abbr": "Am Scholar"
+  },
+  {
+    "name": "AMERICAN SCIENTIST",
+    "issn": "0003-0996",
+    "eissn": "1545-2786",
+    "abbr": "Am Sci"
+  },
+  {
+    "name": "American Sociological Review",
+    "issn": "0003-1224",
+    "eissn": "1939-8271",
+    "abbr": "Am Sociol Rev"
+  },
+  {
+    "name": "AMERICAN SOCIOLOGIST",
+    "issn": "0003-1232",
+    "eissn": "1936-4784",
+    "abbr": "Am Sociol"
+  },
+  {
+    "name": "AMERICAN SPEECH",
+    "issn": "0003-1283",
+    "eissn": "1527-2133",
+    "abbr": "Am Speech"
+  },
+  {
+    "name": "AMERICAN STATISTICIAN",
+    "issn": "0003-1305",
+    "eissn": "1537-2731",
+    "abbr": "Am Stat"
+  },
+  {
+    "name": "AMERICAN SURGEON",
+    "issn": "0003-1348",
+    "eissn": "1555-9823",
+    "abbr": "Am Surg"
+  },
+  {
+    "name": "AMERICAS",
+    "issn": "0003-1615",
+    "eissn": "1533-6247",
+    "abbr": "Americas (Acad Am Francisc Hist)"
+  },
+  {
+    "name": "AME Surgical Journal",
+    "eissn": "2788-578X",
+    "abbr": "AME Surg J"
+  },
+  {
+    "name": "AMPHIBIAN & REPTILE CONSERVATION",
+    "issn": "1083-446X",
+    "eissn": "1525-9153",
+    "abbr": "Amphib Reptile Conserv"
+  },
+  {
+    "name": "AMPHIBIA-REPTILIA",
+    "issn": "0173-5373",
+    "eissn": "1568-5381",
+    "abbr": "Amphib Reptil"
+  },
+  {
+    "name": "AMYLOID-JOURNAL OF PROTEIN FOLDING DISORDERS",
+    "issn": "1350-6129",
+    "eissn": "1744-2818",
+    "abbr": "Amyloid"
+  },
+  {
+    "name": "Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration",
+    "issn": "2167-8421",
+    "eissn": "2167-9223",
+    "abbr": "Amyotroph Lateral Scler Frontotemporal Degener"
+  },
+  {
+    "name": "ANAESTHESIA AND INTENSIVE CARE",
+    "issn": "0310-057X",
+    "eissn": "1448-0271",
+    "abbr": "Anaesth Intensive Care"
+  },
+  {
+    "name": "Anaesthesia Critical Care & Pain Medicine",
+    "issn": "2352-5568",
+    "eissn": "2352-5568",
+    "abbr": "Anaesth Crit Care Pain Med"
+  },
+  {
+    "name": "Anaesthesia Reports",
+    "eissn": "2637-3726",
+    "abbr": "Anaesth Rep"
+  },
+  {
+    "name": "Anaesthesiology Intensive Therapy",
+    "issn": "1642-5758",
+    "eissn": "1731-2531",
+    "abbr": "Anaesthesiol Intensive Ther"
+  },
+  {
+    "name": "ANAIS BRASILEIROS DE DERMATOLOGIA",
+    "issn": "0365-0596",
+    "eissn": "1806-4841",
+    "abbr": "An Bras Dermatol"
+  },
+  {
+    "name": "ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS",
+    "issn": "0001-3765",
+    "eissn": "1678-2690",
+    "abbr": "An Acad Bras Cienc"
+  },
+  {
+    "name": "ANALES DEL JARDIN BOTANICO DE MADRID",
+    "issn": "0211-1322",
+    "eissn": "1988-3196",
+    "abbr": "An Jard Bot Madr (1979)"
+  },
+  {
+    "name": "Anales del Sistema Sanitario De Navarra",
+    "issn": "1137-6627",
+    "eissn": "2340-3527",
+    "abbr": "An Sist Sanit Navar"
+  },
+  {
+    "name": "ANALES DE PEDIATRIA",
+    "issn": "1695-4033",
+    "eissn": "1695-9531",
+    "abbr": "An Pediatr (Barc)"
+  },
+  {
+    "name": "ANALOG INTEGRATED CIRCUITS AND SIGNAL PROCESSING",
+    "issn": "0925-1030",
+    "eissn": "1573-1979",
+    "abbr": "Analog Integr Circuits Signal Process"
+  },
+  {
+    "name": "Analyses of Social Issues and Public Policy",
+    "issn": "1529-7489",
+    "eissn": "1530-2415",
+    "abbr": "Anal Soc Issues Public Policy"
+  },
+  {
+    "name": "Analysis and Mathematical Physics",
+    "issn": "1664-2368",
+    "eissn": "1664-235X",
+    "abbr": "Anal Math Phys"
+  },
+  {
+    "name": "Analysis & Sensing",
+    "issn": "2629-2742",
+    "eissn": "2629-2742",
+    "abbr": "Anal Sens"
+  },
+  {
+    "name": "Analysis of Verbal Behavior",
+    "issn": "0889-9401",
+    "eissn": "2196-8926",
+    "abbr": "Anal Verbal Behav"
+  },
+  {
+    "name": "Analytica",
+    "eissn": "2673-4532",
+    "abbr": "Analytica (Basel)"
+  },
+  {
+    "name": "Analytica Chimica Acta",
+    "issn": "0003-2670",
+    "eissn": "1873-4324",
+    "abbr": "Anal Chim Acta"
+  },
+  {
+    "name": "ANALYTICAL AND BIOANALYTICAL CHEMISTRY",
+    "issn": "1618-2642",
+    "eissn": "1618-2650",
+    "abbr": "Anal Bioanal Chem"
+  },
+  {
+    "name": "ANALYTICAL BIOCHEMISTRY",
+    "issn": "0003-2697",
+    "eissn": "1096-0309",
+    "abbr": "Anal Biochem"
+  },
+  {
+    "name": "Analytical Cellular Pathology",
+    "issn": "2210-7177",
+    "eissn": "2210-7185",
+    "abbr": "Anal Cell Pathol (Amst)"
+  },
+  {
+    "name": "ANALYTICAL CHEMISTRY",
+    "issn": "0003-2700",
+    "eissn": "1520-6882",
+    "abbr": "Anal Chem"
+  },
+  {
+    "name": "ANALYTICAL LETTERS",
+    "issn": "0003-2719",
+    "eissn": "1532-236X",
+    "abbr": "Anal Lett"
+  },
+  {
+    "name": "Analytical Methods",
+    "issn": "1759-9660",
+    "eissn": "1759-9679",
+    "abbr": "Anal Methods"
+  },
+  {
+    "name": "Analytical Science Advances",
+    "issn": "2628-5452",
+    "eissn": "2628-5452",
+    "abbr": "Anal Sci Adv"
+  },
+  {
+    "name": "ANALYTICAL SCIENCES",
+    "issn": "0910-6340",
+    "eissn": "1348-2246",
+    "abbr": "Anal Sci"
+  },
+  {
+    "name": "Analytic Methods in Accident Research",
+    "issn": "2213-6657",
+    "eissn": "2213-6665",
+    "abbr": "Anal Methods Accid Res"
+  },
+  {
+    "name": "ANASTHESIOLOGIE INTENSIVMEDIZIN NOTFALLMEDIZIN SCHMERZTHERAPIE",
+    "issn": "0939-2661",
+    "eissn": "1439-1074",
+    "abbr": "Anasthesiol Intensivmed Notfallmed Schmerzther"
+  },
+  {
+    "name": "Anatolian Journal of Cardiology",
+    "issn": "2149-2263",
+    "eissn": "2149-2271",
+    "abbr": "Anatol J Cardiol"
+  },
+  {
+    "name": "ANATOMIA HISTOLOGIA EMBRYOLOGIA",
+    "issn": "0340-2096",
+    "eissn": "1439-0264",
+    "abbr": "Anat Histol Embryol"
+  },
+  {
+    "name": "Anatomical Record-Advances in Integrative Anatomy and Evolutionary Biology",
+    "issn": "1932-8486",
+    "eissn": "1932-8494",
+    "abbr": "Anat Rec (Hoboken)"
+  },
+  {
+    "name": "ANATOMICAL SCIENCE INTERNATIONAL",
+    "issn": "1447-6959",
+    "eissn": "1447-073X",
+    "abbr": "Anat Sci Int"
+  },
+  {
+    "name": "Anatomical Sciences Education",
+    "issn": "1935-9772",
+    "eissn": "1935-9780",
+    "abbr": "Anat Sci Educ"
+  },
+  {
+    "name": "Anatomy & Cell Biology",
+    "issn": "2093-3665",
+    "eissn": "2093-3673",
+    "abbr": "Anat Cell Biol"
+  },
+  {
+    "name": "ANCIENT SCIENCE OF LIFE",
+    "issn": "0257-7941",
+    "eissn": "2249-9547",
+    "abbr": "Anc Sci Life"
+  },
+  {
+    "name": "Andes Pediatrica",
+    "eissn": "2452-6053",
+    "abbr": "Andes Pediatr"
+  },
+  {
+    "name": "ANESTHESIA AND ANALGESIA",
+    "issn": "0003-2999",
+    "eissn": "1526-7598",
+    "abbr": "Anesth Analg"
+  },
+  {
+    "name": "Anesthesia and Pain Medicine",
+    "issn": "1975-5171",
+    "eissn": "2383-7977",
+    "abbr": "Anesth Pain Med (Seoul)"
+  },
+  {
+    "name": "ANESTHESIOLOGY AND PERIOPERATIVE SCIENCE",
+    "eissn": "2731-8389",
+    "abbr": "Anesthesiol Perioper Sci"
+  },
+  {
+    "name": "Anesthesiology Research and Practice",
+    "issn": "1687-6962",
+    "eissn": "1687-6970",
+    "abbr": "Anesthesiol Res Pract"
+  },
+  {
+    "name": "ANGELAKI-JOURNAL OF THE THEORETICAL HUMANITIES",
+    "issn": "0969-725X",
+    "eissn": "1469-2899",
+    "abbr": "Angelaki"
+  },
+  {
+    "name": "ANGLE ORTHODONTIST",
+    "issn": "0003-3219",
+    "eissn": "1945-7103",
+    "abbr": "Angle Orthod"
+  },
+  {
+    "name": "ANGLIA-ZEITSCHRIFT FUR ENGLISCHE PHILOLOGIE",
+    "issn": "0340-5222",
+    "eissn": "1865-8938",
+    "abbr": "Anglia"
+  },
+  {
+    "name": "ANIMAL BEHAVIOUR",
+    "issn": "0003-3472",
+    "eissn": "1095-8282",
+    "abbr": "Anim Behav"
+  },
+  {
+    "name": "ANIMAL BIODIVERSITY AND CONSERVATION",
+    "issn": "1578-665X",
+    "eissn": "2014-928X",
+    "abbr": "Anim Biodivers Conserv"
+  },
+  {
+    "name": "ANIMAL BIOLOGY",
+    "issn": "1570-7555",
+    "eissn": "1570-7563",
+    "abbr": "Anim Biol Leiden Neth"
+  },
+  {
+    "name": "Animal Bioscience",
+    "issn": "2765-0189",
+    "eissn": "2765-0235",
+    "abbr": "Anim Biosci"
+  },
+  {
+    "name": "ANIMAL BIOTECHNOLOGY",
+    "issn": "1049-5398",
+    "eissn": "1532-2378",
+    "abbr": "Anim Biotechnol"
+  },
+  {
+    "name": "Animal Biotelemetry",
+    "eissn": "2050-3385",
+    "abbr": "Anim Biotelemetry"
+  },
+  {
+    "name": "Animal Cells and Systems",
+    "issn": "1976-8354",
+    "eissn": "2151-2485",
+    "abbr": "Anim Cells Syst (Seoul)"
+  },
+  {
+    "name": "ANIMAL COGNITION",
+    "issn": "1435-9448",
+    "eissn": "1435-9456",
+    "abbr": "Anim Cogn"
+  },
+  {
+    "name": "ANIMAL CONSERVATION",
+    "issn": "1367-9430",
+    "eissn": "1469-1795",
+    "abbr": "Anim Conserv"
+  },
+  {
+    "name": "Animal Diseases",
+    "eissn": "2731-0442",
+    "abbr": "Anim Dis"
+  },
+  {
+    "name": "ANIMAL FEED SCIENCE AND TECHNOLOGY",
+    "issn": "0377-8401",
+    "eissn": "1873-2216",
+    "abbr": "Anim Feed Sci Technol"
+  },
+  {
+    "name": "Animal Frontiers",
+    "issn": "2160-6056",
+    "eissn": "2160-6064",
+    "abbr": "Anim Front"
+  },
+  {
+    "name": "ANIMAL GENETICS",
+    "issn": "0268-9146",
+    "eissn": "1365-2052",
+    "abbr": "Anim Genet"
+  },
+  {
+    "name": "ANIMAL HEALTH RESEARCH REVIEWS",
+    "issn": "1466-2523",
+    "eissn": "1475-2654",
+    "abbr": "Anim Health Res Rev"
+  },
+  {
+    "name": "Animal Microbiome",
+    "eissn": "2524-4671",
+    "abbr": "Anim Microbiome"
+  },
+  {
+    "name": "Animal Models and Experimental Medicine",
+    "issn": "2096-5451",
+    "eissn": "2576-2095",
+    "abbr": "Animal Model Exp Med"
+  },
+  {
+    "name": "Animal Nutrition",
+    "issn": "2405-6383",
+    "eissn": "2405-6545",
+    "abbr": "Anim Nutr"
+  },
+  {
+    "name": "Animal Production Science",
+    "issn": "1836-0939",
+    "eissn": "1836-5787",
+    "abbr": "Anim Prod Sci"
+  },
+  {
+    "name": "Animal Reproduction",
+    "issn": "1806-9614",
+    "eissn": "1984-3143",
+    "abbr": "Anim Reprod"
+  },
+  {
+    "name": "ANIMAL REPRODUCTION SCIENCE",
+    "issn": "0378-4320",
+    "eissn": "1873-2232",
+    "abbr": "Anim Reprod Sci"
+  },
+  {
+    "name": "Animals",
+    "issn": "2076-2615",
+    "eissn": "2076-2615",
+    "abbr": "Animals (Basel)"
+  },
+  {
+    "name": "ANIMAL SCIENCE JOURNAL",
+    "issn": "1344-3941",
+    "eissn": "1740-0929",
+    "abbr": "Anim Sci J"
+  },
+  {
+    "name": "ANIMAL SCIENCE PAPERS AND REPORTS",
+    "issn": "0860-4037",
+    "eissn": "2300-8342",
+    "abbr": "Anim Sci Pap Rep"
+  },
+  {
+    "name": "Animal Taxonomy and Ecology",
+    "issn": "3004-300X",
+    "eissn": "3004-3018",
+    "abbr": "Anim Taxon Ecol"
+  },
+  {
+    "name": "ANIMAL WELFARE",
+    "issn": "0962-7286",
+    "eissn": "2054-1538",
+    "abbr": "Anim Welf"
+  },
+  {
+    "name": "Ankara Universitesi Veteriner Fakultesi Dergisi",
+    "issn": "1300-0861",
+    "eissn": "1308-2817",
+    "abbr": "Vet Fak Derg"
+  },
+  {
+    "name": "ANNALEN DER PHYSIK",
+    "issn": "0003-3804",
+    "eissn": "1521-3889",
+    "abbr": "Ann Phys"
+  },
+  {
+    "name": "ANNALES BOTANICI FENNICI",
+    "issn": "0003-3847",
+    "eissn": "1797-2442",
+    "abbr": "Ann Bot Fenn"
+  },
+  {
+    "name": "ANNALES DE BIOLOGIE CLINIQUE",
+    "issn": "0003-3898",
+    "eissn": "1950-6112",
+    "abbr": "Ann Biol Clin (Paris)"
+  },
+  {
+    "name": "ANNALES DE BRETAGNE ET DES PAYS DE L OUEST",
+    "issn": "0399-0826",
+    "eissn": "2108-6443",
+    "abbr": "Ann Bretagne Payes Ouest"
+  },
+  {
+    "name": "ANNALES DE CHIMIE-SCIENCE DES MATERIAUX",
+    "issn": "0151-9107",
+    "eissn": "1958-5934",
+    "abbr": "Ann Chimie Sci Materiaux"
+  },
+  {
+    "name": "Annales de Chirurgie Plastique Esthetique",
+    "issn": "0294-1260",
+    "eissn": "1768-319X",
+    "abbr": "Ann Chir Plast Esthet"
+  },
+  {
+    "name": "ANNALES DE DERMATOLOGIE ET DE VENEREOLOGIE",
+    "issn": "0151-9638",
+    "eissn": "2214-5451",
+    "abbr": "Ann Dermatol Venereol"
+  },
+  {
+    "name": "ANNALES DE LA SOCIETE ENTOMOLOGIQUE DE FRANCE",
+    "issn": "0037-9271",
+    "eissn": "2168-6351",
+    "abbr": "Ann Soc Entomol Fr"
+  },
+  {
+    "name": "ANNALES DE L INSTITUT HENRI POINCARE-PROBABILITES ET STATISTIQUES",
+    "issn": "0246-0203",
+    "eissn": "1778-7017",
+    "abbr": "Ann I H P Probab Stat"
+  },
+  {
+    "name": "ANNALES D ENDOCRINOLOGIE",
+    "issn": "0003-4266",
+    "eissn": "2213-3941",
+    "abbr": "Ann Endocrinol (Paris)"
+  },
+  {
+    "name": "ANNALES DE PATHOLOGIE",
+    "issn": "0242-6498",
+    "eissn": "2213-008X",
+    "abbr": "Ann Pathol"
+  },
+  {
+    "name": "ANNALES GEOPHYSICAE",
+    "issn": "0992-7689",
+    "eissn": "1432-0576",
+    "abbr": "Ann Geophys"
+  },
+  {
+    "name": "ANNALES HENRI POINCARE",
+    "issn": "1424-0637",
+    "eissn": "1424-0661",
+    "abbr": "Ann Henri Poincare"
+  },
+  {
+    "name": "ANNALES HISTORIQUES DE LA REVOLUTION FRANCAISE",
+    "issn": "0003-4436",
+    "eissn": "1952-403X",
+    "abbr": "Ann Hist Revolut Fr"
+  },
+  {
+    "name": "Annales Mathematicae Silesianae",
+    "issn": "0860-2107",
+    "eissn": "2391-4238",
+    "abbr": "Ann Math Sil"
+  },
+  {
+    "name": "Annales Mathematiques du Quebec",
+    "issn": "2195-4755",
+    "eissn": "2195-4763",
+    "abbr": "Ann Math Quebec"
+  },
+  {
+    "name": "ANNALES MEDICO-PSYCHOLOGIQUES",
+    "issn": "0003-4487",
+    "eissn": "1769-6631",
+    "abbr": "Ann Med Psychol (Paris)"
+  },
+  {
+    "name": "Annales Pharmaceutiques Francaises",
+    "issn": "0003-4509",
+    "eissn": "0003-4509",
+    "abbr": "Ann Pharm Fr"
+  },
+  {
+    "name": "ANNALES ZOOLOGICI",
+    "issn": "0003-4541",
+    "eissn": "1734-1833",
+    "abbr": "Annal Zool"
+  },
+  {
+    "name": "ANNALES ZOOLOGICI FENNICI",
+    "issn": "0003-455X",
+    "eissn": "1797-2450",
+    "abbr": "Ann Zool Fennici"
+  },
+  {
+    "name": "ANNALI DELL ISTITUTO SUPERIORE DI SANITA",
+    "issn": "0021-2571",
+    "eissn": "2384-8553",
+    "abbr": "Ann Ist Super Sanita"
+  },
+  {
+    "name": "Annali di Igiene Medicina Preventiva e di Comunita",
+    "issn": "1120-9135",
+    "eissn": "1120-9135",
+    "abbr": "Ann Ig"
+  },
+  {
+    "name": "ANNALI DI MATEMATICA PURA ED APPLICATA",
+    "issn": "0373-3114",
+    "eissn": "1618-1891",
+    "abbr": "Ann Mat Pura Appl"
+  },
+  {
+    "name": "Annali Italiani di Chirurgia",
+    "issn": "0003-469X",
+    "eissn": "2239-253X",
+    "abbr": "Ann Ital Chir"
+  },
+  {
+    "name": "ANNALS ACADEMY OF MEDICINE SINGAPORE",
+    "eissn": "2972-4066",
+    "abbr": "Ann Acad Med Singap"
+  },
+  {
+    "name": "Annals of African Medicine",
+    "issn": "1596-3519",
+    "eissn": "0975-5764",
+    "abbr": "Ann Afr Med"
+  },
+  {
+    "name": "ANNALS OF AGRICULTURAL AND ENVIRONMENTAL MEDICINE",
+    "issn": "1232-1966",
+    "eissn": "1898-2263",
+    "abbr": "Ann Agric Environ Med"
+  },
+  {
+    "name": "ANNALS OF AGRICULTURAL SCIENCES",
+    "issn": "0570-1783",
+    "eissn": "2090-8377",
+    "abbr": "Ann Agric Sci"
+  },
+  {
+    "name": "ANNALS OF ALLERGY ASTHMA & IMMUNOLOGY",
+    "issn": "1081-1206",
+    "eissn": "1534-4436",
+    "abbr": "Ann Allergy Asthma Immunol"
+  },
+  {
+    "name": "ANNALS OF ANATOMY-ANATOMISCHER ANZEIGER",
+    "issn": "0940-9602",
+    "eissn": "1618-0402",
+    "abbr": "Ann Anat"
+  },
+  {
+    "name": "Annals of Anthropological Practice",
+    "issn": "2153-957X",
+    "eissn": "2153-9588",
+    "abbr": "Ann Anthropol Pract"
+  },
+  {
+    "name": "ANNALS OF APPLIED BIOLOGY",
+    "issn": "0003-4746",
+    "eissn": "1744-7348",
+    "abbr": "Ann Appl Biol"
+  },
+  {
+    "name": "ANNALS OF APPLIED PROBABILITY",
+    "issn": "1050-5164",
+    "abbr": "Ann Appl Probab"
+  },
+  {
+    "name": "Annals of Applied Sport Science",
+    "issn": "2322-4479",
+    "eissn": "2322-4479",
+    "abbr": "Ann Appl Sport Sci"
+  },
+  {
+    "name": "Annals of Applied Statistics",
+    "issn": "1932-6157",
+    "eissn": "1941-7330",
+    "abbr": "Ann Appl Stat"
+  },
+  {
+    "name": "ANNALS OF BEHAVIORAL MEDICINE",
+    "issn": "0883-6612",
+    "eissn": "1532-4796",
+    "abbr": "Ann Behav Med"
+  },
+  {
+    "name": "ANNALS OF BIOMEDICAL ENGINEERING",
+    "issn": "0090-6964",
+    "eissn": "1573-9686",
+    "abbr": "Ann Biomed Eng"
+  },
+  {
+    "name": "Annals of Blood",
+    "eissn": "2521-361X",
+    "abbr": "Ann Blood"
+  },
+  {
+    "name": "ANNALS OF BOTANY",
+    "issn": "0305-7364",
+    "eissn": "1095-8290",
+    "abbr": "Ann Bot"
+  },
+  {
+    "name": "Annals of Breast Surgery",
+    "eissn": "2616-2776",
+    "abbr": "Ann Breast Surg"
+  },
+  {
+    "name": "Annals of Cardiac Anaesthesia",
+    "issn": "0971-9784",
+    "eissn": "0974-5181",
+    "abbr": "Ann Card Anaesth"
+  },
+  {
+    "name": "Annals of Cardiothoracic Surgery",
+    "issn": "2225-319X",
+    "eissn": "2304-1021",
+    "abbr": "Ann Cardiothorac Surg"
+  },
+  {
+    "name": "ANNALS OF CARNEGIE MUSEUM",
+    "issn": "0097-4463",
+    "eissn": "1943-6300",
+    "abbr": "Ann Carnegie Mus"
+  },
+  {
+    "name": "ANNALS OF CLINICAL AND LABORATORY SCIENCE",
+    "issn": "0091-7370",
+    "eissn": "1550-8080",
+    "abbr": "Ann Clin Lab Sci"
+  },
+  {
+    "name": "Annals of Clinical and Translational Neurology",
+    "issn": "2328-9503",
+    "eissn": "2328-9503",
+    "abbr": "Ann Clin Transl Neurol"
+  },
+  {
+    "name": "ANNALS OF CLINICAL BIOCHEMISTRY",
+    "issn": "0004-5632",
+    "eissn": "1758-1001",
+    "abbr": "Ann Clin Biochem"
+  },
+  {
+    "name": "Annals of Clinical Microbiology and Antimicrobials",
+    "eissn": "1476-0711",
+    "abbr": "Ann Clin Microbiol Antimicrob"
+  },
+  {
+    "name": "Annals of Clinical Psychiatry",
+    "issn": "1040-1237",
+    "eissn": "1547-3325",
+    "abbr": "Ann Clin Psychiatry"
+  },
+  {
+    "name": "Annals of Coloproctology",
+    "issn": "2287-9714",
+    "eissn": "2287-9722",
+    "abbr": "Ann Coloproctol"
+  },
+  {
+    "name": "Annals of Combinatorics",
+    "issn": "0218-0006",
+    "eissn": "0219-3094",
+    "abbr": "Ann Comb"
+  },
+  {
+    "name": "Annals of Dermatology",
+    "issn": "1013-9087",
+    "eissn": "2005-3894",
+    "abbr": "Ann Dermatol"
+  },
+  {
+    "name": "Annals of Diagnostic Pathology",
+    "issn": "1092-9134",
+    "eissn": "1532-8198",
+    "abbr": "Ann Diagn Pathol"
+  },
+  {
+    "name": "ANNALS OF DYSLEXIA",
+    "issn": "0736-9387",
+    "eissn": "1934-7243",
+    "abbr": "Ann Dyslexia"
+  },
+  {
+    "name": "ANNALS OF EMERGENCY MEDICINE",
+    "issn": "0196-0644",
+    "eissn": "1097-6760",
+    "abbr": "Ann Emerg Med"
+  },
+  {
+    "name": "ANNALS OF EPIDEMIOLOGY",
+    "issn": "1047-2797",
+    "eissn": "1873-2585",
+    "abbr": "Ann Epidemiol"
+  },
+  {
+    "name": "Annals of Esophagus",
+    "eissn": "2616-2784",
+    "abbr": "Ann Esophagus"
+  },
+  {
+    "name": "Annals of Eye Science",
+    "eissn": "2520-4122",
+    "abbr": "Ann Eye Sci"
+  },
+  {
+    "name": "ANNALS OF FAMILY MEDICINE",
+    "issn": "1544-1709",
+    "eissn": "1544-1717",
+    "abbr": "Ann Fam Med"
+  },
+  {
+    "name": "Annals of Forest Research",
+    "issn": "1844-8135",
+    "eissn": "2065-2445",
+    "abbr": "Ann For Res"
+  },
+  {
+    "name": "ANNALS OF FOREST SCIENCE",
+    "issn": "1286-4560",
+    "eissn": "1297-966X",
+    "abbr": "Ann For Sci"
+  },
+  {
+    "name": "Annals of Gastroenterology",
+    "issn": "1108-7471",
+    "eissn": "1792-7463",
+    "abbr": "Ann Gastroenterol"
+  },
+  {
+    "name": "Annals of General Psychiatry",
+    "eissn": "1744-859X",
+    "abbr": "Ann Gen Psychiatry"
+  },
+  {
+    "name": "Annals of Geriatric Medicine and Research",
+    "issn": "2508-4909",
+    "eissn": "2508-4909",
+    "abbr": "Ann Geriatr Med Res"
+  },
+  {
+    "name": "Annals of GIS",
+    "issn": "1947-5683",
+    "eissn": "1947-5691",
+    "abbr": "Ann GIS"
+  },
+  {
+    "name": "ANNALS OF GLACIOLOGY",
+    "issn": "0260-3055",
+    "eissn": "1727-5644",
+    "abbr": "Ann Glaciol"
+  },
+  {
+    "name": "ANNALS OF GLOBAL ANALYSIS AND GEOMETRY",
+    "issn": "0232-704X",
+    "eissn": "1572-9060",
+    "abbr": "Ann Glob Anal Geom (Dordr)"
+  },
+  {
+    "name": "Annals of Global Health",
+    "issn": "2214-9996",
+    "eissn": "2214-9996",
+    "abbr": "Ann Glob Health"
+  },
+  {
+    "name": "ANNALS OF HEMATOLOGY",
+    "issn": "0939-5555",
+    "eissn": "1432-0584",
+    "abbr": "Ann Hematol"
+  },
+  {
+    "name": "Annals of Hepato-Biliary-Pancreatic Surgery",
+    "issn": "2508-5778",
+    "eissn": "2508-5859",
+    "abbr": "Ann Hepatobiliary Pancreat Surg"
+  },
+  {
+    "name": "Annals of Hepatology",
+    "issn": "1665-2681",
+    "eissn": "1665-2681",
+    "abbr": "Ann Hepatol"
+  },
+  {
+    "name": "ANNALS OF HUMAN BIOLOGY",
+    "issn": "0301-4460",
+    "eissn": "1464-5033",
+    "abbr": "Ann Hum Biol"
+  },
+  {
+    "name": "ANNALS OF HUMAN GENETICS",
+    "issn": "0003-4800",
+    "eissn": "1469-1809",
+    "abbr": "Ann Hum Genet"
+  },
+  {
+    "name": "Annals of Indian Academy of Neurology",
+    "issn": "0972-2327",
+    "eissn": "1998-3549",
+    "abbr": "Ann Indian Acad Neurol"
+  },
+  {
+    "name": "Annals of Intensive Care",
+    "issn": "2110-5820",
+    "eissn": "2110-5820",
+    "abbr": "Ann Intensive Care"
+  },
+  {
+    "name": "ANNALS OF INTERNAL MEDICINE",
+    "issn": "0003-4819",
+    "eissn": "1539-3704",
+    "abbr": "ACP J Club"
+  },
+  {
+    "name": "Annals of Joint",
+    "issn": "2415-6809",
+    "eissn": "2415-6809",
+    "abbr": "Ann Jt"
+  },
+  {
+    "name": "Annals of King Edward Medical University Lahore Pakistan",
+    "issn": "2079-7192",
+    "eissn": "2079-0694",
+    "abbr": "Ann King Edw Med Univ"
+  },
+  {
+    "name": "Annals of Laboratory Medicine",
+    "issn": "2234-3806",
+    "eissn": "2234-3814",
+    "abbr": "Ann Lab Med"
+  },
+  {
+    "name": "Annals of Laparoscopic and Endoscopic Surgery",
+    "issn": "2518-6973",
+    "eissn": "2518-6973",
+    "abbr": "Ann Laparosc Endosc Surg"
+  },
+  {
+    "name": "Annals of Leisure Research",
+    "issn": "1174-5398",
+    "eissn": "2159-6816",
+    "abbr": "Ann Leis Res"
+  },
+  {
+    "name": "ANNALS OF MATHEMATICS",
+    "issn": "0003-486X",
+    "eissn": "1939-8980",
+    "abbr": "Ann Math"
+  },
+  {
+    "name": "ANNALS OF MATHEMATICS AND ARTIFICIAL INTELLIGENCE",
+    "issn": "1012-2443",
+    "eissn": "1573-7470",
+    "abbr": "Ann Math Artif Intell"
+  },
+  {
+    "name": "ANNALS OF MEDICINE",
+    "issn": "0785-3890",
+    "eissn": "1365-2060",
+    "abbr": "Ann Med"
+  },
+  {
+    "name": "Annals of Medicine and Surgery",
+    "issn": "2049-0801",
+    "eissn": "2049-0801",
+    "abbr": "Ann Med Surg (Lond)"
+  },
+  {
+    "name": "ANNALS OF MICROBIOLOGY",
+    "issn": "1590-4261",
+    "eissn": "1869-2044",
+    "abbr": "Ann Microbiol"
+  },
+  {
+    "name": "ANNALS OF NEUROLOGY",
+    "issn": "0364-5134",
+    "eissn": "1531-8249",
+    "abbr": "Ann Neurol"
+  },
+  {
+    "name": "Annals of Neurosciences",
+    "issn": "0972-7531",
+    "eissn": "0976-3260",
+    "abbr": "Ann Neurosci"
+  },
+  {
+    "name": "ANNALS OF NONINVASIVE ELECTROCARDIOLOGY",
+    "issn": "1082-720X",
+    "eissn": "1542-474X",
+    "abbr": "Ann Noninvasive Electrocardiol"
+  },
+  {
+    "name": "ANNALS OF NUCLEAR ENERGY",
+    "issn": "0306-4549",
+    "eissn": "1873-2100",
+    "abbr": "Ann Nucl Energy"
+  },
+  {
+    "name": "ANNALS OF NUCLEAR MEDICINE",
+    "issn": "0914-7187",
+    "eissn": "1864-6433",
+    "abbr": "Ann Nucl Med"
+  },
+  {
+    "name": "ANNALS OF NUTRITION AND METABOLISM",
+    "issn": "0250-6807",
+    "eissn": "1421-9697",
+    "abbr": "Ann Nutr Metab"
+  },
+  {
+    "name": "Annals of Occupational and Environmental Medicine",
+    "issn": "2052-4374",
+    "eissn": "2052-4374",
+    "abbr": "Ann Occup Environ Med"
+  },
+  {
+    "name": "ANNALS OF ONCOLOGY",
+    "issn": "0923-7534",
+    "eissn": "1569-8041",
+    "abbr": "Ann Oncol"
+  },
+  {
+    "name": "Annals of Operations Research",
+    "issn": "0254-5330",
+    "eissn": "1572-9338",
+    "abbr": "Ann Oper Res"
+  },
+  {
+    "name": "ANNALS OF OTOLOGY RHINOLOGY AND LARYNGOLOGY",
+    "issn": "0003-4894",
+    "eissn": "1943-572X",
+    "abbr": "Ann Otol Rhinol Laryngol"
+  },
+  {
+    "name": "Annals of PDE",
+    "issn": "2524-5317",
+    "eissn": "2199-2576",
+    "abbr": "Ann PDE"
+  },
+  {
+    "name": "Annals of Pediatric Cardiology",
+    "issn": "0974-2069",
+    "eissn": "0974-5149",
+    "abbr": "Ann Pediatr Cardiol"
+  },
+  {
+    "name": "Annals of Pediatric Endocrinology & Metabolism",
+    "issn": "2287-1012",
+    "eissn": "2287-1292",
+    "abbr": "Ann Pediatr Endocrinol Metab"
+  },
+  {
+    "name": "Annals of Pediatric Surgery",
+    "issn": "1687-4137",
+    "eissn": "2090-5394",
+    "abbr": "Ann Pediatr Surg"
+  },
+  {
+    "name": "ANNALS OF PHARMACOTHERAPY",
+    "issn": "1060-0280",
+    "eissn": "1542-6270",
+    "abbr": "Ann Pharmacother"
+  },
+  {
+    "name": "Annals of Physical and Rehabilitation Medicine",
+    "issn": "1877-0657",
+    "eissn": "1877-0665",
+    "abbr": "Ann Phys Rehabil Med"
+  },
+  {
+    "name": "Annals of Physics",
+    "issn": "0003-4916",
+    "eissn": "1096-035X",
+    "abbr": "Ann Phys (N Y)"
+  },
+  {
+    "name": "Annals of Phytomedicine-An International Journal",
+    "issn": "2393-9885",
+    "eissn": "2278-9839",
+    "abbr": "Ann Phytomed"
+  },
+  {
+    "name": "ANNALS OF PLASTIC SURGERY",
+    "issn": "0148-7043",
+    "eissn": "1536-3708",
+    "abbr": "Ann Plast Surg"
+  },
+  {
+    "name": "ANNALS OF PROBABILITY",
+    "issn": "0091-1798",
+    "eissn": "2168-894X",
+    "abbr": "Ann Probab"
+  },
+  {
+    "name": "ANNALS OF PURE AND APPLIED LOGIC",
+    "issn": "0168-0072",
+    "eissn": "1873-2461",
+    "abbr": "Ann Pure Appl Log"
+  },
+  {
+    "name": "Annals of Regional Science",
+    "issn": "0570-1864",
+    "eissn": "1432-0592",
+    "abbr": "Ann Reg Sci"
+  },
+  {
+    "name": "Annals of Rehabilitation Medicine-ARM",
+    "eissn": "2234-0653",
+    "abbr": "Ann Rehabil Med"
+  },
+  {
+    "name": "ANNALS OF SAUDI MEDICINE",
+    "issn": "0256-4947",
+    "eissn": "1319-9226",
+    "abbr": "Ann Saudi Med"
+  },
+  {
+    "name": "ANNALS OF SCIENCE",
+    "issn": "0003-3790",
+    "eissn": "1464-505X",
+    "abbr": "Ann Sci"
+  },
+  {
+    "name": "Annals of Statistics",
+    "issn": "0090-5364",
+    "eissn": "2168-8966",
+    "abbr": "Ann Stat"
+  },
+  {
+    "name": "ANNALS OF SURGERY",
+    "issn": "0003-4932",
+    "eissn": "1528-1140",
+    "abbr": "Ann Surg"
+  },
+  {
+    "name": "ANNALS OF SURGICAL ONCOLOGY",
+    "issn": "1068-9265",
+    "eissn": "1534-4681",
+    "abbr": "Ann Surg Oncol"
+  },
+  {
+    "name": "Annals of Surgical Treatment and Research",
+    "issn": "2288-6575",
+    "eissn": "2288-6796",
+    "abbr": "Ann Surg Treat Res"
+  },
+  {
+    "name": "Annals of Telecommunications",
+    "issn": "0003-4347",
+    "eissn": "1958-9395",
+    "abbr": "Ann Telecommun"
+  },
+  {
+    "name": "ANNALS OF THE AMERICAN ACADEMY OF POLITICAL AND SOCIAL SCIENCE",
+    "issn": "0002-7162",
+    "eissn": "1552-3349",
+    "abbr": "Ann Am Acad Pol Soc Sci"
+  },
+  {
+    "name": "Annals of the American Association of Geographers",
+    "issn": "2469-4452",
+    "eissn": "2469-4460",
+    "abbr": "Ann Am Assoc Geogr"
+  },
+  {
+    "name": "Annals of the American Thoracic Society",
+    "issn": "2329-6933",
+    "eissn": "2325-6621",
+    "abbr": "Ann Am Thorac Soc"
+  },
+  {
+    "name": "ANNALS OF THE ENTOMOLOGICAL SOCIETY OF AMERICA",
+    "issn": "0013-8746",
+    "eissn": "1938-2901",
+    "abbr": "Environ Entomol"
+  },
+  {
+    "name": "ANNALS OF THE INSTITUTE OF STATISTICAL MATHEMATICS",
+    "issn": "0020-3157",
+    "eissn": "1572-9052",
+    "abbr": "Ann Inst Stat Math"
+  },
+  {
+    "name": "Annals of the International Communication Association",
+    "issn": "2380-8985",
+    "eissn": "2380-8977",
+    "abbr": "Ann Int Commun Assoc"
+  },
+  {
+    "name": "ANNALS OF THE MISSOURI BOTANICAL GARDEN",
+    "issn": "0026-6493",
+    "eissn": "2162-4372",
+    "abbr": "Ann Mo Bot Gard"
+  },
+  {
+    "name": "ANNALS OF THE NEW YORK ACADEMY OF SCIENCES",
+    "issn": "0077-8923",
+    "eissn": "1749-6632",
+    "abbr": "Ann N Y Acad Sci"
+  },
+  {
+    "name": "ANNALS OF THE RHEUMATIC DISEASES",
+    "issn": "0003-4967",
+    "eissn": "1468-2060",
+    "abbr": "Ann Rheum Dis"
+  },
+  {
+    "name": "ANNALS OF THE ROYAL COLLEGE OF SURGEONS OF ENGLAND",
+    "issn": "0035-8843",
+    "eissn": "1478-7083",
+    "abbr": "Ann R Coll Surg Engl"
+  },
+  {
+    "name": "Annals of Thoracic and Cardiovascular Surgery",
+    "issn": "1341-1098",
+    "eissn": "2186-1005",
+    "abbr": "Ann Thorac Cardiovasc Surg"
+  },
+  {
+    "name": "Annals of Thoracic Medicine",
+    "issn": "1817-1737",
+    "eissn": "1998-3557",
+    "abbr": "Ann Thorac Med"
+  },
+  {
+    "name": "ANNALS OF THORACIC SURGERY",
+    "issn": "0003-4975",
+    "eissn": "1552-6259",
+    "abbr": "J Dermatol Surg Oncol"
+  },
+  {
+    "name": "Annals of Tourism Research",
+    "issn": "0160-7383",
+    "eissn": "1873-7722",
+    "abbr": "Ann Tour Res"
+  },
+  {
+    "name": "Annals of Transplantation",
+    "issn": "1425-9524",
+    "eissn": "2329-0358",
+    "abbr": "Ann Transplant"
+  },
+  {
+    "name": "Annals of Vascular Diseases",
+    "issn": "1881-641X",
+    "eissn": "1881-6428",
+    "abbr": "Ann Vasc Dis"
+  },
+  {
+    "name": "ANNALS OF VASCULAR SURGERY",
+    "issn": "0890-5096",
+    "eissn": "1615-5947",
+    "abbr": "Ann Vasc Surg"
+  },
+  {
+    "name": "Annals of Work Exposures and Health",
+    "issn": "2398-7308",
+    "eissn": "2398-7316",
+    "abbr": "Ann Work Expo Health"
+  },
+  {
+    "name": "Annee du Maghreb",
+    "issn": "2109-9405",
+    "eissn": "2109-9405",
+    "abbr": "Annee Maghreb"
+  },
+  {
+    "name": "ANNEE PSYCHOLOGIQUE",
+    "issn": "0003-5033",
+    "eissn": "1955-2580",
+    "abbr": "Annee Psychol"
+  },
+  {
+    "name": "Annual Review of Analytical Chemistry",
+    "issn": "1936-1327",
+    "eissn": "1936-1335",
+    "abbr": "Annu Rev Anal Chem (Palo Alto Calif)"
+  },
+  {
+    "name": "Annual Review of Animal Biosciences",
+    "issn": "2165-8102",
+    "eissn": "2165-8110",
+    "abbr": "Annu Rev Anim Biosci"
+  },
+  {
+    "name": "Annual Review of Anthropology",
+    "issn": "0084-6570",
+    "eissn": "1545-4290",
+    "abbr": "Annu Rev Anthropol"
+  },
+  {
+    "name": "Annual Review of Applied Linguistics",
+    "issn": "0267-1905",
+    "eissn": "1471-6356",
+    "abbr": "Annu Rev Appl Linguist"
+  },
+  {
+    "name": "Annual Review of Astronomy and Astrophysics",
+    "issn": "0066-4146",
+    "eissn": "1545-4282",
+    "abbr": "Annu Rev Astron Astrophys"
+  },
+  {
+    "name": "Annual Review of Biochemistry",
+    "issn": "0066-4154",
+    "eissn": "1545-4509",
+    "abbr": "Annu Rev Biochem"
+  },
+  {
+    "name": "Annual Review of Biomedical Data Science",
+    "issn": "2574-3414",
+    "eissn": "2574-3414",
+    "abbr": "Annu Rev Biomed Data Sci"
+  },
+  {
+    "name": "Annual Review of Biomedical Engineering",
+    "issn": "1523-9829",
+    "eissn": "1545-4274",
+    "abbr": "Annu Rev Biomed Eng"
+  },
+  {
+    "name": "Annual Review of Biophysics",
+    "issn": "1936-122X",
+    "eissn": "1936-1238",
+    "abbr": "Annu Rev Biophys"
+  },
+  {
+    "name": "Annual Review of Cancer Biology",
+    "issn": "2472-3428",
+    "eissn": "2472-3428",
+    "abbr": "Annu Rev Cancer Biol"
+  },
+  {
+    "name": "Annual Review of Cell and Developmental Biology",
+    "issn": "1081-0706",
+    "eissn": "1530-8995",
+    "abbr": "Annu Rev Cell Dev Biol"
+  },
+  {
+    "name": "Annual Review of Chemical and Biomolecular Engineering",
+    "issn": "1947-5438",
+    "eissn": "1947-5446",
+    "abbr": "Annu Rev Chem Biomol Eng"
+  },
+  {
+    "name": "Annual Review of Clinical Psychology",
+    "issn": "1548-5943",
+    "eissn": "1548-5951",
+    "abbr": "Annu Rev Clin Psychol"
+  },
+  {
+    "name": "Annual Review of Condensed Matter Physics",
+    "issn": "1947-5454",
+    "eissn": "1947-5462",
+    "abbr": "Annu Rev Condens Matter Phys"
+  },
+  {
+    "name": "Annual Review of Control Robotics and Autonomous Systems",
+    "eissn": "2573-5144",
+    "abbr": "Annu Rev Control Robot Auton Syst"
+  },
+  {
+    "name": "Annual Review of Criminology",
+    "issn": "2572-4568",
+    "eissn": "2572-4568",
+    "abbr": "Annu Rev Criminol"
+  },
+  {
+    "name": "Annual Review of CyberTherapy and Telemedicine",
+    "issn": "1554-8716",
+    "eissn": "2352-927X",
+    "abbr": "Annu Rev Cyberther Telemed"
+  },
+  {
+    "name": "Annual Review of Developmental Psychology",
+    "eissn": "2640-7922",
+    "abbr": "Annu Rev Dev Psychol"
+  },
+  {
+    "name": "Annual Review of Earth and Planetary Sciences",
+    "issn": "0084-6597",
+    "eissn": "1545-4495",
+    "abbr": "Annu Rev Earth Planet Sci"
+  },
+  {
+    "name": "Annual Review of Ecology Evolution and Systematics",
+    "issn": "1543-592X",
+    "eissn": "1545-2069",
+    "abbr": "Annu Rev Ecol Evol Syst"
+  },
+  {
+    "name": "Annual Review of Economics",
+    "issn": "1941-1383",
+    "eissn": "1941-1391",
+    "abbr": "Annu Rev Econom"
+  },
+  {
+    "name": "Annual Review of Entomology",
+    "issn": "0066-4170",
+    "eissn": "1545-4487",
+    "abbr": "Annu Rev Entomol"
+  },
+  {
+    "name": "Annual Review of Environment and Resources",
+    "issn": "1543-5938",
+    "eissn": "1545-2050",
+    "abbr": "Annu Rev Environ Resour"
+  },
+  {
+    "name": "Annual Review of Fluid Mechanics",
+    "issn": "0066-4189",
+    "eissn": "1545-4479",
+    "abbr": "Annu Rev Fluid Mech"
+  },
+  {
+    "name": "Annual Review of Food Science and Technology",
+    "issn": "1941-1413",
+    "eissn": "1941-1421",
+    "abbr": "Annu Rev Food Sci Technol"
+  },
+  {
+    "name": "Annual Review of Genetics",
+    "issn": "0066-4197",
+    "eissn": "1545-2948",
+    "abbr": "Annu Rev Genet"
+  },
+  {
+    "name": "Annual Review of Genomics and Human Genetics",
+    "issn": "1527-8204",
+    "eissn": "1545-293X",
+    "abbr": "Annu Rev Genomics Hum Genet"
+  },
+  {
+    "name": "Annual Review of Immunology",
+    "issn": "0732-0582",
+    "eissn": "1545-3278",
+    "abbr": "Annu Rev Anal Chem (Palo Alto Calif)"
+  },
+  {
+    "name": "Annual Review of Law and Social Science",
+    "issn": "1550-3585",
+    "eissn": "1550-3631",
+    "abbr": "Annu Rev Law Soc Sci"
+  },
+  {
+    "name": "Annual Review of Linguistics",
+    "issn": "2333-9691",
+    "eissn": "2333-9691",
+    "abbr": "Annu Rev Linguist"
+  },
+  {
+    "name": "Annual Review of Marine Science",
+    "issn": "1941-1405",
+    "eissn": "1941-0611",
+    "abbr": "Ann Rev Mar Sci"
+  },
+  {
+    "name": "Annual Review of Materials Research",
+    "issn": "1531-7331",
+    "eissn": "1545-4118",
+    "abbr": "Annu Rev Mater Res"
+  },
+  {
+    "name": "Annual Review of Medicine",
+    "issn": "0066-4219",
+    "eissn": "1545-326X",
+    "abbr": "Annu Rev Med"
+  },
+  {
+    "name": "Annual Review of Microbiology",
+    "issn": "0066-4227",
+    "eissn": "1545-3251",
+    "abbr": "Annu Rev Microbiol"
+  },
+  {
+    "name": "Annual Review of Neuroscience",
+    "issn": "0147-006X",
+    "eissn": "1545-4126",
+    "abbr": "Annu Rev Neurosci"
+  },
+  {
+    "name": "Annual Review of Nutrition",
+    "issn": "0199-9885",
+    "eissn": "1545-4312",
+    "abbr": "Annu Rev Nutr"
+  },
+  {
+    "name": "Annual Review of Pathology-Mechanisms of Disease",
+    "issn": "1553-4006",
+    "eissn": "1553-4014",
+    "abbr": "Annu Rev Pathol"
+  },
+  {
+    "name": "Annual Review of Pharmacology and Toxicology",
+    "issn": "0362-1642",
+    "eissn": "1545-4304",
+    "abbr": "Annu Rev Pharmacol Toxicol"
+  },
+  {
+    "name": "Annual Review of Physical Chemistry",
+    "issn": "0066-426X",
+    "eissn": "1545-1593",
+    "abbr": "Annu Rev Phys Chem"
+  },
+  {
+    "name": "Annual Review of Physiology",
+    "issn": "0066-4278",
+    "eissn": "1545-1585",
+    "abbr": "Annu Rev Physiol"
+  },
+  {
+    "name": "Annual Review of Phytopathology",
+    "issn": "0066-4286",
+    "eissn": "1545-2107",
+    "abbr": "Annu Rev Phytopathol"
+  },
+  {
+    "name": "Annual Review of Plant Biology",
+    "issn": "1543-5008",
+    "eissn": "1545-2123",
+    "abbr": "Annu Rev Plant Biol"
+  },
+  {
+    "name": "Annual Review of Political Science",
+    "issn": "1094-2939",
+    "eissn": "1545-1577",
+    "abbr": "Annu Rev Polit Sci (Palo Alto)"
+  },
+  {
+    "name": "Annual Review of Psychology",
+    "issn": "0066-4308",
+    "eissn": "1545-2085",
+    "abbr": "Annu Rev Psychol"
+  },
+  {
+    "name": "Annual Review of Public Health",
+    "issn": "0163-7525",
+    "eissn": "1545-2093",
+    "abbr": "Annu Rev Public Health"
+  },
+  {
+    "name": "Annual Review of Resource Economics",
+    "issn": "1941-1340",
+    "eissn": "1941-1359",
+    "abbr": "Annu Rev Resour Economics"
+  },
+  {
+    "name": "Annual Review of Sociology",
+    "issn": "0360-0572",
+    "eissn": "1545-2115",
+    "abbr": "Annu Rev Sociol"
+  },
+  {
+    "name": "Annual Review of Statistics and Its Application",
+    "issn": "2326-8298",
+    "eissn": "2326-831X",
+    "abbr": "Annu Rev Stat Appl"
+  },
+  {
+    "name": "Annual Review of Virology",
+    "issn": "2327-056X",
+    "eissn": "2327-0578",
+    "abbr": "Annu Rev Virol"
+  },
+  {
+    "name": "Annual Review of Vision Science",
+    "issn": "2374-4642",
+    "eissn": "2374-4650",
+    "abbr": "Annu Rev Vis Sci"
+  },
+  {
+    "name": "ANNUAL REVIEWS IN CONTROL",
+    "issn": "1367-5788",
+    "eissn": "1872-9088",
+    "abbr": "Annu Rev Control"
+  },
+  {
+    "name": "ANQ-A QUARTERLY JOURNAL OF SHORT ARTICLES NOTES AND REVIEWS",
+    "issn": "0895-769X",
+    "eissn": "1940-3364",
+    "abbr": "ANQ"
+  },
+  {
+    "name": "ANTARCTIC SCIENCE",
+    "issn": "0954-1020",
+    "eissn": "1365-2079",
+    "abbr": "Antarct Sci"
+  },
+  {
+    "name": "Anthropocene Review",
+    "issn": "2053-0196",
+    "eissn": "2053-020X",
+    "abbr": "Anthropocene Rev"
+  },
+  {
+    "name": "Anthropological Forum",
+    "issn": "0066-4677",
+    "eissn": "1469-2902",
+    "abbr": "Anthropol Forum"
+  },
+  {
+    "name": "ANTHROPOLOGICAL QUARTERLY",
+    "issn": "0003-5491",
+    "eissn": "1534-1518",
+    "abbr": "Anthropol Q"
+  },
+  {
+    "name": "ANTHROPOLOGICAL SCIENCE",
+    "issn": "0918-7960",
+    "eissn": "1348-8570",
+    "abbr": "Anthropol Sci"
+  },
+  {
+    "name": "Anthropological Theory",
+    "issn": "1463-4996",
+    "eissn": "1741-2641",
+    "abbr": "Anthropol Theory"
+  },
+  {
+    "name": "ANTHROPOLOGISCHER ANZEIGER",
+    "issn": "0003-5548",
+    "eissn": "0003-5548",
+    "abbr": "Anthropol Anz"
+  },
+  {
+    "name": "ANTHROPOLOGY & EDUCATION QUARTERLY",
+    "issn": "0161-7761",
+    "eissn": "1548-1492",
+    "abbr": "Anthropol Educ Q"
+  },
+  {
+    "name": "Anthropology & Medicine",
+    "issn": "1364-8470",
+    "eissn": "1469-2910",
+    "abbr": "Anthropol Med"
+  },
+  {
+    "name": "Anthropology in Action-Journal for Applied Anthropology in Policy and Practice",
+    "issn": "0967-201X",
+    "eissn": "1752-2285",
+    "abbr": "Anthropol Action"
+  },
+  {
+    "name": "ANTHROPOLOGY OF CONSCIOUSNESS",
+    "issn": "1053-4202",
+    "eissn": "1556-3537",
+    "abbr": "Anthropol Conscious"
+  },
+  {
+    "name": "Anthropology of Work Review",
+    "issn": "0883-024X",
+    "eissn": "1548-1417",
+    "abbr": "Anthropol Work Rev"
+  },
+  {
+    "name": "Anthropology Southern Africa",
+    "issn": "2332-3256",
+    "eissn": "2332-3264",
+    "abbr": "Anthropol South Afr"
+  },
+  {
+    "name": "Anthropology Today",
+    "issn": "0268-540X",
+    "eissn": "1467-8322",
+    "abbr": "Anthropol Today"
+  },
+  {
+    "name": "Antibodies",
+    "eissn": "2073-4468",
+    "abbr": "Antibodies (Basel)"
+  },
+  {
+    "name": "Antibody Therapeutics",
+    "eissn": "2516-4236",
+    "abbr": "Antib Ther"
+  },
+  {
+    "name": "Anti-Cancer Agents in Medicinal Chemistry",
+    "issn": "1871-5206",
+    "eissn": "1875-5992",
+    "abbr": "Anticancer Agents Med Chem"
+  },
+  {
+    "name": "ANTICANCER RESEARCH",
+    "issn": "0250-7005",
+    "eissn": "1791-7530",
+    "abbr": "Anticancer Res"
+  },
+  {
+    "name": "ANTIMICROBIAL AGENTS AND CHEMOTHERAPY",
+    "issn": "0066-4804",
+    "eissn": "1098-6596",
+    "abbr": "Antimicrob Agents Chemother"
+  },
+  {
+    "name": "Antimicrobial Resistance and Infection Control",
+    "issn": "2047-2994",
+    "eissn": "2047-2994",
+    "abbr": "Antimicrob Resist Infect Control"
+  },
+  {
+    "name": "Antimicrobial Stewardship & Healthcare Epidemiology",
+    "eissn": "2732-494X",
+    "abbr": "Antimicrob Steward Healthc Epidemiol"
+  },
+  {
+    "name": "Antioxidants",
+    "eissn": "2076-3921",
+    "abbr": "Antioxidants (Basel)"
+  },
+  {
+    "name": "ANTIOXIDANTS & REDOX SIGNALING",
+    "issn": "1523-0864",
+    "eissn": "1557-7716",
+    "abbr": "Antioxid Redox Signal"
+  },
+  {
+    "name": "ANTIVIRAL RESEARCH",
+    "issn": "0166-3542",
+    "eissn": "1872-9096",
+    "abbr": "Antiviral Res"
+  },
+  {
+    "name": "ANTIVIRAL THERAPY",
+    "issn": "1359-6535",
+    "eissn": "2040-2058",
+    "abbr": "Antivir Ther"
+  },
+  {
+    "name": "ANTONIE VAN LEEUWENHOEK INTERNATIONAL JOURNAL OF GENERAL AND MOLECULAR MICROBIOLOGY",
+    "issn": "0003-6072",
+    "eissn": "1572-9699",
+    "abbr": "Antonie Van Leeuwenhoek"
+  },
+  {
+    "name": "Anuario de Estudios Americanos",
+    "issn": "0210-5810",
+    "eissn": "1988-4273",
+    "abbr": "Anu Estud Am"
+  },
+  {
+    "name": "Anuario de Estudios Medievales",
+    "issn": "0066-5061",
+    "eissn": "1988-4230",
+    "abbr": "Anu Estud Mediev"
+  },
+  {
+    "name": "Anuario IEHS",
+    "issn": "0326-9671",
+    "eissn": "2524-9339",
+    "abbr": "Anu IEHS"
+  },
+  {
+    "name": "ANXIETY STRESS AND COPING",
+    "issn": "1061-5806",
+    "eissn": "1477-2205",
+    "abbr": "Anxiety Stress Coping"
+  },
+  {
+    "name": "ANZIAM JOURNAL",
+    "issn": "1446-1811",
+    "eissn": "1446-8735",
+    "abbr": "ANZIAM j"
+  },
+  {
+    "name": "ANZ JOURNAL OF SURGERY",
+    "issn": "1445-1433",
+    "eissn": "1445-2197",
+    "abbr": "ANZ J Surg"
+  },
+  {
+    "name": "AORN JOURNAL",
+    "issn": "0001-2092",
+    "eissn": "1878-0369",
+    "abbr": "AORN J"
+  },
+  {
+    "name": "Apeiron-A Journal for Ancient Philosophy and Science",
+    "issn": "0003-6390",
+    "eissn": "2156-7093",
+    "abbr": "Apeiron"
+  },
+  {
+    "name": "APL Bioengineering",
+    "issn": "2473-2877",
+    "eissn": "2473-2877",
+    "abbr": "APL Bioeng"
+  },
+  {
+    "name": "APL MACHINE LEARNING",
+    "eissn": "2770-9019",
+    "abbr": "APL Mach Learn"
+  },
+  {
+    "name": "APL Materials",
+    "issn": "2166-532X",
+    "eissn": "2166-532X",
+    "abbr": "APL Mater"
+  },
+  {
+    "name": "APPALACHIAN JOURNAL",
+    "issn": "0090-3779",
+    "eissn": "0090-3779",
+    "abbr": "Appalach J"
+  },
+  {
+    "name": "APPLICABLE ANALYSIS",
+    "issn": "0003-6811",
+    "eissn": "1563-504X",
+    "abbr": "Appl Anal"
+  },
+  {
+    "name": "Application of Clinical Genetics",
+    "eissn": "1178-704X",
+    "abbr": "Appl Clin Genet"
+  },
+  {
+    "name": "Applications and Applied Mathematics-An International Journal",
+    "issn": "1932-9466",
+    "eissn": "1932-9466",
+    "abbr": "Appl Appl Math"
+  },
+  {
+    "name": "Applications in Engineering Science",
+    "issn": "2666-4968",
+    "eissn": "2666-4968",
+    "abbr": "Appl Eng Sci"
+  },
+  {
+    "name": "Applications in Plant Sciences",
+    "issn": "2168-0450",
+    "eissn": "2168-0450",
+    "abbr": "Appl Plant Sci"
+  },
+  {
+    "name": "Applications of Mathematics",
+    "issn": "0862-7940",
+    "eissn": "1572-9109",
+    "abbr": "Appl Math (Prague)"
+  },
+  {
+    "name": "APPLIED ACOUSTICS",
+    "issn": "0003-682X",
+    "eissn": "1872-910X",
+    "abbr": "Appl Acoust"
+  },
+  {
+    "name": "APPLIED AND COMPUTATIONAL HARMONIC ANALYSIS",
+    "issn": "1063-5203",
+    "eissn": "1096-603X",
+    "abbr": "Appl Comput Harmon Anal"
+  },
+  {
+    "name": "APPLIED AND ENVIRONMENTAL MICROBIOLOGY",
+    "issn": "0099-2240",
+    "eissn": "1098-5336",
+    "abbr": "Appl Environ Microbiol"
+  },
+  {
+    "name": "Applied and Environmental Soil Science",
+    "issn": "1687-7667",
+    "eissn": "1687-7675",
+    "abbr": "Appl Environ Soil Sci"
+  },
+  {
+    "name": "APPLIED ANIMAL BEHAVIOUR SCIENCE",
+    "issn": "0168-1591",
+    "eissn": "1872-9045",
+    "abbr": "Appl Anim Behav Sci"
+  },
+  {
+    "name": "APPLIED ARTIFICIAL INTELLIGENCE",
+    "issn": "0883-9514",
+    "eissn": "1087-6545",
+    "abbr": "Appl Artif Intell"
+  },
+  {
+    "name": "APPLIED BIOCHEMISTRY AND BIOTECHNOLOGY",
+    "issn": "0273-2289",
+    "eissn": "1559-0291",
+    "abbr": "Appl Biochem Biotechnol"
   }
 ]
