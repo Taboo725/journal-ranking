@@ -33,6 +33,8 @@ ScholarX 期刊数据构建脚本
   ft50   : 是否 FT50 期刊，true/false
   abs    : ABS/AJG 等级，1 / 2 / 3 / 4 / "4*"（无则 null）
   cssci  : CSSCI 收录，1=核心期刊 2=扩展版（无则 null）
+  njubs_cn: 南京大学商学院中文目录，1=一流 2=权威 3=核心（无则 null）
+  njubs_en: 南京大学商学院英文目录，1~4=1区~4区（无则 null）
   cnki_if: CNKI 综合影响因子（仅期刊引用，数字，无则 null）
   cnki_ifs: CNKI 复合影响因子（含学位论文等，来源更广，数字，无则 null）
 """
@@ -120,6 +122,10 @@ def build_info(j: dict) -> dict:
         info["K"] = 5 if str(abs_val) == "4*" else int(abs_val)
     if j.get("cssci") is not None:
         info["L"] = int(j["cssci"])
+    if j.get("njubs_cn") is not None:
+        info["O"] = int(j["njubs_cn"])
+    if j.get("njubs_en") is not None:
+        info["P"] = int(j["njubs_en"])
     if j.get("cnki_if") is not None:
         info["M"] = round(float(j["cnki_if"]), 3)
     if j.get("cnki_ifs") is not None:

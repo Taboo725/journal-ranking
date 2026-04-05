@@ -98,6 +98,8 @@ const DATA_SOURCES = [
 | `北核_YYYY.xlsx` | `pku` | `true` | 5 | 北大核心（中文刊名列在第 6 列） |
 | `CSSCI.xlsx` | `cssci` | `1` | 1 | CSSCI 核心期刊 |
 | `CSSCI扩展版.xlsx` | `cssci` | `2` | 1 | CSSCI 扩展版 |
+| `NJUBS_CN_YYYY.xlsx` | `njubs_cn` | 1=一流, 2=权威 | 0（名）, 1（等级）| 南大商院中文目录；其余 CSSCI 期刊自动补为 `3=核心` |
+| `NJUBS_EN_YYYY.xlsx` | `njubs_en` | 1/2/3 | 3（名）, 2（ISSN）, 4（等级）| 南大商院英文目录；其余 SSCI 期刊自动补为 `4=4区` |
 
 > **命名规范**：有年份的文件用 `*` 通配（脚本自动选最新），无年份的精确匹配。
 
@@ -120,10 +122,13 @@ SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
     # 已有条目...
 
     # 新增示例 1：布尔型名单（刊名在第 0 列）
-    _IndexSpec("EI",    "EI_*.xlsx",  0, "ei",   True),
+    _IndexSpec("EI",    "EI_*.xlsx",  0, "ei", static_value=True),
 
     # 新增示例 2：等级值（刊名在第 0 列，等级在第 1 列）
     _IndexSpec("ABDC",  "ABDC*.xlsx", 0, "abdc", value_col=1),
+
+    # 新增示例 3：带 ISSN 的等级值（优先按 ISSN 匹配）
+    _IndexSpec("NJUBS英", "NJUBS_EN_*.xlsx", 3, "njubs_en", issn_col=2, value_col=4),
 ]
 ```
 
@@ -134,11 +139,13 @@ SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
 | `label` | str | 日志中显示的名称 |
 | `pattern` | str | glob 文件名模式（在 `journal/` 下匹配） |
 | `name_col` | int | 期刊名所在列（0-based） |
+| `issn_col` | int\|None | ISSN 所在列（可选；用于优先按 ISSN 匹配） |
 | `field` | str | 写入 journals.json 的字段名 |
 | `static_value` | any | 写入的固定值（默认 `True`） |
 | `value_col` | int\|None | 从该列动态读值（None 则用 static_value） |
 | `stat_key` | str\|None | 统计输出键名（None 则自动生成） |
 | `name_transform` | callable\|None | 期刊名预处理函数（用于格式修正） |
+| `value_transform` | callable\|None | 等级值预处理函数（用于映射文本等级） |
 
 ### 第三步（若是新字段）：在 `build-data.py` 的 `build_info()` 中加编码
 
@@ -165,6 +172,8 @@ def build_info(j: dict) -> dict:
 | `J` | ft50 | FT50 期刊 |
 | `K` | abs | ABS/AJG 等级 |
 | `L` | cssci | CSSCI 核心/扩展 |
+| `O` | njubs_cn | 南大商院中文目录（1=一流 2=权威 3=核心） |
+| `P` | njubs_en | 南大商院英文目录（1~4=1区~4区） |
 | `M` | cnki_if | CNKI 综合影响因子（仅期刊引用） |
 | `N` | cnki_ifs | CNKI 复合影响因子（含学位论文等） |
 | `S` | sos | 预警期刊 |
@@ -180,6 +189,8 @@ def build_info(j: dict) -> dict:
 | `IF` / `jcr` | 取分区更优（更小）的来源；同分区取 IF 更高者 |
 | `cas` / `top` | 取分区更优（更小）的来源；任一来源标记 Top 则为 Top |
 | `cssci` | 取较优值（1=核心 优先于 2=扩展） |
+| `njubs_cn` | 直接取源值；若无源值但命中 CSSCI，则自动补 `3=核心` |
+| `njubs_en` | 直接取源值；若无源值但命中 SSCI，则自动补 `4=4区` |
 | 其余字段 | 后来覆盖；`manual-overrides.json` 最后应用，优先级最高 |
 
 ---
@@ -227,7 +238,7 @@ def build_info(j: dict) -> dict:
 ]
 ```
 
-可覆盖的字段：`name`、`issn`、`eissn`、`abbr`、`IF`、`bank`、`jcr`、`cas`、`top`、`ei`、`cscd`、`pku`、`sos`、`utd24`、`ft50`、`abs`、`cssci`、`cnki_if`、`cnki_ifs`。
+可覆盖的字段：`name`、`issn`、`eissn`、`abbr`、`IF`、`bank`、`jcr`、`cas`、`top`、`ei`、`cscd`、`pku`、`sos`、`utd24`、`ft50`、`abs`、`cssci`、`njubs_cn`、`njubs_en`、`cnki_if`、`cnki_ifs`。
 
 `sos`（预警期刊）格式：`{"24": 1}` 表示 2024 年高预警（1=高 2=中 3=低 4=引用操纵）。
 
@@ -253,6 +264,8 @@ def build_info(j: dict) -> dict:
 | `utd24` | bool | UTD24 核心期刊 | UTD24.xlsx |
 | `ft50` | bool | FT50 期刊 | FT50.xlsx |
 | `abs` | 1/2/3/4/"4*" | ABS/AJG 等级 | AJG.xlsx |
+| `njubs_cn` | 1/2/3 | 南大商院中文目录：一流/权威/核心 | NJUBS_CN.xlsx + CSSCI 兜底 |
+| `njubs_en` | 1/2/3/4 | 南大商院英文目录：1区~4区 | NJUBS_EN.xlsx + SSCI 兜底 |
 | `cnki_if` | number | CNKI 综合影响因子（仅期刊引用） | CNKI.xlsx |
 | `cnki_ifs` | number | CNKI 复合影响因子（含学位论文等） | CNKI.xlsx |
 | `sos` | object | 预警期刊信息 | 手工 |

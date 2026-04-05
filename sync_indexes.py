@@ -55,10 +55,12 @@ DISPLAY_FIELDS = ("name", "issn", "eissn", "abbr")
 #   label       : 日志显示名称
 #   pattern     : glob 模式（在 journal/ 中匹配；有日期则用通配符，否则精确名）
 #   name_col    : 期刊名所在列的 0-based 索引
+#   issn_col    : ISSN 所在列（可选，用于优先按 ISSN 匹配）
 #   field       : 写入 journals.json 的字段名
 #   static_value: 静态写入值（value_col 为 None 时使用）
 #   value_col   : 动态取值的列索引（None=使用 static_value）
 #   stat_key    : 统计输出的键名（None=自动从 label 生成）
+#   value_transform: 动态值预处理函数（可选）
 # ---------------------------------------------------------------------------
 def _pku_normalize_name(name: str) -> str:
     """将北核格式 '主刊名.副标题' 规范化为 '主刊名（副标题）'。
@@ -69,8 +71,29 @@ def _pku_normalize_name(name: str) -> str:
     return f"{m.group(1)}（{m.group(2)}）" if m else name
 
 
+def _parse_njubs_cn_value(raw: object) -> int | None:
+    mapping = {"一流": 1, "权威": 2}
+    return mapping.get(str(raw or "").strip())
+
+
+def _parse_njubs_en_value(raw: object) -> int | None:
+    value = parse_int(raw)
+    return value if value in (1, 2, 3) else None
+
+
 class _IndexSpec:
-    __slots__ = ("label", "pattern", "name_col", "field", "static_value", "value_col", "stat_key", "name_transform")
+    __slots__ = (
+        "label",
+        "pattern",
+        "name_col",
+        "issn_col",
+        "field",
+        "static_value",
+        "value_col",
+        "stat_key",
+        "name_transform",
+        "value_transform",
+    )
 
     def __init__(
         self,
@@ -78,32 +101,39 @@ class _IndexSpec:
         pattern: str,
         name_col: int,
         field: str,
+        issn_col: int | None = None,
         static_value: object = True,
         value_col: int | None = None,
         stat_key: str | None = None,
         name_transform: "Callable[[str], str] | None" = None,  # noqa: F821
+        value_transform: "Callable[[object], object | None] | None" = None,  # noqa: F821
     ) -> None:
         self.label = label
         self.pattern = pattern
         self.name_col = name_col
+        self.issn_col = issn_col
         self.field = field
         self.static_value = static_value
         self.value_col = value_col
         self.stat_key = stat_key or (label.lower().replace(" ", "_") + "_rows")
         self.name_transform = name_transform
+        self.value_transform = value_transform
 
 
 SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
     # 经管专业期刊列表（纯名单，无 ISSN，按刊名匹配）
-    _IndexSpec("UTD24",   "UTD24.xlsx",       0, "utd24", True),
-    _IndexSpec("FT50",    "FT50.xlsx",        0, "ft50",  True),
+    _IndexSpec("UTD24",   "UTD24.xlsx",       0, "utd24", static_value=True),
+    _IndexSpec("FT50",    "FT50.xlsx",        0, "ft50",  static_value=True),
     # AJG/ABS 等级：第 0 列=期刊名，第 1 列=等级（1/2/3/4/4*）
     _IndexSpec("AJG",     "AJG*.xlsx",        0, "abs",   value_col=1),
     # 中文数据库（按中文刊名匹配）
     # 北核用 "." 代替括号分隔副标题，name_transform 统一为 "（）" 后再匹配/存储
-    _IndexSpec("北核",    "北核*.xlsx",       5, "pku",   True,  name_transform=_pku_normalize_name),
-    _IndexSpec("CSSCI",   "CSSCI.xlsx",       1, "cssci", 1),
-    _IndexSpec("CSSCI扩", "CSSCI扩展版.xlsx", 1, "cssci", 2),
+    _IndexSpec("北核",    "北核*.xlsx",       5, "pku",   static_value=True, name_transform=_pku_normalize_name),
+    _IndexSpec("CSSCI",   "CSSCI.xlsx",       1, "cssci", static_value=1),
+    _IndexSpec("CSSCI扩", "CSSCI扩展版.xlsx", 1, "cssci", static_value=2),
+    # 高校期刊目录
+    _IndexSpec("NJUBS中", "NJUBS_CN_*.xlsx",  0, "njubs_cn", value_col=1, value_transform=_parse_njubs_cn_value),
+    _IndexSpec("NJUBS英", "NJUBS_EN_*.xlsx",  3, "njubs_en", issn_col=2, value_col=4, value_transform=_parse_njubs_en_value),
 ]
 OPTIONAL_FIELDS = (
     "IF",
@@ -119,6 +149,8 @@ OPTIONAL_FIELDS = (
     "ft50",
     "abs",
     "cssci",
+    "njubs_cn",
+    "njubs_en",
     "cnki_if",
     "cnki_ifs",
 )
@@ -490,6 +522,7 @@ def apply_simple_index(catalog: dict, source_dir: Path, spec: _IndexSpec) -> int
             continue
         if spec.name_transform:
             name = spec.name_transform(name)
+        issn = normalize_issn(row[spec.issn_col] if spec.issn_col is not None and len(row) > spec.issn_col else None)
 
         if spec.value_col is not None:
             raw_val = row[spec.value_col] if len(row) > spec.value_col else None
@@ -497,12 +530,14 @@ def apply_simple_index(catalog: dict, source_dir: Path, spec: _IndexSpec) -> int
                 value: object = _parse_abs_value(raw_val)
             else:
                 value = raw_val
+            if spec.value_transform:
+                value = spec.value_transform(value)
             if value is None:
                 continue
         else:
             value = spec.static_value
 
-        _, record = resolve_record(catalog, name=name)
+        _, record = resolve_record(catalog, name=name, issn=issn)
         existing = record.get(spec.field)
         # cssci：取较优值（1=核心 > 2=扩展），不降级
         if spec.field == "cssci" and existing is not None and isinstance(value, int) and isinstance(existing, int):
@@ -512,6 +547,22 @@ def apply_simple_index(catalog: dict, source_dir: Path, spec: _IndexSpec) -> int
         count += 1
 
     return count
+
+
+def apply_derived_university_indexes(catalog: dict) -> None:
+    """补齐高校期刊目录的兜底档位。
+    中文：所有未进入前序 NJUBS 中文档位的 CSSCI 期刊 → 核心（3）
+    英文：所有未进入前序 NJUBS 英文档位的 SSCI 期刊 → 4区（4）
+    """
+    for record in catalog["records"].values():
+        if record.get("njubs_cn") is None and record.get("cssci") is not None:
+            record["njubs_cn"] = 3
+
+        banks = set(record.get("_banks", set()))
+        bank_text = str(record.get("bank") or "")
+        has_ssci = "SSCI" in banks or "SSCI" in bank_text
+        if record.get("njubs_en") is None and has_ssci:
+            record["njubs_en"] = 4
 
 
 def apply_cnki_sources(catalog: dict, source_dir: Path) -> int:
@@ -636,6 +687,7 @@ def build_catalog(source_dir: Path, overrides: list[dict]) -> tuple[list[dict], 
     for spec in SIMPLE_INDEX_SOURCES:
         catalog["stats"][spec.stat_key] = apply_simple_index(catalog, source_dir, spec)
     apply_overrides(catalog, overrides)
+    apply_derived_university_indexes(catalog)
 
     journals = [finalize_record(record) for record in catalog["records"].values()]
     journals = [item for item in journals if item.get("name")]
