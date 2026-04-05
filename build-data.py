@@ -134,8 +134,8 @@ def build_info(j: dict) -> dict:
         info["Q"] = int(j["swufe"])
     if j.get("sufe_soe") is not None:
         info["R"] = int(j["sufe_soe"])
-    if j.get("fud_som") is not None:
-        info["T"] = int(j["fud_som"])
+    if j.get("fdu_som") is not None:
+        info["T"] = int(j["fdu_som"])
     return info
 
 

@@ -91,7 +91,7 @@ def _parse_sufe_soe_value(raw: object) -> int | None:
     return mapping.get(str(raw or "").strip())
 
 
-def _parse_fud_som_value(raw: object) -> int | None:
+def _parse_fdu_som_value(raw: object) -> int | None:
     mapping = {"A+": 1, "A": 2, "A-": 3, "B": 4}
     return mapping.get(str(raw or "").strip())
 
@@ -152,7 +152,7 @@ SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
     # 高校专业期刊目录
     _IndexSpec("SWUFE",   "SWUFE_*.xlsx",     3, "swufe",    issn_col=4, value_col=5, value_transform=_parse_swufe_value),
     _IndexSpec("SUFE SOE","SUFE SOE_*.xlsx",  2, "sufe_soe", value_col=3, value_transform=_parse_sufe_soe_value),
-    _IndexSpec("FUD SOM", "FUD SOM_*.xlsx",   1, "fud_som",  value_col=2, value_transform=_parse_fud_som_value),
+    _IndexSpec("FDU SOM", "FDU SOM_*.xlsx",   1, "fdu_som",  value_col=2, value_transform=_parse_fdu_som_value),
 ]
 OPTIONAL_FIELDS = (
     "IF",
@@ -174,7 +174,7 @@ OPTIONAL_FIELDS = (
     "cnki_ifs",
     "swufe",
     "sufe_soe",
-    "fud_som",
+    "fdu_som",
 )
 
 
@@ -426,7 +426,7 @@ def merge_record_pair(base: dict, incoming: dict) -> dict:
         bool(incoming.get("top")),
     )
 
-    for field in ("ei", "cscd", "pku", "sos", "utd24", "ft50", "abs", "cssci", "swufe", "sufe_soe", "fud_som"):
+    for field in ("ei", "cscd", "pku", "sos", "utd24", "ft50", "abs", "cssci", "swufe", "sufe_soe", "fdu_som"):
         if field in incoming:
             base[field] = incoming[field]
 
