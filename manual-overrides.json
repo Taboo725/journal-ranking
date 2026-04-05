@@ -885,11 +885,14 @@
   },
   {
     "name": "Global Environmental Change",
-    "issn": "0959-3780"
+    "issn": "0959-3780",
+    "eissn": "1872-9495",
+    "abbr": "Glob Environ Change"
   },
   {
     "name": "Global Health Journal",
-    "issn": "2414-6447"
+    "issn": "2414-6447",
+    "abbr": "Glob Health J"
   },
   {
     "name": "Global Journal of Emerging Market Economies",
@@ -899,27 +902,32 @@
   {
     "name": "Global Journal of Flexible Systems Management",
     "issn": "0972-2696",
-    "eissn": "0974-0198"
+    "eissn": "0974-0198",
+    "abbr": "Glob J Flex Syst Manag"
   },
   {
     "name": "Global Networks",
     "issn": "1470-2266",
-    "eissn": "1471-0374"
+    "eissn": "1471-0374",
+    "abbr": "Glob Netw (Oxf)"
   },
   {
     "name": "Governance",
     "issn": "0952-1895",
-    "eissn": "1468-0491"
+    "eissn": "1468-0491",
+    "abbr": "Governance (Oxf)"
   },
   {
     "name": "Gynecology and Obstetrics Clinical Medicine",
     "issn": "2097-0587",
-    "eissn": "2667-1646"
+    "eissn": "2667-1646",
+    "abbr": "Gynecol Obstet Clin Med"
   },
   {
     "name": "Health Data Science",
     "issn": "2765-8783",
-    "eissn": "2765-8783"
+    "eissn": "2765-8783",
+    "abbr": "Health Data Sci"
   },
   {
     "name": "High Technology Letters",
@@ -30212,5 +30220,2323 @@
     "issn": "0964-4008",
     "eissn": "1743-8993",
     "abbr": "Ger Polit"
+  },
+  {
+    "name": "GERMAN STUDIES REVIEW",
+    "issn": "0149-7952",
+    "eissn": "2164-8646",
+    "abbr": "Ger Stud Rev"
+  },
+  {
+    "name": "Gerontology and Geriatric Medicine",
+    "eissn": "2333-7214",
+    "abbr": "Gerontol Geriatr Med"
+  },
+  {
+    "name": "GERONTOLOGY & GERIATRICS EDUCATION",
+    "issn": "0270-1960",
+    "eissn": "1545-3847",
+    "abbr": "Gerontol Geriatr Educ"
+  },
+  {
+    "name": "GeroPsych-The Journal of Gerontopsychology and Geriatric Psychiatry",
+    "issn": "1662-9647",
+    "eissn": "1662-971X",
+    "abbr": "GeroPsych (Bern)"
+  },
+  {
+    "name": "GESCHICHTE UND GESELLSCHAFT",
+    "issn": "0340-613X",
+    "eissn": "2196-9000",
+    "abbr": "Gesch Ges"
+  },
+  {
+    "name": "Gesture",
+    "issn": "1568-1475",
+    "eissn": "1569-9773",
+    "abbr": "Gesture (Amst)"
+  },
+  {
+    "name": "Gesunde Pflanzen",
+    "issn": "0367-4223",
+    "eissn": "1439-0345",
+    "abbr": "Gesunde Pflanz"
+  },
+  {
+    "name": "GetMobile-Mobile Computing & Communications Review",
+    "issn": "2375-0529",
+    "eissn": "2375-0537",
+    "abbr": "GetMobile"
+  },
+  {
+    "name": "GHANA SOCIAL SCIENCE JOURNAL",
+    "issn": "0855-4730",
+    "eissn": "0855-4730",
+    "abbr": "Ghana Soc Sci J"
+  },
+  {
+    "name": "GIANT",
+    "issn": "2666-5425",
+    "eissn": "2666-5425",
+    "abbr": "Giant (Oxf)"
+  },
+  {
+    "name": "GIFTED CHILD QUARTERLY",
+    "issn": "0016-9862",
+    "eissn": "1934-9041",
+    "abbr": "Gift Child Q"
+  },
+  {
+    "name": "Ginekologia Polska",
+    "issn": "0017-0011",
+    "eissn": "2543-6767",
+    "abbr": "Ginekol Pol"
+  },
+  {
+    "name": "GIORNALE CRITICO DELLA FILOSOFIA ITALIANA",
+    "issn": "0017-0089",
+    "abbr": "G Crit Filos Ital"
+  },
+  {
+    "name": "Giornale di Chirurgia",
+    "issn": "0391-9005",
+    "eissn": "1971-145X",
+    "abbr": "G Chir"
+  },
+  {
+    "name": "Giornale Italiano di Cardiologia",
+    "issn": "1827-6806",
+    "eissn": "1972-6481",
+    "abbr": "G Ital Cardiol (Rome)"
+  },
+  {
+    "name": "Giornale Italiano di Endodonzia",
+    "issn": "1971-1425",
+    "eissn": "1971-1425",
+    "abbr": "G Ital Endod"
+  },
+  {
+    "name": "GIORNALE ITALIANO DI MEDICINA DEL LAVORO ED ERGONOMIA",
+    "issn": "1592-7830",
+    "eissn": "1592-7830",
+    "abbr": "G Ital Med Lav Ergon"
+  },
+  {
+    "name": "GIScience & Remote Sensing",
+    "issn": "1548-1603",
+    "eissn": "1943-7226",
+    "abbr": "GIsci Remote Sens"
+  },
+  {
+    "name": "Gland Surgery",
+    "issn": "2227-684X",
+    "eissn": "2227-8575",
+    "abbr": "Gland Surg"
+  },
+  {
+    "name": "Glasnik Matematicki",
+    "issn": "0017-095X",
+    "eissn": "1846-7989",
+    "abbr": "Glas Mat"
+  },
+  {
+    "name": "Glass Structures & Engineering",
+    "issn": "2363-5142",
+    "eissn": "2363-5150",
+    "abbr": "Glass Struct Eng"
+  },
+  {
+    "name": "Global Advances in Integrative Medicine and Health",
+    "eissn": "2753-6130",
+    "abbr": "Glob Adv Integr Med Health"
+  },
+  {
+    "name": "GLOBAL AND PLANETARY CHANGE",
+    "issn": "0921-8181",
+    "eissn": "1872-6364",
+    "abbr": "Glob Planet Change"
+  },
+  {
+    "name": "Global & Regional Health Technology Assessment",
+    "issn": "2284-2403",
+    "eissn": "2283-5733",
+    "abbr": "Glob Reg Health Technol Assess"
+  },
+  {
+    "name": "GLOBAL BIOGEOCHEMICAL CYCLES",
+    "issn": "0886-6236",
+    "eissn": "1944-9224",
+    "abbr": "Global Biogeochem Cycles"
+  },
+  {
+    "name": "GLOBAL CHALLENGES",
+    "eissn": "2056-6646",
+    "abbr": "Glob Chall"
+  },
+  {
+    "name": "GLOBAL CHANGE BIOLOGY",
+    "issn": "1354-1013",
+    "eissn": "1365-2486",
+    "abbr": "Glob Chang Biol"
+  },
+  {
+    "name": "Global Change Biology Bioenergy",
+    "issn": "1757-1693",
+    "eissn": "1757-1707",
+    "abbr": "Glob Change Biol Bioenergy"
+  },
+  {
+    "name": "Global Crime",
+    "issn": "1744-0572",
+    "eissn": "1744-0580",
+    "abbr": "Glob Crime"
+  },
+  {
+    "name": "GLOBAL ECOLOGY AND BIOGEOGRAPHY",
+    "issn": "1466-822X",
+    "eissn": "1466-8238",
+    "abbr": "Glob Ecol Biogeogr"
+  },
+  {
+    "name": "Global Ecology and Conservation",
+    "eissn": "2351-9894",
+    "abbr": "Glob Ecol Conserv"
+  },
+  {
+    "name": "Global Environment",
+    "issn": "1973-3739",
+    "eissn": "2053-7352",
+    "abbr": "Glob Environ"
+  },
+  {
+    "name": "Global Environmental Politics",
+    "issn": "1526-3800",
+    "eissn": "1536-0091",
+    "abbr": "Glob Environ Polit"
+  },
+  {
+    "name": "Global Finance Journal",
+    "issn": "1044-0283",
+    "eissn": "1873-5665",
+    "abbr": "Glob Financ J"
+  },
+  {
+    "name": "Global Food Security-Agriculture Policy Economics and Environment",
+    "issn": "2211-9124",
+    "eissn": "2211-9124",
+    "abbr": "Glob Food Sec"
+  },
+  {
+    "name": "Global Health Action",
+    "eissn": "1654-9880",
+    "abbr": "Glob Health Action"
+  },
+  {
+    "name": "Global Health & Medicine",
+    "issn": "2434-9186",
+    "eissn": "2434-9194",
+    "abbr": "Glob Health Med"
+  },
+  {
+    "name": "Global Health Epidemiology and Genomics",
+    "issn": "2054-4200",
+    "eissn": "2054-4200",
+    "abbr": "Glob Health Epidemiol Genom"
+  },
+  {
+    "name": "Global Health Promotion",
+    "issn": "1757-9759",
+    "eissn": "1757-9767",
+    "abbr": "Glob Health Promot"
+  },
+  {
+    "name": "Global Health Research and Policy",
+    "eissn": "2397-0642",
+    "abbr": "Glob Health Res Policy"
+  },
+  {
+    "name": "Global Health-Science and Practice",
+    "issn": "2169-575X",
+    "eissn": "2169-575X",
+    "abbr": "Glob Health Sci Pract"
+  },
+  {
+    "name": "Global Heart",
+    "issn": "2211-8160",
+    "eissn": "2211-8179",
+    "abbr": "Glob Heart"
+  },
+  {
+    "name": "Globalisation Societies and Education",
+    "issn": "1476-7724",
+    "eissn": "1476-7732",
+    "abbr": "Glob Soc Educ"
+  },
+  {
+    "name": "Globalization and Health",
+    "eissn": "1744-8603",
+    "abbr": "Global Health"
+  },
+  {
+    "name": "GLOBAL JOURNAL OF ENVIRONMENTAL SCIENCE AND MANAGEMENT-GJESM",
+    "issn": "2383-3572",
+    "eissn": "2383-3866",
+    "abbr": "Glob J Environ Sci Manag"
+  },
+  {
+    "name": "Global Medical Genetics",
+    "issn": "2699-9404",
+    "eissn": "2699-9404",
+    "abbr": "Glob Med Genet"
+  },
+  {
+    "name": "Global Mental Health",
+    "issn": "2054-4251",
+    "eissn": "2054-4251",
+    "abbr": "Glob Ment Health (Camb)"
+  },
+  {
+    "name": "Global Pediatric Health",
+    "eissn": "2333-794X",
+    "abbr": "Glob Pediatr Health"
+  },
+  {
+    "name": "Global Perspectives",
+    "eissn": "2575-7350",
+    "abbr": "Glob Perspect"
+  },
+  {
+    "name": "Global Philosophy",
+    "issn": "2948-152X",
+    "eissn": "2948-1538",
+    "abbr": "Glob Philos"
+  },
+  {
+    "name": "Global Policy",
+    "issn": "1758-5880",
+    "eissn": "1758-5899",
+    "abbr": "Glob Policy"
+  },
+  {
+    "name": "Global Public Health",
+    "issn": "1744-1692",
+    "eissn": "1744-1706",
+    "abbr": "Glob Public Health"
+  },
+  {
+    "name": "Global Public Policy and Governance",
+    "issn": "2730-6291",
+    "eissn": "2730-6305",
+    "abbr": "Glob Public Policy Gov"
+  },
+  {
+    "name": "Global Qualitative Nursing Research",
+    "issn": "2333-3936",
+    "eissn": "2333-3936",
+    "abbr": "Glob Qual Nurs Res"
+  },
+  {
+    "name": "Global Social Policy",
+    "issn": "1468-0181",
+    "eissn": "1741-2803",
+    "abbr": "Glob Soc Policy"
+  },
+  {
+    "name": "Global Social Welfare",
+    "issn": "2196-8799",
+    "eissn": "2196-8799",
+    "abbr": "Glob Soc Welf"
+  },
+  {
+    "name": "Global Society",
+    "issn": "1360-0826",
+    "eissn": "1469-798X",
+    "abbr": "Glob Soc"
+  },
+  {
+    "name": "Global Spine Journal",
+    "issn": "2192-5682",
+    "eissn": "2192-5690",
+    "abbr": "Global Spine J"
+  },
+  {
+    "name": "Global Studies of Childhood",
+    "issn": "2043-6106",
+    "eissn": "2043-6106",
+    "abbr": "Glob Stud Child"
+  },
+  {
+    "name": "GLOBAL SURGICAL EDUCATION - JOURNAL OF THE ASSOCIATION FOR SURGICAL EDUCATION",
+    "eissn": "2731-4588",
+    "abbr": "Global Surg Educ"
+  },
+  {
+    "name": "Global Sustainability",
+    "eissn": "2059-4798",
+    "abbr": "Glob Sustain"
+  },
+  {
+    "name": "Global Transitions",
+    "issn": "2589-7918",
+    "eissn": "2589-7918",
+    "abbr": "Glob Transit"
+  },
+  {
+    "name": "Glossa-A Journal of General Linguistics",
+    "eissn": "2397-1835",
+    "abbr": "Glossa"
+  },
+  {
+    "name": "GLOTTA-ZEITSCHRIFT FUR GRIECHISCHE UND LATEINISCHE SPRACHE",
+    "issn": "0017-1298",
+    "eissn": "2196-9043",
+    "abbr": "Glotta"
+  },
+  {
+    "name": "GLQ-A JOURNAL OF LESBIAN AND GAY STUDIES",
+    "issn": "1064-2684",
+    "eissn": "1527-9375",
+    "abbr": "GLQ"
+  },
+  {
+    "name": "GLYCOCONJUGATE JOURNAL",
+    "issn": "0282-0080",
+    "eissn": "1573-4986",
+    "abbr": "Glycoconj J"
+  },
+  {
+    "name": "GM Crops & Food-Biotechnology in Agriculture and the Food Chain",
+    "issn": "2164-5698",
+    "eissn": "2164-5701",
+    "abbr": "GM Crops Food"
+  },
+  {
+    "name": "GMS Hygiene and Infection Control",
+    "issn": "2196-5226",
+    "eissn": "2196-5226",
+    "abbr": "GMS Hyg Infect Control"
+  },
+  {
+    "name": "GMS Interdisciplinary Plastic and Reconstructive Surgery DGPW",
+    "issn": "2193-8091",
+    "eissn": "2193-8091",
+    "abbr": "GMS Interdiscip Plast Reconstr Surg DGPW"
+  },
+  {
+    "name": "GMS Journal for Medical Education",
+    "issn": "2366-5017",
+    "eissn": "2366-5017",
+    "abbr": "GMS J Med Educ"
+  },
+  {
+    "name": "Gondwana Research",
+    "issn": "1342-937X",
+    "eissn": "1878-0571",
+    "abbr": "Gondwana Res"
+  },
+  {
+    "name": "Government Information Quarterly",
+    "issn": "0740-624X",
+    "eissn": "1872-9517",
+    "abbr": "Gov Inf Q"
+  },
+  {
+    "name": "GPS SOLUTIONS",
+    "issn": "1080-5370",
+    "eissn": "1521-1886",
+    "abbr": "GPS Solut"
+  },
+  {
+    "name": "GRAEFES ARCHIVE FOR CLINICAL AND EXPERIMENTAL OPHTHALMOLOGY",
+    "issn": "0721-832X",
+    "eissn": "1435-702X",
+    "abbr": "Graefes Arch Clin Exp Ophthalmol"
+  },
+  {
+    "name": "GRANULAR MATTER",
+    "issn": "1434-5021",
+    "eissn": "1434-7636",
+    "abbr": "Granul Matter"
+  },
+  {
+    "name": "GRAPHICAL MODELS",
+    "issn": "1524-0703",
+    "eissn": "1524-0711",
+    "abbr": "Graph Models"
+  },
+  {
+    "name": "GRAPHS AND COMBINATORICS",
+    "issn": "0911-0119",
+    "eissn": "1435-5914",
+    "abbr": "Graphs Comb"
+  },
+  {
+    "name": "GRASS AND FORAGE SCIENCE",
+    "issn": "0142-5242",
+    "eissn": "1365-2494",
+    "abbr": "Grass Forage Sci"
+  },
+  {
+    "name": "GRASSLAND SCIENCE",
+    "issn": "1744-6961",
+    "eissn": "1744-697X",
+    "abbr": "Grassl Sci"
+  },
+  {
+    "name": "Grass Research",
+    "eissn": "2769-1675",
+    "abbr": "Grass Res"
+  },
+  {
+    "name": "GREEK ROMAN AND BYZANTINE STUDIES",
+    "issn": "0017-3916",
+    "eissn": "2159-3159",
+    "abbr": "Greek Roman Byz Stud (Cambridge Mass)"
+  },
+  {
+    "name": "GREEN CHEMISTRY",
+    "issn": "1463-9262",
+    "eissn": "1463-9270",
+    "abbr": "Green Chem"
+  },
+  {
+    "name": "Green Chemistry Letters and Reviews",
+    "issn": "1751-8253",
+    "eissn": "1751-7192",
+    "abbr": "Green Chem Lett Rev"
+  },
+  {
+    "name": "Green Materials",
+    "issn": "2049-1220",
+    "eissn": "2049-1239",
+    "abbr": "Green Mater"
+  },
+  {
+    "name": "Green Synthesis and Catalysis",
+    "eissn": "2666-5549",
+    "abbr": "Green Synth Catal"
+  },
+  {
+    "name": "Griffith Law Review",
+    "issn": "1038-3441",
+    "eissn": "1839-4205",
+    "abbr": "Griffith Law Rev"
+  },
+  {
+    "name": "Groundwater for Sustainable Development",
+    "issn": "2352-801X",
+    "eissn": "2352-801X",
+    "abbr": "Groundw Sustain Dev"
+  },
+  {
+    "name": "GROUND WATER MONITORING AND REMEDIATION",
+    "issn": "1069-3629",
+    "eissn": "1745-6592",
+    "abbr": "Ground Water Monit Remediat"
+  },
+  {
+    "name": "Group and Organization Management",
+    "issn": "1059-6011",
+    "eissn": "1552-3993",
+    "abbr": "Group Organ Manag"
+  },
+  {
+    "name": "Group Decision and Negotiation",
+    "issn": "0926-2644",
+    "eissn": "1572-9907",
+    "abbr": "Group Decis Negot"
+  },
+  {
+    "name": "GROUP DYNAMICS-THEORY RESEARCH AND PRACTICE",
+    "issn": "1089-2699",
+    "eissn": "1930-7802",
+    "abbr": "Group Dyn"
+  },
+  {
+    "name": "Group Processes and Intergroup Relations",
+    "issn": "1368-4302",
+    "eissn": "1461-7188",
+    "abbr": "Group Process Intergroup Relat"
+  },
+  {
+    "name": "Growth and Change",
+    "issn": "0017-4815",
+    "eissn": "1468-2257",
+    "abbr": "Growth Change"
+  },
+  {
+    "name": "GROWTH HORMONE & IGF RESEARCH",
+    "issn": "1096-6374",
+    "eissn": "1532-2238",
+    "abbr": "Growth Horm IGF Res"
+  },
+  {
+    "name": "Grundwasser",
+    "issn": "1430-483X",
+    "eissn": "1432-1165",
+    "abbr": "Grundwasser (Berl)"
+  },
+  {
+    "name": "GUERRES MONDIALES ET CONFLITS CONTEMPORAINS",
+    "issn": "0984-2292",
+    "eissn": "2101-0137",
+    "abbr": "Guerr Mond Conflits Contemp"
+  },
+  {
+    "name": "GULF AND CARIBBEAN RESEARCH",
+    "issn": "1528-0470",
+    "eissn": "2572-1410",
+    "abbr": "Gulf Caribb Res"
+  },
+  {
+    "name": "Gut and Liver",
+    "issn": "1976-2283",
+    "eissn": "2005-1212",
+    "abbr": "Gut Liver"
+  },
+  {
+    "name": "Gut Pathogens",
+    "issn": "1757-4749",
+    "eissn": "1757-4749",
+    "abbr": "Gut Pathog"
+  },
+  {
+    "name": "Gynakologische Endokrinologie",
+    "issn": "1610-2894",
+    "eissn": "1610-2908",
+    "abbr": "Gynakol Endokrinol"
+  },
+  {
+    "name": "GYNECOLOGICAL ENDOCRINOLOGY",
+    "issn": "0951-3590",
+    "eissn": "1473-0766",
+    "abbr": "Gynecol Endocrinol"
+  },
+  {
+    "name": "GYNECOLOGIC AND OBSTETRIC INVESTIGATION",
+    "issn": "0378-7346",
+    "eissn": "1423-002X",
+    "abbr": "Gynecol Obstet Invest"
+  },
+  {
+    "name": "Gynecologic Oncology",
+    "issn": "0090-8258",
+    "eissn": "1095-6859",
+    "abbr": "Gynecol Oncol"
+  },
+  {
+    "name": "Gynecologic Oncology Reports",
+    "issn": "2352-5789",
+    "eissn": "2352-5789",
+    "abbr": "Gynecol Oncol Rep"
+  },
+  {
+    "name": "Gynecologie Obstetrique Fertilite & Senologie",
+    "issn": "2468-7197",
+    "eissn": "2468-7189",
+    "abbr": "Gynecol Obstet Fertil Senol"
+  },
+  {
+    "name": "Gynecology and Minimally Invasive Therapy-GMIT",
+    "issn": "2213-3070",
+    "eissn": "2213-3089",
+    "abbr": "Gynecol Minim Invasive Ther"
+  },
+  {
+    "name": "Gynecology and Pelvic Medicine",
+    "eissn": "2617-4499",
+    "abbr": "Gynecol Pelvic Med"
+  },
+  {
+    "name": "Habitat International",
+    "issn": "0197-3975",
+    "eissn": "1873-5428",
+    "abbr": "Habitat Int"
+  },
+  {
+    "name": "Hague Journal on the Rule of Law",
+    "issn": "1876-4045",
+    "eissn": "1876-4053",
+    "abbr": "Hague J Rule Law"
+  },
+  {
+    "name": "HAHR-Hispanic American Historical Review",
+    "issn": "0018-2168",
+    "eissn": "1527-1900",
+    "abbr": "Hisp Am Hist Rev"
+  },
+  {
+    "name": "Hand-American Association for Hand Surgery",
+    "issn": "1558-9447",
+    "eissn": "1558-9455",
+    "abbr": "Hand (N Y)"
+  },
+  {
+    "name": "Handchirurgie Mikrochirurgie Plastische Chirurgie",
+    "issn": "0722-1819",
+    "eissn": "1439-3980",
+    "abbr": "Handchir Mikrochir Plast Chir"
+  },
+  {
+    "name": "HAND CLINICS",
+    "issn": "0749-0712",
+    "eissn": "1558-1969",
+    "abbr": "Hand Clin"
+  },
+  {
+    "name": "Hand Surgery & Rehabilitation",
+    "issn": "2468-1229",
+    "eissn": "2468-1210",
+    "abbr": "Hand Surg Rehabil"
+  },
+  {
+    "name": "Hand Therapy",
+    "issn": "1758-9983",
+    "eissn": "1758-9991",
+    "abbr": "Hand Ther"
+  },
+  {
+    "name": "Harm Reduction Journal",
+    "eissn": "1477-7517",
+    "abbr": "Harm Reduct J"
+  },
+  {
+    "name": "HARVARD CIVIL RIGHTS-CIVIL LIBERTIES LAW REVIEW",
+    "issn": "0017-8039",
+    "eissn": "1943-5061",
+    "abbr": "Harv Civ Rights-Civil Lib Law Rev"
+  },
+  {
+    "name": "Harvard Data Science Review",
+    "issn": "2688-8513",
+    "eissn": "2644-2353",
+    "abbr": "Harv Data Sci Rev"
+  },
+  {
+    "name": "HARVARD EDUCATIONAL REVIEW",
+    "issn": "0017-8055",
+    "eissn": "1943-5045",
+    "abbr": "Harv Educ Rev"
+  },
+  {
+    "name": "HARVARD ENVIRONMENTAL LAW REVIEW",
+    "issn": "0147-8257",
+    "eissn": "0147-8257",
+    "abbr": "HELR Harvard Environ Law Rev"
+  },
+  {
+    "name": "HARVARD INTERNATIONAL LAW JOURNAL",
+    "issn": "0017-8063",
+    "eissn": "2153-2494",
+    "abbr": "Harvard Int Law J"
+  },
+  {
+    "name": "HARVARD JOURNAL OF ASIATIC STUDIES",
+    "issn": "0073-0548",
+    "eissn": "1944-6454",
+    "abbr": "Harv J Asiat Stud"
+  },
+  {
+    "name": "HARVARD JOURNAL OF LAW AND PUBLIC POLICY",
+    "issn": "0193-4872",
+    "eissn": "0193-4872",
+    "abbr": "Harv J Law Public Policy"
+  },
+  {
+    "name": "HARVARD JOURNAL ON LEGISLATION",
+    "issn": "0017-808X",
+    "eissn": "1943-507X",
+    "abbr": "Harvard J Legis"
+  },
+  {
+    "name": "HARVARD LAW REVIEW",
+    "issn": "0017-811X",
+    "eissn": "2161-976X",
+    "abbr": "Harv Law Rev"
+  },
+  {
+    "name": "HARVARD REVIEW OF PSYCHIATRY",
+    "issn": "1067-3229",
+    "eissn": "1465-7309",
+    "abbr": "Harv Rev Psychiatry"
+  },
+  {
+    "name": "HARVARD THEOLOGICAL REVIEW",
+    "issn": "0017-8160",
+    "eissn": "1475-4517",
+    "abbr": "Harv Theol Rev"
+  },
+  {
+    "name": "HASTINGS CENTER REPORT",
+    "issn": "0093-0334",
+    "eissn": "1552-146X",
+    "abbr": "Hastings Cent Rep"
+  },
+  {
+    "name": "HASTINGS LAW JOURNAL",
+    "issn": "0017-8322",
+    "eissn": "0017-8322",
+    "abbr": "Hastings Law J"
+  },
+  {
+    "name": "HAU-Journal of Ethnographic Theory",
+    "issn": "2575-1433",
+    "eissn": "2049-1115",
+    "abbr": "HAU"
+  },
+  {
+    "name": "Head & Face Medicine",
+    "eissn": "1746-160X",
+    "abbr": "Head Face Med"
+  },
+  {
+    "name": "HEAD AND NECK-JOURNAL FOR THE SCIENCES AND SPECIALTIES OF THE HEAD AND NECK",
+    "issn": "1043-3074",
+    "eissn": "1097-0347",
+    "abbr": "Head Neck"
+  },
+  {
+    "name": "Head & Neck Pathology",
+    "issn": "1936-055X",
+    "eissn": "1936-0568",
+    "abbr": "Head Neck Pathol"
+  },
+  {
+    "name": "HEALTH",
+    "issn": "1363-4593",
+    "eissn": "1461-7196",
+    "abbr": "Health (London)"
+  },
+  {
+    "name": "HEALTH AFFAIRS",
+    "issn": "0278-2715",
+    "eissn": "0278-2715",
+    "abbr": "Health Aff (Millwood)"
+  },
+  {
+    "name": "Health Affairs Scholar",
+    "eissn": "2976-5390",
+    "abbr": "Health Aff Sch"
+  },
+  {
+    "name": "Health and History",
+    "issn": "1442-1771",
+    "eissn": "1839-3314",
+    "abbr": "Health History"
+  },
+  {
+    "name": "Health and Human Rights",
+    "eissn": "2150-4113",
+    "abbr": "Health Hum Rights"
+  },
+  {
+    "name": "Health & Justice",
+    "eissn": "2194-7899",
+    "abbr": "Health Justice"
+  },
+  {
+    "name": "HEALTH & PLACE",
+    "issn": "1353-8292",
+    "eissn": "1873-2054",
+    "abbr": "Health Place"
+  },
+  {
+    "name": "Health and Quality of Life Outcomes",
+    "eissn": "1477-7525",
+    "abbr": "Health Qual Life Outcomes"
+  },
+  {
+    "name": "HEALTH & SOCIAL CARE IN THE COMMUNITY",
+    "issn": "0966-0410",
+    "eissn": "1365-2524",
+    "abbr": "Health Soc Care Community"
+  },
+  {
+    "name": "HEALTH & SOCIAL WORK",
+    "issn": "0360-7283",
+    "eissn": "1545-6854",
+    "abbr": "Health Soc Work"
+  },
+  {
+    "name": "Health and Technology",
+    "issn": "2190-7188",
+    "eissn": "2190-7196",
+    "abbr": "Health Technol (Berl)"
+  },
+  {
+    "name": "Health Behavior and Policy Review",
+    "issn": "2326-4403",
+    "eissn": "2326-4403",
+    "abbr": "Health Behav Policy Rev"
+  },
+  {
+    "name": "Healthcare",
+    "eissn": "2227-9032",
+    "abbr": "Healthcare (Basel)"
+  },
+  {
+    "name": "HEALTH CARE ANALYSIS",
+    "issn": "1065-3058",
+    "eissn": "1573-3394",
+    "abbr": "Health Care Anal"
+  },
+  {
+    "name": "Health Care for Women International",
+    "issn": "0739-9332",
+    "eissn": "1096-4665",
+    "abbr": "Health Care Women Int"
+  },
+  {
+    "name": "Healthcare Informatics Research",
+    "issn": "2093-3681",
+    "eissn": "2093-369X",
+    "abbr": "Healthc Inform Res"
+  },
+  {
+    "name": "Healthcare in Low-resource Settings",
+    "eissn": "2281-7824",
+    "abbr": "Healthc Low Resour Settings"
+  },
+  {
+    "name": "Health Care Management Review",
+    "issn": "0361-6274",
+    "eissn": "1550-5030",
+    "abbr": "Health Care Manage Rev"
+  },
+  {
+    "name": "Health Care Management Science",
+    "issn": "1386-9620",
+    "eissn": "1572-9389",
+    "abbr": "Health Care Manag Sci"
+  },
+  {
+    "name": "Health Care Science",
+    "issn": "2771-1749",
+    "eissn": "2771-1757",
+    "abbr": "Health Care Sci"
+  },
+  {
+    "name": "Healthcare Technology Letters",
+    "eissn": "2053-3713",
+    "abbr": "Healthc Technol Lett"
+  },
+  {
+    "name": "HealthCare-The Journal of Delivery Science and Innovation",
+    "issn": "2213-0764",
+    "eissn": "2213-0772",
+    "abbr": "Healthc (Amst)"
+  },
+  {
+    "name": "HEALTH COMMUNICATION",
+    "issn": "1041-0236",
+    "eissn": "1532-7027",
+    "abbr": "Health Commun"
+  },
+  {
+    "name": "HEALTH ECONOMICS",
+    "issn": "1057-9230",
+    "eissn": "1099-1050",
+    "abbr": "Health Econ"
+  },
+  {
+    "name": "Health Economics Policy and Law",
+    "issn": "1744-1331",
+    "eissn": "1744-134X",
+    "abbr": "Health Econ Policy Law"
+  },
+  {
+    "name": "Health Economics Review",
+    "issn": "2191-1991",
+    "eissn": "2191-1991",
+    "abbr": "Health Econ Rev"
+  },
+  {
+    "name": "Health Education",
+    "issn": "0965-4283",
+    "eissn": "1758-714X",
+    "abbr": "Health Educ (Lond)"
+  },
+  {
+    "name": "HEALTH EDUCATION & BEHAVIOR",
+    "issn": "1090-1981",
+    "eissn": "1552-6127",
+    "abbr": "Health Educ Behav"
+  },
+  {
+    "name": "HEALTH EDUCATION JOURNAL",
+    "issn": "0017-8969",
+    "eissn": "1748-8176",
+    "abbr": "Health Educ J"
+  },
+  {
+    "name": "HEALTH EDUCATION RESEARCH",
+    "issn": "0268-1153",
+    "eissn": "1465-3648",
+    "abbr": "Health Educ Res"
+  },
+  {
+    "name": "HEALTH EXPECTATIONS",
+    "issn": "1369-6513",
+    "eissn": "1369-7625",
+    "abbr": "Health Expect"
+  },
+  {
+    "name": "Health Informatics Journal",
+    "issn": "1460-4582",
+    "eissn": "1741-2811",
+    "abbr": "Health Informatics J"
+  },
+  {
+    "name": "Health Information and Libraries Journal",
+    "issn": "1471-1834",
+    "eissn": "1471-1842",
+    "abbr": "Health Info Libr J"
+  },
+  {
+    "name": "Health Information Management Journal",
+    "issn": "1833-3583",
+    "eissn": "1833-3575",
+    "abbr": "Health Inf Manag"
+  },
+  {
+    "name": "Health Information Science and Systems",
+    "issn": "2047-2501",
+    "eissn": "2047-2501",
+    "abbr": "Health Inf Sci Syst"
+  },
+  {
+    "name": "Health Marketing Quarterly",
+    "issn": "0735-9683",
+    "eissn": "1545-0864",
+    "abbr": "Health Mark Q"
+  },
+  {
+    "name": "HEALTH PHYSICS",
+    "issn": "0017-9078",
+    "eissn": "1538-5159",
+    "abbr": "Health Phys"
+  },
+  {
+    "name": "HEALTH POLICY AND PLANNING",
+    "issn": "0268-1080",
+    "eissn": "1460-2237",
+    "abbr": "Health Policy Plan"
+  },
+  {
+    "name": "Health Policy and Technology",
+    "issn": "2211-8837",
+    "eissn": "2211-8845",
+    "abbr": "Health Policy Technol"
+  },
+  {
+    "name": "Health Promotion and Chronic Disease Prevention in Canada-Research Policy and Practice",
+    "issn": "2368-738X",
+    "eissn": "2368-738X",
+    "abbr": "Health Promot Chronic Dis Prev Can"
+  },
+  {
+    "name": "HEALTH PROMOTION INTERNATIONAL",
+    "issn": "0957-4824",
+    "eissn": "1460-2245",
+    "abbr": "Law Probab Risk"
+  },
+  {
+    "name": "Health Promotion Journal of Australia",
+    "issn": "1036-1073",
+    "eissn": "2201-1617",
+    "abbr": "Health Promot J Austr"
+  },
+  {
+    "name": "Health Promotion Perspectives",
+    "issn": "2228-6497",
+    "eissn": "2228-6497",
+    "abbr": "Health Promot Perspect"
+  },
+  {
+    "name": "Health Promotion Practice",
+    "issn": "1524-8399",
+    "eissn": "1552-6372",
+    "abbr": "Health Promot Pract"
+  },
+  {
+    "name": "HEALTH PSYCHOLOGY",
+    "issn": "0278-6133",
+    "eissn": "1930-7810",
+    "abbr": "Health Psychol"
+  },
+  {
+    "name": "Health Psychology and Behavioral Medicine",
+    "issn": "2164-2850",
+    "eissn": "2164-2850",
+    "abbr": "Health Psychol Behav Med"
+  },
+  {
+    "name": "Health Psychology Open",
+    "eissn": "2055-1029",
+    "abbr": "Health Psychol Open"
+  },
+  {
+    "name": "Health Psychology Report",
+    "issn": "2353-4184",
+    "eissn": "2353-5571",
+    "abbr": "Health Psychol Rep"
+  },
+  {
+    "name": "Health Psychology Research",
+    "issn": "2420-8124",
+    "eissn": "2420-8124",
+    "abbr": "Health Psychol Res"
+  },
+  {
+    "name": "Health Psychology Review",
+    "issn": "1743-7199",
+    "eissn": "1743-7202",
+    "abbr": "Health Psychol Rev"
+  },
+  {
+    "name": "Health Reports",
+    "issn": "0840-6529",
+    "eissn": "1209-1367",
+    "abbr": "Health Rep"
+  },
+  {
+    "name": "Health Research Policy and Systems",
+    "issn": "1478-4505",
+    "eissn": "1478-4505",
+    "abbr": "Health Res Policy Syst"
+  },
+  {
+    "name": "HEALTH RISK & SOCIETY",
+    "issn": "1369-8575",
+    "eissn": "1469-8331",
+    "abbr": "Health Risk Soc"
+  },
+  {
+    "name": "Health SA Gesondheid",
+    "issn": "1025-9848",
+    "eissn": "2071-9736",
+    "abbr": "Health SA"
+  },
+  {
+    "name": "Health Science Reports",
+    "eissn": "2398-8835",
+    "abbr": "Health Sci Rep"
+  },
+  {
+    "name": "Health Security",
+    "issn": "2326-5094",
+    "eissn": "2326-5108",
+    "abbr": "Health Secur"
+  },
+  {
+    "name": "Health Services and Outcomes Research Methodology",
+    "issn": "1387-3741",
+    "eissn": "1572-9400",
+    "abbr": "Health Serv Outcomes Res Methodol"
+  },
+  {
+    "name": "Health Services Insights",
+    "issn": "1178-6329",
+    "eissn": "1178-6329",
+    "abbr": "Health Serv Insights"
+  },
+  {
+    "name": "Health Services Management Research",
+    "issn": "0951-4848",
+    "eissn": "1758-1044",
+    "abbr": "Health Serv Manage Res"
+  },
+  {
+    "name": "Health Services Research",
+    "issn": "0017-9124",
+    "eissn": "1475-6773",
+    "abbr": "Health Serv Res"
+  },
+  {
+    "name": "Health Services Research and Managerial Epidemiology",
+    "issn": "2333-3928",
+    "eissn": "2333-3928",
+    "abbr": "Health Serv Res Manag Epidemiol"
+  },
+  {
+    "name": "Health Sociology Review",
+    "issn": "1446-1242",
+    "eissn": "1839-3551",
+    "abbr": "Health Sociol Rev"
+  },
+  {
+    "name": "Health Systems",
+    "issn": "2047-6965",
+    "eissn": "2047-6973",
+    "abbr": "Health Syst (Basingstoke)"
+  },
+  {
+    "name": "Health Systems & Reform",
+    "issn": "2328-8604",
+    "eissn": "2328-8620",
+    "abbr": "Health Syst Reform"
+  },
+  {
+    "name": "HEALTH TECHNOLOGY ASSESSMENT",
+    "issn": "1366-5278",
+    "eissn": "2046-4924",
+    "abbr": "Health Technol Assess"
+  },
+  {
+    "name": "Hearing Balance and Communication",
+    "issn": "2169-5717",
+    "eissn": "2169-5725",
+    "abbr": "Hearing Balance Commun"
+  },
+  {
+    "name": "HEARING RESEARCH",
+    "issn": "0378-5955",
+    "eissn": "1878-5891",
+    "abbr": "Hear Res"
+  },
+  {
+    "name": "HEART & LUNG",
+    "issn": "0147-9563",
+    "eissn": "1527-3288",
+    "abbr": "Heart Lung"
+  },
+  {
+    "name": "Heart and Mind",
+    "issn": "2468-6476",
+    "eissn": "2468-6484",
+    "abbr": "Heart Mind"
+  },
+  {
+    "name": "HEART AND VESSELS",
+    "issn": "0910-8327",
+    "eissn": "1615-2573",
+    "abbr": "Heart Vessels Suppl"
+  },
+  {
+    "name": "Heart Failure Clinics",
+    "issn": "1551-7136",
+    "eissn": "1551-7136",
+    "abbr": "Heart Fail Clin"
+  },
+  {
+    "name": "HEART FAILURE REVIEWS",
+    "issn": "1382-4147",
+    "eissn": "1573-7322",
+    "abbr": "Heart Fail Rev"
+  },
+  {
+    "name": "Heart International",
+    "issn": "2036-2579",
+    "eissn": "2036-2579",
+    "abbr": "Heart Int"
+  },
+  {
+    "name": "Heart Lung and Circulation",
+    "issn": "1443-9506",
+    "eissn": "1444-2892",
+    "abbr": "Heart Lung Circ"
+  },
+  {
+    "name": "HEART SURGERY FORUM",
+    "issn": "1098-3511",
+    "eissn": "1522-6662",
+    "abbr": "Heart Surg Forum"
+  },
+  {
+    "name": "HEAT AND MASS TRANSFER",
+    "issn": "0947-7411",
+    "eissn": "1432-1181",
+    "abbr": "Heat Mass Transf"
+  },
+  {
+    "name": "HEAT TRANSFER RESEARCH",
+    "issn": "1064-2285",
+    "eissn": "2162-6561",
+    "abbr": "Heat Transf Res"
+  },
+  {
+    "name": "Hellenic Journal of Cardiology",
+    "issn": "1109-9666",
+    "eissn": "2241-5955",
+    "abbr": "Hellenic J Cardiol"
+  },
+  {
+    "name": "Hellenic Journal of Nuclear Medicine",
+    "issn": "1108-1430",
+    "eissn": "1790-5427",
+    "abbr": "Hell J Nucl Med"
+  },
+  {
+    "name": "HELVETICA CHIMICA ACTA",
+    "issn": "0018-019X",
+    "eissn": "1522-2675",
+    "abbr": "Helv Chim Acta"
+  },
+  {
+    "name": "HEMATOLOGICAL ONCOLOGY",
+    "issn": "0278-0232",
+    "eissn": "1099-1069",
+    "abbr": "Hematol Oncol"
+  },
+  {
+    "name": "Hematology-American Society of Hematology Education Program",
+    "issn": "1520-4391",
+    "eissn": "1520-4383",
+    "abbr": "Hematology Am Soc Hematol Educ Program"
+  },
+  {
+    "name": "HEMATOLOGY-ONCOLOGY CLINICS OF NORTH AMERICA",
+    "issn": "0889-8588",
+    "eissn": "1558-1977",
+    "abbr": "Hematol Oncol Clin North Am"
+  },
+  {
+    "name": "Hematology Reports",
+    "issn": "2038-8322",
+    "eissn": "2038-8330",
+    "abbr": "Hematol Rep"
+  },
+  {
+    "name": "Hematology Transfusion and Cell Therapy",
+    "issn": "2531-1379",
+    "eissn": "2531-1379",
+    "abbr": "Hematol Transfus Cell Ther"
+  },
+  {
+    "name": "Hemijska Industrija",
+    "issn": "0367-598X",
+    "eissn": "2217-7426",
+    "abbr": "Hem Ind"
+  },
+  {
+    "name": "Hemodialysis International",
+    "issn": "1492-7535",
+    "eissn": "1542-4758",
+    "abbr": "Hemodial Int"
+  },
+  {
+    "name": "Hepatic Medicine-Evidence and Research",
+    "issn": "1179-1535",
+    "eissn": "1179-1535",
+    "abbr": "Hepat Med"
+  },
+  {
+    "name": "Hepatic Oncology",
+    "issn": "2045-0923",
+    "eissn": "2045-0931",
+    "abbr": "Hepat Oncol"
+  },
+  {
+    "name": "Hepatitis Monthly",
+    "issn": "1735-143X",
+    "eissn": "1735-3408",
+    "abbr": "Hepat Mon"
+  },
+  {
+    "name": "Hepatobiliary & Pancreatic Diseases International",
+    "issn": "1499-3872",
+    "eissn": "2352-9377",
+    "abbr": "Hepatobiliary Pancreat Dis Int"
+  },
+  {
+    "name": "Hepatobiliary Surgery and Nutrition",
+    "issn": "2304-3881",
+    "eissn": "2304-389X",
+    "abbr": "Hepatobiliary Surg Nutr"
+  },
+  {
+    "name": "Hepatology Communications",
+    "eissn": "2471-254X",
+    "abbr": "Hepatol Commun"
+  },
+  {
+    "name": "Hepatology Forum",
+    "issn": "1307-5888",
+    "eissn": "2757-7392",
+    "abbr": "Hepatol Forum"
+  },
+  {
+    "name": "Hepatology International",
+    "issn": "1936-0533",
+    "eissn": "1936-0541",
+    "abbr": "Hepatol Int"
+  },
+  {
+    "name": "HEPATOLOGY RESEARCH",
+    "issn": "1386-6346",
+    "eissn": "1872-034X",
+    "abbr": "Hepatol Res"
+  },
+  {
+    "name": "Hepatoma Research",
+    "issn": "2394-5079",
+    "eissn": "2454-2520",
+    "abbr": "Hepatoma Res"
+  },
+  {
+    "name": "HERALD OF THE RUSSIAN ACADEMY OF SCIENCES",
+    "issn": "1019-3316",
+    "eissn": "1555-6492",
+    "abbr": "Her Russ Acad Sci"
+  },
+  {
+    "name": "HERD-Health Environments Research & Design Journal",
+    "issn": "1937-5867",
+    "eissn": "2167-5112",
+    "abbr": "HERD"
+  },
+  {
+    "name": "Hereditary Cancer in Clinical Practice",
+    "issn": "1731-2302",
+    "eissn": "1897-4287",
+    "abbr": "Hered Cancer Clin Pract"
+  },
+  {
+    "name": "HEREDITY",
+    "issn": "0018-067X",
+    "eissn": "1365-2540",
+    "abbr": "Heredity (Edinb)"
+  },
+  {
+    "name": "Heritage and Society",
+    "issn": "2159-032X",
+    "eissn": "2159-0338",
+    "abbr": "Herit Soc"
+  },
+  {
+    "name": "Heritage Science",
+    "issn": "2050-7445",
+    "eissn": "2050-7445",
+    "abbr": "Herit Sci"
+  },
+  {
+    "name": "HERMES-ZEITSCHRIFT FUR KLASSISCHE PHILOLOGIE",
+    "issn": "0018-0777",
+    "eissn": "2365-3116",
+    "abbr": "Hermes (Wiesb)"
+  },
+  {
+    "name": "Heroin Addiction and Related Clinical Problems",
+    "issn": "1592-1638",
+    "eissn": "1592-1638",
+    "abbr": "Heroin Addict Relat Clin Probl"
+  },
+  {
+    "name": "Herpetological Conservation and Biology",
+    "issn": "2151-0733",
+    "eissn": "1931-7603",
+    "abbr": "Herpetol Conserv Biol"
+  },
+  {
+    "name": "HERPETOLOGICAL JOURNAL",
+    "issn": "0268-0130",
+    "eissn": "0268-0130",
+    "abbr": "Herpetol J"
+  },
+  {
+    "name": "HETEROCYCLIC COMMUNICATIONS",
+    "issn": "0793-0283",
+    "eissn": "2191-0197",
+    "abbr": "Heterocycl Comm"
+  },
+  {
+    "name": "Heterocyclic Letters",
+    "issn": "2231-3087",
+    "eissn": "2230-9632",
+    "abbr": "Heterocycl Lett"
+  },
+  {
+    "name": "HIGH ALTITUDE MEDICINE & BIOLOGY",
+    "issn": "1527-0297",
+    "eissn": "1557-8682",
+    "abbr": "High Alt Med Biol"
+  },
+  {
+    "name": "High Blood Pressure & Cardiovascular Prevention",
+    "issn": "1120-9879",
+    "eissn": "1179-1985",
+    "abbr": "High Blood Press Cardiovasc Prev"
+  },
+  {
+    "name": "High Energy Density Physics",
+    "issn": "1574-1818",
+    "eissn": "1878-0563",
+    "abbr": "High Energy Density Phys"
+  },
+  {
+    "name": "Higher Education",
+    "issn": "0018-1560",
+    "eissn": "1573-174X",
+    "abbr": "Sci Educ (Dordr)"
+  },
+  {
+    "name": "Higher Education Policy",
+    "issn": "0952-8733",
+    "eissn": "1740-3863",
+    "abbr": "High Educ Policy"
+  },
+  {
+    "name": "Higher Education Research & Development",
+    "issn": "0729-4360",
+    "eissn": "1469-8366",
+    "abbr": "High Educ Res Dev"
+  },
+  {
+    "name": "HIGH PERFORMANCE POLYMERS",
+    "issn": "0954-0083",
+    "eissn": "1361-6412",
+    "abbr": "High Perform Polym"
+  },
+  {
+    "name": "HIGH PRESSURE RESEARCH",
+    "issn": "0895-7959",
+    "eissn": "1477-2299",
+    "abbr": "High Press Res"
+  },
+  {
+    "name": "High Temperature Corrosion of Materials",
+    "issn": "2731-8397",
+    "eissn": "2731-8400",
+    "abbr": "High Temp Corros Mater"
+  },
+  {
+    "name": "HIGH TEMPERATURES-HIGH PRESSURES",
+    "issn": "0018-1544",
+    "eissn": "1472-3441",
+    "abbr": "High Temp High Press"
+  },
+  {
+    "name": "Hipertension y Riesgo Vascular",
+    "issn": "1889-1837",
+    "eissn": "1989-4805",
+    "abbr": "Hipertens Riesgo Vasc"
+  },
+  {
+    "name": "Hip International",
+    "issn": "1120-7000",
+    "eissn": "1724-6067",
+    "abbr": "Hip Int"
+  },
+  {
+    "name": "HISPANIA-REVISTA ESPANOLA DE HISTORIA",
+    "issn": "0018-2141",
+    "eissn": "1988-8368",
+    "abbr": "Hispania"
+  },
+  {
+    "name": "Hispania Sacra",
+    "issn": "0018-215X",
+    "eissn": "1988-4265",
+    "abbr": "Hisp Sacra"
+  },
+  {
+    "name": "Hispanic Health Care International",
+    "issn": "1540-4153",
+    "eissn": "1938-8993",
+    "abbr": "Hisp Health Care Int"
+  },
+  {
+    "name": "HISPANIC JOURNAL OF BEHAVIORAL SCIENCES",
+    "issn": "0739-9863",
+    "eissn": "1552-6364",
+    "abbr": "Hisp J Behav Sci"
+  },
+  {
+    "name": "HISPANIC REVIEW",
+    "issn": "0018-2176",
+    "eissn": "1553-0639",
+    "abbr": "Hisp Rev"
+  },
+  {
+    "name": "HISTOCHEMISTRY AND CELL BIOLOGY",
+    "issn": "0948-6143",
+    "eissn": "1432-119X",
+    "abbr": "Histochem Cell Biol"
+  },
+  {
+    "name": "HISTOIRE SOCIALE-SOCIAL HISTORY",
+    "issn": "0018-2257",
+    "eissn": "0018-2257",
+    "abbr": "Histoire Soc"
+  },
+  {
+    "name": "HISTOLOGY AND HISTOPATHOLOGY",
+    "issn": "0213-3911",
+    "eissn": "1699-5848",
+    "abbr": "Histol Histopathol"
+  },
+  {
+    "name": "HISTORIA",
+    "issn": "1270-0835",
+    "eissn": "1270-0835",
+    "abbr": "Historia (Paris)"
+  },
+  {
+    "name": "Historia Agraria",
+    "issn": "1139-1472",
+    "eissn": "2340-3659",
+    "abbr": "Hist Agrar"
+  },
+  {
+    "name": "Historia Ciencias Saude-Manguinhos",
+    "issn": "0104-5970",
+    "eissn": "1678-4758",
+    "abbr": "Hist Cienc Saude Manguinhos"
+  },
+  {
+    "name": "Historia Contemporanea",
+    "issn": "1130-2402",
+    "eissn": "2340-0277",
+    "abbr": "Hist Contemp Ser Univers Pais Vasco"
+  },
+  {
+    "name": "Historia Critica",
+    "issn": "0121-1617",
+    "eissn": "1900-6152",
+    "abbr": "Hist Crit"
+  },
+  {
+    "name": "HISTORIA MEXICANA",
+    "issn": "0185-0172",
+    "eissn": "2448-6531",
+    "abbr": "Hist Mex"
+  },
+  {
+    "name": "Historia y Comunicacion Social",
+    "issn": "1137-0734",
+    "eissn": "1988-3056",
+    "abbr": "Hist Comun Soc"
+  },
+  {
+    "name": "Historia y Politica",
+    "issn": "1575-0361",
+    "eissn": "1989-063X",
+    "abbr": "Hist Polit"
+  },
+  {
+    "name": "HISTORIA-ZEITSCHRIFT FUR ALTE GESCHICHTE",
+    "issn": "0018-2311",
+    "eissn": "0018-2311",
+    "abbr": "Historia"
+  },
+  {
+    "name": "HISTORICAL ARCHAEOLOGY",
+    "issn": "0440-9213",
+    "eissn": "2328-1103",
+    "abbr": "Hist Archaeol"
+  },
+  {
+    "name": "HISTORICAL BIOLOGY",
+    "issn": "0891-2963",
+    "eissn": "1029-2381",
+    "abbr": "Hist Biol"
+  },
+  {
+    "name": "HISTORICAL JOURNAL",
+    "issn": "0018-246X",
+    "eissn": "1469-5103",
+    "abbr": "Hist J"
+  },
+  {
+    "name": "HISTORICAL JOURNAL OF FILM RADIO AND TELEVISION",
+    "issn": "0143-9685",
+    "eissn": "1465-3451",
+    "abbr": "Hist J Film Radio Telev"
+  },
+  {
+    "name": "HISTORICAL METHODS",
+    "issn": "0161-5440",
+    "eissn": "1940-1906",
+    "abbr": "Hist Methods"
+  },
+  {
+    "name": "Historical Records of Australian Science",
+    "issn": "0727-3061",
+    "eissn": "1448-5508",
+    "abbr": "Hist Rec Aust Sci"
+  },
+  {
+    "name": "HISTORICAL REFLECTIONS-REFLEXIONS HISTORIQUES",
+    "issn": "0315-7997",
+    "eissn": "1939-2419",
+    "abbr": "Hist Reflect"
+  },
+  {
+    "name": "HISTORICAL RESEARCH",
+    "issn": "0950-3471",
+    "eissn": "1468-2281",
+    "abbr": "Hist Res"
+  },
+  {
+    "name": "Historical Studies in the Natural Sciences",
+    "issn": "1939-1811",
+    "eissn": "1939-182X",
+    "abbr": "Hist Stud Nat Sci"
+  },
+  {
+    "name": "HISTORICKY CASOPIS",
+    "issn": "0018-2575",
+    "eissn": "0018-2575",
+    "abbr": "Hist Casopis"
+  },
+  {
+    "name": "HISTORIOGRAPHIA LINGUISTICA",
+    "issn": "0302-5160",
+    "eissn": "1569-9781",
+    "abbr": "Historiogr Linguist"
+  },
+  {
+    "name": "HISTORISCHES JAHRBUCH",
+    "issn": "0018-2621",
+    "abbr": "Hist Jahrb"
+  },
+  {
+    "name": "Historische Zeitschrift",
+    "issn": "0018-2613",
+    "eissn": "2196-680X",
+    "abbr": "Hist Z"
+  },
+  {
+    "name": "Historisk Tidskrift",
+    "issn": "0345-469X",
+    "eissn": "0345-469X",
+    "abbr": "Hist Tidskr"
+  },
+  {
+    "name": "HISTORISK TIDSSKRIFT",
+    "issn": "0018-263X",
+    "eissn": "1504-2944",
+    "abbr": "Hist Tidsskr"
+  },
+  {
+    "name": "History and Anthropology",
+    "issn": "0275-7206",
+    "eissn": "1477-2612",
+    "abbr": "Hist Anthropol Chur"
+  },
+  {
+    "name": "History & Memory",
+    "issn": "0935-560X",
+    "eissn": "1527-1994",
+    "abbr": "Hist Mem"
+  },
+  {
+    "name": "HISTORY AND PHILOSOPHY OF THE LIFE SCIENCES",
+    "issn": "0391-9714",
+    "eissn": "1742-6316",
+    "abbr": "Hist Philos Life Sci"
+  },
+  {
+    "name": "History and Technology",
+    "issn": "0734-1512",
+    "eissn": "1477-2620",
+    "abbr": "Hist Technol"
+  },
+  {
+    "name": "HISTORY AND THEORY",
+    "issn": "0018-2656",
+    "eissn": "1468-2303",
+    "abbr": "Hist Theory"
+  },
+  {
+    "name": "History Compass",
+    "issn": "1478-0542",
+    "eissn": "1478-0542",
+    "abbr": "Hist Compass"
+  },
+  {
+    "name": "HISTORY IN AFRICA",
+    "issn": "0361-5413",
+    "eissn": "1558-2744",
+    "abbr": "Hist Afr"
+  },
+  {
+    "name": "History of Education",
+    "issn": "0046-760X",
+    "eissn": "1464-5130",
+    "abbr": "Hist Educ"
+  },
+  {
+    "name": "HISTORY OF EDUCATION QUARTERLY",
+    "issn": "0018-2680",
+    "eissn": "1748-5959",
+    "abbr": "Hist Educ Q"
+  },
+  {
+    "name": "HISTORY OF EUROPEAN IDEAS",
+    "issn": "0191-6599",
+    "eissn": "1873-541X",
+    "abbr": "Hist Eur Ideas"
+  },
+  {
+    "name": "History of Geo- and Space Sciences",
+    "issn": "2190-5010",
+    "eissn": "2190-5029",
+    "abbr": "Hist Geo Space Sci"
+  },
+  {
+    "name": "HISTORY OF PHOTOGRAPHY",
+    "issn": "0308-7298",
+    "eissn": "2150-7295",
+    "abbr": "Hist Photogr"
+  },
+  {
+    "name": "History of Political Economy",
+    "issn": "0018-2702",
+    "eissn": "1527-1919",
+    "abbr": "Hist Polit Econ"
+  },
+  {
+    "name": "HISTORY OF POLITICAL THOUGHT",
+    "issn": "0143-781X",
+    "eissn": "2051-2988",
+    "abbr": "Hist Polit Thought"
+  },
+  {
+    "name": "HISTORY OF PSYCHIATRY",
+    "issn": "0957-154X",
+    "eissn": "1740-2360",
+    "abbr": "Hist Psychiatry"
+  },
+  {
+    "name": "History of Psychology",
+    "issn": "1093-4510",
+    "eissn": "1939-0610",
+    "abbr": "Hist Psychol"
+  },
+  {
+    "name": "HISTORY OF RELIGIONS",
+    "issn": "0018-2710",
+    "eissn": "1545-6935",
+    "abbr": "Hist Relig"
+  },
+  {
+    "name": "HISTORY OF SCIENCE",
+    "issn": "0073-2753",
+    "eissn": "1753-8564",
+    "abbr": "Hist Sci"
+  },
+  {
+    "name": "History of the Family",
+    "issn": "1081-602X",
+    "eissn": "1873-5398",
+    "abbr": "Hist Fam"
+  },
+  {
+    "name": "HISTORY OF THE HUMAN SCIENCES",
+    "issn": "0952-6951",
+    "eissn": "1461-720X",
+    "abbr": "Hist Human Sci"
+  },
+  {
+    "name": "HISTORY TODAY",
+    "issn": "0018-2753",
+    "abbr": "Hist Today"
+  },
+  {
+    "name": "HISTORY WORKSHOP JOURNAL",
+    "issn": "1363-3554",
+    "eissn": "1477-4569",
+    "abbr": "Hist Workshop J"
+  },
+  {
+    "name": "HIV AIDS-Research and Palliative Care",
+    "issn": "1179-1373",
+    "eissn": "1179-1373",
+    "abbr": "HIV AIDS (Auckl)"
+  },
+  {
+    "name": "HIV MEDICINE",
+    "eissn": "1468-1293",
+    "abbr": "HIV Med"
+  },
+  {
+    "name": "HIV Research & Clinical Practice",
+    "issn": "2578-7489",
+    "eissn": "2578-7470",
+    "abbr": "HIV Res Clin Pract"
+  },
+  {
+    "name": "HLRP-HEALTH LITERACY RESEARCH AND PRACTICE",
+    "issn": "2475-6024",
+    "eissn": "2474-8307",
+    "abbr": "Health Lit Res Pract"
+  },
+  {
+    "name": "Holistic Nursing Practice",
+    "issn": "0887-9311",
+    "eissn": "1550-5138",
+    "abbr": "Holist Nurs Pract"
+  },
+  {
+    "name": "HOLOCAUST AND GENOCIDE STUDIES",
+    "issn": "8756-6583",
+    "eissn": "1476-7937",
+    "abbr": "Holocaust Genocide Stud"
+  },
+  {
+    "name": "Home Health Care Management and Practice",
+    "issn": "1084-8223",
+    "eissn": "1552-6739",
+    "abbr": "Home Health Care Manag Pract"
+  },
+  {
+    "name": "HOME HEALTH CARE SERVICES QUARTERLY",
+    "issn": "0162-1424",
+    "eissn": "1545-0856",
+    "abbr": "Home Health Care Serv Q"
+  },
+  {
+    "name": "Homicide Studies",
+    "issn": "1088-7679",
+    "eissn": "1552-6720",
+    "abbr": "Homicide Stud"
+  },
+  {
+    "name": "HOMO-JOURNAL OF COMPARATIVE HUMAN BIOLOGY",
+    "issn": "0018-442X",
+    "eissn": "1618-1301",
+    "abbr": "Homo"
+  },
+  {
+    "name": "Hong Kong Journal of Occupational Therapy",
+    "issn": "1569-1861",
+    "eissn": "1876-4398",
+    "abbr": "Hong Kong J Occup Ther"
+  },
+  {
+    "name": "Hong Kong Journal of Paediatrics",
+    "issn": "1013-9923",
+    "eissn": "1013-9923",
+    "abbr": "Hong Kong J Paediatr"
+  },
+  {
+    "name": "Hong Kong Law Journal",
+    "issn": "0378-0600",
+    "abbr": "Hong Kong Law J"
+  },
+  {
+    "name": "HONG KONG MEDICAL JOURNAL",
+    "issn": "1024-2708",
+    "eissn": "1024-2708",
+    "abbr": "Hong Kong Med J"
+  },
+  {
+    "name": "Hong Kong Physiotherapy Journal",
+    "issn": "1013-7025",
+    "eissn": "1876-441X",
+    "abbr": "Hong Kong Physiother J"
+  },
+  {
+    "name": "HORMONE AND METABOLIC RESEARCH",
+    "issn": "0018-5043",
+    "eissn": "1439-4286",
+    "abbr": "Horm Metab Res Suppl"
+  },
+  {
+    "name": "Hormone Molecular Biology and Clinical Investigation",
+    "issn": "1868-1883",
+    "eissn": "1868-1891",
+    "abbr": "Horm Mol Biol Clin Investig"
+  },
+  {
+    "name": "Hormone Research in Paediatrics",
+    "issn": "1663-2818",
+    "eissn": "1663-2826",
+    "abbr": "Horm Res Paediatr"
+  },
+  {
+    "name": "Hormones and Behavior",
+    "issn": "0018-506X",
+    "eissn": "1095-6867",
+    "abbr": "Horm Behav"
+  },
+  {
+    "name": "Hormones-International Journal of Endocrinology and Metabolism",
+    "issn": "1109-3099",
+    "eissn": "2520-8721",
+    "abbr": "Hormones (Athens)"
+  },
+  {
+    "name": "Horticultura Brasileira",
+    "issn": "0102-0536",
+    "eissn": "1806-9991",
+    "abbr": "Hortic Bras"
+  },
+  {
+    "name": "Horticultural Plant Journal",
+    "issn": "2095-9885",
+    "eissn": "2468-0141",
+    "abbr": "Hortic Plant J"
+  },
+  {
+    "name": "HORTICULTURAL SCIENCE",
+    "issn": "0862-867X",
+    "eissn": "1805-9333",
+    "abbr": "Zahradnictvi (Praha)"
+  },
+  {
+    "name": "Horticultural Science & Technology",
+    "issn": "1226-8763",
+    "eissn": "2465-8588",
+    "abbr": "Wonye Kwahak Kisulchi"
+  },
+  {
+    "name": "Horticulture Environment and Biotechnology",
+    "issn": "2211-3452",
+    "eissn": "2211-3460",
+    "abbr": "Hortic Environ Biotechnol"
+  },
+  {
+    "name": "Horticulture Journal",
+    "issn": "2189-0102",
+    "eissn": "2189-0110",
+    "abbr": "Hort J"
+  },
+  {
+    "name": "Horticulture Research",
+    "issn": "2662-6810",
+    "eissn": "2052-7276",
+    "abbr": "Hortic Res"
+  },
+  {
+    "name": "HORTSCIENCE",
+    "issn": "0018-5345",
+    "eissn": "2327-9834",
+    "abbr": "Horttechnology"
+  },
+  {
+    "name": "Hospital Pediatrics",
+    "issn": "2154-1663",
+    "eissn": "2154-1671",
+    "abbr": "Hosp Pediatr"
+  },
+  {
+    "name": "HOSPITAL PHARMACY",
+    "issn": "0018-5787",
+    "eissn": "1945-1253",
+    "abbr": "Hosp Pharm"
+  },
+  {
+    "name": "HOUSING POLICY DEBATE",
+    "issn": "1051-1482",
+    "eissn": "2152-050X",
+    "abbr": "Hous Policy Debate"
+  },
+  {
+    "name": "HOUSING STUDIES",
+    "issn": "0267-3037",
+    "eissn": "1466-1810",
+    "abbr": "Hous Stud"
+  },
+  {
+    "name": "Howard Journal of Communications",
+    "issn": "1064-6175",
+    "eissn": "1096-4649",
+    "abbr": "Howard J Commun"
+  },
+  {
+    "name": "HPB",
+    "issn": "1365-182X",
+    "eissn": "1477-2574",
+    "abbr": "HPB (Oxford)"
+  },
+  {
+    "name": "HSS Journal",
+    "issn": "1556-3316",
+    "eissn": "1556-3324",
+    "abbr": "HSS J"
+  },
+  {
+    "name": "Human Affairs-Postdisciplinary Humanities & Social Sciences Quarterly",
+    "issn": "1210-3055",
+    "eissn": "1337-401X",
+    "abbr": "Hum Affairs (Bratisl)"
+  },
+  {
+    "name": "Humana Mente-Journal of Philosophical Studies",
+    "issn": "1972-1293",
+    "eissn": "1972-1293",
+    "abbr": "Humanamente"
+  },
+  {
+    "name": "HUMAN AND ECOLOGICAL RISK ASSESSMENT",
+    "issn": "1080-7039",
+    "eissn": "1549-7860",
+    "abbr": "Hum Ecol Risk Assess"
+  },
+  {
+    "name": "HUMAN & EXPERIMENTAL TOXICOLOGY",
+    "issn": "0960-3271",
+    "eissn": "1477-0903",
+    "abbr": "Hum Exp Toxicol"
+  },
+  {
+    "name": "Human-Animal Interactions",
+    "eissn": "2957-9538",
+    "abbr": "Hum Anim Interact"
+  },
+  {
+    "name": "Human Arenas",
+    "issn": "2522-5790",
+    "eissn": "2522-5804",
+    "abbr": "Hum Arenas"
+  },
+  {
+    "name": "Human Behavior and Emerging Technologies",
+    "eissn": "2578-1863",
+    "abbr": "Hum Behav Emerg Technol"
+  },
+  {
+    "name": "HUMAN BIOLOGY",
+    "issn": "0018-7143",
+    "eissn": "1534-6617",
+    "abbr": "Hum Biol"
+  },
+  {
+    "name": "HUMAN BRAIN MAPPING",
+    "issn": "1065-9471",
+    "eissn": "1097-0193",
+    "abbr": "Hum Brain Mapp"
+  },
+  {
+    "name": "Human Cell",
+    "issn": "0914-7470",
+    "eissn": "1749-0774",
+    "abbr": "Hum Cell"
+  },
+  {
+    "name": "HUMAN COMMUNICATION RESEARCH",
+    "issn": "0360-3989",
+    "eissn": "1468-2958",
+    "abbr": "Hum Commun Res"
+  },
+  {
+    "name": "Human-Computer Interaction",
+    "issn": "0737-0024",
+    "eissn": "1532-7051",
+    "abbr": "Hum Comput Interact"
+  },
+  {
+    "name": "HUMAN DEVELOPMENT",
+    "issn": "0018-716X",
+    "eissn": "1423-0054",
+    "abbr": "Hum Dev"
+  },
+  {
+    "name": "HUMAN ECOLOGY",
+    "issn": "0300-7839",
+    "eissn": "1572-9915",
+    "abbr": "Hum Ecol Interdiscip J"
+  },
+  {
+    "name": "Human Factors",
+    "issn": "0018-7208",
+    "eissn": "1547-8181",
+    "abbr": "Hum Factors"
+  },
+  {
+    "name": "Human Factors and Ergonomics in Manufacturing & Service Industries",
+    "issn": "1090-8471",
+    "eissn": "1520-6564",
+    "abbr": "Hum Factors Ergon Manuf"
+  },
+  {
+    "name": "Human Factors in Healthcare",
+    "eissn": "2772-5014",
+    "abbr": "Hum Factors Health"
+  },
+  {
+    "name": "Human Fertility",
+    "issn": "1464-7273",
+    "eissn": "1742-8149",
+    "abbr": "Hum Fertil (Camb)"
+  },
+  {
+    "name": "Human Gene",
+    "issn": "2773-0441",
+    "eissn": "2773-0441",
+    "abbr": "Hum Gene (Amst)"
+  },
+  {
+    "name": "HUMAN GENE THERAPY",
+    "issn": "1043-0342",
+    "eissn": "1557-7422",
+    "abbr": "Hum Gene Ther"
+  },
+  {
+    "name": "HUMAN GENETICS",
+    "issn": "0340-6717",
+    "eissn": "1432-1203",
+    "abbr": "Hum Genet"
+  },
+  {
+    "name": "Human Genetics and Genomics Advances",
+    "issn": "2666-2477",
+    "eissn": "2666-2477",
+    "abbr": "HGG Adv"
+  },
+  {
+    "name": "Human Genome Variation",
+    "eissn": "2054-345X",
+    "abbr": "Hum Genome Var"
+  },
+  {
+    "name": "Human Genomics",
+    "issn": "1473-9542",
+    "eissn": "1479-7364",
+    "abbr": "Hum Genomics"
+  },
+  {
+    "name": "HUMAN HEREDITY",
+    "issn": "0001-5652",
+    "eissn": "1423-0062",
+    "abbr": "Hum Hered"
+  },
+  {
+    "name": "HUMAN IMMUNOLOGY",
+    "issn": "0198-8859",
+    "eissn": "1879-1166",
+    "abbr": "Hum Immunol"
+  },
+  {
+    "name": "Humanities & Social Sciences Communications",
+    "eissn": "2662-9992",
+    "abbr": "Humanit Soc Sci Commun"
+  },
+  {
+    "name": "HUMAN MOLECULAR GENETICS",
+    "issn": "0964-6906",
+    "eissn": "1460-2083",
+    "abbr": "Hum Mol Genet"
+  },
+  {
+    "name": "HUMAN MOVEMENT SCIENCE",
+    "issn": "0167-9457",
+    "eissn": "1872-7646",
+    "abbr": "Hum Mov Sci"
+  },
+  {
+    "name": "HUMAN MUTATION",
+    "issn": "1059-7794",
+    "eissn": "1098-1004",
+    "abbr": "Hum Mutat"
+  },
+  {
+    "name": "HUMAN NATURE-AN INTERDISCIPLINARY BIOSOCIAL PERSPECTIVE",
+    "issn": "1045-6767",
+    "eissn": "1936-4776",
+    "abbr": "Hum Nat"
+  },
+  {
+    "name": "Human Nutrition & Metabolism",
+    "issn": "2666-1497",
+    "eissn": "2666-1497",
+    "abbr": "Hum Nutr Metab"
+  },
+  {
+    "name": "Human Organization",
+    "issn": "0018-7259",
+    "eissn": "1938-3525",
+    "abbr": "Hum Organ"
+  },
+  {
+    "name": "HUMAN PATHOLOGY",
+    "issn": "0046-8177",
+    "eissn": "1532-8392",
+    "abbr": "Hum Pathol"
+  },
+  {
+    "name": "Human Pathology Reports",
+    "eissn": "2772-736X",
+    "abbr": "Hum Pathol Rep"
+  },
+  {
+    "name": "Human Performance",
+    "issn": "0895-9285",
+    "eissn": "1532-7043",
+    "abbr": "Hum Perform"
+  },
+  {
+    "name": "HUMAN PSYCHOPHARMACOLOGY-CLINICAL AND EXPERIMENTAL",
+    "issn": "0885-6222",
+    "eissn": "1099-1077",
+    "abbr": "Hum Psychopharmacol"
+  },
+  {
+    "name": "Human Relations",
+    "issn": "0018-7267",
+    "eissn": "1741-282X",
+    "abbr": "Hum Relat"
+  },
+  {
+    "name": "HUMAN REPRODUCTION",
+    "issn": "0268-1161",
+    "eissn": "1460-2350",
+    "abbr": "J Br Fer Soc"
+  },
+  {
+    "name": "Human Reproduction Open",
+    "eissn": "2399-3529",
+    "abbr": "Hum Reprod Open"
+  },
+  {
+    "name": "HUMAN REPRODUCTION UPDATE",
+    "issn": "1355-4786",
+    "eissn": "1460-2369",
+    "abbr": "Hum Reprod Update"
+  },
+  {
+    "name": "Human Resource Development International",
+    "issn": "1367-8868",
+    "eissn": "1469-8374",
+    "abbr": "Hum Resour Dev Int"
+  },
+  {
+    "name": "Human Resource Development Quarterly",
+    "issn": "1044-8004",
+    "eissn": "1532-1096",
+    "abbr": "Hum Resour Dev Q"
+  },
+  {
+    "name": "Human Resource Management",
+    "issn": "0090-4848",
+    "eissn": "1099-050X",
+    "abbr": "Hum Resour Manage"
+  },
+  {
+    "name": "Human Resources for Health",
+    "eissn": "1478-4491",
+    "abbr": "Hum Resour Health"
+  },
+  {
+    "name": "HUMAN RIGHTS QUARTERLY",
+    "issn": "0275-0392",
+    "eissn": "1085-794X",
+    "abbr": "Hum Rights Q"
+  },
+  {
+    "name": "Human Rights Review",
+    "issn": "1524-8879",
+    "eissn": "1874-6306",
+    "abbr": "Hum Rights Rev"
+  },
+  {
+    "name": "Human Service Organizations Management Leadership & Governance",
+    "issn": "2330-3131",
+    "eissn": "2330-314X",
+    "abbr": "Hum Serv Organ Manag Leadersh Gov"
+  },
+  {
+    "name": "HUMAN STUDIES",
+    "issn": "0163-8548",
+    "eissn": "1572-851X",
+    "abbr": "Hum Stud"
+  },
+  {
+    "name": "Human Vaccines & Immunotherapeutics",
+    "issn": "2164-5515",
+    "eissn": "2164-554X",
+    "abbr": "Hum Vaccin Immunother"
   }
 ]
