@@ -130,6 +130,10 @@ def build_info(j: dict) -> dict:
         info["M"] = round(float(j["cnki_if"]), 3)
     if j.get("cnki_ifs") is not None:
         info["N"] = round(float(j["cnki_ifs"]), 3)
+    if j.get("swufe") is not None:
+        info["Q"] = int(j["swufe"])
+    if j.get("sufe_soe") is not None:
+        info["R"] = int(j["sufe_soe"])
     return info
 
 

@@ -81,6 +81,16 @@ def _parse_njubs_en_value(raw: object) -> int | None:
     return value if value in (1, 2, 3) else None
 
 
+def _parse_swufe_value(raw: object) -> int | None:
+    mapping = {"A+(TOP)": 1, "A+": 2, "A": 3, "A1": 4, "A2": 5}
+    return mapping.get(str(raw or "").strip())
+
+
+def _parse_sufe_soe_value(raw: object) -> int | None:
+    mapping = {"顶级": 1, "一类": 2, "二类": 3, "三类": 4}
+    return mapping.get(str(raw or "").strip())
+
+
 class _IndexSpec:
     __slots__ = (
         "label",
@@ -134,6 +144,9 @@ SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
     # 高校期刊目录
     _IndexSpec("NJUBS中", "NJUBS_CN_*.xlsx",  0, "njubs_cn", value_col=1, value_transform=_parse_njubs_cn_value),
     _IndexSpec("NJUBS英", "NJUBS_EN_*.xlsx",  3, "njubs_en", issn_col=2, value_col=4, value_transform=_parse_njubs_en_value),
+    # 高校专业期刊目录
+    _IndexSpec("SWUFE",   "SWUFE_*.xlsx",     3, "swufe",    issn_col=4, value_col=5, value_transform=_parse_swufe_value),
+    _IndexSpec("SUFE SOE","SUFE SOE_*.xlsx",  2, "sufe_soe", value_col=3, value_transform=_parse_sufe_soe_value),
 ]
 OPTIONAL_FIELDS = (
     "IF",
@@ -153,6 +166,8 @@ OPTIONAL_FIELDS = (
     "njubs_en",
     "cnki_if",
     "cnki_ifs",
+    "swufe",
+    "sufe_soe",
 )
 
 
@@ -404,7 +419,7 @@ def merge_record_pair(base: dict, incoming: dict) -> dict:
         bool(incoming.get("top")),
     )
 
-    for field in ("ei", "cscd", "pku", "sos", "utd24", "ft50", "abs", "cssci"):
+    for field in ("ei", "cscd", "pku", "sos", "utd24", "ft50", "abs", "cssci", "swufe", "sufe_soe"):
         if field in incoming:
             base[field] = incoming[field]
 
