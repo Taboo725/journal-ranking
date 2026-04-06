@@ -62,13 +62,25 @@ DISPLAY_FIELDS = ("name", "issn", "eissn", "abbr")
 #   stat_key    : 统计输出的键名（None=自动从 label 生成）
 #   value_transform: 动态值预处理函数（可选）
 # ---------------------------------------------------------------------------
-def _pku_normalize_name(name: str) -> str:
-    """将北核格式 '主刊名.副标题' 规范化为 '主刊名（副标题）'。
-    仅在点后紧跟中文字符时处理，避免影响英文期刊名中的合法点号。
-    例：'北京大学学报.哲学社会科学版' → '北京大学学报（哲学社会科学版）'
+def _normalize_cn_display(name: str) -> str:
+    """规范化中文期刊名的显示格式（全局，应用于所有来源）：
+    - '主刊名. 副标题' / '主刊名.副标题'（点后紧跟或隔空中文）→ '主刊名（副标题）'
+    - '主刊名(中文副标题)' → '主刊名（中文副标题）'（半角括号含中文 → 全角）
+    仅处理含中文字符的名称，英文期刊名中的合法点号不受影响。
     """
-    m = re.match(r"^(.+?)\.(?=[\u4e00-\u9fff・])(.+)$", name)
-    return f"{m.group(1)}（{m.group(2)}）" if m else name
+    if not re.search(r"[\u4e00-\u9fff]", name):
+        return name
+    # 点号（可含前后空格）后紧跟中文 → 全角括号副标题
+    m = re.match(r"^(.+?)\s*\.\s*(?=[\u4e00-\u9fff・])(.+)$", name)
+    if m:
+        name = f"{m.group(1).rstrip()}（{m.group(2).strip()}）"
+    # 半角括号包裹中文内容 → 全角括号
+    name = re.sub(
+        r"\(\s*([\u4e00-\u9fff][^)]*?)\s*\)",
+        lambda mo: f"（{mo.group(1)}）",
+        name,
+    )
+    return name
 
 
 def _parse_njubs_cn_value(raw: object) -> int | None:
@@ -93,6 +105,11 @@ def _parse_sufe_soe_value(raw: object) -> int | None:
 
 def _parse_fdu_som_value(raw: object) -> int | None:
     mapping = {"A+": 1, "A": 2, "A-": 3, "B": 4}
+    return mapping.get(str(raw or "").strip())
+
+
+def _parse_cscd_value(raw: object) -> int | None:
+    mapping = {"核心库": 1, "扩展库": 2}
     return mapping.get(str(raw or "").strip())
 
 
@@ -143,9 +160,9 @@ SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
     _IndexSpec("AJG",     "AJG*.xlsx",        0, "abs",   value_col=1),
     # 中文数据库（按中文刊名匹配）
     # 北核用 "." 代替括号分隔副标题，name_transform 统一为 "（）" 后再匹配/存储
-    _IndexSpec("北核",    "北核*.xlsx",       5, "pku",   static_value=True, name_transform=_pku_normalize_name),
-    _IndexSpec("CSSCI",   "CSSCI.xlsx",       1, "cssci", static_value=1),
-    _IndexSpec("CSSCI扩", "CSSCI扩展版.xlsx", 1, "cssci", static_value=2),
+    _IndexSpec("北核",    "北核*.xlsx",       5, "pku",   static_value=True),
+    _IndexSpec("CSSCI",   "CSSCI_*.xlsx",       1, "cssci", static_value=1),
+    _IndexSpec("CSSCI扩", "CSSCI扩展版_*.xlsx", 1, "cssci", static_value=2),
     # 高校期刊目录
     _IndexSpec("NJUBS中", "NJUBS_CN_*.xlsx",  0, "njubs_cn", value_col=1, value_transform=_parse_njubs_cn_value),
     _IndexSpec("NJUBS英", "NJUBS_EN_*.xlsx",  3, "njubs_en", issn_col=2, value_col=4, value_transform=_parse_njubs_en_value),
@@ -153,6 +170,7 @@ SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
     _IndexSpec("SWUFE",   "SWUFE_*.xlsx",     3, "swufe",    issn_col=4, value_col=5, value_transform=_parse_swufe_value),
     _IndexSpec("SUFE SOE","SUFE SOE_*.xlsx",  2, "sufe_soe", value_col=3, value_transform=_parse_sufe_soe_value),
     _IndexSpec("FDU SOM", "FDU SOM_*.xlsx",   1, "fdu_som",  value_col=2, value_transform=_parse_fdu_som_value),
+    _IndexSpec("CSCD",    "CSCD_*.xlsx",       1, "cscd",     issn_col=2, value_col=3, value_transform=_parse_cscd_value),
 ]
 OPTIONAL_FIELDS = (
     "IF",
@@ -310,8 +328,8 @@ def name_quality(name: str) -> tuple[int, int, int]:
 
 
 def prefer_name(current: str, candidate: str) -> str:
-    candidate = str(candidate or "").strip()
-    current = str(current or "").strip()
+    candidate = _normalize_cn_display(str(candidate or "").strip())
+    current = _normalize_cn_display(str(current or "").strip())
     if not current:
         return candidate
     if not candidate:
@@ -571,6 +589,53 @@ def apply_simple_index(catalog: dict, source_dir: Path, spec: _IndexSpec) -> int
     return count
 
 
+def apply_ei_source(catalog: dict, source_dir: Path) -> int:
+    """从 EI_*.xlsx 中读取 EI 收录期刊。
+    语言（第 12 列）含 CHINESE 时优先使用中文刊名（第 4 列）。
+    仅处理 Source Type == 'Journal' 的行（第 3 列）。
+    """
+    try:
+        path = choose_latest_file(source_dir, "EI_*.xlsx")
+    except FileNotFoundError:
+        print("  [跳过] 未找到 EI 数据文件（EI_*.xlsx）")
+        return 0
+
+    rows = iter_xlsx_rows(path)
+    next(rows, None)  # 跳过表头
+
+    count = 0
+    for row in rows:
+        if not row or len(row) < 13:
+            continue
+        source_type = str(row[3] or "").strip()
+        if source_type != "Journal":
+            continue
+
+        lang = str(row[12] or "").strip().upper()
+        is_chinese = "CHINESE" in lang
+
+        std_title = str(row[1] or "").strip()
+        cn_title = str(row[4] or "").strip() if len(row) > 4 else ""
+        name = cn_title if (is_chinese and cn_title) else std_title
+        if not name:
+            continue
+
+        issn = normalize_issn(row[8] if len(row) > 8 else None)
+        eissn = normalize_issn(row[9] if len(row) > 9 else None)
+
+        record_id, record = resolve_record(catalog, name=name, issn=issn, eissn=eissn)
+        # 也将标准英文名注册为别名，便于后续查找
+        if is_chinese and std_title:
+            std_key = normalize_name(std_title)
+            if std_key:
+                record["_title_keys"].add(std_key)
+                catalog["title_index"][std_key] = record_id
+        record["ei"] = True
+        count += 1
+
+    return count
+
+
 def apply_derived_university_indexes(catalog: dict) -> None:
     """补齐高校期刊目录的兜底档位。
     中文：所有未进入前序 NJUBS 中文档位的 CSSCI 期刊 → 核心（3）
@@ -706,6 +771,7 @@ def build_catalog(source_dir: Path, overrides: list[dict]) -> tuple[list[dict], 
     apply_jcr_source(catalog, source_dir)
     apply_cas_source(catalog, source_dir)
     catalog["stats"]["cnki_rows"] = apply_cnki_sources(catalog, source_dir)
+    catalog["stats"]["ei_rows"] = apply_ei_source(catalog, source_dir)
     for spec in SIMPLE_INDEX_SOURCES:
         catalog["stats"][spec.stat_key] = apply_simple_index(catalog, source_dir, spec)
     apply_overrides(catalog, overrides)
@@ -747,6 +813,8 @@ def sync_journals(data_dir: Path | None = None, source_dir: Path | None = None, 
     print(f"  CAS 行数: {stats['cas_rows']}")
     if stats.get("cnki_rows"):
         print(f"  CNKI    : {stats['cnki_rows']} 条")
+    if stats.get("ei_rows"):
+        print(f"  EI      : {stats['ei_rows']} 条")
     for spec in SIMPLE_INDEX_SOURCES:
         count = stats.get(spec.stat_key, 0)
         if count:

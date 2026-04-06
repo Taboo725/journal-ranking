@@ -941,7 +941,8 @@
   {
     "name": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
     "issn": "2168-2216",
-    "eissn": "2168-2232"
+    "eissn": "2168-2232",
+    "abbr": "IEEE Trans Syst Man Cybern Syst"
   },
   {
     "name": "iLiver",
@@ -954,12 +955,14 @@
   {
     "name": "INFANT MENTAL HEALTH JOURNAL",
     "issn": "0163-9641",
-    "eissn": "1097-0355"
+    "eissn": "1097-0355",
+    "abbr": "Child Adolesc Social Work J"
   },
   {
     "name": "INFOR: Information Systems and Operational Research",
     "issn": "0315-5986",
-    "eissn": "1916-0615"
+    "eissn": "1916-0615",
+    "abbr": "INFOR"
   },
   {
     "name": "INFORMS Transactions on Education",
@@ -974,7 +977,8 @@
   {
     "name": "Intereconomics",
     "issn": "0020-5346",
-    "eissn": "1613-964X"
+    "eissn": "1613-964X",
+    "abbr": "Inter Econ"
   },
   {
     "name": "International Coaching Psychology Review",
@@ -1038,7 +1042,8 @@
   {
     "name": "International Journal of Business Information Systems",
     "issn": "1746-0972",
-    "eissn": "1746-0980"
+    "eissn": "1746-0980",
+    "abbr": "Int J Bus Inf Syst"
   },
   {
     "name": "International Journal of Business Innovation and Research",
@@ -1078,7 +1083,8 @@
   {
     "name": "International Journal of Dermatology And Venereology",
     "issn": "2096-5540",
-    "eissn": "2641-8746"
+    "eissn": "2641-8746",
+    "abbr": "Int J Dermatol Venereol"
   },
   {
     "name": "International Journal of Development Issues",
@@ -1113,7 +1119,8 @@
   {
     "name": "International Journal of Entrepreneurship and Innovation Management",
     "issn": "1368-275X",
-    "eissn": "1741-5098"
+    "eissn": "1741-5098",
+    "abbr": "Int J Entrep Innov Manag"
   },
   {
     "name": "International Journal of Export Marketing",
@@ -1138,7 +1145,8 @@
   {
     "name": "International Journal of Information Systems and Change Management",
     "issn": "1479-3121",
-    "eissn": "1479-313X"
+    "eissn": "1479-313X",
+    "abbr": "Int J Inf Syst Change Manag"
   },
   {
     "name": "International Journal of Information Technology and Management",
@@ -1158,7 +1166,8 @@
   {
     "name": "International Journal of Learning and Change",
     "issn": "1740-2875",
-    "eissn": "1740-2883"
+    "eissn": "1740-2883",
+    "abbr": "Int J Learn Chang"
   },
   {
     "name": "International Journal of Logistics Systems and Management",
@@ -32538,5 +32547,4697 @@
     "issn": "2164-5515",
     "eissn": "2164-554X",
     "abbr": "Hum Vaccin Immunother"
+  },
+  {
+    "name": "Human-Wildlife Interactions",
+    "issn": "2155-3858",
+    "eissn": "2155-3874",
+    "abbr": "Hum Wildl Interact"
+  },
+  {
+    "name": "HUMOR-INTERNATIONAL JOURNAL OF HUMOR RESEARCH",
+    "issn": "0933-1719",
+    "eissn": "1613-3722",
+    "abbr": "Humor (Berl)"
+  },
+  {
+    "name": "HUNTINGTON LIBRARY QUARTERLY",
+    "issn": "0018-7895",
+    "eissn": "1544-399X",
+    "abbr": "Huntingt Libr Q"
+  },
+  {
+    "name": "HUSSERL STUDIES",
+    "issn": "0167-9848",
+    "eissn": "1572-8501",
+    "abbr": "Husserl Stud"
+  },
+  {
+    "name": "HYDROGEOLOGY JOURNAL",
+    "issn": "1431-2174",
+    "eissn": "1435-0157",
+    "abbr": "Hydrogeol J"
+  },
+  {
+    "name": "HYDROLOGICAL PROCESSES",
+    "issn": "0885-6087",
+    "eissn": "1099-1085",
+    "abbr": "Hydrol Process"
+  },
+  {
+    "name": "Hydrological Sciences Journal",
+    "issn": "0262-6667",
+    "eissn": "2150-3435",
+    "abbr": "Hydrol Sci J"
+  },
+  {
+    "name": "HYDROLOGY AND EARTH SYSTEM SCIENCES",
+    "issn": "1027-5606",
+    "eissn": "1607-7938",
+    "abbr": "Hydrol Earth Syst Sci"
+  },
+  {
+    "name": "Hygiene and Environmental Health Advances",
+    "eissn": "2773-0492",
+    "abbr": "Hyg Environ Health Adv"
+  },
+  {
+    "name": "Hypatia-A Journal of Feminist Philosophy",
+    "issn": "0887-5367",
+    "eissn": "1527-2001",
+    "abbr": "Hypatia"
+  },
+  {
+    "name": "HYPERTENSION IN PREGNANCY",
+    "issn": "1064-1955",
+    "eissn": "1525-6065",
+    "abbr": "Hypertens Pregnancy"
+  },
+  {
+    "name": "HYPERTENSION RESEARCH",
+    "issn": "0916-9636",
+    "eissn": "1348-4214",
+    "abbr": "Hypertens Res"
+  },
+  {
+    "name": "HYSTRIX-Italian Journal of Mammalogy",
+    "issn": "0394-1914",
+    "eissn": "1825-5272",
+    "abbr": "Hystrix"
+  },
+  {
+    "name": "IAWA JOURNAL",
+    "issn": "0928-1541",
+    "eissn": "2294-1932",
+    "abbr": "IAWA J"
+  },
+  {
+    "name": "Iberoamerican Journal of Development Studies",
+    "issn": "2254-2035",
+    "eissn": "2254-2035",
+    "abbr": "Rev Iberoam Estud Desarro"
+  },
+  {
+    "name": "IBIS",
+    "issn": "0019-1019",
+    "eissn": "1474-919X",
+    "abbr": "Ibis (Lond 1859)"
+  },
+  {
+    "name": "IBRO Neuroscience Reports",
+    "issn": "2667-2421",
+    "eissn": "2667-2421",
+    "abbr": "IBRO Neurosci Rep"
+  },
+  {
+    "name": "Icelandic Agricultural Sciences",
+    "issn": "1670-567X",
+    "eissn": "2298-786X",
+    "abbr": "Icel Agric Sci"
+  },
+  {
+    "name": "ICES JOURNAL OF MARINE SCIENCE",
+    "issn": "1054-3139",
+    "eissn": "1095-9289",
+    "abbr": "ICES J Mar Sci"
+  },
+  {
+    "name": "ICHTHYOLOGICAL EXPLORATION OF FRESHWATERS",
+    "issn": "0936-9902",
+    "abbr": "Ichthyol Explor Freshw"
+  },
+  {
+    "name": "ICHTHYOLOGICAL RESEARCH",
+    "issn": "1341-8998",
+    "eissn": "1616-3915",
+    "abbr": "Ichthyol Res"
+  },
+  {
+    "name": "Ichthyology and Herpetology",
+    "issn": "2766-1512",
+    "eissn": "2766-1520",
+    "abbr": "Ichthyol Herpetol"
+  },
+  {
+    "name": "I-COM-ZEITSCHRIFT FUR INTERAKTIVE UND KOOPERATIVE MEDIEN",
+    "issn": "1618-162X",
+    "eissn": "2196-6826",
+    "abbr": "I Com (Berl)"
+  },
+  {
+    "name": "ICON-INTERNATIONAL JOURNAL OF CONSTITUTIONAL LAW",
+    "issn": "1474-2640",
+    "eissn": "1474-2659",
+    "abbr": "Int J Const Law"
+  },
+  {
+    "name": "Ideggyogyaszati Szemle-Clinical Neuroscience",
+    "issn": "0019-1442",
+    "eissn": "2498-6208",
+    "abbr": "Ideggyogy Sz"
+  },
+  {
+    "name": "IDENTITIES-GLOBAL STUDIES IN CULTURE AND POWER",
+    "issn": "1070-289X",
+    "eissn": "1547-3384",
+    "abbr": "Identities (Yverdon)"
+  },
+  {
+    "name": "Identity-An International Journal of Theory and Research",
+    "issn": "1528-3488",
+    "eissn": "1532-706X",
+    "abbr": "Identity (Mahwah, N J)"
+  },
+  {
+    "name": "IDS BULLETIN-INSTITUTE OF DEVELOPMENT STUDIES",
+    "issn": "0265-5012",
+    "eissn": "1759-5436",
+    "abbr": "IDS Bull"
+  },
+  {
+    "name": "IEEE-ACM Transactions on Audio Speech and Language Processing",
+    "issn": "2329-9290",
+    "eissn": "2329-9304",
+    "abbr": "IEEE/ACM Trans Audio Speech Lang Process"
+  },
+  {
+    "name": "IEEE-ACM Transactions on Computational Biology and Bioinformatics",
+    "issn": "1545-5963",
+    "eissn": "1557-9964",
+    "abbr": "IEEE/ACM Trans Comput Biol Bioinform"
+  },
+  {
+    "name": "IEEE-ACM TRANSACTIONS ON NETWORKING",
+    "issn": "1063-6692",
+    "eissn": "1558-2566",
+    "abbr": "IEEE ACM Trans Netw"
+  },
+  {
+    "name": "IEEE ANNALS OF THE HISTORY OF COMPUTING",
+    "issn": "1058-6180",
+    "eissn": "1934-1547",
+    "abbr": "IEEE Ann Hist Comput"
+  },
+  {
+    "name": "IEEE ANTENNAS AND PROPAGATION MAGAZINE",
+    "issn": "1045-9243",
+    "eissn": "1558-4143",
+    "abbr": "IEEE Antennas Propag Mag"
+  },
+  {
+    "name": "IEEE Antennas and Wireless Propagation Letters",
+    "issn": "1536-1225",
+    "eissn": "1548-5757",
+    "abbr": "IEEE Antennas Wirel Propag Lett"
+  },
+  {
+    "name": "IEEE-ASME TRANSACTIONS ON MECHATRONICS",
+    "issn": "1083-4435",
+    "eissn": "1941-014X",
+    "abbr": "IEEE ASME Trans Mechatron"
+  },
+  {
+    "name": "IEEE COMMUNICATIONS LETTERS",
+    "issn": "1089-7798",
+    "eissn": "1558-2558",
+    "abbr": "IEEE Commun Lett"
+  },
+  {
+    "name": "IEEE COMMUNICATIONS MAGAZINE",
+    "issn": "0163-6804",
+    "eissn": "1558-1896",
+    "abbr": "IEEE Commun Mag"
+  },
+  {
+    "name": "IEEE Computational Intelligence Magazine",
+    "issn": "1556-603X",
+    "eissn": "1556-6048",
+    "abbr": "IEEE Comput Intell Mag"
+  },
+  {
+    "name": "IEEE COMPUTER GRAPHICS AND APPLICATIONS",
+    "issn": "0272-1716",
+    "eissn": "1558-1756",
+    "abbr": "IEEE Comput Graph Appl"
+  },
+  {
+    "name": "IEEE Control Systems Letters",
+    "eissn": "2475-1456",
+    "abbr": "IEEE Control Syst Lett"
+  },
+  {
+    "name": "IEEE CONTROL SYSTEMS MAGAZINE",
+    "issn": "1066-033X",
+    "eissn": "1941-000X",
+    "abbr": "IEEE Control Syst"
+  },
+  {
+    "name": "IEEE Design & Test",
+    "issn": "2168-2356",
+    "eissn": "2168-2364",
+    "abbr": "IEEE Des Test"
+  },
+  {
+    "name": "IEEE ELECTRON DEVICE LETTERS",
+    "issn": "0741-3106",
+    "eissn": "1558-0563",
+    "abbr": "IEEE Electron Device Lett"
+  },
+  {
+    "name": "IEEE Embedded Systems Letters",
+    "issn": "1943-0663",
+    "eissn": "1943-0671",
+    "abbr": "IEEE Embed Syst Lett"
+  },
+  {
+    "name": "IEEE Geoscience and Remote Sensing Letters",
+    "issn": "1545-598X",
+    "eissn": "1558-0571",
+    "abbr": "IEEE Geosci Remote Sens Lett"
+  },
+  {
+    "name": "IEEE Geoscience and Remote Sensing Magazine",
+    "issn": "2473-2397",
+    "eissn": "2168-6831",
+    "abbr": "IEEE Geosci Remote Sens Mag"
+  },
+  {
+    "name": "IEEE INSTRUMENTATION & MEASUREMENT MAGAZINE",
+    "issn": "1094-6969",
+    "eissn": "1941-0123",
+    "abbr": "IEEE Instrum Meas Mag"
+  },
+  {
+    "name": "IEEE INTELLIGENT SYSTEMS",
+    "issn": "1541-1672",
+    "eissn": "1941-1294",
+    "abbr": "IEEE Intell Syst"
+  },
+  {
+    "name": "IEEE INTERNET COMPUTING",
+    "issn": "1089-7801",
+    "eissn": "1941-0131",
+    "abbr": "IEEE Internet Comput"
+  },
+  {
+    "name": "IEEE Internet of Things Journal",
+    "issn": "2327-4662",
+    "eissn": "2327-4662",
+    "abbr": "IEEE Internet Things J"
+  },
+  {
+    "name": "IEEE Journal of Biomedical and Health Informatics",
+    "issn": "2168-2194",
+    "eissn": "2168-2208",
+    "abbr": "IEEE J Biomed Health Inform"
+  },
+  {
+    "name": "IEEE Journal of Electromagnetics RF and Microwaves in Medicine and Biology",
+    "issn": "2469-7249",
+    "eissn": "2469-7257",
+    "abbr": "IEEE J Electromagn RF Microw Med Biol"
+  },
+  {
+    "name": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+    "issn": "2168-6777",
+    "eissn": "2168-6785",
+    "abbr": "IEEE J Emerg Sel Top Power Electron"
+  },
+  {
+    "name": "IEEE JOURNAL OF INDOOR AND SEAMLESS POSITIONING AND NAVIGATION",
+    "eissn": "2832-7322",
+    "abbr": "IEEE J Indoor Seamless Position Navig"
+  },
+  {
+    "name": "IEEE Journal of Microwaves",
+    "eissn": "2692-8388",
+    "abbr": "IEEE J Microw"
+  },
+  {
+    "name": "IEEE Journal of Photovoltaics",
+    "issn": "2156-3381",
+    "eissn": "2156-3403",
+    "abbr": "IEEE J Photovolt"
+  },
+  {
+    "name": "IEEE JOURNAL OF QUANTUM ELECTRONICS",
+    "issn": "0018-9197",
+    "eissn": "1558-1713",
+    "abbr": "IEEE J Quantum Electron"
+  },
+  {
+    "name": "IEEE Journal of Radio Frequency Identification",
+    "eissn": "2469-7281",
+    "abbr": "IEEE J Radio Freq Identif"
+  },
+  {
+    "name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "issn": "1939-1404",
+    "eissn": "2151-1535",
+    "abbr": "IEEE J Sel Top Appl Earth Obs Remote Sens"
+  },
+  {
+    "name": "IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS",
+    "issn": "1077-260X",
+    "eissn": "1558-4542",
+    "abbr": "IEEE J Sel Top Quantum Electron"
+  },
+  {
+    "name": "IEEE Journal of Selected Topics in Signal Processing",
+    "issn": "1932-4553",
+    "eissn": "1941-0484",
+    "abbr": "IEEE J Sel Top Signal Process"
+  },
+  {
+    "name": "IEEE Journal of Translational Engineering in Health and Medicine",
+    "issn": "2168-2372",
+    "eissn": "2168-2372",
+    "abbr": "IEEE J Transl Eng Health Med"
+  },
+  {
+    "name": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems",
+    "issn": "2156-3357",
+    "eissn": "2156-3365",
+    "abbr": "IEEE J Emerg Sel Top Circuits Syst"
+  },
+  {
+    "name": "IEEE Journal on Exploratory Solid-State Computational Devices and Circuits",
+    "issn": "2329-9231",
+    "eissn": "2329-9231",
+    "abbr": "IEEE J Explor Solid State Comput Devices Circuits"
+  },
+  {
+    "name": "IEEE Journal on Multiscale and Multiphysics Computational Techniques",
+    "eissn": "2379-8793",
+    "abbr": "IEEE J Multiscale Multiphys Comput Tech"
+  },
+  {
+    "name": "IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS",
+    "issn": "0733-8716",
+    "eissn": "1558-0008",
+    "abbr": "IEEE J Sel Areas Commun"
+  },
+  {
+    "name": "IEEE Journal on Selected Areas in Information Theory",
+    "eissn": "2641-8770",
+    "abbr": "IEEE J Sel Areas Inf Theory"
+  },
+  {
+    "name": "IEEE Magnetics Letters",
+    "issn": "1949-307X",
+    "eissn": "1949-3088",
+    "abbr": "IEEE Sens Lett"
+  },
+  {
+    "name": "IEEE MICROWAVE AND WIRELESS COMPONENTS LETTERS",
+    "issn": "1531-1309",
+    "eissn": "1558-1764",
+    "abbr": "IEEE Microw Wirel Compon Lett"
+  },
+  {
+    "name": "IEEE Microwave and Wireless Technology Letters",
+    "issn": "2771-957X",
+    "eissn": "2771-9588",
+    "abbr": "IEEE Microw Wirel Technol Lett"
+  },
+  {
+    "name": "IEEE MICROWAVE MAGAZINE",
+    "issn": "1527-3342",
+    "eissn": "1557-9581",
+    "abbr": "IEEE Microw Mag"
+  },
+  {
+    "name": "IEEE Nanotechnology Magazine",
+    "issn": "1932-4510",
+    "eissn": "1942-7808",
+    "abbr": "IEEE Nanotechnol Mag"
+  },
+  {
+    "name": "IEEE NETWORK",
+    "issn": "0890-8044",
+    "eissn": "1558-156X",
+    "abbr": "IEEE Netw"
+  },
+  {
+    "name": "IEEE Open Journal of Circuits and Systems",
+    "eissn": "2644-1225",
+    "abbr": "IEEE Open J Circuits Syst"
+  },
+  {
+    "name": "IEEE Open Journal of Control Systems",
+    "eissn": "2694-085X",
+    "abbr": "IEEE Open J Control Syst"
+  },
+  {
+    "name": "IEEE Open Journal of Engineering in Medicine and Biology",
+    "eissn": "2644-1276",
+    "abbr": "IEEE Open J Eng Med Biol"
+  },
+  {
+    "name": "IEEE Open Journal of Nanotechnology",
+    "eissn": "2644-1292",
+    "abbr": "IEEE Open J Nanotechnol"
+  },
+  {
+    "name": "IEEE Open Journal of Power Electronics",
+    "eissn": "2644-1314",
+    "abbr": "IEEE Open J Power Electron"
+  },
+  {
+    "name": "IEEE Open Journal of Signal Processing",
+    "eissn": "2644-1322",
+    "abbr": "IEEE Open J Signal Process"
+  },
+  {
+    "name": "IEEE Open Journal of the Solid-State Circuits Society",
+    "eissn": "2644-1349",
+    "abbr": "IEEE Open J Solid State Circuits Soc"
+  },
+  {
+    "name": "IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control",
+    "issn": "2694-0884",
+    "eissn": "2694-0884",
+    "abbr": "IEEE Open J Ultrason Ferroelectr Freq Control"
+  },
+  {
+    "name": "IEEE Open Journal of Vehicular Technology",
+    "eissn": "2644-1330",
+    "abbr": "IEEE Open J Veh Technol"
+  },
+  {
+    "name": "IEEE PERVASIVE COMPUTING",
+    "issn": "1536-1268",
+    "eissn": "1558-2590",
+    "abbr": "IEEE Pervasive Comput"
+  },
+  {
+    "name": "IEEE Photonics Journal",
+    "issn": "1943-0655",
+    "eissn": "1943-0647",
+    "abbr": "IEEE Photonics J"
+  },
+  {
+    "name": "IEEE PHOTONICS TECHNOLOGY LETTERS",
+    "issn": "1041-1135",
+    "eissn": "1941-0174",
+    "abbr": "IEEE Photonics Technol Lett"
+  },
+  {
+    "name": "IEEE Reviews in Biomedical Engineering",
+    "issn": "1937-3333",
+    "eissn": "1941-1189",
+    "abbr": "IEEE Rev Biomed Eng"
+  },
+  {
+    "name": "IEEE Robotics and Automation Letters",
+    "issn": "2377-3766",
+    "eissn": "2377-3766",
+    "abbr": "IEEE Robot Autom Lett"
+  },
+  {
+    "name": "IEEE ROBOTICS & AUTOMATION MAGAZINE",
+    "issn": "1070-9932",
+    "eissn": "1558-223X",
+    "abbr": "IEEE Robot Autom Mag"
+  },
+  {
+    "name": "IEEE SECURITY & PRIVACY",
+    "issn": "1540-7993",
+    "eissn": "1558-4046",
+    "abbr": "IEEE Secur Priv"
+  },
+  {
+    "name": "IEEE SENSORS JOURNAL",
+    "issn": "1530-437X",
+    "eissn": "1558-1748",
+    "abbr": "IEEE Sens J"
+  },
+  {
+    "name": "IEEE Sensors Letters",
+    "issn": "2475-1472",
+    "eissn": "2475-1472",
+    "abbr": "IEEE Sens Lett"
+  },
+  {
+    "name": "IEEE SIGNAL PROCESSING LETTERS",
+    "issn": "1070-9908",
+    "eissn": "1558-2361",
+    "abbr": "IEEE Signal Process Lett"
+  },
+  {
+    "name": "IEEE SIGNAL PROCESSING MAGAZINE",
+    "issn": "1053-5888",
+    "eissn": "1558-0792",
+    "abbr": "IEEE Signal Process Mag"
+  },
+  {
+    "name": "IEEE SOFTWARE",
+    "issn": "0740-7459",
+    "eissn": "1937-4194",
+    "abbr": "IEEE Softw"
+  },
+  {
+    "name": "IEEE Solid-State Circuits Letters",
+    "eissn": "2573-9603",
+    "abbr": "IEEE Solid State Circuits Lett"
+  },
+  {
+    "name": "IEEE SPECTRUM",
+    "issn": "0018-9235",
+    "eissn": "1939-9340",
+    "abbr": "IEEE Spectr"
+  },
+  {
+    "name": "IEEE Systems Journal",
+    "issn": "1932-8184",
+    "eissn": "1937-9234",
+    "abbr": "IEEE Syst J"
+  },
+  {
+    "name": "IEEE Systems Man and Cybernetics Magazine",
+    "issn": "2380-1298",
+    "eissn": "2333-942X",
+    "abbr": "IEEE Syst Man Cybern Mag"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS",
+    "issn": "0018-9251",
+    "eissn": "1557-9603",
+    "abbr": "IEEE Trans Aerosp Electron Syst"
+  },
+  {
+    "name": "IEEE Transactions on Affective Computing",
+    "issn": "1949-3045",
+    "eissn": "1949-3045",
+    "abbr": "IEEE Trans Affect Comput"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION",
+    "issn": "0018-926X",
+    "eissn": "1558-2221",
+    "abbr": "IEEE Trans Antennas Propag"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON APPLIED SUPERCONDUCTIVITY",
+    "issn": "1051-8223",
+    "eissn": "1558-2515",
+    "abbr": "IEEE Trans Appl Supercond"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSING",
+    "eissn": "2998-4173",
+    "abbr": "IEEE Trans Audio Speech Lang Process (2025)"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON AUTOMATIC CONTROL",
+    "issn": "0018-9286",
+    "eissn": "1558-2523",
+    "abbr": "IEEE Trans Automat Contr"
+  },
+  {
+    "name": "IEEE Transactions on Automation Science and Engineering",
+    "issn": "1545-5955",
+    "eissn": "1558-3783",
+    "abbr": "IEEE Trans Autom Sci Eng"
+  },
+  {
+    "name": "IEEE Transactions on Big Data",
+    "issn": "2332-7790",
+    "eissn": "2332-7790",
+    "abbr": "IEEE Trans Big Data"
+  },
+  {
+    "name": "IEEE Transactions on Biomedical Circuits and Systems",
+    "issn": "1932-4545",
+    "eissn": "1940-9990",
+    "abbr": "IEEE Trans Biomed Circuits Syst"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING",
+    "issn": "0018-9294",
+    "eissn": "1558-2531",
+    "abbr": "IEEE Trans Biomed Eng"
+  },
+  {
+    "name": "IEEE Transactions on Biometrics, Behavior, and Identity Science",
+    "eissn": "2637-6407",
+    "abbr": "IEEE Trans Biom Behav Identity Sci"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY",
+    "issn": "1051-8215",
+    "eissn": "1558-2205",
+    "abbr": "IEEE Trans Circuits Syst Video Technol"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS",
+    "issn": "1549-7747",
+    "eissn": "1558-3791",
+    "abbr": "IEEE Trans Circuits Syst II Express Briefs"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS",
+    "issn": "1549-8328",
+    "eissn": "1558-0806",
+    "abbr": "IEEE Trans Circuits Syst I Regul Pap"
+  },
+  {
+    "name": "IEEE Transactions on Cloud Computing",
+    "issn": "2168-7161",
+    "eissn": "2168-7161",
+    "abbr": "IEEE Trans Cloud Comput"
+  },
+  {
+    "name": "IEEE Transactions on Cognitive and Developmental Systems",
+    "issn": "2379-8920",
+    "eissn": "2379-8939",
+    "abbr": "IEEE Trans Cogn Dev Syst"
+  },
+  {
+    "name": "IEEE Transactions on Cognitive Communications and Networking",
+    "issn": "2332-7731",
+    "eissn": "2332-7731",
+    "abbr": "IEEE Trans Cogn Commun Netw"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON COMMUNICATIONS",
+    "issn": "0090-6778",
+    "eissn": "1558-0857",
+    "abbr": "IEEE Trans Commun"
+  },
+  {
+    "name": "IEEE Transactions on Components Packaging and Manufacturing Technology",
+    "issn": "2156-3950",
+    "eissn": "2156-3985",
+    "abbr": "IEEE Trans Compon Packaging Manuf Technol"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATICS",
+    "eissn": "2998-4165",
+    "abbr": "IEEE Trans Comput Biol Bioinform"
+  },
+  {
+    "name": "IEEE Transactions on Computational Imaging",
+    "issn": "2573-0436",
+    "eissn": "2333-9403",
+    "abbr": "IEEE Trans Comput Imaging"
+  },
+  {
+    "name": "IEEE Transactions on Computational Social Systems",
+    "issn": "2329-924X",
+    "eissn": "2329-924X",
+    "abbr": "IEEE Trans Comput Soc Syst"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTEMS",
+    "issn": "0278-0070",
+    "eissn": "1937-4151",
+    "abbr": "IEEE Trans Comput Aided Des Integr Circuits Syst"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON COMPUTERS",
+    "issn": "0018-9340",
+    "eissn": "1557-9956",
+    "abbr": "IEEE Trans Comput"
+  },
+  {
+    "name": "IEEE Transactions on Control of Network Systems",
+    "issn": "2325-5870",
+    "eissn": "2372-2533",
+    "abbr": "IEEE Trans Control Netw Syst"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON CONTROL SYSTEMS TECHNOLOGY",
+    "issn": "1063-6536",
+    "eissn": "1558-0865",
+    "abbr": "IEEE Trans Control Syst Technol"
+  },
+  {
+    "name": "IEEE Transactions on Cybernetics",
+    "issn": "2168-2267",
+    "eissn": "2168-2275",
+    "abbr": "IEEE Trans Cybern"
+  },
+  {
+    "name": "IEEE Transactions on Dependable and Secure Computing",
+    "issn": "1545-5971",
+    "eissn": "1941-0018",
+    "abbr": "IEEE Trans Dependable Secure Comput"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON DEVICE AND MATERIALS RELIABILITY",
+    "issn": "1530-4388",
+    "eissn": "1558-2574",
+    "abbr": "IEEE Trans Device Mater Reliab"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION",
+    "issn": "1070-9878",
+    "eissn": "1558-4135",
+    "abbr": "IEEE Trans Dielectr Electr Insul"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON EDUCATION",
+    "issn": "0018-9359",
+    "eissn": "1557-9638",
+    "abbr": "IEEE Trans Ed"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY",
+    "issn": "0018-9375",
+    "eissn": "1558-187X",
+    "abbr": "IEEE Trans Electromagn Compat"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON ELECTRON DEVICES",
+    "issn": "0018-9383",
+    "eissn": "1557-9646",
+    "abbr": "IEEE Trans Electron Devices"
+  },
+  {
+    "name": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+    "issn": "2471-285X",
+    "eissn": "2471-285X",
+    "abbr": "IEEE Trans Emerg Top Comput Intell"
+  },
+  {
+    "name": "IEEE Transactions on Emerging Topics in Computing",
+    "issn": "2168-6750",
+    "eissn": "2168-6750",
+    "abbr": "IEEE Trans Emerg Top Comput"
+  },
+  {
+    "name": "IEEE Transactions on Engineering Management",
+    "issn": "0018-9391",
+    "eissn": "1558-0040",
+    "abbr": "IEEE Trans Eng Manag"
+  },
+  {
+    "name": "IEEE Transactions on Evolutionary Computation",
+    "issn": "1089-778X",
+    "eissn": "1941-0026",
+    "abbr": "IEEE Trans Evol Comput"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON FUZZY SYSTEMS",
+    "issn": "1063-6706",
+    "eissn": "1941-0034",
+    "abbr": "IEEE Trans Artif Intell"
+  },
+  {
+    "name": "IEEE Transactions on Games",
+    "issn": "2475-1502",
+    "eissn": "2475-1510",
+    "abbr": "IEEE Trans Games"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING",
+    "issn": "0196-2892",
+    "eissn": "1558-0644",
+    "abbr": "IEEE Trans Geosci Remote Sens"
+  },
+  {
+    "name": "IEEE Transactions on Green Communications and Networking",
+    "issn": "2473-2400",
+    "eissn": "2473-2400",
+    "abbr": "IEEE Trans Green Commun Netw"
+  },
+  {
+    "name": "IEEE Transactions on Haptics",
+    "issn": "1939-1412",
+    "eissn": "2329-4051",
+    "abbr": "IEEE Trans Haptics"
+  },
+  {
+    "name": "IEEE Transactions on Human-Machine Systems",
+    "issn": "2168-2291",
+    "eissn": "2168-2305",
+    "abbr": "IEEE Trans Hum Mach Syst"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON IMAGE PROCESSING",
+    "issn": "1057-7149",
+    "eissn": "1941-0042",
+    "abbr": "IEEE Trans Image Process"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS",
+    "issn": "0278-0046",
+    "eissn": "1557-9948",
+    "abbr": "IEEE Trans Ind Electron"
+  },
+  {
+    "name": "IEEE Transactions on Industrial Informatics",
+    "issn": "1551-3203",
+    "eissn": "1941-0050",
+    "abbr": "IEEE Trans Industr Inform"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS",
+    "issn": "0093-9994",
+    "eissn": "1939-9367",
+    "abbr": "IEEE Trans Ind Appl"
+  },
+  {
+    "name": "IEEE Transactions on Information Forensics and Security",
+    "issn": "1556-6013",
+    "eissn": "1556-6021",
+    "abbr": "IEEE Trans Inf Forensics Secur"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON INFORMATION THEORY",
+    "issn": "0018-9448",
+    "eissn": "1557-9654",
+    "abbr": "IEEE Trans Inf Theory"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT",
+    "issn": "0018-9456",
+    "eissn": "1557-9662",
+    "abbr": "IEEE Trans Instrum Meas"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS",
+    "issn": "1524-9050",
+    "eissn": "1558-0016",
+    "abbr": "IEEE trans Intell Transp Syst"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING",
+    "issn": "1041-4347",
+    "eissn": "1558-2191",
+    "abbr": "IEEE Trans Knowl Data Eng"
+  },
+  {
+    "name": "IEEE Transactions on Learning Technologies",
+    "issn": "1939-1382",
+    "eissn": "1939-1382",
+    "abbr": "IEEE Trans Learn Technol"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON MAGNETICS",
+    "issn": "0018-9464",
+    "eissn": "1941-0069",
+    "abbr": "IEEE Trans Magn"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON MEDICAL IMAGING",
+    "issn": "0278-0062",
+    "eissn": "1558-254X",
+    "abbr": "IEEE Trans Med Imaging"
+  },
+  {
+    "name": "IEEE Transactions on Medical Robotics and Bionics",
+    "eissn": "2576-3202",
+    "abbr": "IEEE Trans Med Robot Bionics"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES",
+    "issn": "0018-9480",
+    "eissn": "1557-9670",
+    "abbr": "IEEE Trans Microw Theory Tech"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON MOBILE COMPUTING",
+    "issn": "1536-1233",
+    "eissn": "1558-0660",
+    "abbr": "IEEE Trans Mob Comput"
+  },
+  {
+    "name": "IEEE Transactions on Molecular Biological and Multi-Scale Communications",
+    "eissn": "2332-7804",
+    "abbr": "IEEE Trans Mol Biol Multiscale Commun"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON MULTIMEDIA",
+    "issn": "1520-9210",
+    "eissn": "1941-0077",
+    "abbr": "IEEE Trans Multimedia"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON NANOBIOSCIENCE",
+    "issn": "1536-1241",
+    "eissn": "1558-2639",
+    "abbr": "IEEE Trans Nanobioscience"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON NANOTECHNOLOGY",
+    "issn": "1536-125X",
+    "eissn": "1941-0085",
+    "abbr": "IEEE Nanotechnol Mag"
+  },
+  {
+    "name": "IEEE Transactions on Network Science and Engineering",
+    "issn": "2327-4697",
+    "eissn": "2327-4697",
+    "abbr": "IEEE Trans Netw Sci Eng"
+  },
+  {
+    "name": "IEEE Transactions on Neural Networks and Learning Systems",
+    "issn": "2162-237X",
+    "eissn": "2162-2388",
+    "abbr": "IEEE Trans Neural Netw Learn Syst"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING",
+    "issn": "1534-4320",
+    "eissn": "1558-0210",
+    "abbr": "IEEE Trans Neural Syst Rehabil Eng"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON NUCLEAR SCIENCE",
+    "issn": "0018-9499",
+    "eissn": "1558-1578",
+    "abbr": "IEEE Trans Nucl Sci"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS",
+    "issn": "1045-9219",
+    "eissn": "1558-2183",
+    "abbr": "IEEE Trans Parallel Distrib Syst"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON PLASMA SCIENCE",
+    "issn": "0093-3813",
+    "eissn": "1939-9375",
+    "abbr": "IEEE Trans Plasma Sci IEEE Nucl Plasma Sci Soc"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON POWER ELECTRONICS",
+    "issn": "0885-8993",
+    "eissn": "1941-0107",
+    "abbr": "IEEE Trans Power Electron"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON POWER SYSTEMS",
+    "issn": "0885-8950",
+    "eissn": "1558-0679",
+    "abbr": "IEEE Trans Power Syst"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION",
+    "issn": "0361-1434",
+    "eissn": "1558-1500",
+    "abbr": "IEEE Trans Prof Commun"
+  },
+  {
+    "name": "IEEE Transactions on Quantum Engineering",
+    "eissn": "2689-1808",
+    "abbr": "IEEE Trans Quantum Eng"
+  },
+  {
+    "name": "IEEE Transactions on Radiation and Plasma Medical Sciences",
+    "issn": "2469-7311",
+    "eissn": "2469-7303",
+    "abbr": "IEEE Trans Radiat Plasma Med Sci"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON RELIABILITY",
+    "issn": "0018-9529",
+    "eissn": "1558-1721",
+    "abbr": "IEEE Trans Reliab"
+  },
+  {
+    "name": "IEEE Transactions on Robotics",
+    "issn": "1552-3098",
+    "eissn": "1941-0468",
+    "abbr": "IEEE Trans Robot"
+  },
+  {
+    "name": "IEEE Transactions on Services Computing",
+    "issn": "1939-1374",
+    "eissn": "1939-1374",
+    "abbr": "IEEE Trans Serv Comput"
+  },
+  {
+    "name": "IEEE Transactions on Signal and Information Processing over Networks",
+    "issn": "2373-776X",
+    "eissn": "2373-776X",
+    "abbr": "IEEE Trans Signal Inf Process Netw"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON SIGNAL PROCESSING",
+    "issn": "1053-587X",
+    "eissn": "1941-0476",
+    "abbr": "IEEE Trans Signal Process"
+  },
+  {
+    "name": "IEEE Transactions on Smart Grid",
+    "issn": "1949-3053",
+    "eissn": "1949-3061",
+    "abbr": "IEEE Trans Smart Grid"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON SOFTWARE ENGINEERING",
+    "issn": "0098-5589",
+    "eissn": "1939-3520",
+    "abbr": "IEEE Trans Pattern Anal Mach Intell"
+  },
+  {
+    "name": "IEEE Transactions on Sustainable Computing",
+    "issn": "2377-3782",
+    "eissn": "2377-3782",
+    "abbr": "IEEE Trans Sustain Comput"
+  },
+  {
+    "name": "IEEE Transactions on Sustainable Energy",
+    "issn": "1949-3029",
+    "eissn": "1949-3037",
+    "abbr": "IEEE Trans Sustain Energy"
+  },
+  {
+    "name": "IEEE Transactions on Terahertz Science and Technology",
+    "issn": "2156-342X",
+    "eissn": "2156-3446",
+    "abbr": "IEEE Trans Terahertz Sci Technol"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON ULTRASONICS FERROELECTRICS AND FREQUENCY CONTROL",
+    "issn": "0885-3010",
+    "eissn": "1525-8955",
+    "abbr": "IEEE Trans Ultrason Ferroelectr Freq Control"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY",
+    "issn": "0018-9545",
+    "eissn": "1939-9359",
+    "abbr": "IEEE Trans Veh Technol"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS",
+    "issn": "1063-8210",
+    "eissn": "1557-9999",
+    "abbr": "IEEE Trans Very Large Scale Integr VLSI Syst"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS",
+    "issn": "1077-2626",
+    "eissn": "1941-0506",
+    "abbr": "IEEE Trans Vis Comput Graph"
+  },
+  {
+    "name": "IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS",
+    "issn": "1536-1276",
+    "eissn": "1558-2248",
+    "abbr": "IEEE Trans Wirel Commun"
+  },
+  {
+    "name": "IEEE WIRELESS COMMUNICATIONS",
+    "issn": "1536-1284",
+    "eissn": "1558-0687",
+    "abbr": "IEEE Wirel Commun"
+  },
+  {
+    "name": "IEEE Wireless Communications Letters",
+    "issn": "2162-2337",
+    "eissn": "2162-2345",
+    "abbr": "IEEE Wirel Commun Lett"
+  },
+  {
+    "name": "IEICE TRANSACTIONS ON INFORMATION AND SYSTEMS",
+    "issn": "0916-8532",
+    "eissn": "1745-1361",
+    "abbr": "IEICE Trans Inf Syst"
+  },
+  {
+    "name": "IET Biometrics",
+    "issn": "2047-4938",
+    "eissn": "2047-4946",
+    "abbr": "IET Biom"
+  },
+  {
+    "name": "IET Computers and Digital Techniques",
+    "issn": "1751-8601",
+    "eissn": "1751-861X",
+    "abbr": "IET Comput Digit Tech"
+  },
+  {
+    "name": "IETE JOURNAL OF RESEARCH",
+    "issn": "0377-2063",
+    "eissn": "0974-780X",
+    "abbr": "IETE J Res"
+  },
+  {
+    "name": "IET Electric Power Applications",
+    "issn": "1751-8660",
+    "eissn": "1751-8679",
+    "abbr": "IET Electr Power Appl"
+  },
+  {
+    "name": "IET Image Processing",
+    "issn": "1751-9659",
+    "eissn": "1751-9667",
+    "abbr": "IET Image Process"
+  },
+  {
+    "name": "IET Information Security",
+    "issn": "1751-8709",
+    "eissn": "1751-8717",
+    "abbr": "IET Inf Secur"
+  },
+  {
+    "name": "IET Intelligent Transport Systems",
+    "issn": "1751-956X",
+    "eissn": "1751-9578",
+    "abbr": "IET Intell Transp Syst"
+  },
+  {
+    "name": "IET Microwaves Antennas & Propagation",
+    "issn": "1751-8725",
+    "eissn": "1751-8733",
+    "abbr": "IET Microw Antennas Propag"
+  },
+  {
+    "name": "IET Nanobiotechnology",
+    "issn": "1751-8741",
+    "eissn": "1751-875X",
+    "abbr": "IET Nanobiotechnol"
+  },
+  {
+    "name": "IET Systems Biology",
+    "issn": "1751-8849",
+    "eissn": "1751-8857",
+    "abbr": "IET Syst Biol"
+  },
+  {
+    "name": "IET Wireless Sensor Systems",
+    "issn": "2043-6386",
+    "eissn": "2043-6394",
+    "abbr": "IET Wirel Sens Syst"
+  },
+  {
+    "name": "iForest-Biogeosciences and Forestry",
+    "issn": "1971-7458",
+    "eissn": "1971-7458",
+    "abbr": "IForest"
+  },
+  {
+    "name": "IHERINGIA SERIE ZOOLOGIA",
+    "issn": "0073-4721",
+    "eissn": "1678-4766",
+    "abbr": "Iheringia Ser Zool"
+  },
+  {
+    "name": "IIC-INTERNATIONAL REVIEW OF INTELLECTUAL PROPERTY AND COMPETITION LAW",
+    "issn": "0018-9855",
+    "eissn": "2195-0237",
+    "abbr": "IIC Int Rev Ind Prop Copyr Law"
+  },
+  {
+    "name": "IISE Transactions",
+    "issn": "2472-5854",
+    "eissn": "2472-5862",
+    "abbr": "IISE Trans"
+  },
+  {
+    "name": "IISE Transactions on Healthcare Systems Engineering",
+    "issn": "2472-5579",
+    "eissn": "2472-5587",
+    "abbr": "IISE Trans Healthc Syst Eng"
+  },
+  {
+    "name": "IISE Transactions on Occupational Ergonomics & Human Factors",
+    "issn": "2472-5838",
+    "eissn": "2472-5846",
+    "abbr": "IISE Trans Occup Ergon Hum Factors"
+  },
+  {
+    "name": "IJC Heart & Vasculature",
+    "eissn": "2352-9067",
+    "abbr": "Int J Cardiol Heart Vasc"
+  },
+  {
+    "name": "IJID Regions",
+    "eissn": "2772-7076",
+    "abbr": "IJID Reg"
+  },
+  {
+    "name": "IJU Case Reports",
+    "eissn": "2577-171X",
+    "abbr": "IJU Case Rep"
+  },
+  {
+    "name": "ILR Review",
+    "issn": "0019-7939",
+    "eissn": "2162-271X",
+    "abbr": "Ind Labor Relat Rev"
+  },
+  {
+    "name": "IMAGE AND VISION COMPUTING",
+    "issn": "0262-8856",
+    "eissn": "1872-8138",
+    "abbr": "Image Vis Comput"
+  },
+  {
+    "name": "Imaging Science in Dentistry",
+    "issn": "2233-7822",
+    "eissn": "2233-7830",
+    "abbr": "Imaging Sci Dent"
+  },
+  {
+    "name": "Imago Mundi-The International Journal for the History of Cartography",
+    "issn": "0308-5694",
+    "eissn": "1479-7801",
+    "abbr": "Imago Mundi"
+  },
+  {
+    "name": "IMA JOURNAL OF APPLIED MATHEMATICS",
+    "issn": "0272-4960",
+    "eissn": "1464-3634",
+    "abbr": "IMA J Appl Math"
+  },
+  {
+    "name": "IMA Journal of Management Mathematics",
+    "issn": "1471-678X",
+    "eissn": "1471-6798",
+    "abbr": "IMA J Manag Math"
+  },
+  {
+    "name": "IMA JOURNAL OF MATHEMATICAL CONTROL AND INFORMATION",
+    "issn": "0265-0754",
+    "eissn": "1471-6887",
+    "abbr": "IMA J Math Control Inf"
+  },
+  {
+    "name": "Immigrants and Minorities",
+    "issn": "0261-9288",
+    "eissn": "1744-0521",
+    "abbr": "Immigr Minor"
+  },
+  {
+    "name": "Immune Network",
+    "issn": "1598-2629",
+    "eissn": "2092-6685",
+    "abbr": "Immune Netw"
+  },
+  {
+    "name": "Immunity & Ageing",
+    "issn": "1742-4933",
+    "eissn": "1742-4933",
+    "abbr": "Immun Ageing"
+  },
+  {
+    "name": "Immunity Inflammation and Disease",
+    "eissn": "2050-4527",
+    "abbr": "Immun Inflamm Dis"
+  },
+  {
+    "name": "IMMUNOLOGICAL INVESTIGATIONS",
+    "issn": "0882-0139",
+    "eissn": "1532-4311",
+    "abbr": "Immunol Invest"
+  },
+  {
+    "name": "Immunological Medicine",
+    "eissn": "2578-5826",
+    "abbr": "Immunol Med"
+  },
+  {
+    "name": "IMMUNOLOGICAL REVIEWS",
+    "issn": "0105-2896",
+    "eissn": "1600-065X",
+    "abbr": "Immunol Rev"
+  },
+  {
+    "name": "IMMUNOLOGIC RESEARCH",
+    "issn": "0257-277X",
+    "eissn": "1559-0755",
+    "abbr": "Immunol Res"
+  },
+  {
+    "name": "IMMUNOLOGY AND ALLERGY CLINICS OF NORTH AMERICA",
+    "issn": "0889-8561",
+    "eissn": "1557-8607",
+    "abbr": "Immunol Allergy Clin North Am"
+  },
+  {
+    "name": "IMMUNOLOGY AND CELL BIOLOGY",
+    "issn": "0818-9641",
+    "eissn": "1440-1711",
+    "abbr": "Immunol Cell Biol"
+  },
+  {
+    "name": "IMMUNOLOGY LETTERS",
+    "issn": "0165-2478",
+    "eissn": "1879-0542",
+    "abbr": "Immunol Lett"
+  },
+  {
+    "name": "Immunometabolism",
+    "issn": "2633-0407",
+    "eissn": "2633-0407",
+    "abbr": "Immunometabolism (Cobham)"
+  },
+  {
+    "name": "IMMUNOPHARMACOLOGY AND IMMUNOTOXICOLOGY",
+    "issn": "0892-3973",
+    "eissn": "1532-2513",
+    "abbr": "Immunopharmacol Immunotoxicol"
+  },
+  {
+    "name": "ImmunoTargets and Therapy",
+    "eissn": "2253-1556",
+    "abbr": "Immunotargets Ther"
+  },
+  {
+    "name": "Immunotherapy Advances",
+    "eissn": "2732-4303",
+    "abbr": "Immunother Adv"
+  },
+  {
+    "name": "Implementation Research and Practice",
+    "issn": "2633-4895",
+    "eissn": "2633-4895",
+    "abbr": "Implement Res Pract"
+  },
+  {
+    "name": "Implementation Science",
+    "issn": "1748-5908",
+    "eissn": "1748-5908",
+    "abbr": "Implement Sci"
+  },
+  {
+    "name": "Implementation Science Communications",
+    "eissn": "2662-2211",
+    "abbr": "Implement Sci Commun"
+  },
+  {
+    "name": "Implicit Religion",
+    "issn": "1463-9955",
+    "eissn": "1743-1697",
+    "abbr": "Implicit Relig"
+  },
+  {
+    "name": "Improving Schools",
+    "issn": "1365-4802",
+    "eissn": "1475-7583",
+    "abbr": "Improv Sch"
+  },
+  {
+    "name": "INDIANA LAW JOURNAL",
+    "issn": "0019-6665",
+    "eissn": "2169-3218",
+    "abbr": "Indiana Law J"
+  },
+  {
+    "name": "Indian Dermatology Online Journal",
+    "issn": "2229-5178",
+    "eissn": "2249-5673",
+    "abbr": "Indian Dermatol Online J"
+  },
+  {
+    "name": "INDIAN ECONOMIC AND SOCIAL HISTORY REVIEW",
+    "issn": "0019-4646",
+    "eissn": "0973-0893",
+    "abbr": "Indian Econ Soc Hist Rev"
+  },
+  {
+    "name": "Indian Economic Review",
+    "issn": "0019-4670",
+    "eissn": "2520-1778",
+    "abbr": "Indian Econ Rev"
+  },
+  {
+    "name": "Indian Heart Journal",
+    "issn": "0019-4832",
+    "eissn": "2213-3763",
+    "abbr": "Indian Heart J"
+  },
+  {
+    "name": "Indian Historical Review",
+    "issn": "0376-9836",
+    "eissn": "0975-5977",
+    "abbr": "Indian Hist Rev"
+  },
+  {
+    "name": "Indian Journal of Anaesthesia",
+    "issn": "0019-5049",
+    "eissn": "0976-2817",
+    "abbr": "Indian J Anaesth"
+  },
+  {
+    "name": "Indian Journal of Animal Research",
+    "issn": "0367-6722",
+    "eissn": "0367-6722",
+    "abbr": "Indian J Anim Res"
+  },
+  {
+    "name": "INDIAN JOURNAL OF BIOCHEMISTRY & BIOPHYSICS",
+    "issn": "0301-1208",
+    "eissn": "0975-0959",
+    "abbr": "Indian J Biochem Biophys"
+  },
+  {
+    "name": "INDIAN JOURNAL OF BIOTECHNOLOGY",
+    "issn": "0972-5849",
+    "eissn": "0975-0967",
+    "abbr": "Indian J Biotechnol"
+  },
+  {
+    "name": "INDIAN JOURNAL OF CANCER",
+    "issn": "0019-509X",
+    "eissn": "1998-4774",
+    "abbr": "Indian J Cancer"
+  },
+  {
+    "name": "Indian Journal of Clinical Biochemistry",
+    "issn": "0970-1915",
+    "eissn": "0974-0422",
+    "abbr": "Indian J Clin Biochem"
+  },
+  {
+    "name": "Indian Journal of Community Health",
+    "issn": "0971-7587",
+    "eissn": "2248-9509",
+    "abbr": "Indian J Community Health"
+  },
+  {
+    "name": "Indian Journal of Community Medicine",
+    "issn": "0970-0218",
+    "eissn": "1998-3581",
+    "abbr": "Indian J Community Med"
+  },
+  {
+    "name": "Indian Journal of Critical Care Medicine",
+    "issn": "0972-5229",
+    "eissn": "1998-359X",
+    "abbr": "Indian J Crit Care Med"
+  },
+  {
+    "name": "INDIAN JOURNAL OF DAIRY SCIENCE",
+    "issn": "0019-5146",
+    "eissn": "2454-2172",
+    "abbr": "Indian J Dairy Sci"
+  },
+  {
+    "name": "INDIAN JOURNAL OF DERMATOLOGY",
+    "issn": "0019-5154",
+    "eissn": "1998-3611",
+    "abbr": "Indian J Dermatol"
+  },
+  {
+    "name": "Indian Journal of Dermatology Venereology & Leprology",
+    "issn": "0378-6323",
+    "eissn": "0973-3922",
+    "abbr": "Indian J Dermatol Venereol Leprol"
+  },
+  {
+    "name": "INDIAN JOURNAL OF EXPERIMENTAL BIOLOGY",
+    "issn": "0019-5189",
+    "eissn": "0975-1009",
+    "abbr": "Indian J Exp Biol"
+  },
+  {
+    "name": "INDIAN JOURNAL OF FIBRE & TEXTILE RESEARCH",
+    "issn": "0971-0426",
+    "eissn": "0975-1025",
+    "abbr": "Indian J Fibre Text Res"
+  },
+  {
+    "name": "Indian Journal of Gastroenterology",
+    "issn": "0254-8860",
+    "eissn": "0975-0711",
+    "abbr": "Indian J Gastroenterol"
+  },
+  {
+    "name": "Indian Journal of Gender Studies",
+    "issn": "0971-5215",
+    "eissn": "0973-0672",
+    "abbr": "Indian J Gend Stud"
+  },
+  {
+    "name": "INDIAN JOURNAL OF GENETICS AND PLANT BREEDING",
+    "issn": "0019-5200",
+    "eissn": "0975-6906",
+    "abbr": "Indian J Genet Plant Breed"
+  },
+  {
+    "name": "Indian Journal of Gynecologic Oncology",
+    "issn": "2363-8397",
+    "eissn": "2363-8400",
+    "abbr": "Indian J Gynecol Oncol"
+  },
+  {
+    "name": "Indian Journal of Hematology and Blood Transfusion",
+    "issn": "0971-4502",
+    "eissn": "0974-0449",
+    "abbr": "Indian J Hematol Blood Transfus"
+  },
+  {
+    "name": "INDIAN JOURNAL OF HISTORY OF SCIENCE",
+    "issn": "0019-5235",
+    "eissn": "2454-9991",
+    "abbr": "Indian J Hist Sci"
+  },
+  {
+    "name": "Indian Journal of Labour Economics",
+    "issn": "0971-7927",
+    "eissn": "0019-5308",
+    "abbr": "Indian J Labour Econ"
+  },
+  {
+    "name": "Indian Journal of Medical and Paediatric Oncology",
+    "issn": "0971-5851",
+    "eissn": "0975-2129",
+    "abbr": "Indian J Med Paediatr Oncol"
+  },
+  {
+    "name": "Indian Journal of Medical Microbiology",
+    "issn": "0255-0857",
+    "eissn": "1998-3646",
+    "abbr": "Indian J Med Microbiol"
+  },
+  {
+    "name": "INDIAN JOURNAL OF MEDICAL RESEARCH",
+    "issn": "0971-5916",
+    "eissn": "0971-5916",
+    "abbr": "Indian J Med Res"
+  },
+  {
+    "name": "INDIAN JOURNAL OF MICROBIOLOGY",
+    "issn": "0046-8991",
+    "eissn": "0973-7715",
+    "abbr": "Indian J Microbiol"
+  },
+  {
+    "name": "Indian Journal of Natural Products and Resources",
+    "issn": "0976-0504",
+    "eissn": "0976-0512",
+    "abbr": "Indian J Nat Prod Resour"
+  },
+  {
+    "name": "Indian Journal of Nephrology",
+    "issn": "0971-4065",
+    "eissn": "1998-3662",
+    "abbr": "Indian J Nephrol"
+  },
+  {
+    "name": "Indian Journal of Neurosurgery",
+    "issn": "2277-954X",
+    "eissn": "2277-9167",
+    "abbr": "Indian J Neurosurg"
+  },
+  {
+    "name": "Indian Journal of Nuclear Medicine",
+    "issn": "0972-3919",
+    "eissn": "0974-0244",
+    "abbr": "Indian J Nucl Med"
+  },
+  {
+    "name": "Indian Journal of Occupational and Environmental Medicine",
+    "issn": "0973-2284",
+    "eissn": "1998-3670",
+    "abbr": "Indian J Occup Environ Med"
+  },
+  {
+    "name": "INDIAN JOURNAL OF OPHTHALMOLOGY",
+    "issn": "0301-4738",
+    "eissn": "1998-3689",
+    "abbr": "Indian J Ophthalmol"
+  },
+  {
+    "name": "Indian Journal of Orthopaedics",
+    "issn": "0019-5413",
+    "eissn": "1998-3727",
+    "abbr": "Indian J Orthop"
+  },
+  {
+    "name": "Indian Journal of Otolaryngology and Head & Neck Surgery",
+    "issn": "2231-3796",
+    "eissn": "0973-7707",
+    "abbr": "Indian J Otolaryngol Head Neck Surg"
+  },
+  {
+    "name": "Indian Journal of Palliative Care",
+    "issn": "0973-1075",
+    "eissn": "1998-3735",
+    "abbr": "Indian J Palliat Care"
+  },
+  {
+    "name": "Indian Journal of Pathology and Microbiology",
+    "issn": "0377-4929",
+    "eissn": "0974-5130",
+    "abbr": "Indian J Pathol Microbiol"
+  },
+  {
+    "name": "INDIAN JOURNAL OF PEDIATRICS",
+    "issn": "0019-5456",
+    "eissn": "0973-7693",
+    "abbr": "Indian J Pediatr"
+  },
+  {
+    "name": "Indian Journal of Pharmaceutical Education and Research",
+    "issn": "0019-5464",
+    "eissn": "0019-5464",
+    "abbr": "Indian J Pharm Educ"
+  },
+  {
+    "name": "INDIAN JOURNAL OF PHARMACOLOGY",
+    "issn": "0253-7613",
+    "eissn": "1998-3751",
+    "abbr": "Indian J Pharmacol"
+  },
+  {
+    "name": "INDIAN JOURNAL OF PHYSICS",
+    "issn": "0973-1458",
+    "eissn": "0974-9845",
+    "abbr": "Indian J Phys Proc Indian Assoc Cultiv Sci (2004)"
+  },
+  {
+    "name": "Indian Journal of Plastic Surgery",
+    "issn": "0970-0358",
+    "eissn": "1998-376X",
+    "abbr": "Indian J Plast Surg"
+  },
+  {
+    "name": "Indian Journal of Psychiatry",
+    "issn": "0019-5545",
+    "eissn": "1998-3794",
+    "abbr": "Indian J Psychiatry"
+  },
+  {
+    "name": "Indian Journal of Psychological Medicine",
+    "issn": "0253-7176",
+    "eissn": "0975-1564",
+    "abbr": "Indian J Psychol Med"
+  },
+  {
+    "name": "Indian Journal of Public Health",
+    "issn": "0019-557X",
+    "eissn": "2229-7693",
+    "abbr": "Indian J Public Health"
+  },
+  {
+    "name": "Indian Journal of Radiology and Imaging",
+    "issn": "0971-3026",
+    "eissn": "1998-3808",
+    "abbr": "Indian J Radiol Imaging"
+  },
+  {
+    "name": "Indian Journal of Rheumatology",
+    "issn": "0973-3698",
+    "eissn": "0973-3701",
+    "abbr": "Indian J Rheumatol"
+  },
+  {
+    "name": "Indian Journal of Sexually Transmitted Diseases and AIDS",
+    "issn": "2589-0557",
+    "eissn": "2589-0565",
+    "abbr": "Indian J Sex Transm Dis AIDS"
+  },
+  {
+    "name": "Indian Journal of Surgery",
+    "issn": "0972-2068",
+    "eissn": "0973-9793",
+    "abbr": "Indian J Surg"
+  },
+  {
+    "name": "Indian Journal of Surgical Oncology",
+    "issn": "0975-7651",
+    "eissn": "0976-6952",
+    "abbr": "Indian J Surg Oncol"
+  },
+  {
+    "name": "Indian Journal of Thoracic and Cardiovascular Surgery",
+    "issn": "0970-9134",
+    "eissn": "0973-7723",
+    "abbr": "Indian J Thorac Cardiovasc Surg"
+  },
+  {
+    "name": "Indian Journal of Transplantation",
+    "issn": "2212-0017",
+    "eissn": "2212-0025",
+    "abbr": "Indian J Transpl"
+  },
+  {
+    "name": "Indian Journal of Urology",
+    "issn": "0970-1591",
+    "eissn": "1998-3824",
+    "abbr": "Indian J Urol"
+  },
+  {
+    "name": "INDIAN PEDIATRICS",
+    "issn": "0019-6061",
+    "eissn": "0974-7559",
+    "abbr": "Indian Pediatr"
+  },
+  {
+    "name": "INDO-IRANIAN JOURNAL",
+    "issn": "0019-7246",
+    "eissn": "1572-8536",
+    "abbr": "Indo Iran J"
+  },
+  {
+    "name": "Indonesia and the Malay World",
+    "issn": "1363-9811",
+    "eissn": "1469-8382",
+    "abbr": "Indones Malay World"
+  },
+  {
+    "name": "INDOOR AND BUILT ENVIRONMENT",
+    "issn": "1420-326X",
+    "eissn": "1423-0070",
+    "abbr": "Indoor Built Environ"
+  },
+  {
+    "name": "INDUSTRIAL & ENGINEERING CHEMISTRY RESEARCH",
+    "issn": "0888-5885",
+    "eissn": "1520-5045",
+    "abbr": "Ind Eng Chem Res"
+  },
+  {
+    "name": "Industrial and Organizational Psychology",
+    "issn": "1754-9426",
+    "eissn": "1754-9434",
+    "abbr": "Ind Organ Psychol"
+  },
+  {
+    "name": "Industrial Archaeology Review",
+    "issn": "0309-0728",
+    "eissn": "1745-8196",
+    "abbr": "Ind Archaeol Rev"
+  },
+  {
+    "name": "Industrial Biotechnology",
+    "issn": "1550-9087",
+    "eissn": "1931-8421",
+    "abbr": "Ind Biotechnol (New Rochelle N Y)"
+  },
+  {
+    "name": "Industrial Chemistry & Materials",
+    "issn": "2755-2608",
+    "eissn": "2755-2500",
+    "abbr": "Ind Chem Mater"
+  },
+  {
+    "name": "INDUSTRIAL CROPS AND PRODUCTS",
+    "issn": "0926-6690",
+    "eissn": "1872-633X",
+    "abbr": "Ind Crops Prod"
+  },
+  {
+    "name": "INDUSTRIAL HEALTH",
+    "issn": "0019-8366",
+    "eissn": "1880-8026",
+    "abbr": "Ind Health"
+  },
+  {
+    "name": "Industrial Relations",
+    "issn": "0019-8676",
+    "eissn": "1468-232X",
+    "abbr": "Ind Relat (Berkeley)"
+  },
+  {
+    "name": "Industrial Robot-The International Journal of Robotics Research and Application",
+    "issn": "0143-991X",
+    "eissn": "1758-5791",
+    "abbr": "Ind Rob"
+  },
+  {
+    "name": "Industry and Innovation",
+    "issn": "1366-2716",
+    "eissn": "1469-8390",
+    "abbr": "Ind Innov"
+  },
+  {
+    "name": "INFANT AND CHILD DEVELOPMENT",
+    "issn": "1522-7227",
+    "eissn": "1522-7219",
+    "abbr": "Infant Child Dev"
+  },
+  {
+    "name": "INFANT BEHAVIOR & DEVELOPMENT",
+    "issn": "0163-6383",
+    "eissn": "1879-0453",
+    "abbr": "Infant Behav Dev"
+  },
+  {
+    "name": "Infants & Young Children",
+    "issn": "0896-3746",
+    "eissn": "1550-5081",
+    "abbr": "Infants Young Child"
+  },
+  {
+    "name": "Infection and Chemotherapy",
+    "issn": "2093-2340",
+    "eissn": "2092-6448",
+    "abbr": "Infect Chemother"
+  },
+  {
+    "name": "Infection and Drug Resistance",
+    "issn": "1178-6973",
+    "eissn": "1178-6973",
+    "abbr": "Infect Drug Resist"
+  },
+  {
+    "name": "INFECTION AND IMMUNITY",
+    "issn": "0019-9567",
+    "eissn": "1098-5522",
+    "abbr": "Infect Immun"
+  },
+  {
+    "name": "Infection Control & Hospital Epidemiology",
+    "issn": "0899-823X",
+    "eissn": "1559-6834",
+    "abbr": "Infect Control Hosp Epidemiol"
+  },
+  {
+    "name": "Infection Disease & Health",
+    "issn": "2468-0451",
+    "eissn": "2468-0451",
+    "abbr": "Infect Dis Health"
+  },
+  {
+    "name": "INFECTION GENETICS AND EVOLUTION",
+    "issn": "1567-1348",
+    "eissn": "1567-7257",
+    "abbr": "Infect Genet Evol"
+  },
+  {
+    "name": "Infection Prevention in Practice",
+    "issn": "2590-0889",
+    "eissn": "2590-0889",
+    "abbr": "Infect Prev Pract"
+  },
+  {
+    "name": "Infectious Agents and Cancer",
+    "issn": "1750-9378",
+    "eissn": "1750-9378",
+    "abbr": "Infect Agent Cancer"
+  },
+  {
+    "name": "INFECTIOUS DISEASE CLINICS OF NORTH AMERICA",
+    "issn": "0891-5520",
+    "eissn": "1557-9824",
+    "abbr": "Infect Dis Clin North Am"
+  },
+  {
+    "name": "Infectious Disease Modelling",
+    "eissn": "2468-0427",
+    "abbr": "Infect Dis Model"
+  },
+  {
+    "name": "Infectious Disease Reports",
+    "eissn": "2036-7449",
+    "abbr": "Infect Dis Rep"
+  },
+  {
+    "name": "Infectious Diseases",
+    "issn": "2374-4235",
+    "eissn": "2374-4243",
+    "abbr": "Infect Dis (Lond)"
+  },
+  {
+    "name": "Infectious Diseases and Clinical Microbiology",
+    "issn": "2667-646X",
+    "eissn": "2667-646X",
+    "abbr": "Infect Dis Clin Microbiol"
+  },
+  {
+    "name": "Infectious Diseases & Immunity",
+    "issn": "2096-9511",
+    "eissn": "2693-8839",
+    "abbr": "Infect Dis Immun"
+  },
+  {
+    "name": "Infectious Diseases and Therapy",
+    "issn": "2193-8229",
+    "eissn": "2193-6382",
+    "abbr": "Infect Dis Ther"
+  },
+  {
+    "name": "INFECTIOUS DISEASES IN CLINICAL PRACTICE",
+    "issn": "1056-9103",
+    "eissn": "1536-9943",
+    "abbr": "Infect Dis Clin Pract (Baltim Md)"
+  },
+  {
+    "name": "Infectious Diseases Now",
+    "issn": "2666-9927",
+    "eissn": "2666-9919",
+    "abbr": "Infect Dis Now"
+  },
+  {
+    "name": "Infectious Diseases of Poverty",
+    "issn": "2095-5162",
+    "eissn": "2049-9957",
+    "abbr": "Infect Dis Poverty"
+  },
+  {
+    "name": "Infectious Medicine",
+    "issn": "2097-0684",
+    "eissn": "2772-431X",
+    "abbr": "Infect Med (Beijing)"
+  },
+  {
+    "name": "Infectious Microbes & Diseases",
+    "eissn": "2641-5917",
+    "abbr": "Infect Microbes Dis"
+  },
+  {
+    "name": "Infektsiya i Immunitet",
+    "issn": "2220-7619",
+    "eissn": "2313-7398",
+    "abbr": "Infektsiia Immun"
+  },
+  {
+    "name": "Inflammation and Regeneration",
+    "eissn": "1880-8190",
+    "abbr": "Inflamm Regen"
+  },
+  {
+    "name": "INFLAMMATION RESEARCH",
+    "issn": "1023-3830",
+    "eissn": "1420-908X",
+    "abbr": "Inflamm Res"
+  },
+  {
+    "name": "INFLAMMATORY BOWEL DISEASES",
+    "issn": "1078-0998",
+    "eissn": "1536-4844",
+    "abbr": "Inflamm Bowel Dis"
+  },
+  {
+    "name": "Influenza and Other Respiratory Viruses",
+    "issn": "1750-2640",
+    "eissn": "1750-2659",
+    "abbr": "Influenza Other Respir Viruses"
+  },
+  {
+    "name": "Informatics-Basel",
+    "eissn": "2227-9709",
+    "abbr": "Informatics (MDPI)"
+  },
+  {
+    "name": "Informatics for Health & Social Care",
+    "issn": "1753-8157",
+    "eissn": "1753-8165",
+    "abbr": "Inform Health Soc Care"
+  },
+  {
+    "name": "Information",
+    "eissn": "2078-2489",
+    "abbr": "Information (Basel)"
+  },
+  {
+    "name": "INFORMATION AND COMPUTATION",
+    "issn": "0890-5401",
+    "eissn": "1090-2651",
+    "abbr": "Inf Comput"
+  },
+  {
+    "name": "Information and Computer Security",
+    "issn": "2056-4961",
+    "eissn": "2056-4961",
+    "abbr": "Inf Comput Secur"
+  },
+  {
+    "name": "Information and Inference-A Journal of the IMA",
+    "issn": "2049-8764",
+    "eissn": "2049-8772",
+    "abbr": "Inf inference"
+  },
+  {
+    "name": "Information and Learning Sciences",
+    "issn": "2398-5348",
+    "eissn": "2398-5356",
+    "abbr": "Inf Learn Sci"
+  },
+  {
+    "name": "INFORMATION AND SOFTWARE TECHNOLOGY",
+    "issn": "0950-5849",
+    "eissn": "1873-6025",
+    "abbr": "Inf Softw Technol"
+  },
+  {
+    "name": "Information Communication & Society",
+    "issn": "1369-118X",
+    "eissn": "1468-4462",
+    "abbr": "Inf Commun Soc"
+  },
+  {
+    "name": "Information Discovery and Delivery",
+    "issn": "2398-6247",
+    "eissn": "2398-6255",
+    "abbr": "Inf Discov Deliv"
+  },
+  {
+    "name": "Informationen aus Orthodontie und Kieferorthopaedie",
+    "issn": "0020-0336",
+    "eissn": "1439-4200",
+    "abbr": "Inf Orthod Kieferorthop"
+  },
+  {
+    "name": "Information Fusion",
+    "issn": "1566-2535",
+    "eissn": "1872-6305",
+    "abbr": "Inf Fusion"
+  },
+  {
+    "name": "Information Geographique",
+    "issn": "0020-0093",
+    "eissn": "1777-5876",
+    "abbr": "Inf Geogr"
+  },
+  {
+    "name": "Information Geometry",
+    "issn": "2511-2481",
+    "eissn": "2511-249X",
+    "abbr": "Inf Geom"
+  },
+  {
+    "name": "Information Processing and Management",
+    "issn": "0306-4573",
+    "eissn": "1873-5371",
+    "abbr": "Inf Process Manag"
+  },
+  {
+    "name": "INFORMATION PROCESSING LETTERS",
+    "issn": "0020-0190",
+    "eissn": "1872-6119",
+    "abbr": "Inf Process Lett"
+  },
+  {
+    "name": "INFORMATION RESEARCH-AN INTERNATIONAL ELECTRONIC JOURNAL",
+    "issn": "1368-1613",
+    "eissn": "1368-1613",
+    "abbr": "Inf Res"
+  },
+  {
+    "name": "Information Retrieval Journal",
+    "issn": "1386-4564",
+    "eissn": "1573-7659",
+    "abbr": "Inf Retr Boston"
+  },
+  {
+    "name": "INFORMATION SCIENCES",
+    "issn": "0020-0255",
+    "eissn": "1872-6291",
+    "abbr": "Inf Sci (N Y)"
+  },
+  {
+    "name": "INFORMATION SYSTEMS",
+    "issn": "0306-4379",
+    "eissn": "1873-6076",
+    "abbr": "Inf Syst"
+  },
+  {
+    "name": "Information Systems and E-Business Management",
+    "issn": "1617-9846",
+    "eissn": "1617-9854",
+    "abbr": "Inf Syst EBus Manag"
+  },
+  {
+    "name": "Information Systems Frontiers",
+    "issn": "1387-3326",
+    "eissn": "1572-9419",
+    "abbr": "Inf Syst Front"
+  },
+  {
+    "name": "Information Technology & Management",
+    "issn": "1385-951X",
+    "eissn": "1573-7667",
+    "abbr": "Inf Technol Manag"
+  },
+  {
+    "name": "Information Technology for Development",
+    "issn": "0268-1102",
+    "eissn": "1554-0170",
+    "abbr": "Inf Technol Dev"
+  },
+  {
+    "name": "Information Visualization",
+    "issn": "1473-8716",
+    "eissn": "1473-8724",
+    "abbr": "Inf Vis"
+  },
+  {
+    "name": "INFORMS Journal on Applied Analytics",
+    "issn": "2644-0865",
+    "eissn": "2644-0873",
+    "abbr": "INFORMS J Appl Anal"
+  },
+  {
+    "name": "INFORMS Journal on Computing",
+    "issn": "1091-9856",
+    "eissn": "1526-5528",
+    "abbr": "INFORMS J Comput"
+  },
+  {
+    "name": "INFRARED PHYSICS & TECHNOLOGY",
+    "issn": "1350-4495",
+    "eissn": "1879-0275",
+    "abbr": "Infrared Phys Technol"
+  },
+  {
+    "name": "Infrastructures",
+    "eissn": "2412-3811",
+    "abbr": "Infrastructures (Basel)"
+  },
+  {
+    "name": "INHALATION TOXICOLOGY",
+    "issn": "0895-8378",
+    "eissn": "1091-7691",
+    "abbr": "Inhal Toxicol"
+  },
+  {
+    "name": "INJURY-INTERNATIONAL JOURNAL OF THE CARE OF THE INJURED",
+    "issn": "0020-1383",
+    "eissn": "1879-0267",
+    "abbr": "Injury"
+  },
+  {
+    "name": "INJURY PREVENTION",
+    "issn": "1353-8047",
+    "eissn": "1475-5785",
+    "abbr": "Inj Prev"
+  },
+  {
+    "name": "Inland Water Biology",
+    "issn": "1995-0829",
+    "eissn": "1995-0837",
+    "abbr": "Inland Water Biol"
+  },
+  {
+    "name": "Innate Immunity",
+    "issn": "1753-4259",
+    "eissn": "1753-4267",
+    "abbr": "Innate Immun"
+  },
+  {
+    "name": "Innere Medizin",
+    "issn": "2731-7080",
+    "eissn": "2731-7099",
+    "abbr": "Inn Med (Heidelb)"
+  },
+  {
+    "name": "Innovation",
+    "issn": "2666-6758",
+    "eissn": "2666-6758",
+    "abbr": "Innovation (Camb)"
+  },
+  {
+    "name": "Innovation and Emerging Technologies",
+    "issn": "2737-5994",
+    "eissn": "2810-9007",
+    "abbr": "Innov Emerg Technol"
+  },
+  {
+    "name": "Innovation in Aging",
+    "eissn": "2399-5300",
+    "abbr": "Innov Aging"
+  },
+  {
+    "name": "Innovation-Organization & Management",
+    "issn": "1447-9338",
+    "eissn": "2204-0226",
+    "abbr": "Innovation (North Syd)"
+  },
+  {
+    "name": "Innovations in Systems and Software Engineering",
+    "issn": "1614-5046",
+    "eissn": "1614-5054",
+    "abbr": "Innov Syst Softw Eng"
+  },
+  {
+    "name": "Innovations-Technology and Techniques in Cardiothoracic and Vascular Surgery",
+    "issn": "1556-9845",
+    "eissn": "1559-0879",
+    "abbr": "Innovations (Phila)"
+  },
+  {
+    "name": "Innovation-The European Journal of Social Science Research",
+    "issn": "1351-1610",
+    "eissn": "1469-8412",
+    "abbr": "Innovation (Abingdon)"
+  },
+  {
+    "name": "Innovative Food Science & Emerging Technologies",
+    "issn": "1466-8564",
+    "eissn": "1878-5522",
+    "abbr": "Innov Food Sci Emerg Technol"
+  },
+  {
+    "name": "Innovative Higher Education",
+    "issn": "0742-5627",
+    "eissn": "1573-1758",
+    "abbr": "Innov High Educ"
+  },
+  {
+    "name": "Innovative Surgical Sciences",
+    "issn": "2364-7485",
+    "eissn": "2364-7485",
+    "abbr": "Innov Surg Sci"
+  },
+  {
+    "name": "INORGANICA CHIMICA ACTA",
+    "issn": "0020-1693",
+    "eissn": "1873-3255",
+    "abbr": "Inorganica Chim Acta"
+  },
+  {
+    "name": "INORGANIC CHEMISTRY",
+    "issn": "0020-1669",
+    "eissn": "1520-510X",
+    "abbr": "Inorg Chem"
+  },
+  {
+    "name": "INORGANIC CHEMISTRY COMMUNICATIONS",
+    "issn": "1387-7003",
+    "eissn": "1879-0259",
+    "abbr": "Inorg Chem Commun"
+  },
+  {
+    "name": "Inorganic Chemistry Frontiers",
+    "issn": "2052-1553",
+    "eissn": "2052-1553",
+    "abbr": "Inorg Chem Front"
+  },
+  {
+    "name": "Inorganics",
+    "eissn": "2304-6740",
+    "abbr": "Inorganics (Basel)"
+  },
+  {
+    "name": "IN PRACTICE",
+    "issn": "0263-841X",
+    "eissn": "2042-7689",
+    "abbr": "In Pract"
+  },
+  {
+    "name": "INQUIRY-AN INTERDISCIPLINARY JOURNAL OF PHILOSOPHY",
+    "issn": "0020-174X",
+    "eissn": "1502-3923",
+    "abbr": "Inquiry (Oslo)"
+  },
+  {
+    "name": "INQUIRY-THE JOURNAL OF HEALTH CARE ORGANIZATION PROVISION AND FINANCING",
+    "issn": "0046-9580",
+    "eissn": "1945-7243",
+    "abbr": "Inquiry"
+  },
+  {
+    "name": "INSECT BIOCHEMISTRY AND MOLECULAR BIOLOGY",
+    "issn": "0965-1748",
+    "eissn": "1879-0240",
+    "abbr": "Insect Biochem Mol Biol"
+  },
+  {
+    "name": "Insect Conservation and Diversity",
+    "issn": "1752-458X",
+    "eissn": "1752-4598",
+    "abbr": "Insect Conserv Divers"
+  },
+  {
+    "name": "INSECTES SOCIAUX",
+    "issn": "0020-1812",
+    "eissn": "1420-9098",
+    "abbr": "Insectes Soc"
+  },
+  {
+    "name": "INSECT MOLECULAR BIOLOGY",
+    "issn": "0962-1075",
+    "eissn": "1365-2583",
+    "abbr": "Insect Mol Biol"
+  },
+  {
+    "name": "Insect Science",
+    "issn": "1672-9609",
+    "eissn": "1744-7917",
+    "abbr": "Insect Sci"
+  },
+  {
+    "name": "Insect Systematics and Diversity",
+    "eissn": "2399-3421",
+    "abbr": "Insect Syst Divers"
+  },
+  {
+    "name": "INSECT SYSTEMATICS & EVOLUTION",
+    "issn": "1399-560X",
+    "eissn": "1876-312X",
+    "abbr": "Insect Syst Evol"
+  },
+  {
+    "name": "Insights into Imaging",
+    "issn": "1869-4101",
+    "eissn": "1869-4101",
+    "abbr": "Insights Imaging"
+  },
+  {
+    "name": "INSTRUCTIONAL SCIENCE",
+    "issn": "0020-4277",
+    "eissn": "1573-1952",
+    "abbr": "Instr Sci"
+  },
+  {
+    "name": "INSTRUMENTATION SCIENCE & TECHNOLOGY",
+    "issn": "1073-9149",
+    "eissn": "1525-6030",
+    "abbr": "Instrum Sci Technol"
+  },
+  {
+    "name": "Insurance: Mathematics and Economics",
+    "issn": "0167-6687",
+    "eissn": "1873-5959",
+    "abbr": "Insur Math Econ"
+  },
+  {
+    "name": "INTEGRAL EQUATIONS AND OPERATOR THEORY",
+    "issn": "0378-620X",
+    "eissn": "1420-8989",
+    "abbr": "Integr Equ Oper Theory"
+  },
+  {
+    "name": "INTEGRAL TRANSFORMS AND SPECIAL FUNCTIONS",
+    "issn": "1065-2469",
+    "eissn": "1476-8291",
+    "abbr": "Integral Transform Spec Funct"
+  },
+  {
+    "name": "Integrated Blood Pressure Control",
+    "issn": "1178-7104",
+    "eissn": "1178-7104",
+    "abbr": "Integr Blood Press Control"
+  },
+  {
+    "name": "INTEGRATED COMPUTER-AIDED ENGINEERING",
+    "issn": "1069-2509",
+    "eissn": "1875-8835",
+    "abbr": "Integr Comput Aided Eng"
+  },
+  {
+    "name": "Integrated Environmental Assessment and Management",
+    "issn": "1551-3777",
+    "eissn": "1551-3793",
+    "abbr": "Integr Environ Assess Manag"
+  },
+  {
+    "name": "Integrated Pharmacy Research and Practice",
+    "issn": "2230-5254",
+    "eissn": "2230-5254",
+    "abbr": "Integr Pharm Res Pract"
+  },
+  {
+    "name": "Integrating Materials and Manufacturing Innovation",
+    "issn": "2193-9764",
+    "eissn": "2193-9772",
+    "abbr": "Integr Mater Manuf Innov"
+  },
+  {
+    "name": "INTEGRATION-THE VLSI JOURNAL",
+    "issn": "0167-9260",
+    "eissn": "1872-7522",
+    "abbr": "Integration (Amst)"
+  },
+  {
+    "name": "INTEGRATIVE AND COMPARATIVE BIOLOGY",
+    "issn": "1540-7063",
+    "eissn": "1557-7023",
+    "abbr": "Integr Comp Biol"
+  },
+  {
+    "name": "Integrative Biology",
+    "issn": "1757-9694",
+    "eissn": "1757-9708",
+    "abbr": "Integr Biol (Camb)"
+  },
+  {
+    "name": "INTEGRATIVE CANCER THERAPIES",
+    "issn": "1534-7354",
+    "eissn": "1552-695X",
+    "abbr": "Integr Cancer Ther"
+  },
+  {
+    "name": "Integrative Medicine Reports",
+    "eissn": "2768-3222",
+    "abbr": "Integr Med Rep"
+  },
+  {
+    "name": "Integrative Medicine Research",
+    "issn": "2213-4220",
+    "eissn": "2213-4239",
+    "abbr": "Integr Med Res"
+  },
+  {
+    "name": "Integrative Organismal Biology",
+    "eissn": "2517-4843",
+    "abbr": "Integr Org Biol"
+  },
+  {
+    "name": "Integrative Psychological and Behavioral Science",
+    "issn": "1932-4502",
+    "eissn": "1936-3567",
+    "abbr": "Integr Psychol Behav Sci"
+  },
+  {
+    "name": "Integrative Zoology",
+    "issn": "1749-4877",
+    "eissn": "1749-4869",
+    "abbr": "Integr Zool"
+  },
+  {
+    "name": "Intellectual and Developmental Disabilities",
+    "issn": "1934-9491",
+    "eissn": "1934-9556",
+    "abbr": "Intellect Dev Disabil"
+  },
+  {
+    "name": "Intellectual History Review",
+    "issn": "1749-6977",
+    "eissn": "1749-6985",
+    "abbr": "Intellect Hist Rev"
+  },
+  {
+    "name": "INTELLIGENCE",
+    "issn": "0160-2896",
+    "eissn": "1873-7935",
+    "abbr": "Hum Stud"
+  },
+  {
+    "name": "Intelligent Computing",
+    "eissn": "2771-5892",
+    "abbr": "Intell Comput"
+  },
+  {
+    "name": "Intelligent Medicine",
+    "issn": "2667-1026",
+    "eissn": "2667-1026",
+    "abbr": "Intell Med"
+  },
+  {
+    "name": "Intelligent Service Robotics",
+    "issn": "1861-2776",
+    "eissn": "1861-2784",
+    "abbr": "Intell Serv Robot"
+  },
+  {
+    "name": "Intelligent Systems in Accounting Finance & Management",
+    "issn": "1550-1949",
+    "eissn": "2160-0074",
+    "abbr": "Intell Syst Account Financ Manag"
+  },
+  {
+    "name": "Intelligent Systems with Applications",
+    "eissn": "2667-3053",
+    "abbr": "Intell Syst Appl"
+  },
+  {
+    "name": "Intensive and Critical Care Nursing",
+    "issn": "0964-3397",
+    "eissn": "1532-4036",
+    "abbr": "Intensive Crit Care Nurs"
+  },
+  {
+    "name": "INTENSIVE CARE MEDICINE",
+    "issn": "0342-4642",
+    "eissn": "1432-1238",
+    "abbr": "Intensive Care Med"
+  },
+  {
+    "name": "Intensive Care Medicine Experimental",
+    "issn": "2197-425X",
+    "eissn": "2197-425X",
+    "abbr": "Intensive Care Med Exp"
+  },
+  {
+    "name": "Interacting with Computers",
+    "issn": "0953-5438",
+    "eissn": "1873-7951",
+    "abbr": "Interact Comput"
+  },
+  {
+    "name": "Interaction Studies",
+    "issn": "1572-0373",
+    "eissn": "1572-0381",
+    "abbr": "Interact Stud"
+  },
+  {
+    "name": "Interactive Cardiovascular and Thoracic Surgery",
+    "issn": "1569-9293",
+    "eissn": "1569-9285",
+    "abbr": "Interact Cardiovasc Thorac Surg"
+  },
+  {
+    "name": "Interactive Journal of Medical Research",
+    "issn": "1929-073X",
+    "eissn": "1929-073X",
+    "abbr": "Interact J Med Res"
+  },
+  {
+    "name": "Inter-Asia Cultural Studies",
+    "issn": "1464-9373",
+    "eissn": "1469-8447",
+    "abbr": "InterAsia Cult Stud"
+  },
+  {
+    "name": "Intercultural Education",
+    "issn": "1467-5986",
+    "eissn": "1469-8439",
+    "abbr": "Intercult Educ (Lond)"
+  },
+  {
+    "name": "Interdisciplinaria Archaeologica-Natural Sciences in Archaeology",
+    "issn": "1804-848X",
+    "eissn": "2336-1220",
+    "abbr": "Interdiscip Archaeol"
+  },
+  {
+    "name": "Interdisciplinary Cardiovascular and Thoracic Surgery",
+    "eissn": "2753-670X",
+    "abbr": "Interdiscip Cardiovasc Thorac Surg"
+  },
+  {
+    "name": "Interdisciplinary Journal of Problem-Based Learning",
+    "issn": "1541-5015",
+    "eissn": "1541-5015",
+    "abbr": "Interdiscip J Probl Based Learn"
+  },
+  {
+    "name": "Interdisciplinary Medicine",
+    "issn": "2832-6237",
+    "eissn": "2832-6245",
+    "abbr": "Interdiscip Med"
+  },
+  {
+    "name": "Interdisciplinary Neurosurgery-Advanced Techniques and Case Management",
+    "eissn": "2214-7519",
+    "abbr": "Interdiscip Neurosurg"
+  },
+  {
+    "name": "INTERDISCIPLINARY SCIENCE REVIEWS",
+    "issn": "0308-0188",
+    "eissn": "1743-2790",
+    "abbr": "Interdiscip Sci Rev"
+  },
+  {
+    "name": "Interdisciplinary Sciences-Computational Life Sciences",
+    "issn": "1913-2751",
+    "eissn": "1867-1462",
+    "abbr": "Interdiscip Sci"
+  },
+  {
+    "name": "Interest Groups & Advocacy",
+    "issn": "2047-7414",
+    "eissn": "2047-7422",
+    "abbr": "Interest Groups Advocacy"
+  },
+  {
+    "name": "Interfacial Phenomena and Heat Transfer",
+    "issn": "2169-2785",
+    "eissn": "2167-857X",
+    "abbr": "Interfacial Phenom Heat Transf"
+  },
+  {
+    "name": "INTERMETALLICS",
+    "issn": "0966-9795",
+    "eissn": "1879-0216",
+    "abbr": "Intermetallics (Barking)"
+  },
+  {
+    "name": "Internal and Emergency Medicine",
+    "issn": "1828-0447",
+    "eissn": "1970-9366",
+    "abbr": "Intern Emerg Med"
+  },
+  {
+    "name": "Internal Medicine",
+    "issn": "0918-2918",
+    "eissn": "1349-7235",
+    "abbr": "Intern Med"
+  },
+  {
+    "name": "INTERNAL MEDICINE JOURNAL",
+    "issn": "1444-0903",
+    "eissn": "1445-5994",
+    "abbr": "Intern Med J"
+  },
+  {
+    "name": "INTERNATIONAL AFFAIRS",
+    "issn": "0020-5850",
+    "eissn": "1468-2346",
+    "abbr": "Int Aff"
+  },
+  {
+    "name": "International Agrophysics",
+    "issn": "0236-8722",
+    "eissn": "2300-8725",
+    "abbr": "Int Agrophys"
+  },
+  {
+    "name": "International & Comparative Law Quarterly",
+    "issn": "0020-5893",
+    "eissn": "1471-6895",
+    "abbr": "Int Comp Law Q"
+  },
+  {
+    "name": "INTERNATIONAL ANESTHESIOLOGY CLINICS",
+    "issn": "0020-5907",
+    "eissn": "1537-1913",
+    "abbr": "Int Anesthesiol Clin"
+  },
+  {
+    "name": "INTERNATIONAL ANGIOLOGY",
+    "issn": "0392-9590",
+    "eissn": "1827-1839",
+    "abbr": "Int Angiol"
+  },
+  {
+    "name": "INTERNATIONAL ARCHIVES OF ALLERGY AND IMMUNOLOGY",
+    "issn": "1018-2438",
+    "eissn": "1423-0097",
+    "abbr": "Int Arch Allergy Immunol"
+  },
+  {
+    "name": "International Archives of Occupational and Environmental Health",
+    "issn": "0340-0131",
+    "eissn": "1432-1246",
+    "abbr": "Int Arch Occup Environ Health"
+  },
+  {
+    "name": "International Archives of Otorhinolaryngology",
+    "issn": "1809-9777",
+    "eissn": "1809-4864",
+    "abbr": "Int Arch Otorhinolaryngol"
+  },
+  {
+    "name": "INTERNATIONAL BIODETERIORATION & BIODEGRADATION",
+    "issn": "0964-8305",
+    "eissn": "1879-0208",
+    "abbr": "Int Biodeterior Biodegradation"
+  },
+  {
+    "name": "International Braz J Urol",
+    "issn": "1677-5538",
+    "eissn": "1677-6119",
+    "abbr": "Int Braz J Urol"
+  },
+  {
+    "name": "International Breastfeeding Journal",
+    "issn": "1746-4358",
+    "eissn": "1746-4358",
+    "abbr": "Int Breastfeed J"
+  },
+  {
+    "name": "International Business Review",
+    "issn": "0969-5931",
+    "eissn": "1873-6149",
+    "abbr": "Int Bus Rev"
+  },
+  {
+    "name": "International Cardiovascular Research Journal",
+    "issn": "2251-9130",
+    "eissn": "2251-9149",
+    "abbr": "Int Cardiovasc Res J"
+  },
+  {
+    "name": "INTERNATIONAL CLINICAL PSYCHOPHARMACOLOGY",
+    "issn": "0268-1315",
+    "eissn": "1473-5857",
+    "abbr": "Int Clin Psychopharmacol"
+  },
+  {
+    "name": "International Communication Gazette",
+    "issn": "1748-0485",
+    "eissn": "1748-0493",
+    "abbr": "Int Commun Gaz"
+  },
+  {
+    "name": "INTERNATIONAL COMMUNICATIONS IN HEAT AND MASS TRANSFER",
+    "issn": "0735-1933",
+    "eissn": "1879-0178",
+    "abbr": "Int Commun Heat Mass Transf"
+  },
+  {
+    "name": "International Criminal Justice Review",
+    "issn": "1057-5677",
+    "eissn": "1556-3855",
+    "abbr": "Int Crim Justice Rev"
+  },
+  {
+    "name": "INTERNATIONAL DAIRY JOURNAL",
+    "issn": "0958-6946",
+    "eissn": "1879-0143",
+    "abbr": "Int Dairy J"
+  },
+  {
+    "name": "International Data Privacy Law",
+    "issn": "2044-3994",
+    "eissn": "2044-4001",
+    "abbr": "Int Data Priv Law"
+  },
+  {
+    "name": "INTERNATIONAL DENTAL JOURNAL",
+    "issn": "0020-6539",
+    "eissn": "1875-595X",
+    "abbr": "Int Dent J"
+  },
+  {
+    "name": "International Economic Journal",
+    "issn": "1016-8737",
+    "eissn": "1743-517X",
+    "abbr": "Int Econ J"
+  },
+  {
+    "name": "International Economic Review",
+    "issn": "0020-6598",
+    "eissn": "1468-2354",
+    "abbr": "Int Econ Rev (Philadelphia)"
+  },
+  {
+    "name": "INTERNATIONAL ECONOMICS AND ECONOMIC POLICY",
+    "issn": "1612-4804",
+    "eissn": "1612-4812",
+    "abbr": "Int Econ Econ Policy"
+  },
+  {
+    "name": "International Emergency Nursing",
+    "issn": "1755-599X",
+    "eissn": "1878-013X",
+    "abbr": "Int Emerg Nurs"
+  },
+  {
+    "name": "INTERNATIONAL ENDODONTIC JOURNAL",
+    "issn": "0143-2885",
+    "eissn": "1365-2591",
+    "abbr": "Int Endod J"
+  },
+  {
+    "name": "International Environmental Agreements-Politics Law and Economics",
+    "issn": "1567-9764",
+    "eissn": "1573-1553",
+    "abbr": "Int Environ Agreem"
+  },
+  {
+    "name": "International Feminist Journal of Politics",
+    "issn": "1461-6742",
+    "eissn": "1468-4470",
+    "abbr": "Int Fem J Polit"
+  },
+  {
+    "name": "International Food Research Journal",
+    "issn": "1985-4668",
+    "eissn": "2231-7546",
+    "abbr": "Int Food Res J"
+  },
+  {
+    "name": "International Forum of Allergy & Rhinology",
+    "issn": "2042-6976",
+    "eissn": "2042-6984",
+    "abbr": "Int Forum Allergy Rhinol"
+  },
+  {
+    "name": "International Gambling Studies",
+    "issn": "1445-9795",
+    "eissn": "1479-4276",
+    "abbr": "Int Gambl Stud"
+  },
+  {
+    "name": "INTERNATIONAL GEOLOGY REVIEW",
+    "issn": "0020-6814",
+    "eissn": "1938-2839",
+    "abbr": "Int Geol Rev"
+  },
+  {
+    "name": "International Health",
+    "issn": "1876-3413",
+    "eissn": "1876-3405",
+    "abbr": "Int Health"
+  },
+  {
+    "name": "International Heart Journal",
+    "issn": "1349-2365",
+    "eissn": "1349-3299",
+    "abbr": "Int Heart J"
+  },
+  {
+    "name": "INTERNATIONAL HISTORY REVIEW",
+    "issn": "0707-5332",
+    "eissn": "1949-6540",
+    "abbr": "Int Hist Rev"
+  },
+  {
+    "name": "INTERNATIONAL IMMUNOLOGY",
+    "issn": "0953-8178",
+    "eissn": "1460-2377",
+    "abbr": "Int Immunol"
+  },
+  {
+    "name": "International Immunopharmacology",
+    "issn": "1567-5769",
+    "eissn": "1878-1705",
+    "abbr": "Int Immunopharmacol"
+  },
+  {
+    "name": "International Indigenous Policy Journal",
+    "issn": "1916-5781",
+    "eissn": "1916-5781",
+    "abbr": "Int Indig Policy J"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL",
+    "issn": "0020-7020",
+    "eissn": "2052-465X",
+    "abbr": "Int J"
+  },
+  {
+    "name": "International Journal for Academic Development",
+    "issn": "1360-144X",
+    "eissn": "1470-1324",
+    "abbr": "Int J Acad Dev"
+  },
+  {
+    "name": "International Journal for Educational and Vocational Guidance",
+    "issn": "1873-0388",
+    "eissn": "1573-1782",
+    "abbr": "Int J Educ Vocat Guid"
+  },
+  {
+    "name": "International Journal for Educational Integrity",
+    "issn": "1833-2595",
+    "eissn": "1833-2595",
+    "abbr": "Int J Educ Integr"
+  },
+  {
+    "name": "International Journal for Equity in Health",
+    "eissn": "1475-9276",
+    "abbr": "Int J Equity Health"
+  },
+  {
+    "name": "International Journal for Multiscale Computational Engineering",
+    "issn": "1543-1649",
+    "eissn": "1940-4352",
+    "abbr": "Int J Multiscale Comput Eng"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL FOR NUMERICAL AND ANALYTICAL METHODS IN GEOMECHANICS",
+    "issn": "0363-9061",
+    "eissn": "1096-9853",
+    "abbr": "Int J Numer Anal Methods Geomech"
+  },
+  {
+    "name": "International Journal for Numerical Methods in Biomedical Engineering",
+    "issn": "2040-7939",
+    "eissn": "2040-7947",
+    "abbr": "Int J Numer Method Biomed Eng"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL FOR NUMERICAL METHODS IN ENGINEERING",
+    "issn": "0029-5981",
+    "eissn": "1097-0207",
+    "abbr": "Int J Numer Methods Eng"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL FOR NUMERICAL METHODS IN FLUIDS",
+    "issn": "0271-2091",
+    "eissn": "1097-0363",
+    "abbr": "Int J Numer Methods Fluids"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL FOR PARASITOLOGY",
+    "issn": "0020-7519",
+    "eissn": "1879-0135",
+    "abbr": "Int J Parasitol"
+  },
+  {
+    "name": "International Journal for Parasitology-Drugs and Drug Resistance",
+    "issn": "2211-3207",
+    "eissn": "2211-3207",
+    "abbr": "Int J Parasitol Drugs Drug Resist"
+  },
+  {
+    "name": "International Journal for Parasitology-Parasites and Wildlife",
+    "issn": "2213-2244",
+    "eissn": "2213-2244",
+    "abbr": "Int J Parasitol Parasites Wildl"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL FOR PHILOSOPHY OF RELIGION",
+    "issn": "0020-7047",
+    "eissn": "1572-8684",
+    "abbr": "Int J Philos Relig"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL FOR QUALITY IN HEALTH CARE",
+    "issn": "1353-4505",
+    "eissn": "1464-3677",
+    "abbr": "Int J Qual Health Care"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL FOR THE ADVANCEMENT OF COUNSELLING",
+    "issn": "0165-0653",
+    "eissn": "1573-3246",
+    "abbr": "Int J Adv Couns"
+  },
+  {
+    "name": "International Journal for the Psychology of Religion",
+    "issn": "1050-8619",
+    "eissn": "1532-7582",
+    "abbr": "Int J Psychol Relig"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL FOR THE SEMIOTICS OF LAW-REVUE INTERNATIONALE DE SEMIOTIQUE JURIDIQUE",
+    "issn": "0952-8059",
+    "eissn": "1572-8722",
+    "abbr": "Int J Semiot Law"
+  },
+  {
+    "name": "International Journal for Uncertainty Quantification",
+    "issn": "2152-5080",
+    "eissn": "2152-5099",
+    "abbr": "Int J Uncertain Quantif"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL FOR VITAMIN AND NUTRITION RESEARCH",
+    "issn": "0300-9831",
+    "eissn": "1664-2821",
+    "abbr": "Int Z Vitam Ernahrungsforsch Beih"
+  },
+  {
+    "name": "International Journal of Academic Medicine",
+    "eissn": "2455-5568",
+    "abbr": "Int J Acad Med"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ACAROLOGY",
+    "issn": "0164-7954",
+    "eissn": "1945-3892",
+    "abbr": "Plant Ecol Divers"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ADAPTIVE CONTROL AND SIGNAL PROCESSING",
+    "issn": "0890-6327",
+    "eissn": "1099-1115",
+    "abbr": "Int J Adapt Control Signal Process"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ADHESION AND ADHESIVES",
+    "issn": "0143-7496",
+    "eissn": "1879-0127",
+    "abbr": "Int J Adhes Adhes"
+  },
+  {
+    "name": "International Journal of Adolescence and Youth",
+    "issn": "0267-3843",
+    "eissn": "2164-4527",
+    "abbr": "Int J Adolesc Youth"
+  },
+  {
+    "name": "International Journal of Advanced Computer Science and Applications",
+    "issn": "2158-107X",
+    "eissn": "2156-5570",
+    "abbr": "Int J Adv Comput Sci Appl"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY",
+    "issn": "0268-3768",
+    "eissn": "1433-3015",
+    "abbr": "Int J Adv Manuf Technol"
+  },
+  {
+    "name": "International Journal of Advanced Robotic Systems",
+    "issn": "1729-8814",
+    "eissn": "1729-8814",
+    "abbr": "Int J Adv Robot Syst"
+  },
+  {
+    "name": "International Journal of Advances in Engineering Sciences and Applied Mathematics",
+    "issn": "0975-0770",
+    "eissn": "0975-5616",
+    "abbr": "Int J Adv Eng Sci Appl Math"
+  },
+  {
+    "name": "International Journal of Advertising",
+    "issn": "0265-0487",
+    "eissn": "1759-3948",
+    "abbr": "Int J Advert"
+  },
+  {
+    "name": "International Journal of Aeroacoustics",
+    "issn": "1475-472X",
+    "eissn": "2048-4003",
+    "abbr": "Int J Aeroacoust"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF AFRICAN HISTORICAL STUDIES",
+    "issn": "0361-7882",
+    "eissn": "2326-3016",
+    "abbr": "Int J Afr Hist Stud"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF AGING & HUMAN DEVELOPMENT",
+    "issn": "0091-4150",
+    "eissn": "1541-3535",
+    "abbr": "Int J Aging Hum Dev"
+  },
+  {
+    "name": "International Journal of Agricultural Sustainability",
+    "issn": "1473-5903",
+    "eissn": "1747-762X",
+    "abbr": "Int J Agric Sustain"
+  },
+  {
+    "name": "International Journal of Agriculture and Natural Resources",
+    "issn": "2452-5731",
+    "eissn": "2452-5731",
+    "abbr": "Int J Agric Nat Resour"
+  },
+  {
+    "name": "International Journal of Alcohol and Drug Research",
+    "issn": "1925-7066",
+    "eissn": "1925-7066",
+    "abbr": "Int J Alcohol Drug Res"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ALGEBRA AND COMPUTATION",
+    "issn": "0218-1967",
+    "eissn": "1793-6500",
+    "abbr": "Int J Algebra Comput"
+  },
+  {
+    "name": "International Journal of Analytical Chemistry",
+    "issn": "1687-8760",
+    "eissn": "1687-8779",
+    "abbr": "Int J Anal Chem"
+  },
+  {
+    "name": "International Journal of Angiology",
+    "issn": "1061-1711",
+    "eissn": "1615-5939",
+    "abbr": "Int J Angiol"
+  },
+  {
+    "name": "International Journal of Antennas and Propagation",
+    "issn": "1687-5869",
+    "eissn": "1687-5877",
+    "abbr": "Int J Antennas Propag"
+  },
+  {
+    "name": "International Journal of Antimicrobial Agents",
+    "issn": "0924-8579",
+    "eissn": "1872-7913",
+    "abbr": "Int J Antimicrob Agents"
+  },
+  {
+    "name": "International Journal of Applied and Basic Medical Research",
+    "issn": "2229-516X",
+    "eissn": "2248-9606",
+    "abbr": "Int J Appl Basic Med Res"
+  },
+  {
+    "name": "International Journal of Applied Ceramic Technology",
+    "issn": "1546-542X",
+    "eissn": "1744-7402",
+    "abbr": "Int J Appl Ceram Technol"
+  },
+  {
+    "name": "International Journal of Applied Earth Observation and Geoinformation",
+    "issn": "1569-8432",
+    "eissn": "1872-826X",
+    "abbr": "Int J Appl Earth Obs Geoinf"
+  },
+  {
+    "name": "International Journal of Applied Glass Science",
+    "issn": "2041-1286",
+    "eissn": "2041-1294",
+    "abbr": "Int J Appl Glass Sci"
+  },
+  {
+    "name": "International Journal of Applied Mechanics",
+    "issn": "1758-8251",
+    "eissn": "1758-826X",
+    "abbr": "Int J Appl Mech"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF APPROXIMATE REASONING",
+    "issn": "0888-613X",
+    "eissn": "1873-4731",
+    "abbr": "Int J Approx Reason"
+  },
+  {
+    "name": "International Journal of Artificial Intelligence in Education",
+    "issn": "1560-4292",
+    "eissn": "1560-4306",
+    "abbr": "Int J Artif Intell Educ"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ARTIFICIAL ORGANS",
+    "issn": "0391-3988",
+    "eissn": "1724-6040",
+    "abbr": "Int J Artif Organs"
+  },
+  {
+    "name": "International Journal of Astrobiology",
+    "issn": "1473-5504",
+    "eissn": "1475-3006",
+    "abbr": "Int J Astrobiol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF AUDIOLOGY",
+    "issn": "1499-2027",
+    "eissn": "1708-8186",
+    "abbr": "Int J Audiol"
+  },
+  {
+    "name": "International Journal of Autonomous and Adaptive Communications Systems",
+    "issn": "1754-8632",
+    "eissn": "1754-8640",
+    "abbr": "Int J Auton Adapt Commun Syst"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF BEHAVIORAL DEVELOPMENT",
+    "issn": "0165-0254",
+    "eissn": "1464-0651",
+    "abbr": "Int J Behav Dev"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF BEHAVIORAL MEDICINE",
+    "issn": "1070-5503",
+    "eissn": "1532-7558",
+    "abbr": "Int J Behav Med"
+  },
+  {
+    "name": "International Journal of Behavioral Nutrition and Physical Activity",
+    "eissn": "1479-5868",
+    "abbr": "Int J Behav Nutr Phys Act"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF BIFURCATION AND CHAOS",
+    "issn": "0218-1274",
+    "eissn": "1793-6551",
+    "abbr": "Int J Bifurcat Chaos"
+  },
+  {
+    "name": "International Journal of Bilingual Education and Bilingualism",
+    "issn": "1367-0050",
+    "eissn": "1747-7522",
+    "abbr": "Int J Biling Educ Biling"
+  },
+  {
+    "name": "International Journal of Bilingualism",
+    "issn": "1367-0069",
+    "eissn": "1756-6878",
+    "abbr": "Int J Billing"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF BIOCHEMISTRY & CELL BIOLOGY",
+    "issn": "1357-2725",
+    "eissn": "1878-5875",
+    "abbr": "Int J Biochem Cell Biol"
+  },
+  {
+    "name": "International Journal of Biological Macromolecules",
+    "issn": "0141-8130",
+    "eissn": "1879-0003",
+    "abbr": "Int J Biol Macromol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF BIOLOGICAL MARKERS",
+    "issn": "0393-6155",
+    "eissn": "1724-6008",
+    "abbr": "Int J Biol Markers"
+  },
+  {
+    "name": "International Journal of Biological Sciences",
+    "issn": "1449-2288",
+    "eissn": "1449-2288",
+    "abbr": "Int J Biol Sci"
+  },
+  {
+    "name": "International Journal of Biomaterials",
+    "issn": "1687-8787",
+    "eissn": "1687-8795",
+    "abbr": "Int J Biomater"
+  },
+  {
+    "name": "International Journal of Biomedical Engineering and Technology",
+    "issn": "1752-6418",
+    "eissn": "1752-6426",
+    "abbr": "Int J Biomed Eng Technol"
+  },
+  {
+    "name": "International Journal of Biomedical Imaging",
+    "issn": "1687-4188",
+    "eissn": "1687-4196",
+    "abbr": "Int J Biomed Imaging"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF BIOMETEOROLOGY",
+    "issn": "0020-7128",
+    "eissn": "1432-1254",
+    "abbr": "Int J Biometeorol"
+  },
+  {
+    "name": "International Journal of Biometrics",
+    "issn": "1755-8301",
+    "eissn": "1755-831X",
+    "abbr": "Int J Biom"
+  },
+  {
+    "name": "International Journal of Bioprinting",
+    "issn": "2424-7723",
+    "eissn": "2424-8002",
+    "abbr": "Int J Bioprint"
+  },
+  {
+    "name": "International Journal of Biostatistics",
+    "issn": "2194-573X",
+    "eissn": "1557-4679",
+    "abbr": "Int J Biostat"
+  },
+  {
+    "name": "International Journal of Bipolar Disorders",
+    "issn": "2194-7511",
+    "eissn": "2194-7511",
+    "abbr": "Int J Bipolar Disord"
+  },
+  {
+    "name": "International Journal of Breast Cancer",
+    "issn": "2090-3170",
+    "eissn": "2090-3189",
+    "abbr": "Int J Breast Cancer"
+  },
+  {
+    "name": "International Journal of Burns and Trauma",
+    "issn": "2160-2026",
+    "eissn": "2160-2026",
+    "abbr": "Int J Burns Trauma"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF CANCER",
+    "issn": "0020-7136",
+    "eissn": "1097-0215",
+    "abbr": "Int J Cancer Suppl"
+  },
+  {
+    "name": "International Journal of Cancer Management",
+    "issn": "2538-4422",
+    "eissn": "2538-497X",
+    "abbr": "Int J Cancer Manag"
+  },
+  {
+    "name": "International Journal of Cardiology",
+    "issn": "0167-5273",
+    "eissn": "1874-1754",
+    "abbr": "Int J Cardiol"
+  },
+  {
+    "name": "International Journal of Cardiology Cardiovascular Risk and Prevention",
+    "issn": "2772-4875",
+    "eissn": "2772-4875",
+    "abbr": "Int J Cardiol Cardiovasc Risk Prev"
+  },
+  {
+    "name": "International Journal of Cardiology Congenital Heart Disease",
+    "issn": "2666-6685",
+    "eissn": "2666-6685",
+    "abbr": "Int J Cardiol Congenit Heart Dis"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF CARDIOVASCULAR IMAGING",
+    "issn": "1569-5794",
+    "eissn": "1875-8312",
+    "abbr": "Int J Cardiovasc Imaging"
+  },
+  {
+    "name": "International Journal of Care and Caring",
+    "issn": "2397-8821",
+    "eissn": "2397-883X",
+    "abbr": "Int J Care Caring"
+  },
+  {
+    "name": "International Journal of Care Coordination",
+    "issn": "2053-4345",
+    "eissn": "2053-4353",
+    "abbr": "Int J Care Coord"
+  },
+  {
+    "name": "International Journal of Cartography",
+    "issn": "2372-9333",
+    "eissn": "2372-9341",
+    "abbr": "Int J Cartogr"
+  },
+  {
+    "name": "International Journal of Central Banking",
+    "issn": "1815-4654",
+    "eissn": "1815-7556",
+    "abbr": "Int J Cent Bank"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF CHEMICAL KINETICS",
+    "issn": "0538-8066",
+    "eissn": "1097-4601",
+    "abbr": "Int J Chem Kinet"
+  },
+  {
+    "name": "International Journal of Childbirth",
+    "issn": "2156-5287",
+    "eissn": "2156-5295",
+    "abbr": "Int J Childbirth"
+  },
+  {
+    "name": "International Journal of Child Care and Education Policy",
+    "issn": "1976-5681",
+    "eissn": "2288-6729",
+    "abbr": "Int J Child Care Educ Policy"
+  },
+  {
+    "name": "International Journal of Child Health and Nutrition",
+    "issn": "1929-4247",
+    "eissn": "1929-4247",
+    "abbr": "Int J Child Health Nutr"
+  },
+  {
+    "name": "International Journal of Child Youth & Family Studies",
+    "issn": "1920-7298",
+    "eissn": "1920-7298",
+    "abbr": "Int J Child Youth Family Stud"
+  },
+  {
+    "name": "International Journal of Chronic Obstructive Pulmonary Disease",
+    "issn": "1178-2005",
+    "eissn": "1178-2005",
+    "abbr": "Int J Chron Obstruct Pulmon Dis"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS",
+    "issn": "0098-9886",
+    "eissn": "1097-007X",
+    "abbr": "Int J Numer Methods Eng"
+  },
+  {
+    "name": "International Journal of Circumpolar Health",
+    "issn": "1239-9736",
+    "eissn": "2242-3982",
+    "abbr": "Int J Circumpolar Health"
+  },
+  {
+    "name": "International Journal of Climate Change Strategies and Management",
+    "issn": "1756-8692",
+    "eissn": "1756-8706",
+    "abbr": "Int J Clim Chang Strateg Manag"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF CLIMATOLOGY",
+    "issn": "0899-8418",
+    "eissn": "1097-0088",
+    "abbr": "Int J Climatol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF CLINICAL AND EXPERIMENTAL HYPNOSIS",
+    "issn": "0020-7144",
+    "eissn": "1744-5183",
+    "abbr": "Int J Clin Exp Hypn"
+  },
+  {
+    "name": "International Journal of Clinical and Experimental Medicine",
+    "issn": "1940-5901",
+    "eissn": "1940-5901",
+    "abbr": "Int J Clin Exp Med"
+  },
+  {
+    "name": "International Journal of Clinical and Experimental Pathology",
+    "issn": "1936-2625",
+    "eissn": "1936-2625",
+    "abbr": "Int J Clin Exp Pathol"
+  },
+  {
+    "name": "International Journal of Clinical and Health Psychology",
+    "issn": "1697-2600",
+    "eissn": "2174-0852",
+    "abbr": "Int J Clin Health Psychol"
+  },
+  {
+    "name": "International Journal of Clinical Oncology",
+    "issn": "1341-9625",
+    "eissn": "1437-7772",
+    "abbr": "Int J Clin Oncol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF CLINICAL PHARMACOLOGY AND THERAPEUTICS",
+    "issn": "0946-1965",
+    "eissn": "0946-1965",
+    "abbr": "Int J Clin Pharmacol Ther"
+  },
+  {
+    "name": "International Journal of Clinical Pharmacy",
+    "issn": "2210-7703",
+    "eissn": "2210-7711",
+    "abbr": "Int J Clin Pharm"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF CLINICAL PRACTICE",
+    "issn": "1368-5031",
+    "eissn": "1742-1241",
+    "abbr": "Int J Clin Pract"
+  },
+  {
+    "name": "International Journal of Clothing Science and Technology",
+    "issn": "0955-6222",
+    "eissn": "1758-5953",
+    "abbr": "Int J Cloth Sci Technol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COAL GEOLOGY",
+    "issn": "0166-5162",
+    "eissn": "1872-7840",
+    "abbr": "Int J Coal Geol"
+  },
+  {
+    "name": "International Journal of Coal Science & Technology",
+    "issn": "2095-8293",
+    "eissn": "2198-7823",
+    "abbr": "Int J Coal Sci Technol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COGNITIVE BEHAVIORAL THERAPY",
+    "eissn": "3059-3042",
+    "abbr": "Int J Cogn Behav Ther"
+  },
+  {
+    "name": "International Journal of Cognitive Therapy",
+    "issn": "1937-1209",
+    "eissn": "1937-1217",
+    "abbr": "Int J Cogn Ther"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COLORECTAL DISEASE",
+    "issn": "0179-1958",
+    "eissn": "1432-1262",
+    "abbr": "Int J Colorectal Dis"
+  },
+  {
+    "name": "International Journal of Communication",
+    "issn": "1932-8036",
+    "eissn": "1932-8036",
+    "abbr": "Int J Commun"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS",
+    "issn": "1074-5351",
+    "eissn": "1099-1131",
+    "abbr": "Int J Commun Syst"
+  },
+  {
+    "name": "International Journal of Community Music",
+    "issn": "1752-6299",
+    "eissn": "1752-6302",
+    "abbr": "Int J Community Music"
+  },
+  {
+    "name": "International Journal of Comparative and Applied Criminal Justice",
+    "issn": "0192-4036",
+    "eissn": "2157-6475",
+    "abbr": "Int J Comp Appl Crim Justice"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COMPARATIVE SOCIOLOGY",
+    "issn": "0020-7152",
+    "eissn": "1745-2554",
+    "abbr": "Int J Comp Sociol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COMPUTATIONAL FLUID DYNAMICS",
+    "issn": "1061-8562",
+    "eissn": "1029-0257",
+    "abbr": "Int J Comut Fluid Dyn"
+  },
+  {
+    "name": "International Journal of Computational Intelligence and Applications",
+    "issn": "1469-0268",
+    "eissn": "1757-5885",
+    "abbr": "Int J Comput Intell Appl"
+  },
+  {
+    "name": "International Journal of Computational Intelligence Systems",
+    "issn": "1875-6891",
+    "eissn": "1875-6883",
+    "abbr": "Int J Comput Intell Syst"
+  },
+  {
+    "name": "International Journal of Computational Materials Science and Engineering",
+    "issn": "2047-6841",
+    "eissn": "2047-685X",
+    "abbr": "Int J Comput Mater Sci Eng"
+  },
+  {
+    "name": "International Journal of Computational Methods",
+    "issn": "0219-8762",
+    "eissn": "1793-6969",
+    "abbr": "Int J Comput Methods"
+  },
+  {
+    "name": "International Journal of Computer Assisted Radiology and Surgery",
+    "issn": "1861-6410",
+    "eissn": "1861-6429",
+    "abbr": "Int J Comput Assist Radiol Surg"
+  },
+  {
+    "name": "International Journal of Computer Integrated Manufacturing",
+    "issn": "0951-192X",
+    "eissn": "1362-3052",
+    "abbr": "Int J Comput Integr Manuf"
+  },
+  {
+    "name": "International Journal of Computerized Dentistry",
+    "issn": "1463-4201",
+    "eissn": "1463-4201",
+    "abbr": "Int J Comput Dent"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS",
+    "issn": "0020-7160",
+    "eissn": "1029-0265",
+    "abbr": "Int J Comput Math"
+  },
+  {
+    "name": "International Journal of Computers Communications & Control",
+    "issn": "1841-9836",
+    "eissn": "1841-9844",
+    "abbr": "Int J Comput Commun Control"
+  },
+  {
+    "name": "International Journal of Computer-Supported Collaborative Learning",
+    "issn": "1556-1607",
+    "eissn": "1556-1615",
+    "abbr": "Int J Comput Support Collab Learn"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COMPUTER VISION",
+    "issn": "0920-5691",
+    "eissn": "1573-1405",
+    "abbr": "Int J Comput Vis"
+  },
+  {
+    "name": "International Journal of Concrete Structures and Materials",
+    "issn": "1976-0485",
+    "eissn": "2234-1315",
+    "abbr": "Int J Concr Struct Mater"
+  },
+  {
+    "name": "International Journal of Conflict and Violence",
+    "issn": "1864-1385",
+    "eissn": "1864-1385",
+    "abbr": "Int J Conf Violence"
+  },
+  {
+    "name": "International Journal of Consumer Studies",
+    "issn": "1470-6423",
+    "eissn": "1470-6431",
+    "abbr": "Int J Consum Stud"
+  },
+  {
+    "name": "International Journal of Contemporary Hospitality Management",
+    "issn": "0959-6119",
+    "eissn": "1757-1049",
+    "abbr": "Int J Contemp Hosp Manag"
+  },
+  {
+    "name": "International Journal of Continuing Engineering Education and Life-Long Learning",
+    "issn": "1560-4624",
+    "eissn": "1741-5055",
+    "abbr": "Int J Contin Eng Educ Life Long Learn"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF CONTROL",
+    "issn": "0020-7179",
+    "eissn": "1366-5820",
+    "abbr": "Int J Control"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF CONTROL AUTOMATION AND SYSTEMS",
+    "issn": "1598-6446",
+    "eissn": "2005-4092",
+    "abbr": "Int J Control Autom Syst"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COOPERATIVE INFORMATION SYSTEMS",
+    "issn": "0218-8430",
+    "eissn": "1793-6365",
+    "abbr": "Int J Coop Inf Syst"
+  },
+  {
+    "name": "International Journal of Corpus Linguistics",
+    "issn": "1384-6655",
+    "eissn": "1569-9811",
+    "abbr": "Int J Corpus Linguist"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COSMETIC SCIENCE",
+    "issn": "0142-5463",
+    "eissn": "1468-2494",
+    "abbr": "Int J Cosmet Sci"
+  },
+  {
+    "name": "International Journal of Cultural Property",
+    "issn": "0940-7391",
+    "eissn": "1465-7317",
+    "abbr": "Int J Cult Prop"
+  },
+  {
+    "name": "International Journal of Cultural Studies",
+    "issn": "1367-8779",
+    "eissn": "1460-356X",
+    "abbr": "Int J Cult Stud"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF DAIRY TECHNOLOGY",
+    "issn": "1364-727X",
+    "eissn": "1471-0307",
+    "abbr": "Int J Dairy Technol"
+  },
+  {
+    "name": "International Journal of Data Mining and Bioinformatics",
+    "issn": "1748-5673",
+    "eissn": "1748-5681",
+    "abbr": "Int J Data Min Bioinform"
+  },
+  {
+    "name": "International Journal of Data Science and Analytics",
+    "issn": "2364-415X",
+    "eissn": "2364-4168",
+    "abbr": "Int J Data Sci Anal"
+  },
+  {
+    "name": "International Journal of Dental Hygiene",
+    "issn": "1601-5029",
+    "eissn": "1601-5037",
+    "abbr": "Int J Dent Hyg"
+  },
+  {
+    "name": "International Journal of Dentistry",
+    "issn": "1687-8728",
+    "eissn": "1687-8736",
+    "abbr": "Int J Dent"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF DERMATOLOGY",
+    "issn": "0011-9059",
+    "eissn": "1365-4632",
+    "abbr": "Int J Dermatol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF DEVELOPMENTAL BIOLOGY",
+    "issn": "0214-6282",
+    "eissn": "1696-3547",
+    "abbr": "Int J Dev Biol"
+  },
+  {
+    "name": "International Journal of Developmental Disabilities",
+    "issn": "2047-3869",
+    "eissn": "2047-3877",
+    "abbr": "Int J Dev Disabil"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF DEVELOPMENTAL NEUROSCIENCE",
+    "issn": "0736-5748",
+    "eissn": "1873-474X",
+    "abbr": "Int J Dev Neurosci"
+  },
+  {
+    "name": "International Journal of Diabetes in Developing Countries",
+    "issn": "0973-3930",
+    "eissn": "1998-3832",
+    "abbr": "Int J Diabetes Dev Ctries"
+  },
+  {
+    "name": "International Journal of Digital Earth",
+    "issn": "1753-8947",
+    "eissn": "1753-8955",
+    "abbr": "Int J Digit Earth"
+  },
+  {
+    "name": "International Journal of Disability Development and Education",
+    "issn": "1034-912X",
+    "eissn": "1465-346X",
+    "abbr": "Intl J Disabil Dev Educ"
+  },
+  {
+    "name": "International Journal of Disaster Resilience in the Built Environment",
+    "issn": "1759-5908",
+    "eissn": "1759-5916",
+    "abbr": "Int J Disaster Resil Built Environ"
+  },
+  {
+    "name": "International Journal of Disaster Risk Reduction",
+    "issn": "2212-4209",
+    "eissn": "2212-4209",
+    "abbr": "Int J Disaster Risk Reduct"
+  },
+  {
+    "name": "International Journal of Distributed Sensor Networks",
+    "issn": "1550-1329",
+    "eissn": "1550-1477",
+    "abbr": "Int J Distrib Sens Netw"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF DRUG POLICY",
+    "issn": "0955-3959",
+    "eissn": "1873-4758",
+    "abbr": "Int J Drug Policy"
+  },
+  {
+    "name": "International Journal of Dynamics and Control",
+    "issn": "2195-268X",
+    "eissn": "2195-2698",
+    "abbr": "Int J Dyn Control"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF EARLY CHILDHOOD",
+    "issn": "0020-7187",
+    "eissn": "1878-4658",
+    "abbr": "Int J Early Child"
+  },
+  {
+    "name": "International Journal of Early Years Education",
+    "issn": "0966-9760",
+    "eissn": "1469-8463",
+    "abbr": "Int J Early Years Educ"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF EARTH SCIENCES",
+    "issn": "1437-3254",
+    "eissn": "1437-3262",
+    "abbr": "Int J Earth Sci"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF EATING DISORDERS",
+    "issn": "0276-3478",
+    "eissn": "1098-108X",
+    "abbr": "Int J Eat Disord"
+  },
+  {
+    "name": "International Journal of Ecological Economics & Statistics",
+    "issn": "0973-1385",
+    "eissn": "0973-1385",
+    "abbr": "Int J Ecol Econ Stat"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF EDUCATIONAL DEVELOPMENT",
+    "issn": "0738-0593",
+    "eissn": "1873-4871",
+    "abbr": "Int J Educ Dev"
+  },
+  {
+    "name": "International Journal of Educational Research",
+    "issn": "0883-0355",
+    "eissn": "1873-538X",
+    "abbr": "Int J Educ Res"
+  },
+  {
+    "name": "International Journal of Educational Technology in Higher Education",
+    "issn": "2365-9440",
+    "eissn": "2365-9440",
+    "abbr": "Int J Educ Technol High Educ"
+  },
+  {
+    "name": "International Journal of Electrochemical Science",
+    "issn": "1452-3981",
+    "eissn": "1452-3981",
+    "abbr": "Int J Electrochem Sci"
+  },
+  {
+    "name": "International Journal of Electrochemistry",
+    "issn": "2090-3529",
+    "eissn": "2090-3537",
+    "abbr": "Int J Electrochem"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ELECTRONICS",
+    "issn": "0020-7217",
+    "eissn": "1362-3060",
+    "abbr": "Behav Inf Technol"
+  },
+  {
+    "name": "International Journal of Embedded Systems",
+    "issn": "1741-1068",
+    "eissn": "1741-1076",
+    "abbr": "Int J Embed Syst"
+  },
+  {
+    "name": "International Journal of Emergency Management",
+    "issn": "1471-4825",
+    "eissn": "1741-5071",
+    "abbr": "Int J Emerg Manag"
+  },
+  {
+    "name": "International Journal of Emergency Medicine",
+    "issn": "1865-1372",
+    "eissn": "1865-1380",
+    "abbr": "Int J Emerg Med"
+  },
+  {
+    "name": "International Journal of Emotional Education",
+    "issn": "2073-7629",
+    "eissn": "2073-7629",
+    "abbr": "Int J Emot Educ"
+  },
+  {
+    "name": "International Journal of Endocrinology",
+    "issn": "1687-8337",
+    "eissn": "1687-8345",
+    "abbr": "Int J Endocrinol"
+  },
+  {
+    "name": "International Journal of Endocrinology and Metabolism",
+    "issn": "1726-913X",
+    "eissn": "1726-9148",
+    "abbr": "Int J Endocrinol Metab"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ENERGY RESEARCH",
+    "issn": "0363-907X",
+    "eissn": "1099-114X",
+    "abbr": "Int J Energy Res"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ENGINEERING EDUCATION",
+    "issn": "0949-149X",
+    "eissn": "0949-149X",
+    "abbr": "Int J Eng Educ"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ENGINEERING SCIENCE",
+    "issn": "0020-7225",
+    "eissn": "1879-2197",
+    "abbr": "Int J Eng Sci"
+  },
+  {
+    "name": "International Journal of Engine Research",
+    "issn": "1468-0874",
+    "eissn": "2041-3149",
+    "abbr": "Int J Engine Res"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ENVIRONMENTAL ANALYTICAL CHEMISTRY",
+    "issn": "0306-7319",
+    "eissn": "1029-0397",
+    "abbr": "Int J Environ Anal Chem"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ENVIRONMENTAL HEALTH RESEARCH",
+    "issn": "0960-3123",
+    "eissn": "1369-1619",
+    "abbr": "Int J Environ Health Res"
+  },
+  {
+    "name": "International Journal of Environmental Research",
+    "issn": "1735-6865",
+    "eissn": "2008-2304",
+    "abbr": "Int J Environ Res"
+  },
+  {
+    "name": "International Journal of Environmental Science and Technology",
+    "issn": "1735-1472",
+    "eissn": "1735-2630",
+    "abbr": "Int J Environ Sci Technol (Tehran)"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF ENVIRONMENT AND POLLUTION",
+    "issn": "0957-4352",
+    "eissn": "1741-5101",
+    "abbr": "Int J Environ Pollut"
+  },
+  {
+    "name": "International Journal of Environment and Waste Management",
+    "issn": "1478-9876",
+    "eissn": "1478-9868",
+    "abbr": "Int J Environ Waste Manag"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF EPIDEMIOLOGY",
+    "issn": "0300-5771",
+    "eissn": "1464-3685",
+    "abbr": "Int J Epidemiol"
+  },
+  {
+    "name": "International Journal of Esthetic Dentistry",
+    "issn": "2198-591X",
+    "eissn": "2198-591X",
+    "abbr": "Int J Esthet Dent"
+  },
+  {
+    "name": "International Journal of Ethics Education",
+    "issn": "2363-9997",
+    "eissn": "2364-0006",
+    "abbr": "Int J Ethics Educ"
+  },
+  {
+    "name": "International Journal of Evidence & Proof",
+    "issn": "1365-7127",
+    "eissn": "1740-5572",
+    "abbr": "Int J Evid Proof"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF EXPERIMENTAL PATHOLOGY",
+    "issn": "0959-9673",
+    "eissn": "1365-2613",
+    "abbr": "Int J Exp Pathol"
+  },
+  {
+    "name": "International Journal of Extreme Manufacturing",
+    "issn": "2631-8644",
+    "eissn": "2631-7990",
+    "abbr": "Int J Extrem Manuf"
+  },
+  {
+    "name": "International Journal of Fashion Design Technology and Education",
+    "issn": "1754-3266",
+    "eissn": "1754-3274",
+    "abbr": "Int J Fash Des Technol Educ"
+  },
+  {
+    "name": "International Journal of Fatigue",
+    "issn": "0142-1123",
+    "eissn": "1879-3452",
+    "abbr": "Int J Fatigue"
+  },
+  {
+    "name": "International Journal of Feminist Approaches To Bioethics",
+    "issn": "1937-4585",
+    "eissn": "1937-4577",
+    "abbr": "Int J Fem Approaches Bioeth"
+  },
+  {
+    "name": "International Journal of Fertility & Sterility",
+    "issn": "2008-076X",
+    "eissn": "2008-0778",
+    "abbr": "Int J Fertil Steril"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF FOOD MICROBIOLOGY",
+    "issn": "0168-1605",
+    "eissn": "1879-3460",
+    "abbr": "Int J Food Microbiol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF FOOD PROPERTIES",
+    "issn": "1094-2912",
+    "eissn": "1532-2386",
+    "abbr": "Int J Food Prop"
+  },
+  {
+    "name": "International Journal of Food Science",
+    "issn": "2356-7015",
+    "eissn": "2314-5765",
+    "abbr": "Int J Food Sci"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF FOOD SCIENCE AND TECHNOLOGY",
+    "issn": "0950-5423",
+    "eissn": "1365-2621",
+    "abbr": "Int J Food Sci Technol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF FOOD SCIENCES AND NUTRITION",
+    "issn": "0963-7486",
+    "eissn": "1465-3478",
+    "abbr": "Int J Food Sci Nutr"
+  },
+  {
+    "name": "International Journal of Forecasting",
+    "issn": "0169-2070",
+    "eissn": "1872-8200",
+    "abbr": "Int J Forecast"
+  },
+  {
+    "name": "International Journal of Forensic Mental Health",
+    "issn": "1499-9013",
+    "eissn": "1932-9903",
+    "abbr": "Int J Forensic Ment Health"
+  },
+  {
+    "name": "International Journal of Forest Engineering",
+    "issn": "1494-2119",
+    "eissn": "1913-2220",
+    "abbr": "Int J For Eng"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF FRACTURE",
+    "issn": "0376-9429",
+    "eissn": "1573-2673",
+    "abbr": "Int J Fract"
+  },
+  {
+    "name": "International Journal of Fruit Science",
+    "issn": "1553-8362",
+    "eissn": "1553-8621",
+    "abbr": "Int J Fruit Sci"
+  },
+  {
+    "name": "International Journal of Game-Based Learning",
+    "issn": "2155-6849",
+    "eissn": "2155-6857",
+    "abbr": "Int J Game Based Learn"
+  },
+  {
+    "name": "International Journal of Game Theory",
+    "issn": "0020-7276",
+    "eissn": "1432-1270",
+    "abbr": "Int J Game Theory"
+  },
+  {
+    "name": "International Journal of Gaming and Computer-Mediated Simulations",
+    "issn": "1942-3888",
+    "eissn": "1942-3896",
+    "abbr": "Int J Gaming Comput Mediat Simul"
+  },
+  {
+    "name": "International Journal of Gastronomy and Food Science",
+    "issn": "1878-450X",
+    "eissn": "1878-4518",
+    "abbr": "Int J Gastron Food Sci"
+  },
+  {
+    "name": "International Journal of General Medicine",
+    "eissn": "1178-7074",
+    "abbr": "Int J Gen Med"
+  },
+  {
+    "name": "International Journal of General Systems",
+    "issn": "0308-1079",
+    "eissn": "1563-5104",
+    "abbr": "Int J Gen Syst"
+  },
+  {
+    "name": "International Journal of Genomics",
+    "issn": "2314-436X",
+    "eissn": "2314-4378",
+    "abbr": "Int J Genomics"
+  },
+  {
+    "name": "International Journal of Geo-Engineering",
+    "issn": "2092-9196",
+    "eissn": "2198-2783",
+    "abbr": "Int J Geoeng"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE",
+    "issn": "1365-8816",
+    "eissn": "1362-3087",
+    "abbr": "Int J Geogr Inf Sci"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF GERIATRIC PSYCHIATRY",
+    "issn": "0885-6230",
+    "eissn": "1099-1166",
+    "abbr": "Int J Geriatr Psychiatry"
+  },
+  {
+    "name": "International Journal of Gerontology",
+    "issn": "1873-9598",
+    "eissn": "1873-958X",
+    "abbr": "Int J Gerontol"
+  },
+  {
+    "name": "International Journal of Green Energy",
+    "issn": "1543-5075",
+    "eissn": "1543-5083",
+    "abbr": "Int J Green Energy"
+  },
+  {
+    "name": "International Journal of Grid and Utility Computing",
+    "issn": "1741-847X",
+    "eissn": "1741-8488",
+    "abbr": "Int J Grid Util Comput"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF GROUP PSYCHOTHERAPY",
+    "issn": "0020-7284",
+    "eissn": "1943-2836",
+    "abbr": "Int J Group Psychother"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF GYNECOLOGICAL CANCER",
+    "issn": "1048-891X",
+    "eissn": "1525-1438",
+    "abbr": "Int J Gynecol Cancer"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF GYNECOLOGICAL PATHOLOGY",
+    "issn": "0277-1691",
+    "eissn": "1538-7151",
+    "abbr": "Int J Gynecol Pathol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF GYNECOLOGY & OBSTETRICS",
+    "issn": "0020-7292",
+    "eissn": "1879-3479",
+    "abbr": "Suppl Int J Gynecol Obstet"
+  },
+  {
+    "name": "International Journal of Healthcare Information Systems and Informatics",
+    "issn": "1555-3396",
+    "eissn": "1555-340X",
+    "abbr": "Int J Healthc Inf Syst Inform"
+  },
+  {
+    "name": "International Journal of Healthcare Management",
+    "issn": "2047-9700",
+    "eissn": "2047-9719",
+    "abbr": "Int J Healthc Manag"
+  },
+  {
+    "name": "International Journal of Health Care Quality Assurance",
+    "issn": "0952-6862",
+    "eissn": "1758-6542",
+    "abbr": "Int J Health Care Qual Assur"
+  },
+  {
+    "name": "International Journal of Health Economics and Management",
+    "issn": "2199-9023",
+    "eissn": "2199-9031",
+    "abbr": "Int J Health Econ Manag"
+  },
+  {
+    "name": "International Journal of Health Geographics",
+    "issn": "1476-072X",
+    "eissn": "1476-072X",
+    "abbr": "Int J Health Geogr"
+  },
+  {
+    "name": "International Journal of Health Governance",
+    "issn": "2059-4631",
+    "eissn": "2059-4631",
+    "abbr": "Int J Health Gov"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HEALTH PLANNING AND MANAGEMENT",
+    "issn": "0749-6753",
+    "eissn": "1099-1751",
+    "abbr": "Int J Health Plann Manage"
+  },
+  {
+    "name": "International Journal of Health Policy and Management",
+    "eissn": "2322-5939",
+    "abbr": "Int J Health Policy Manag"
+  },
+  {
+    "name": "International Journal of Health Promotion and Education",
+    "issn": "1463-5240",
+    "eissn": "2164-9545",
+    "abbr": "Int J Health Promot Educ"
+  },
+  {
+    "name": "International Journal of Health Sciences-IJHS",
+    "issn": "1658-3639",
+    "eissn": "1658-7774",
+    "abbr": "Int J Health Sci (Qassim)"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HEALTH SERVICES",
+    "issn": "0020-7314",
+    "eissn": "1541-4469",
+    "abbr": "Int J Health Serv"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HEAT AND FLUID FLOW",
+    "issn": "0142-727X",
+    "eissn": "1879-2278",
+    "abbr": "Int J Heat Fluid Flow"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER",
+    "issn": "0017-9310",
+    "eissn": "1879-2189",
+    "abbr": "Int J Heat Mass Transf"
+  },
+  {
+    "name": "International Journal of Heavy Vehicle Systems",
+    "issn": "1744-232X",
+    "eissn": "1741-5152",
+    "abbr": "Int J Heavy Veh Syst"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HEMATOLOGY",
+    "issn": "0925-5710",
+    "eissn": "1865-3774",
+    "abbr": "Int J Hematol"
+  },
+  {
+    "name": "International Journal of Hepatology",
+    "issn": "2090-3448",
+    "eissn": "2090-3456",
+    "abbr": "Int J Hepatol"
+  },
+  {
+    "name": "International Journal of Heritage Studies",
+    "issn": "1352-7258",
+    "eissn": "1470-3610",
+    "abbr": "Int J Herit Stud"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HIGH PERFORMANCE COMPUTING APPLICATIONS",
+    "issn": "1094-3420",
+    "eissn": "1741-2846",
+    "abbr": "Int J High Perform Comput Appl"
+  },
+  {
+    "name": "International Journal of Historical Archaeology",
+    "issn": "1092-7697",
+    "eissn": "1573-7748",
+    "abbr": "Int J Hist Archaeol"
+  },
+  {
+    "name": "International Journal of Hospitality Management",
+    "issn": "0278-4319",
+    "eissn": "1873-4693",
+    "abbr": "Int J Hosp Manag"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION",
+    "issn": "1044-7318",
+    "eissn": "1532-7590",
+    "abbr": "Int J Hum Comput Interact"
+  },
+  {
+    "name": "International Journal of Human Computer Studies",
+    "issn": "1071-5819",
+    "eissn": "1095-9300",
+    "abbr": "Int J Hum Comput Stud"
+  },
+  {
+    "name": "International Journal of Human Factors and Ergonomics",
+    "issn": "2045-7804",
+    "eissn": "2045-7812",
+    "abbr": "Int J Hum Factors Ergon"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HUMAN GENETICS",
+    "issn": "0972-3757",
+    "eissn": "2456-6330",
+    "abbr": "Int J Hum Genet"
+  },
+  {
+    "name": "International Journal of Humanoid Robotics",
+    "issn": "0219-8436",
+    "eissn": "1793-6942",
+    "abbr": "Int J HR"
+  },
+  {
+    "name": "International Journal of Human Resource Management",
+    "issn": "0958-5192",
+    "eissn": "1466-4399",
+    "abbr": "Int J Hum Resourc Manag"
+  },
+  {
+    "name": "International Journal of Human Rights in Health Care",
+    "issn": "2056-4902",
+    "eissn": "2056-4902",
+    "abbr": "Int J Hum Rights Healthc"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HYDROGEN ENERGY",
+    "issn": "0360-3199",
+    "eissn": "1879-3487",
+    "abbr": "Int J Hydrogen Energy"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HYGIENE AND ENVIRONMENTAL HEALTH",
+    "issn": "1438-4639",
+    "eissn": "1618-131X",
+    "abbr": "Int J Hyg Environ Health"
+  },
+  {
+    "name": "International Journal of Hypertension",
+    "issn": "2090-0384",
+    "eissn": "2090-0392",
+    "abbr": "Int J Hypertens"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF HYPERTHERMIA",
+    "issn": "0265-6736",
+    "eissn": "1464-5157",
+    "abbr": "Int J Hyperthermia"
+  },
+  {
+    "name": "International Journal of Image and Data Fusion",
+    "issn": "1947-9832",
+    "eissn": "1947-9824",
+    "abbr": "Int J Image Data Fusion"
+  },
+  {
+    "name": "International Journal of Image and Graphics",
+    "issn": "0219-4678",
+    "eissn": "1793-6756",
+    "abbr": "Int J Image Graph"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF IMAGING SYSTEMS AND TECHNOLOGY",
+    "issn": "0899-9457",
+    "eissn": "1098-1098",
+    "abbr": "Int J Imaging Syst Technol"
+  },
+  {
+    "name": "International Journal of Immunogenetics",
+    "issn": "1744-3121",
+    "eissn": "1744-313X",
+    "abbr": "Int J Immunogenet"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF IMMUNOPATHOLOGY AND PHARMACOLOGY",
+    "issn": "0394-6320",
+    "eissn": "2058-7384",
+    "abbr": "Int J Immunopathol Pharmacol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF IMPACT ENGINEERING",
+    "issn": "0734-743X",
+    "eissn": "1879-3509",
+    "abbr": "Int J Impact Eng"
+  },
+  {
+    "name": "International Journal of Implant Dentistry",
+    "eissn": "2198-4034",
+    "abbr": "Int J Implant Dent"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF IMPOTENCE RESEARCH",
+    "issn": "0955-9930",
+    "eissn": "1476-5489",
+    "abbr": "Int J Impot Res"
+  },
+  {
+    "name": "International Journal of Inclusive Education",
+    "issn": "1360-3116",
+    "eissn": "1464-5173",
+    "abbr": "Int J Incl Educ"
+  },
+  {
+    "name": "International Journal of Indigenous Health",
+    "issn": "2291-9368",
+    "eissn": "2291-9376",
+    "abbr": "Int J Indig Health"
+  },
+  {
+    "name": "International Journal of Industrial Ergonomics",
+    "issn": "0169-8141",
+    "eissn": "1872-8219",
+    "abbr": "Int J Ind Ergon"
+  },
+  {
+    "name": "International Journal of Industrial Organization",
+    "issn": "0167-7187",
+    "eissn": "1873-7986",
+    "abbr": "Int J Ind Organ"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF INFECTIOUS DISEASES",
+    "issn": "1201-9712",
+    "eissn": "1878-3511",
+    "abbr": "Int J Infect Dis"
+  },
+  {
+    "name": "International Journal of Inflammation",
+    "issn": "2090-8040",
+    "eissn": "2042-0099",
+    "abbr": "Int J Inflam"
+  },
+  {
+    "name": "International Journal of Information and Communication Technology Education",
+    "issn": "1550-1876",
+    "eissn": "1550-1337",
+    "abbr": "Int J Inf Commun Technol Educ"
+  },
+  {
+    "name": "International Journal of Information Management",
+    "issn": "0268-4012",
+    "eissn": "1873-4707",
+    "abbr": "Int J Inf Manage"
+  },
+  {
+    "name": "International Journal of Information Security",
+    "issn": "1615-5262",
+    "eissn": "1615-5270",
+    "abbr": "Int J Inf Secur"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY & DECISION MAKING",
+    "issn": "0219-6220",
+    "eissn": "1793-6845",
+    "abbr": "Int J Inf Technol Decis Mak"
+  },
+  {
+    "name": "International Journal of Injury Control and Safety Promotion",
+    "issn": "1745-7300",
+    "eissn": "1745-7319",
+    "abbr": "Int J Inj Contr Saf Promot"
+  },
+  {
+    "name": "International Journal of Integrated Care",
+    "issn": "1568-4156",
+    "eissn": "1568-4156",
+    "abbr": "Int J Integr Care"
+  },
+  {
+    "name": "International Journal of Intelligent Robotics and Applications",
+    "issn": "2366-5971",
+    "eissn": "2366-598X",
+    "abbr": "Int J Intell Robot Appl"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS",
+    "issn": "0884-8173",
+    "eissn": "1098-111X",
+    "abbr": "Int J Intell Syst"
+  },
+  {
+    "name": "International Journal of Interactive Design and Manufacturing - IJIDeM",
+    "issn": "1955-2513",
+    "eissn": "1955-2505",
+    "abbr": "Int J Interact Des Manuf"
+  },
+  {
+    "name": "International Journal of Intercultural Relations",
+    "issn": "0147-1767",
+    "eissn": "1873-7552",
+    "abbr": "Int J Intercult Relat"
+  },
+  {
+    "name": "International Journal of Interdisciplinary Telecommunications and Networking",
+    "issn": "1941-8663",
+    "eissn": "1941-8671",
+    "abbr": "Int J Interdiscip Telecommun Netw"
+  },
+  {
+    "name": "International Journal of Knowledge Management",
+    "issn": "1548-0666",
+    "eissn": "1548-0658",
+    "abbr": "Int J Knowl Manag"
+  },
+  {
+    "name": "International Journal of Laboratory Hematology",
+    "issn": "1751-5521",
+    "eissn": "1751-553X",
+    "abbr": "Int J Lab Hematol"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF LANGUAGE & COMMUNICATION DISORDERS",
+    "issn": "1368-2822",
+    "eissn": "1460-6984",
+    "abbr": "Int J Lang Commun Disord"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF LAW AND PSYCHIATRY",
+    "issn": "0160-2527",
+    "eissn": "1873-6386",
+    "abbr": "Int J Law Psychiatry"
+  },
+  {
+    "name": "International Journal of Law Crime and Justice",
+    "issn": "1756-0616",
+    "eissn": "1876-763X",
+    "abbr": "Int J Law Crime Justice"
+  },
+  {
+    "name": "International Journal of Law in Context",
+    "issn": "1744-5523",
+    "eissn": "1744-5531",
+    "abbr": "Int J Law Context"
+  },
+  {
+    "name": "International Journal of Law Policy and the Family",
+    "issn": "1360-9939",
+    "eissn": "1464-3707",
+    "abbr": "Int J Law Policy Family"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF LEGAL MEDICINE",
+    "issn": "0937-9827",
+    "eissn": "1437-1596",
+    "abbr": "Int J Legal Med"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF LGBTQ+ YOUTH STUDIES",
+    "issn": "2996-8992",
+    "eissn": "2996-900X",
+    "abbr": "Int J LGBTQ+ Youth Stud"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF LIFE CYCLE ASSESSMENT",
+    "issn": "0948-3349",
+    "eissn": "1614-7502",
+    "abbr": "Int J Life Cycle Assess"
+  },
+  {
+    "name": "International Journal of Lower Extremity Wounds",
+    "issn": "1534-7346",
+    "eissn": "1552-6941",
+    "abbr": "Int J Low Extrem Wounds"
+  },
+  {
+    "name": "International Journal of Machine Learning and Cybernetics",
+    "issn": "1868-8071",
+    "eissn": "1868-808X",
+    "abbr": "Int J Mach Learn Cybern"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF MACHINE TOOLS & MANUFACTURE",
+    "issn": "0890-6955",
+    "eissn": "1879-2170",
+    "abbr": "Int J Mach Tools Manuf"
+  },
+  {
+    "name": "International Journal of Manpower",
+    "issn": "0143-7720",
+    "eissn": "1758-6577",
+    "abbr": "Int J Manpow"
+  },
+  {
+    "name": "International Journal of Maritime History",
+    "issn": "0843-8714",
+    "eissn": "2052-7756",
+    "abbr": "Int J Marit Hist"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF MASS SPECTROMETRY",
+    "issn": "1387-3806",
+    "eissn": "1873-2798",
+    "abbr": "Int J Mass Spectrom"
+  },
+  {
+    "name": "International Journal of Material Forming",
+    "issn": "1960-6206",
+    "eissn": "1960-6214",
+    "abbr": "Int J Mater Form"
+  },
+  {
+    "name": "International Journal of Mathematical Education in Science and Technology",
+    "issn": "0020-739X",
+    "eissn": "1464-5211",
+    "abbr": "Int J Math Educ Sci Technol"
+  },
+  {
+    "name": "International Journal of Mathematics and Computer Science",
+    "issn": "1814-0424",
+    "eissn": "1814-0432",
+    "abbr": "Int J Math Comput Sci"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF MATHEMATICS AND MATHEMATICAL SCIENCES",
+    "issn": "0161-1712",
+    "eissn": "1687-0425",
+    "abbr": "Int J Math Math Sci"
+  },
+  {
+    "name": "International Journal of Mechanical Engineering Education",
+    "issn": "0306-4190",
+    "eissn": "2050-4586",
+    "abbr": "Int J Mech Eng Educ"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES",
+    "issn": "0020-7403",
+    "eissn": "1879-2162",
+    "abbr": "Int J Mech Sci"
+  },
+  {
+    "name": "International Journal of Mechanics and Materials in Design",
+    "issn": "1569-1713",
+    "eissn": "1573-8841",
+    "abbr": "Int J Mech Mater Des"
+  },
+  {
+    "name": "International Journal of Medical Education",
+    "issn": "2042-6372",
+    "eissn": "2042-6372",
+    "abbr": "Int J Med Educ"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS",
+    "issn": "1386-5056",
+    "eissn": "1872-8243",
+    "abbr": "Int J Med Inform"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF MEDICAL MICROBIOLOGY",
+    "issn": "1438-4221",
+    "eissn": "1618-0607",
+    "abbr": "Int J Med Microbiol"
+  },
+  {
+    "name": "International Journal of Medical Robotics and Computer Assisted Surgery",
+    "issn": "1478-5951",
+    "eissn": "1478-596X",
+    "abbr": "Int J Med Robot"
+  },
+  {
+    "name": "International Journal of Medical Sciences",
+    "issn": "1449-1907",
+    "eissn": "1449-1907",
+    "abbr": "Int J Med Sci"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF MEDICINAL MUSHROOMS",
+    "issn": "1521-9437",
+    "eissn": "1940-4344",
+    "abbr": "Int J Med Mushrooms"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF MENTAL HEALTH",
+    "issn": "0020-7411",
+    "eissn": "1557-9328",
+    "abbr": "Int J Ment Health"
+  },
+  {
+    "name": "International Journal of Mental Health and Addiction",
+    "issn": "1557-1874",
+    "eissn": "1557-1882",
+    "abbr": "Int J Ment Health Addict"
+  },
+  {
+    "name": "International Journal of Mental Health Nursing",
+    "issn": "1445-8330",
+    "eissn": "1447-0349",
+    "abbr": "Int J Ment Health Nurs"
+  },
+  {
+    "name": "International Journal of Mental Health Promotion",
+    "issn": "1462-3730",
+    "eissn": "2049-8543",
+    "abbr": "Int J Ment Health Promot"
+  },
+  {
+    "name": "International Journal of Mental Health Systems",
+    "issn": "1752-4458",
+    "eissn": "1752-4458",
+    "abbr": "Int J Ment Health Syst"
+  },
+  {
+    "name": "International Journal of Metalcasting",
+    "issn": "1939-5981",
+    "eissn": "2163-3193",
+    "abbr": "Int J Metalcast"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF METHODS IN PSYCHIATRIC RESEARCH",
+    "issn": "1049-8931",
+    "eissn": "1557-0657",
+    "abbr": "Int J Methods Psychiatr Res"
+  },
+  {
+    "name": "International Journal of Microbiology",
+    "issn": "1687-918X",
+    "eissn": "1687-9198",
+    "abbr": "Int J Microbiol"
   }
 ]
