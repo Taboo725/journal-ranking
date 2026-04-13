@@ -52,6 +52,10 @@ BANK_MAP = {
 
 PREFIX = "SCHX_"  # 5字符前缀（loader 会 slice(5) 跳过）
 
+# 与 src/data/journal-loader.ts 中的 DATA_VERSION 保持一致；
+# 修改此值时须同步修改 journal-loader.ts 中的 DATA_VERSION，以触发扩展重新拉取远端数据。
+BUILD_VERSION = "jt_260413"
+
 
 def encode(obj) -> str:
     """将 Python 对象序列化为 JSON，Base64 编码，加前缀"""
@@ -136,6 +140,8 @@ def build_info(j: dict) -> dict:
         info["R"] = int(j["sufe_soe"])
     if j.get("fdu_som") is not None:
         info["T"] = int(j["fdu_som"])
+    if j.get("njubs_sa") is not None:
+        info["U"] = int(j["njubs_sa"])
     return info
 
 
@@ -166,6 +172,7 @@ def main():
     jdata: dict = {}   # 期刊名 key → ISSN key（或直接 info）
     jssn:  dict = {}   # ISSN key → JournalInfo
     jabb:  dict = {}   # 缩写/ISSN → ISSN key（或直接 info）
+    jdisp: dict = {}   # 主 ISSN key → 期刊展示名（用于 source: 检索式构建）
 
     skipped = 0
 
@@ -200,10 +207,22 @@ def main():
         if abbr_k and abbr_k != name_k:
             jabb[abbr_k] = target
 
+        # jdisp：ISSN → 期刊展示名（用于 source: 检索式构建）
+        # 优先用 print ISSN 作为主键（与 jssn 迭代时取到的主条目一致）；
+        # 若仅有 eISSN（纯电子刊），则用 eISSN 作为主键。
+        # 每个期刊只写一次，避免 GET_JOURNALS_BY_INDEX 重复计数。
+        if name:
+            if issn_k:
+                jdisp[issn_k] = name
+            elif eissn_k:
+                jdisp[eissn_k] = name
+
     output = {
+        "version": BUILD_VERSION,
         "jdata": encode(jdata),
         "jssn":  encode(jssn),
         "jabb":  encode(jabb),
+        "jdisp": encode(jdisp),
     }
 
     with open(output_file, "w", encoding="utf-8") as f:
@@ -213,7 +232,7 @@ def main():
     bundle_file = os.path.join(script_dir, "..", "src", "data", "journal-db.json")
     bundle_file = os.path.normpath(bundle_file)
     with open(bundle_file, "w", encoding="utf-8") as f:
-        json.dump({"jdata": jdata, "jssn": jssn, "jabb": jabb}, f,
+        json.dump({"jdata": jdata, "jssn": jssn, "jabb": jabb, "jdisp": jdisp}, f,
                   ensure_ascii=False, separators=(",", ":"))
 
     print(f"\n✓ 已生成 {output_file}")

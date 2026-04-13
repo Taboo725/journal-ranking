@@ -93,6 +93,32 @@ def _parse_njubs_en_value(raw: object) -> int | None:
     return value if value in (1, 2, 3) else None
 
 
+# NJUBS-EN Subject Area → integer code（与 src/shared/types.ts 中 NJUBS_SA_LABELS 保持同步）
+NJUBS_SA_MAP: dict[str, int] = {
+    "Accounting":                                    1,
+    "Business":                                      2,
+    "Economics":                                     3,
+    "Entrep":                                        4,
+    "F&A":                                           5,
+    "Finance":                                       6,
+    "Gen & Strat":                                   7,
+    "IB":                                            8,
+    "Innovation":                                    9,
+    "MIS, KM":                                      10,
+    "Management":                                   11,
+    "Marketing":                                    12,
+    "OR,MS,POM":                                    13,
+    "OS/OB,HRM/IR":                                14,
+    "PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH": 15,
+    "Statistics":                                   16,
+    "Tourism":                                      17,
+}
+
+
+def _parse_njubs_sa(raw: object) -> int | None:
+    return NJUBS_SA_MAP.get(str(raw or "").strip())
+
+
 def _parse_swufe_value(raw: object) -> int | None:
     mapping = {"A+(TOP)": 1, "A+": 2, "A": 3, "A1": 4, "A2": 5}
     return mapping.get(str(raw or "").strip())
@@ -125,6 +151,9 @@ class _IndexSpec:
         "stat_key",
         "name_transform",
         "value_transform",
+        "extra_col",
+        "extra_field",
+        "extra_value_transform",
     )
 
     def __init__(
@@ -139,6 +168,9 @@ class _IndexSpec:
         stat_key: str | None = None,
         name_transform: "Callable[[str], str] | None" = None,  # noqa: F821
         value_transform: "Callable[[object], object | None] | None" = None,  # noqa: F821
+        extra_col: int | None = None,
+        extra_field: str | None = None,
+        extra_value_transform: "Callable[[object], object | None] | None" = None,  # noqa: F821
     ) -> None:
         self.label = label
         self.pattern = pattern
@@ -150,6 +182,9 @@ class _IndexSpec:
         self.stat_key = stat_key or (label.lower().replace(" ", "_") + "_rows")
         self.name_transform = name_transform
         self.value_transform = value_transform
+        self.extra_col = extra_col
+        self.extra_field = extra_field
+        self.extra_value_transform = extra_value_transform
 
 
 SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
@@ -165,7 +200,8 @@ SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
     _IndexSpec("CSSCI扩", "CSSCI扩展版_*.xlsx", 1, "cssci", static_value=2),
     # 高校期刊目录
     _IndexSpec("NJUBS中", "NJUBS_CN_*.xlsx",  0, "njubs_cn", value_col=1, value_transform=_parse_njubs_cn_value),
-    _IndexSpec("NJUBS英", "NJUBS_EN_*.xlsx",  3, "njubs_en", issn_col=2, value_col=4, value_transform=_parse_njubs_en_value),
+    _IndexSpec("NJUBS英", "NJUBS_EN_*.xlsx",  3, "njubs_en", issn_col=2, value_col=4, value_transform=_parse_njubs_en_value,
+               extra_col=1, extra_field="njubs_sa", extra_value_transform=_parse_njubs_sa),
     # 高校专业期刊目录
     _IndexSpec("SWUFE",   "SWUFE_*.xlsx",     3, "swufe",    issn_col=4, value_col=5, value_transform=_parse_swufe_value),
     _IndexSpec("SUFE SOE","SUFE SOE_*.xlsx",  2, "sufe_soe", value_col=3, value_transform=_parse_sufe_soe_value),
@@ -188,6 +224,7 @@ OPTIONAL_FIELDS = (
     "cssci",
     "njubs_cn",
     "njubs_en",
+    "njubs_sa",
     "cnki_if",
     "cnki_ifs",
     "swufe",
@@ -390,19 +427,19 @@ def create_catalog() -> dict:
 
 
 def record_ids_for(catalog: dict, name: str = "", issn: str | None = None, eissn: str | None = None) -> set[int]:
-    issn_ids: set[int] = set()
+    """查找匹配指定 ISSN / eISSN / 刊名的所有记录 ID。
+    ISSN 与刊名均参与查找（不提前返回），避免"ISSN 匹配到记录 A、
+    刊名匹配到记录 B"时遗漏合并（如 SWUFE 存 MIT Sloan Management Review、
+    FT50 存 Sloan Management Review 各自独立创建记录的情形）。"""
+    ids: set[int] = set()
     for key in (issn, eissn):
         if key and key in catalog["issn_index"]:
             record_id = catalog["issn_index"][key]
             if record_id in catalog["records"]:
-                issn_ids.add(record_id)
+                ids.add(record_id)
             else:
                 del catalog["issn_index"][key]
 
-    if issn_ids:
-        return issn_ids
-
-    ids: set[int] = set()
     title_key = normalize_name(name)
     if title_key and title_key in catalog["title_index"]:
         record_id = catalog["title_index"][title_key]
@@ -444,7 +481,8 @@ def merge_record_pair(base: dict, incoming: dict) -> dict:
         bool(incoming.get("top")),
     )
 
-    for field in ("ei", "cscd", "pku", "sos", "utd24", "ft50", "abs", "cssci", "swufe", "sufe_soe", "fdu_som"):
+    for field in ("ei", "cscd", "pku", "sos", "utd24", "ft50", "abs", "cssci", "njubs_cn", "njubs_en", "njubs_sa",
+                  "swufe", "sufe_soe", "fdu_som"):
         if field in incoming:
             base[field] = incoming[field]
 
@@ -584,6 +622,14 @@ def apply_simple_index(catalog: dict, source_dir: Path, spec: _IndexSpec) -> int
             record[spec.field] = min(existing, value)
         else:
             record[spec.field] = value
+        # 附加字段（如 njubs_sa）
+        if spec.extra_col is not None and spec.extra_field:
+            raw_extra = row[spec.extra_col] if len(row) > spec.extra_col else None
+            extra_val: object = raw_extra
+            if spec.extra_value_transform:
+                extra_val = spec.extra_value_transform(raw_extra)
+            if extra_val is not None:
+                record[spec.extra_field] = extra_val
         count += 1
 
     return count
