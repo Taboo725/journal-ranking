@@ -210,12 +210,17 @@ def main():
         # jdisp：ISSN → 期刊展示名（用于 source: 检索式构建）
         # 优先用 print ISSN 作为主键（与 jssn 迭代时取到的主条目一致）；
         # 若仅有 eISSN（纯电子刊），则用 eISSN 作为主键。
+        # 无 ISSN/eISSN 时用合成键 "n:<name_k>"，确保 GET_JOURNALS_BY_INDEX 能找到。
         # 每个期刊只写一次，避免 GET_JOURNALS_BY_INDEX 重复计数。
         if name:
             if issn_k:
                 jdisp[issn_k] = name
             elif eissn_k:
                 jdisp[eissn_k] = name
+            elif name_k:
+                synthetic_k = "n:" + name_k
+                jssn[synthetic_k] = info
+                jdisp[synthetic_k] = name
 
     output = {
         "version": BUILD_VERSION,
