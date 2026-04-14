@@ -421,6 +421,7 @@ def create_catalog() -> dict:
             "wos_rows": 0,
             "jcr_rows": 0,
             "cas_rows": 0,
+            "abbr_rows": 0,
             "overrides": 0,
         },
     }
@@ -760,7 +761,7 @@ def load_overrides(path: Path) -> list[dict]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def apply_overrides(catalog: dict, overrides: list[dict]) -> None:
+def apply_overrides(catalog: dict, overrides: list[dict], stat_key: str = "overrides") -> None:
     for item in overrides:
         name = str(item.get("name") or "").strip()
         issn = normalize_issn(item.get("issn"))
@@ -778,7 +779,7 @@ def apply_overrides(catalog: dict, overrides: list[dict]) -> None:
                     record[field] = item[field]
 
         register_aliases(catalog, record_id, record)
-        catalog["stats"]["overrides"] += 1
+        catalog["stats"][stat_key] += 1
 
 
 def bank_value_from_set(values: set[str]) -> str | None:
@@ -811,7 +812,7 @@ def finalize_record(record: dict) -> dict:
     return item
 
 
-def build_catalog(source_dir: Path, overrides: list[dict]) -> tuple[list[dict], dict]:
+def build_catalog(source_dir: Path, abbr_data: list[dict], overrides: list[dict]) -> tuple[list[dict], dict]:
     catalog = create_catalog()
     apply_wos_sources(catalog, source_dir)
     apply_jcr_source(catalog, source_dir)
@@ -820,6 +821,7 @@ def build_catalog(source_dir: Path, overrides: list[dict]) -> tuple[list[dict], 
     catalog["stats"]["ei_rows"] = apply_ei_source(catalog, source_dir)
     for spec in SIMPLE_INDEX_SOURCES:
         catalog["stats"][spec.stat_key] = apply_simple_index(catalog, source_dir, spec)
+    apply_overrides(catalog, abbr_data, stat_key="abbr_rows")
     apply_overrides(catalog, overrides)
     apply_derived_university_indexes(catalog)
 
@@ -845,9 +847,9 @@ def sync_journals(data_dir: Path | None = None, source_dir: Path | None = None, 
     source_dir = source_dir or script_dir / "journal"
 
     journals_path = data_dir / "journals.json"
-    overrides_path = data_dir / "manual-overrides.json"
-    overrides = load_overrides(overrides_path)
-    journals, stats = build_catalog(source_dir, overrides)
+    abbr_data = load_overrides(data_dir / "abbr-data.json")
+    overrides = load_overrides(data_dir / "manual-overrides.json")
+    journals, stats = build_catalog(source_dir, abbr_data, overrides)
 
     if not dry_run:
         journals_path.write_text(json.dumps(journals, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -865,6 +867,7 @@ def sync_journals(data_dir: Path | None = None, source_dir: Path | None = None, 
         count = stats.get(spec.stat_key, 0)
         if count:
             print(f"  {spec.label:8s}: {count} 条")
+    print(f"  缩写数据: {stats['abbr_rows']}")
     print(f"  手工覆盖: {stats['overrides']}")
     if stats["unsupported_banks"]:
         print(f"  未支持的 WoS 组合: {stats['unsupported_banks']} 条（已忽略 bank 字段）")

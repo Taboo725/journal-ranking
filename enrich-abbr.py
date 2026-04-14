@@ -35,10 +35,10 @@ import urllib.request
 from pathlib import Path
 
 # ── 路径 ────────────────────────────────────────────────────────────────────
-SCRIPT_DIR    = Path(__file__).resolve().parent
-JOURNALS_PATH = SCRIPT_DIR / "journals.json"
-OVERRIDES_PATH= SCRIPT_DIR / "manual-overrides.json"
-CACHE_PATH    = SCRIPT_DIR / ".enrich-abbr-cache.json"
+SCRIPT_DIR     = Path(__file__).resolve().parent
+JOURNALS_PATH  = SCRIPT_DIR / "journals.json"
+ABBR_DATA_PATH = SCRIPT_DIR / "abbr-data.json"
+CACHE_PATH     = SCRIPT_DIR / ".enrich-abbr-cache.json"
 
 # ── 参数 ────────────────────────────────────────────────────────────────────
 MAILTO        = "scholarx-bot@example.com"
@@ -193,14 +193,14 @@ def main() -> None:
     cache: dict[str, str | None] = (
         json.loads(CACHE_PATH.read_text(encoding="utf-8")) if CACHE_PATH.exists() else {}
     )
-    overrides = (
-        json.loads(OVERRIDES_PATH.read_text(encoding="utf-8")) if OVERRIDES_PATH.exists() else []
+    abbr_entries: list[dict] = (
+        json.loads(ABBR_DATA_PATH.read_text(encoding="utf-8")) if ABBR_DATA_PATH.exists() else []
     )
 
-    # override 索引
+    # abbr-data 索引（用于更新已有条目而非重复追加）
     issn_to_idx: dict[str, int] = {}
     name_to_idx: dict[str, int] = {}
-    for i, o in enumerate(overrides):
+    for i, o in enumerate(abbr_entries):
         for f in ("issn", "eissn"):
             v = normalize_issn(o.get(f))
             if v:
@@ -209,7 +209,7 @@ def main() -> None:
         if nk:
             name_to_idx[nk] = i
 
-    # 已有缩写的 ISSN 集合
+    # 已有缩写的 ISSN 集合（journals.json 已包含 abbr-data 应用后的结果）
     existing_abbr: set[str] = set()
     for j in journals:
         if j.get("abbr"):
@@ -217,7 +217,8 @@ def main() -> None:
                 v = normalize_issn(j.get(f))
                 if v:
                     existing_abbr.add(v)
-    for o in overrides:
+    # 还需检查 abbr-data.json 中已有但尚未 sync 的条目
+    for o in abbr_entries:
         if o.get("abbr"):
             for f in ("issn", "eissn"):
                 v = normalize_issn(o.get(f))
@@ -312,18 +313,18 @@ def main() -> None:
 
         # 中途保存
         if not args.dry_run and len(new_entries) >= SAVE_INTERVAL:
-            _apply_and_save(overrides, new_entries[:SAVE_INTERVAL], issn_to_idx, name_to_idx)
+            _apply_and_save(abbr_entries, new_entries[:SAVE_INTERVAL], issn_to_idx, name_to_idx)
             new_entries = new_entries[SAVE_INTERVAL:]
-            print(f"  → 中途保存，overrides 共 {len(overrides)} 条", flush=True)
+            print(f"  → 中途保存，abbr-data 共 {len(abbr_entries)} 条", flush=True)
 
     # ── 最终写入 ──────────────────────────────────────────────────────────────
     print("─" * 60)
     print(f"完成  找到: {found}  |  未找到: {failed}  |  总命中: {cached_found + found}")
 
     if not args.dry_run and (new_entries or found > 0):
-        _apply_and_save(overrides, new_entries, issn_to_idx, name_to_idx)
-        _write_overrides(overrides)
-        print(f"✓ manual-overrides.json 已更新（共 {len(overrides)} 条）")
+        _apply_and_save(abbr_entries, new_entries, issn_to_idx, name_to_idx)
+        _write_abbr_data(abbr_entries)
+        print(f"✓ abbr-data.json 已更新（共 {len(abbr_entries)} 条）")
 
         print("\n正在重新构建期刊数据库 ...")
         subprocess.run(
@@ -333,21 +334,21 @@ def main() -> None:
 
 
 def _apply_and_save(
-    overrides: list[dict],
+    abbr_entries: list[dict],
     batch: list[tuple[int | None, dict]],
     issn_to_idx: dict[str, int],
     name_to_idx: dict[str, int],
 ) -> None:
     for ov_idx, entry in batch:
         if ov_idx is not None:
-            existing = overrides[ov_idx]
+            existing = abbr_entries[ov_idx]
             for k, v in entry.items():
                 if v and not existing.get(k):
                     existing[k] = v
         else:
             new_entry = {k: v for k, v in entry.items() if v}
-            overrides.append(new_entry)
-            new_idx = len(overrides) - 1
+            abbr_entries.append(new_entry)
+            new_idx = len(abbr_entries) - 1
             for f in ("issn", "eissn"):
                 v = normalize_issn(new_entry.get(f))
                 if v:
@@ -355,12 +356,12 @@ def _apply_and_save(
             nk = normalize_name(new_entry.get("name", ""))
             if nk:
                 name_to_idx[nk] = new_idx
-    _write_overrides(overrides)
+    _write_abbr_data(abbr_entries)
 
 
-def _write_overrides(overrides: list[dict]) -> None:
-    OVERRIDES_PATH.write_text(
-        json.dumps(overrides, ensure_ascii=False, indent=2) + "\n",
+def _write_abbr_data(abbr_entries: list[dict]) -> None:
+    ABBR_DATA_PATH.write_text(
+        json.dumps(abbr_entries, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
 
