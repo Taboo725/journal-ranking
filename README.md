@@ -269,3 +269,25 @@ def build_info(j: dict) -> dict:
 | `cnki_if` | number | CNKI 综合影响因子（仅期刊引用） | CNKI.xlsx |
 | `cnki_ifs` | number | CNKI 复合影响因子（含学位论文等） | CNKI.xlsx |
 | `sos` | object | 预警期刊信息 | 手工 |
+
+---
+
+
+## Privacy Policy
+
+ScholarX does not collect, store, or transmit any personally identifiable information.
+
+- **Page content access**: The extension reads the current page URL and DOM content solely to detect journal identifiers (DOI, PMID, ISSN, journal name) and inject bibliometric badges. No browsing history or page content is sent to any server.
+- **Third-party API calls**: To retrieve journal metadata, the extension may send journal identifiers (DOI, ISSN, journal name) to the following third-party services:
+  - [CrossRef](https://www.crossref.org/) — DOI metadata lookup
+  - [OpenAlex](https://openalex.org/) — open bibliographic data
+  - [Unpaywall](https://unpaywall.org/) — open-access status lookup
+  - [NCBI E-utilities](https://www.ncbi.nlm.nih.gov/home/develop/api/) — PubMed article metadata
+  - [Semantic Scholar](https://www.semanticscholar.org/) — citation data
+
+  No user identity, account information, or personal data is included in these requests.
+- **Journal database updates**: The extension periodically fetches updated journal ranking data from GitHub (`raw.githubusercontent.com`) and Gitee (`gitee.com`). Only a versioned JSON file is downloaded; no user data is uploaded.
+- **Local storage only**: All user preferences and cached journal data are stored locally on the user's device via `chrome.storage.local`. Nothing is synced to external servers by the extension itself.
+- **No analytics**: The extension does not use any analytics, tracking, or telemetry services.
+
+For questions, contact: qitengwang@foxmail.com

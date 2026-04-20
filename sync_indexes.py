@@ -119,6 +119,68 @@ def _parse_njubs_sa(raw: object) -> int | None:
     return NJUBS_SA_MAP.get(str(raw or "").strip())
 
 
+# SWUFE WoS subject category → sa group code（与 src/shared/types.ts 中 SWUFE_SA_LABELS 同步）
+# 中文学科名（含非 ASCII 字符）不在此映射中，_parse_swufe_sa 返回 None → 中文期刊不入库
+SWUFE_SA_MAP: dict[str, int] = {
+    # 1 Economics
+    "ECONOMICS": 1,
+    # 2 Finance
+    "BUSINESS, FINANCE": 2,
+    # 3 Management & Business
+    "MANAGEMENT": 3,
+    "BUSINESS": 3,
+    # 4 Operations Research
+    "OPERATIONS RESEARCH & MANAGEMENT SCIENCE": 4,
+    "INDUSTRIAL ENGINEERING": 4,
+    "COMPUTER SCIENCE; INDUSTRIAL ENGINEERING": 4,
+    # 5 Statistics & Math
+    "STATISTICS & PROBABILITY": 5,
+    "MATHEMATICS": 5,
+    "SOCIAL SCIENCES MATHEMATICAL METHODS": 5,
+    # 6 MIS & CS
+    "MIS": 6,
+    "COMPUTER SCIENCE": 6,
+    "COMPUTER SCIENCE, INFORMATION SYSTEMS": 6,
+    "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS": 6,
+    "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE": 6,
+    "COMPUTER SCIENCE, THEORY & METHODS": 6,
+}
+
+
+def _parse_swufe_sa(raw: object) -> int | None:
+    s = str(raw or "").strip()
+    if not s:
+        return None
+    mapped = SWUFE_SA_MAP.get(s)
+    if mapped is not None:
+        return mapped
+    # 含非 ASCII 字符 → 中文学科，返回 None（中文期刊不进入 GS 检索列表）
+    if any(ord(c) > 127 for c in s):
+        return None
+    # 其余英文学科 → 7 (Other)
+    return 7
+
+
+# FDU SOM 分组 → sa code（与 src/shared/types.ts 中 FDU_SOM_SA_LABELS 同步）
+FDU_SOM_SA_MAP: dict[str, int] = {
+    "Finance": 1,
+    "Accounting": 2,
+    "Operations Research & Operations Management etc.": 3,
+    "Industrial Economics": 4,
+    "Strategy & IB & Entrepreneurship": 5,
+    "OB & HRM": 6,
+    "Practice-oriented journals": 7,
+    "Statistics": 8,
+    "Information Systems": 9,
+    "Marketing": 10,
+    # "Grade A+" → None（跨学科，不存 sa，全部查询时仍会出现）
+}
+
+
+def _parse_fdu_som_sa(raw: object) -> int | None:
+    return FDU_SOM_SA_MAP.get(str(raw or "").strip())
+
+
 def _parse_swufe_value(raw: object) -> int | None:
     mapping = {"A+(TOP)": 1, "A+": 2, "A": 3, "A1": 4, "A2": 5}
     return mapping.get(str(raw or "").strip())
@@ -203,9 +265,11 @@ SIMPLE_INDEX_SOURCES: list[_IndexSpec] = [
     _IndexSpec("NJUBS英", "NJUBS_EN_*.xlsx",  3, "njubs_en", issn_col=2, value_col=4, value_transform=_parse_njubs_en_value,
                extra_col=1, extra_field="njubs_sa", extra_value_transform=_parse_njubs_sa),
     # 高校专业期刊目录
-    _IndexSpec("SWUFE",   "SWUFE_*.xlsx",     3, "swufe",    issn_col=4, value_col=5, value_transform=_parse_swufe_value),
+    _IndexSpec("SWUFE",   "SWUFE_*.xlsx",     3, "swufe",    issn_col=4, value_col=5, value_transform=_parse_swufe_value,
+               extra_col=2, extra_field="swufe_sa", extra_value_transform=_parse_swufe_sa),
     _IndexSpec("SUFE SOE","SUFE SOE_*.xlsx",  2, "sufe_soe", value_col=3, value_transform=_parse_sufe_soe_value),
-    _IndexSpec("FDU SOM", "FDU SOM_*.xlsx",   1, "fdu_som",  value_col=2, value_transform=_parse_fdu_som_value),
+    _IndexSpec("FDU SOM", "FDU SOM_*.xlsx",   1, "fdu_som",  value_col=2, value_transform=_parse_fdu_som_value,
+               extra_col=0, extra_field="fdu_som_sa", extra_value_transform=_parse_fdu_som_sa),
     _IndexSpec("CSCD",    "CSCD_*.xlsx",       1, "cscd",     issn_col=2, value_col=3, value_transform=_parse_cscd_value),
 ]
 OPTIONAL_FIELDS = (
@@ -228,8 +292,10 @@ OPTIONAL_FIELDS = (
     "cnki_if",
     "cnki_ifs",
     "swufe",
+    "swufe_sa",
     "sufe_soe",
     "fdu_som",
+    "fdu_som_sa",
 )
 
 
@@ -483,7 +549,7 @@ def merge_record_pair(base: dict, incoming: dict) -> dict:
     )
 
     for field in ("ei", "cscd", "pku", "sos", "utd24", "ft50", "abs", "cssci", "njubs_cn", "njubs_en", "njubs_sa",
-                  "swufe", "sufe_soe", "fdu_som"):
+                  "swufe", "swufe_sa", "sufe_soe", "fdu_som", "fdu_som_sa"):
         if field in incoming:
             base[field] = incoming[field]
 

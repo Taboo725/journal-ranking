@@ -54,7 +54,7 @@ PREFIX = "SCHX_"  # 5字符前缀（loader 会 slice(5) 跳过）
 
 # 与 src/data/journal-loader.ts 中的 DATA_VERSION 保持一致；
 # 修改此值时须同步修改 journal-loader.ts 中的 DATA_VERSION，以触发扩展重新拉取远端数据。
-BUILD_VERSION = "jt_260413"
+BUILD_VERSION = "jt_260420"
 
 
 def encode(obj) -> str:
@@ -142,6 +142,10 @@ def build_info(j: dict) -> dict:
         info["T"] = int(j["fdu_som"])
     if j.get("njubs_sa") is not None:
         info["U"] = int(j["njubs_sa"])
+    if j.get("swufe_sa") is not None:
+        info["V"] = int(j["swufe_sa"])
+    if j.get("fdu_som_sa") is not None:
+        info["W"] = int(j["fdu_som_sa"])
     return info
 
 
